@@ -8192,9 +8192,7 @@
     - Afeganistão
     - Emirado Islâmico do Afeganistão
   id: AF
-  alpha_2: AF
-  alpha_3: AFG
-  group: as
+  group: ASIA
   numeric_code: '004'
   capital: AF-KABUL
 - name:
@@ -8213,9 +8211,7 @@
     - Aland
     - Alanda
   id: AX
-  alpha_2: AX
-  alpha_3: ALA
-  group: eu
+  group: EUROPE
   numeric_code: '248'
   capital: AX-MARIEHAMN
 - name:
@@ -8235,9 +8231,7 @@
     - Albânia
     - República da Albânia
   id: AL
-  alpha_2: AL
-  alpha_3: ALB
-  group: eu
+  group: EUROPE
   numeric_code: '008'
   capital: AL-TIRANA
 - name:
@@ -8257,9 +8251,7 @@
     - Argélia
     - República Argelina Democrática e Popular
   id: DZ
-  alpha_2: DZ
-  alpha_3: DZA
-  group: af
+  group: AFRICA
   numeric_code: '012'
   capital: DZ-ALGIERS
 - name:
@@ -8274,8 +8266,6 @@
     pt-PT:
     - Samoa Americana
   id: AS
-  alpha_2: AS
-  alpha_3: ASM
   group: oc
   numeric_code: '016'
   capital: AS-PAGO-PAGO
@@ -8293,9 +8283,7 @@
     - Principado de Andorra
     - Principado dos Vales de Andorra
   id: AD
-  alpha_2: AD
-  alpha_3: AND
-  group: eu
+  group: EUROPE
   numeric_code: '020'
   capital: AD-ANDORRA-LA-VELLA
 - name:
@@ -8311,9 +8299,7 @@
     - Angola
     - República de Angola
   id: AO
-  alpha_2: AO
-  alpha_3: AGO
-  group: af
+  group: AFRICA
   numeric_code: '024'
   capital: AO-LUANDA
 - name:
@@ -8328,8 +8314,6 @@
     pt-PT:
     - Anguila
   id: AI
-  alpha_2: AI
-  alpha_3: AIA
   group: na
   numeric_code: '660'
   capital: AI-THE-VALLEY
@@ -8346,9 +8330,7 @@
     - Antártida
     - Antártica
   id: AQ
-  alpha_2: AQ
-  alpha_3: ATA
-  group: an
+  group: ANTARTICA
   numeric_code: '010'
   capital: AQ-MCMURDO-STATION
 - name:
@@ -8363,9 +8345,7 @@
     pt-PT:
     - Antígua e Barbuda
   id: AG
-  alpha_2: AG
-  alpha_3: ATG
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '028'
   capital: AG-SAINT-JOHN-S
 - name:
@@ -8381,9 +8361,7 @@
     - República Argentina
     - Argentina
   id: AR
-  alpha_2: AR
-  alpha_3: ARG
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '032'
   capital: AR-BUENOS-AIRES
 - name:
@@ -8399,9 +8377,7 @@
     - República da Arménia
     - Armênia
   id: AM
-  alpha_2: AM
-  alpha_3: ARM
-  group: as
+  group: ASIA
   numeric_code: '051'
   capital: AM-YEREVAN
 - name:
@@ -8416,9 +8392,7 @@
     pt-PT:
     - Aruba
   id: AW
-  alpha_2: AW
-  alpha_3: ABW
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '533'
   capital: AW-ORANJESTAD
 - name:
@@ -8434,8 +8408,6 @@
     - Comunidade da Austrália
     - Austrália
   id: AU
-  alpha_2: AU
-  alpha_3: AUS
   group: oc
   numeric_code: '036'
   capital: AU-CANBERRA
@@ -8452,9 +8424,7 @@
     - República da Áustria
     - Áustria
   id: AT
-  alpha_2: AT
-  alpha_3: AUT
-  group: eu
+  group: EUROPE
   numeric_code: '040'
   capital: AT-VIENNA
 - name:
@@ -8470,9 +8440,7 @@
     - República do Azerbaijão
     - Azerbaijão
   id: AZ
-  alpha_2: AZ
-  alpha_3: AZE
-  group: as
+  group: ASIA
   numeric_code: '031'
   capital: AZ-BAKU
 - name:
@@ -8489,9 +8457,7 @@
     - Bahamas
     - Baamas
   id: BS
-  alpha_2: BS
-  alpha_3: BHS
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '044'
   capital: BS-NASSAU
 - name:
@@ -8510,9 +8476,7 @@
     - Barein
     - Bareine
   id: BH
-  alpha_2: BH
-  alpha_3: BHR
-  group: as
+  group: ASIA
   numeric_code: '048'
   capital: BH-MANAMA
 - name:
@@ -8529,9 +8493,7 @@
     - Bangladexe
     - Bangladesh
   id: BD
-  alpha_2: BD
-  alpha_3: BGD
-  group: as
+  group: ASIA
   numeric_code: '050'
   capital: BD-DHAKA
 - name:
@@ -8546,9 +8508,7 @@
     pt-PT:
     - Barbados
   id: BB
-  alpha_2: BB
-  alpha_3: BRB
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '052'
   capital: BB-BRIDGETOWN
 - name:
@@ -8568,9 +8528,7 @@
     - Bielorrússia
     - Belarus
   id: BY
-  alpha_2: BY
-  alpha_3: BLR
-  group: eu
+  group: EUROPE
   numeric_code: '112'
   capital: BY-MINSK
 - name:
@@ -8586,9 +8544,7 @@
     - Reino da Bélgica
     - Bélgica
   id: BE
-  alpha_2: BE
-  alpha_3: BEL
-  group: eu
+  group: EUROPE
   numeric_code: '056'
   capital: BE-BRUSSELS
 - name:
@@ -8603,9 +8559,7 @@
     pt-PT:
     - Belize
   id: BZ
-  alpha_2: BZ
-  alpha_3: BLZ
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '084'
   capital: BZ-BELMOPAN
 - name:
@@ -8621,9 +8575,7 @@
     - Benim
     - República do Benim
   id: BJ
-  alpha_2: BJ
-  alpha_3: BEN
-  group: af
+  group: AFRICA
   numeric_code: '204'
   capital: BJ-PORTO-NOVO
 - name:
@@ -8638,9 +8590,7 @@
     pt-PT:
     - Bermudas
   id: BM
-  alpha_2: BM
-  alpha_3: BMU
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '060'
   capital: BM-HAMILTON
 - name:
@@ -8656,9 +8606,7 @@
     - Reino do Butão
     - Butão
   id: BT
-  alpha_2: BT
-  alpha_3: BTN
-  group: as
+  group: ASIA
   numeric_code: '064'
   capital: BT-THIMPHU
 - name:
@@ -8675,9 +8623,7 @@
     - Bolívia
     - Estado Plurinacional da Bolívia
   id: BO
-  alpha_2: BO
-  alpha_3: BOL
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '068'
   capital: BO-SUCRE
 - name:
@@ -8700,9 +8646,7 @@
     - Bonaire, Santo Eustáquio e Saba
     - Países Baixos Caribenhos
   id: BQ
-  alpha_2: BQ
-  alpha_3: BES
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '535'
   capital: BQ-KRALENDIJK
 - name:
@@ -8717,9 +8661,7 @@
     pt-PT:
     - Bósnia e Herzegovina
   id: BA
-  alpha_2: BA
-  alpha_3: BIH
-  group: eu
+  group: EUROPE
   numeric_code: '070'
   capital: BA-SARAJEVO
 - name:
@@ -8737,9 +8679,7 @@
     - Botsuana
     - Botswana
   id: BW
-  alpha_2: BW
-  alpha_3: BWA
-  group: af
+  group: AFRICA
   numeric_code: '072'
   capital: BW-GABORONE
 - name:
@@ -8757,9 +8697,7 @@
     pt-PT:
     - Ilha Bouvet
   id: BV
-  alpha_2: BV
-  alpha_3: BVT
-  group: an
+  group: ANTARTICA
   numeric_code: '074'
   capital: BV-BOUVET
 - name:
@@ -8775,9 +8713,7 @@
     - Brasil
     - República Federativa do Brasil
   id: BR
-  alpha_2: BR
-  alpha_3: BRA
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '076'
   capital: BR-BRASILIA
 - name:
@@ -8792,9 +8728,7 @@
     pt-PT:
     - Território Britânico do Oceano Índico
   id: IO
-  alpha_2: IO
-  alpha_3: IOT
-  group: as
+  group: ASIA
   numeric_code: '086'
   capital: IO-CAMP-THUNDER-COVE
 - name:
@@ -8816,9 +8750,7 @@
     - Estado de Brunei Darussalam
     - Darussalã
   id: BN
-  alpha_2: BN
-  alpha_3: BRN
-  group: as
+  group: ASIA
   numeric_code: '096'
   capital: BN-BANDAR-SERI-BEGAWAN
 - name:
@@ -8834,9 +8766,7 @@
     - Bulgária
     - República da Bulgária
   id: BG
-  alpha_2: BG
-  alpha_3: BGR
-  group: eu
+  group: EUROPE
   numeric_code: '100'
   capital: BG-SOFIA
 - name:
@@ -8852,9 +8782,7 @@
     - Burquina Fasso
     - Burquina Faso
   id: BF
-  alpha_2: BF
-  alpha_3: BFA
-  group: af
+  group: AFRICA
   numeric_code: '854'
   capital: BF-OUAGADOUGOU
 - name:
@@ -8870,9 +8798,7 @@
     - Burundi
     - República do Burúndi
   id: BI
-  alpha_2: BI
-  alpha_3: BDI
-  group: af
+  group: AFRICA
   numeric_code: '108'
   capital: BI-GITEGA
 - name:
@@ -8890,9 +8816,7 @@
     - Cabo Verde
     - República de Cabo Verde
   id: CV
-  alpha_2: CV
-  alpha_3: CPV
-  group: af
+  group: AFRICA
   numeric_code: '132'
   capital: CV-PRAIA
 - name:
@@ -8909,9 +8833,7 @@
     - Camboja
     - Cambodja
   id: KH
-  alpha_2: KH
-  alpha_3: KHM
-  group: as
+  group: ASIA
   numeric_code: '116'
   capital: KH-PHNOM-PENH
 - name:
@@ -8927,9 +8849,7 @@
     - República dos Camarões
     - Camarões
   id: CM
-  alpha_2: CM
-  alpha_3: CMR
-  group: af
+  group: AFRICA
   numeric_code: '120'
   capital: CM-YAOUNDE
 - name:
@@ -8944,9 +8864,7 @@
     pt-PT:
     - Canadá
   id: CA
-  alpha_2: CA
-  alpha_3: CAN
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '124'
   capital: CA-OTTAWA
 - name:
@@ -8964,9 +8882,7 @@
     - Ilhas Caimão
     - Ilhas Cayman
   id: KY
-  alpha_2: KY
-  alpha_3: CYM
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '136'
   capital: KY-GEORGE-TOWN
 - name:
@@ -8982,9 +8898,7 @@
     - República Centro-Africana
     - República da África-Central e Centráfrica
   id: CF
-  alpha_2: CF
-  alpha_3: CAF
-  group: af
+  group: AFRICA
   numeric_code: '140'
   capital: CF-BANGUI
 - name:
@@ -8999,9 +8913,7 @@
     pt-PT:
     - Chade
   id: TD
-  alpha_2: TD
-  alpha_3: TCD
-  group: af
+  group: AFRICA
   numeric_code: '148'
   capital: TD-N'DJAMENA
 - name:
@@ -9017,9 +8929,7 @@
     - República do Chile
     - Chile
   id: CL
-  alpha_2: CL
-  alpha_3: CHL
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '152'
   capital: CL-SANTIAGO
 - name:
@@ -9037,9 +8947,7 @@
     - China
     - República Popular da China
   id: CN
-  alpha_2: CN
-  alpha_3: CHN
-  group: as
+  group: ASIA
   numeric_code: '156'
   capital: CN-BEIJING
 - name:
@@ -9057,9 +8965,7 @@
     - Território da Ilha do Natal
     - Ilha do Nata
   id: CX
-  alpha_2: CX
-  alpha_3: CXR
-  group: as
+  group: ASIA
   numeric_code: '162'
   capital: CX-FLYING-FISH-COVE
 - name:
@@ -9081,9 +8987,7 @@
     - Ilhas dos Cocos
     - Ilhas Keeling
   id: CC
-  alpha_2: CC
-  alpha_3: CCK
-  group: as
+  group: ASIA
   numeric_code: '166'
   capital: CC-WEST-ISLAND
 - name:
@@ -9099,9 +9003,7 @@
     - República da Colômbia
     - Colômbia
   id: CO
-  alpha_2: CO
-  alpha_3: COL
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '170'
   capital: CO-BOGOTA
 - name:
@@ -9117,9 +9019,7 @@
     - União das Comores
     - Comores
   id: KM
-  alpha_2: KM
-  alpha_3: COM
-  group: af
+  group: AFRICA
   numeric_code: '174'
   capital: KM-MORONI
 - name:
@@ -9139,9 +9039,7 @@
     - Congo-Brazavile
     - Congo-Brazzaville
   id: CG
-  alpha_2: CG
-  alpha_3: COG
-  group: af
+  group: AFRICA
   numeric_code: '178'
   capital: CG-BRAZZAVILLE
 - name:
@@ -9165,9 +9063,7 @@
     - Congo-Quinxassa
     - Congo-Kinshasa
   id: CD
-  alpha_2: CD
-  alpha_3: COD
-  group: af
+  group: AFRICA
   numeric_code: '180'
   capital: CD-KINSHASA
 - name:
@@ -9182,8 +9078,6 @@
     pt-PT:
     - Ilhas Cook
   id: CK
-  alpha_2: CK
-  alpha_3: COK
   group: oc
   numeric_code: '184'
   capital: CK-AVARUA
@@ -9200,9 +9094,7 @@
     - República da Costa Rica
     - Costa Rica
   id: CR
-  alpha_2: CR
-  alpha_3: CRI
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '188'
   capital: CR-SAN-JOSE
 - name:
@@ -9218,9 +9110,7 @@
     - República da Costa do Marfim
     - Costa do Marfim
   id: CI
-  alpha_2: CI
-  alpha_3: CIV
-  group: af
+  group: AFRICA
   numeric_code: '384'
   capital: CI-YAMOUSSOUKRO
 - name:
@@ -9238,9 +9128,7 @@
     - República da Croácia
     - Croácia
   id: HR
-  alpha_2: HR
-  alpha_3: HRV
-  group: eu
+  group: EUROPE
   numeric_code: '191'
   capital: HR-ZAGREB
 - name:
@@ -9259,9 +9147,7 @@
     - República de Cuba
     - Cuba
   id: CU
-  alpha_2: CU
-  alpha_3: CUB
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '192'
   capital: CU-HAVANA
 - name:
@@ -9276,9 +9162,7 @@
     pt-PT:
     - Curaçau
   id: CW
-  alpha_2: CW
-  alpha_3: CUW
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '531'
   capital: CW-WILLEMSTAD
 - name:
@@ -9294,9 +9178,7 @@
     - República de Chipre
     - Chipre
   id: CY
-  alpha_2: CY
-  alpha_3: CYP
-  group: as
+  group: ASIA
   numeric_code: '196'
   capital: CY-NICOSIA
 - name:
@@ -9316,9 +9198,7 @@
     - Chéquia
     - Tchéquia
   id: CZ
-  alpha_2: CZ
-  alpha_3: CZE
-  group: eu
+  group: EUROPE
   numeric_code: '203'
   capital: CZ-PRAGUE
 - name:
@@ -9334,9 +9214,7 @@
     - Reino da Dinamarca
     - Dinamarca
   id: DK
-  alpha_2: DK
-  alpha_3: DNK
-  group: eu
+  group: EUROPE
   numeric_code: '208'
   capital: DK-COPENHAGEN
 - name:
@@ -9353,9 +9231,7 @@
     - Djibuti
     - Jibuti
   id: DJ
-  alpha_2: DJ
-  alpha_3: DJI
-  group: af
+  group: AFRICA
   numeric_code: '262'
   capital: DJ-DJIBOUTI
 - name:
@@ -9371,9 +9247,7 @@
     - Comunidade da Dominica
     - Dominica
   id: DM
-  alpha_2: DM
-  alpha_3: DMA
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '212'
   capital: DM-ROSEAU
 - name:
@@ -9388,9 +9262,7 @@
     pt-PT:
     - República Dominicana
   id: DO
-  alpha_2: DO
-  alpha_3: DOM
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '214'
   capital: DO-SANTO-DOMINGO
 - name:
@@ -9406,9 +9278,7 @@
     - República do Equador
     - Equador
   id: EC
-  alpha_2: EC
-  alpha_3: ECU
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '218'
   capital: EC-QUITO
 - name:
@@ -9424,9 +9294,7 @@
     - Egito
     - República Árabe do Egito
   id: EG
-  alpha_2: EG
-  alpha_3: EGY
-  group: af
+  group: AFRICA
   numeric_code: '818'
   capital: EG-CAIRO
 - name:
@@ -9445,9 +9313,7 @@
     - República do Salvador
     - Salvador
   id: SV
-  alpha_2: SV
-  alpha_3: SLV
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '222'
   capital: SV-SAN-SALVADOR
 - name:
@@ -9463,9 +9329,7 @@
     - República da Guiné Equatorial
     - Guiné Equatorial
   id: GQ
-  alpha_2: GQ
-  alpha_3: GNQ
-  group: af
+  group: AFRICA
   numeric_code: '226'
   capital: GQ-MALABO
 - name:
@@ -9481,9 +9345,7 @@
     - Estado da Eritreia
     - Eritreia
   id: ER
-  alpha_2: ER
-  alpha_3: ERI
-  group: af
+  group: AFRICA
   numeric_code: '232'
   capital: ER-ASMARA
 - name:
@@ -9499,9 +9361,7 @@
     - República da Estónia
     - Estónia
   id: EE
-  alpha_2: EE
-  alpha_3: EST
-  group: eu
+  group: EUROPE
   numeric_code: '233'
   capital: EE-TALLINN
 - name:
@@ -9525,9 +9385,7 @@
     - Essuatíni
     - Reino de Essuatíni
   id: SZ
-  alpha_2: SZ
-  alpha_3: SWZ
-  group: af
+  group: AFRICA
   numeric_code: '748'
   capital: SZ-MBABANE
 - name:
@@ -9543,9 +9401,7 @@
     - República Democrática Federal da Etiópia
     - Etiópia
   id: ET
-  alpha_2: ET
-  alpha_3: ETH
-  group: af
+  group: AFRICA
   numeric_code: '231'
   capital: ET-ADDIS-ABABA
 - name:
@@ -9565,9 +9421,7 @@
     - Ilhas Falkland
     - Falklands
   id: FK
-  alpha_2: FK
-  alpha_3: FLK
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '238'
   capital: FK-STANLEY
 - name:
@@ -9583,9 +9437,7 @@
     - Ilhas Feroé
     - Ilhas Féroe
   id: FO
-  alpha_2: FO
-  alpha_3: FRO
-  group: eu
+  group: EUROPE
   numeric_code: '234'
   capital: FO-TORSHAVN
 - name:
@@ -9601,8 +9453,6 @@
     - República das Fíji
     - Fiji
   id: FJ
-  alpha_2: FJ
-  alpha_3: FJI
   group: oc
   numeric_code: '242'
   capital: FJ-SUVA
@@ -9620,9 +9470,7 @@
     - República da Finlândia
     - Finlândia
   id: FI
-  alpha_2: FI
-  alpha_3: FIN
-  group: eu
+  group: EUROPE
   numeric_code: '246'
   capital: FI-HELSINKI
 - name:
@@ -9638,9 +9486,7 @@
     - República Francesa
     - França
   id: FR
-  alpha_2: FR
-  alpha_3: FRA
-  group: eu
+  group: EUROPE
   numeric_code: '250'
   capital: FR-PARIS
 - name:
@@ -9655,9 +9501,7 @@
     pt-PT:
     - Guiana Francesa
   id: GF
-  alpha_2: GF
-  alpha_3: GUF
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '254'
   capital: GF-CAYENNE
 - name:
@@ -9672,8 +9516,6 @@
     pt-PT:
     - Polinésia Francesa
   id: PF
-  alpha_2: PF
-  alpha_3: PYF
   group: oc
   numeric_code: '258'
   capital: PF-PAPEETE
@@ -9691,9 +9533,7 @@
     - Território das Terras Austrais e Antárcticas Francesas
     - Terras Austrais e Antárticas Francesas
   id: TF
-  alpha_2: TF
-  alpha_3: ATF
-  group: an
+  group: ANTARTICA
   numeric_code: '260'
   capital: TF-PORT-AUX-FRANCAIS
 - name:
@@ -9709,9 +9549,7 @@
     - República Gabonesa
     - Gabão
   id: GA
-  alpha_2: GA
-  alpha_3: GAB
-  group: af
+  group: AFRICA
   numeric_code: '266'
   capital: GA-LIBREVILLE
 - name:
@@ -9727,9 +9565,7 @@
     - República da Gâmbia
     - Gâmbia
   id: GM
-  alpha_2: GM
-  alpha_3: GMB
-  group: af
+  group: AFRICA
   numeric_code: '270'
   capital: GM-BANJUL
 - name:
@@ -9744,9 +9580,7 @@
     pt-PT:
     - Geórgia
   id: GE
-  alpha_2: GE
-  alpha_3: GEO
-  group: as
+  group: ASIA
   numeric_code: '268'
   capital: GE-TBILISI
 - name:
@@ -9762,9 +9596,7 @@
     - República Federal da Alemanha
     - Alemanha
   id: DE
-  alpha_2: DE
-  alpha_3: DEU
-  group: eu
+  group: EUROPE
   numeric_code: '276'
   capital: DE-BERLIN
 - name:
@@ -9780,9 +9612,7 @@
     - Gana
     - República do Gana
   id: GH
-  alpha_2: GH
-  alpha_3: GHA
-  group: af
+  group: AFRICA
   numeric_code: '288'
   capital: GH-ACCRA
 - name:
@@ -9797,9 +9627,7 @@
     pt-PT:
     - Gibraltar
   id: GI
-  alpha_2: GI
-  alpha_3: GIB
-  group: eu
+  group: EUROPE
   numeric_code: '292'
   capital: GI-GIBRALTAR
 - name:
@@ -9815,9 +9643,7 @@
     - República Helênica
     - Grécia
   id: GR
-  alpha_2: GR
-  alpha_3: GRC
-  group: eu
+  group: EUROPE
   numeric_code: '300'
   capital: GR-ATHENS
 - name:
@@ -9834,9 +9660,7 @@
     - Gronelândia
     - Groelândia
   id: GL
-  alpha_2: GL
-  alpha_3: GRL
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '304'
   capital: GL-NUUK
 - name:
@@ -9851,9 +9675,7 @@
     pt-PT:
     - Granada
   id: GD
-  alpha_2: GD
-  alpha_3: GRD
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '308'
   capital: GD-ST-GEORGE-S
 - name:
@@ -9868,9 +9690,7 @@
     pt-PT:
     - Guadalupe
   id: GP
-  alpha_2: GP
-  alpha_3: GLP
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '312'
   capital: GP-BASSE-TERRE
 - name:
@@ -9887,8 +9707,6 @@
     - Guão
     - Guame
   id: GU
-  alpha_2: GU
-  alpha_3: GUM
   group: oc
   numeric_code: '316'
   capital: GU-HAGATNA
@@ -9905,9 +9723,7 @@
     - Guatemala
     - República da Guatemala
   id: GT
-  alpha_2: GT
-  alpha_3: GTM
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '320'
   capital: GT-GUATEMALA-CITY
 - name:
@@ -9927,9 +9743,7 @@
     - Bailiado de Guernesey
     - Guernesei
   id: GG
-  alpha_2: GG
-  alpha_3: GGY
-  group: eu
+  group: EUROPE
   numeric_code: '831'
   capital: GG-ST-PETER-PORT
 - name:
@@ -9945,9 +9759,7 @@
     - Guiné-Conacri
     - República da Guiné
   id: GN
-  alpha_2: GN
-  alpha_3: GIN
-  group: af
+  group: AFRICA
   numeric_code: '324'
   capital: GN-CONAKRY
 - name:
@@ -9963,9 +9775,7 @@
     - Guiné-Bissau
     - República da Guiné-Bissau
   id: GW
-  alpha_2: GW
-  alpha_3: GNB
-  group: af
+  group: AFRICA
   numeric_code: '624'
   capital: GW-BISSAU
 - name:
@@ -9982,9 +9792,7 @@
     - República Cooperativa da Guiana
     - Guiana
   id: GY
-  alpha_2: GY
-  alpha_3: GUY
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '328'
   capital: GY-GEORGETOWN
 - name:
@@ -10000,9 +9808,7 @@
     - Haiti
     - República do Haiti
   id: HT
-  alpha_2: HT
-  alpha_3: HTI
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '332'
   capital: HT-PORT-AU-PRINCE
 - name:
@@ -10018,9 +9824,7 @@
     - Ilha Heard e Ilhas McDonald
     - Território das Ilhas Heard e McDonald
   id: HM
-  alpha_2: HM
-  alpha_3: HMD
-  group: an
+  group: ANTARTICA
   numeric_code: '334'
   capital: HM-HEARD
 - name:
@@ -10038,9 +9842,7 @@
     - Estado da Cidade do Vaticano
     - Cidade do Vaticano
   id: VA
-  alpha_2: VA
-  alpha_3: VAT
-  group: eu
+  group: EUROPE
   numeric_code: '336'
   capital: VA-VATICAN-CITY
 - name:
@@ -10057,9 +9859,7 @@
     - República das Honduras
     - República de Honduras
   id: HN
-  alpha_2: HN
-  alpha_3: HND
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '340'
   capital: HN-TEGUCIGALPA
 - name:
@@ -10074,9 +9874,7 @@
     pt-PT:
     - Hong Kong
   id: HK
-  alpha_2: HK
-  alpha_3: HKG
-  group: as
+  group: ASIA
   numeric_code: '344'
   capital: HK-HONG-KONG
 - name:
@@ -10091,9 +9889,7 @@
     pt-PT:
     - Hungria
   id: HU
-  alpha_2: HU
-  alpha_3: HUN
-  group: eu
+  group: EUROPE
   numeric_code: '348'
   capital: HU-BUDAPEST
 - name:
@@ -10108,9 +9904,7 @@
     pt-PT:
     - Islândia
   id: IS
-  alpha_2: IS
-  alpha_3: ISL
-  group: eu
+  group: EUROPE
   numeric_code: '352'
   capital: IS-REYKJAVIK
 - name:
@@ -10126,9 +9920,7 @@
     - República da Índia
     - Índia
   id: IN
-  alpha_2: IN
-  alpha_3: IND
-  group: as
+  group: ASIA
   numeric_code: '356'
   capital: IN-NEW-DELHI
 - name:
@@ -10144,9 +9936,7 @@
     - República da Indonésia
     - Indonésia
   id: ID
-  alpha_2: ID
-  alpha_3: IDN
-  group: as
+  group: ASIA
   numeric_code: '360'
   capital: ID-JAKARTA
 - name:
@@ -10168,9 +9958,7 @@
     - República Islâmica do Irão
     - Irão
   id: IR
-  alpha_2: IR
-  alpha_3: IRN
-  group: as
+  group: ASIA
   numeric_code: '364'
   capital: IR-TEHRAN
 - name:
@@ -10188,9 +9976,7 @@
     - Iraque
     - República do Iraque
   id: IQ
-  alpha_2: IQ
-  alpha_3: IRQ
-  group: as
+  group: ASIA
   numeric_code: '368'
   capital: IQ-BAGHDAD
 - name:
@@ -10206,9 +9992,7 @@
     - Irlanda
     - República da Irlanda
   id: IE
-  alpha_2: IE
-  alpha_3: IRL
-  group: eu
+  group: EUROPE
   numeric_code: '372'
   capital: IE-DUBLIN
 - name:
@@ -10223,9 +10007,7 @@
     pt-PT:
     - Ilha de Man
   id: IM
-  alpha_2: IM
-  alpha_3: IMN
-  group: eu
+  group: EUROPE
   numeric_code: '833'
   capital: IM-DOUGLAS
 - name:
@@ -10241,9 +10023,7 @@
     - Israel
     - Estado de Israel
   id: IL
-  alpha_2: IL
-  alpha_3: ISR
-  group: as
+  group: ASIA
   numeric_code: '376'
   capital: IL-JERUSALEM
 - name:
@@ -10259,9 +10039,7 @@
     - República Italiana
     - Itália
   id: IT
-  alpha_2: IT
-  alpha_3: ITA
-  group: eu
+  group: EUROPE
   numeric_code: '380'
   capital: IT-ROME
 - name:
@@ -10276,9 +10054,7 @@
     pt-PT:
     - Jamaica
   id: JM
-  alpha_2: JM
-  alpha_3: JAM
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '388'
   capital: JM-KINGSTON
 - name:
@@ -10293,9 +10069,7 @@
     pt-PT:
     - Japão
   id: JP
-  alpha_2: JP
-  alpha_3: JPN
-  group: as
+  group: ASIA
   numeric_code: '392'
   capital: JP-TOKYO
 - name:
@@ -10311,9 +10085,7 @@
     - Bailiado de Jersey
     - Jersey
   id: JE
-  alpha_2: JE
-  alpha_3: JEY
-  group: eu
+  group: EUROPE
   numeric_code: '832'
   capital: JE-SAINT-HELIER
 - name:
@@ -10329,9 +10101,7 @@
     - Reino Haxemita da Jordânia
     - Jordânia
   id: JO
-  alpha_2: JO
-  alpha_3: JOR
-  group: as
+  group: ASIA
   numeric_code: '400'
   capital: JO-AMMAN
 - name:
@@ -10347,9 +10117,7 @@
     - República do Cazaquistão
     - Cazaquistão
   id: KZ
-  alpha_2: KZ
-  alpha_3: KAZ
-  group: as
+  group: ASIA
   numeric_code: '398'
   capital: KZ-NUR-SULTAN
 - name:
@@ -10365,9 +10133,7 @@
     - República do Quênia
     - Quênia
   id: KE
-  alpha_2: KE
-  alpha_3: KEN
-  group: af
+  group: AFRICA
   numeric_code: '404'
   capital: KE-NAIROBI
 - name:
@@ -10384,8 +10150,6 @@
     - Quiribáti
     - Kiribati
   id: KI
-  alpha_2: KI
-  alpha_3: KIR
   group: oc
   numeric_code: '296'
   capital: KI-SOUTH-TARAWA
@@ -10405,9 +10169,7 @@
     - República Popular Democrática da Coreia
     - Coreia do Norte
   id: KP
-  alpha_2: KP
-  alpha_3: PRK
-  group: as
+  group: ASIA
   numeric_code: '408'
   capital: KP-PYONGYANG
 - name:
@@ -10423,9 +10185,7 @@
     - República da Coreia
     - Coreia do Sul
   id: KR
-  alpha_2: KR
-  alpha_3: KOR
-  group: as
+  group: ASIA
   numeric_code: '410'
   capital: KR-SEOUL
 - name:
@@ -10445,9 +10205,7 @@
     - Cossovo
     - Cosovo
   id: XK
-  alpha_2: XK
-  alpha_3: XXK
-  group: eu
+  group: EUROPE
   numeric_code: '926'
   capital: XK-PRISTINA
 - name:
@@ -10463,9 +10221,7 @@
     - Kuwait
     - Estado do Kuwait
   id: KW
-  alpha_2: KW
-  alpha_3: KWT
-  group: as
+  group: ASIA
   numeric_code: '414'
   capital: KW-KUWAIT
 - name:
@@ -10483,9 +10239,7 @@
     - Quirguistão
     - Quirguizistão
   id: KG
-  alpha_2: KG
-  alpha_3: KGZ
-  group: as
+  group: ASIA
   numeric_code: '417'
   capital: KG-BISHKEK
 - name:
@@ -10504,9 +10258,7 @@
     - Laos
     - República Democrática Popular do Laos
   id: LA
-  alpha_2: LA
-  alpha_3: LAO
-  group: as
+  group: ASIA
   numeric_code: '418'
   capital: LA-VIENTIANE
 - name:
@@ -10522,9 +10274,7 @@
     - República da Letônia
     - Letônia
   id: LV
-  alpha_2: LV
-  alpha_3: LVA
-  group: eu
+  group: EUROPE
   numeric_code: '428'
   capital: LV-RIGA
 - name:
@@ -10540,9 +10290,7 @@
     - República do Líbano
     - Líbano
   id: LB
-  alpha_2: LB
-  alpha_3: LBN
-  group: as
+  group: ASIA
   numeric_code: '422'
   capital: LB-BEIRUT
 - name:
@@ -10559,9 +10307,7 @@
     - Lesoto
     - Lessoto
   id: LS
-  alpha_2: LS
-  alpha_3: LSO
-  group: af
+  group: AFRICA
   numeric_code: '426'
   capital: LS-MASERU
 - name:
@@ -10577,9 +10323,7 @@
     - Libéria
     - República da Libéria
   id: LR
-  alpha_2: LR
-  alpha_3: LBR
-  group: af
+  group: AFRICA
   numeric_code: '430'
   capital: LR-MONROVIA
 - name:
@@ -10595,9 +10339,7 @@
     - Estado da Líbia
     - Líbia
   id: LY
-  alpha_2: LY
-  alpha_3: LBY
-  group: af
+  group: AFRICA
   numeric_code: '434'
   capital: LY-TRIPOLIS
 - name:
@@ -10614,9 +10356,7 @@
     - Listenstaine
     - Liechtenstein
   id: LI
-  alpha_2: LI
-  alpha_3: LIE
-  group: eu
+  group: EUROPE
   numeric_code: '438'
   capital: LI-VADUZ
 - name:
@@ -10632,9 +10372,7 @@
     - República da Lituânia
     - Lituânia
   id: LT
-  alpha_2: LT
-  alpha_3: LTU
-  group: eu
+  group: EUROPE
   numeric_code: '440'
   capital: LT-VILNIUS
 - name:
@@ -10650,9 +10388,7 @@
     - Luxemburgo
     - Grão-Ducado do Luxemburgo
   id: LU
-  alpha_2: LU
-  alpha_3: LUX
-  group: eu
+  group: EUROPE
   numeric_code: '442'
   capital: LU-LUXEMBOURG
 - name:
@@ -10667,9 +10403,7 @@
     pt-PT:
     - Macau
   id: MO
-  alpha_2: MO
-  alpha_3: MAC
-  group: as
+  group: ASIA
   numeric_code: '446'
   capital: MO-MACAO
 - name:
@@ -10685,9 +10419,7 @@
     - Madagáscar
     - República de Madagáscar
   id: MG
-  alpha_2: MG
-  alpha_3: MDG
-  group: af
+  group: AFRICA
   numeric_code: '450'
   capital: MG-ANTANANARIVO
 - name:
@@ -10704,9 +10436,7 @@
     - Maláui
     - Malawi
   id: MW
-  alpha_2: MW
-  alpha_3: MWI
-  group: af
+  group: AFRICA
   numeric_code: '454'
   capital: MW-LILONGWE
 - name:
@@ -10721,9 +10451,7 @@
     pt-PT:
     - Malásia
   id: MY
-  alpha_2: MY
-  alpha_3: MYS
-  group: as
+  group: ASIA
   numeric_code: '458'
   capital: MY-KUALA-LUMPUR
 - name:
@@ -10739,9 +10467,7 @@
     - República das Maldivas
     - Maldivas
   id: MV
-  alpha_2: MV
-  alpha_3: MDV
-  group: as
+  group: ASIA
   numeric_code: '462'
   capital: MV-MALE
 - name:
@@ -10757,9 +10483,7 @@
     - República do Mali
     - Mali
   id: ML
-  alpha_2: ML
-  alpha_3: MLI
-  group: af
+  group: AFRICA
   numeric_code: '466'
   capital: ML-BAMAKO
 - name:
@@ -10775,9 +10499,7 @@
     - República de Malta
     - Malta
   id: MT
-  alpha_2: MT
-  alpha_3: MLT
-  group: eu
+  group: EUROPE
   numeric_code: '470'
   capital: MT-VALLETTA
 - name:
@@ -10793,8 +10515,6 @@
     - República das Ilhas Marshall
     - Ilhas Marshall
   id: MH
-  alpha_2: MH
-  alpha_3: MHL
   group: oc
   numeric_code: '584'
   capital: MH-MAJURO
@@ -10810,9 +10530,7 @@
     pt-PT:
     - Martinica
   id: MQ
-  alpha_2: MQ
-  alpha_3: MTQ
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '474'
   capital: MQ-FORT-DE-FRANCE
 - name:
@@ -10828,9 +10546,7 @@
     - República Islâmica da Mauritânia
     - Mauritânia
   id: MR
-  alpha_2: MR
-  alpha_3: MRT
-  group: af
+  group: AFRICA
   numeric_code: '478'
   capital: MR-NOUAKCHOTT
 - name:
@@ -10848,9 +10564,7 @@
     - República de Maurício
     - Maurício
   id: MU
-  alpha_2: MU
-  alpha_3: MUS
-  group: af
+  group: AFRICA
   numeric_code: '480'
   capital: MU-PORT-LOUIS
 - name:
@@ -10866,9 +10580,7 @@
     - Departamento de Maiote
     - Maiote
   id: YT
-  alpha_2: YT
-  alpha_3: MYT
-  group: af
+  group: AFRICA
   numeric_code: '175'
   capital: YT-MAMOUDZOU
 - name:
@@ -10884,9 +10596,7 @@
     - Estados Unidos Mexicanos
     - México
   id: MX
-  alpha_2: MX
-  alpha_3: MEX
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '484'
   capital: MX-MEXICO
 - name:
@@ -10903,8 +10613,6 @@
     - Micronésia
     - Estados Federados da Micronésia
   id: FM
-  alpha_2: FM
-  alpha_3: FSM
   group: oc
   numeric_code: '583'
   capital: FM-PALIKIR
@@ -10925,9 +10633,7 @@
     - Moldávia
     - Moldova
   id: MD
-  alpha_2: MD
-  alpha_3: MDA
-  group: as
+  group: ASIA
   numeric_code: '498'
   capital: MD-CHISINAU
 - name:
@@ -10943,9 +10649,7 @@
     - Principado do Mónaco
     - Mônaco
   id: MC
-  alpha_2: MC
-  alpha_3: MCO
-  group: eu
+  group: EUROPE
   numeric_code: '492'
   capital: MC-MONACO
 - name:
@@ -10960,9 +10664,7 @@
     pt-PT:
     - Mongólia
   id: MN
-  alpha_2: MN
-  alpha_3: MNG
-  group: as
+  group: ASIA
   numeric_code: '496'
   capital: MN-ULAN-BATOR
 - name:
@@ -10977,9 +10679,7 @@
     pt-PT:
     - Montenegro
   id: ME
-  alpha_2: ME
-  alpha_3: MNE
-  group: eu
+  group: EUROPE
   numeric_code: '499'
   capital: ME-PODGORICA
 - name:
@@ -10994,9 +10694,7 @@
     pt-PT:
     - Monserrate
   id: MS
-  alpha_2: MS
-  alpha_3: MSR
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '500'
   capital: MS-PLYMOUTH
 - name:
@@ -11012,9 +10710,7 @@
     - Reino de Marrocos
     - Marrocos
   id: MA
-  alpha_2: MA
-  alpha_3: MAR
-  group: af
+  group: AFRICA
   numeric_code: '504'
   capital: MA-RABAT
 - name:
@@ -11030,9 +10726,7 @@
     - República de Moçambique
     - Moçambique
   id: MZ
-  alpha_2: MZ
-  alpha_3: MOZ
-  group: af
+  group: AFRICA
   numeric_code: '508'
   capital: MZ-MAPUTO
 - name:
@@ -11053,9 +10747,7 @@
     - Birmânia
     - República da União de Myanmar
   id: MM
-  alpha_2: MM
-  alpha_3: MMR
-  group: as
+  group: ASIA
   numeric_code: '104'
   capital: MM-NAY-PYI-TAW
 - name:
@@ -11071,9 +10763,7 @@
     - República da Namíbia
     - Namíbia
   id: NA
-  alpha_2: NA
-  alpha_3: NAM
-  group: af
+  group: AFRICA
   numeric_code: '516'
   capital: NA-WINDHOEK
 - name:
@@ -11089,8 +10779,6 @@
     - República de Nauru
     - Nauru
   id: NR
-  alpha_2: NR
-  alpha_3: NRU
   group: oc
   numeric_code: '520'
   capital: NR-YAREN
@@ -11107,9 +10795,7 @@
     - República Democrática Federal do Nepal
     - Nepal
   id: NP
-  alpha_2: NP
-  alpha_3: NPL
-  group: as
+  group: ASIA
   numeric_code: '524'
   capital: NP-KATHMANDU
 - name:
@@ -11124,9 +10810,7 @@
     pt-PT:
     - Países Baixos
   id: NL
-  alpha_2: NL
-  alpha_3: NLD
-  group: eu
+  group: EUROPE
   numeric_code: '528'
   capital: NL-AMSTERDAM
 - name:
@@ -11141,8 +10825,6 @@
     pt-PT:
     - Nova Caledônia
   id: NC
-  alpha_2: NC
-  alpha_3: NCL
   group: oc
   numeric_code: '540'
   capital: NC-NOUMEA
@@ -11158,8 +10840,6 @@
     pt-PT:
     - Nova Zelândia
   id: NZ
-  alpha_2: NZ
-  alpha_3: NZL
   group: oc
   numeric_code: '554'
   capital: NZ-WELLINGTON
@@ -11176,9 +10856,7 @@
     - República da Nicarágua
     - Nicarágua
   id: NI
-  alpha_2: NI
-  alpha_3: NIC
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '558'
   capital: NI-MANAGUA
 - name:
@@ -11194,9 +10872,7 @@
     - República do Níger
     - Níger
   id: NE
-  alpha_2: NE
-  alpha_3: NER
-  group: af
+  group: AFRICA
   numeric_code: '562'
   capital: NE-NIAMEY
 - name:
@@ -11212,9 +10888,7 @@
     - República Federal da Nigéria
     - Nigéria
   id: NG
-  alpha_2: NG
-  alpha_3: NGA
-  group: af
+  group: AFRICA
   numeric_code: '566'
   capital: NG-ABUJA
 - name:
@@ -11229,8 +10903,6 @@
     pt-PT:
     - Niue
   id: NU
-  alpha_2: NU
-  alpha_3: NIU
   group: oc
   numeric_code: '570'
   capital: NU-ALOFI
@@ -11248,8 +10920,6 @@
     - Ilha Norfolque
     - Ilha Norfolk
   id: NF
-  alpha_2: NF
-  alpha_3: NFK
   group: oc
   numeric_code: '574'
   capital: NF-KINGSTON
@@ -11265,9 +10935,7 @@
     pt-PT:
     - Macedônia do Norte
   id: MK
-  alpha_2: MK
-  alpha_3: MKD
-  group: eu
+  group: EUROPE
   numeric_code: '807'
   capital: MK-SKOPJE
 - name:
@@ -11284,8 +10952,6 @@
     - Comunidade das Ilhas Marianas do Norte
     - Ilhas Marianas Setentrionais
   id: MP
-  alpha_2: MP
-  alpha_3: MNP
   group: oc
   numeric_code: '580'
   capital: MP-SAIPAN
@@ -11302,9 +10968,7 @@
     - Reino da Noruega
     - Noruega
   id: 'NO'
-  alpha_2: 'NO'
-  alpha_3: NOR
-  group: eu
+  group: EUROPE
   numeric_code: '578'
   capital: NO-OSLO
 - name:
@@ -11320,9 +10984,7 @@
     - Omã
     - Sultanato de Omã
   id: OM
-  alpha_2: OM
-  alpha_3: OMN
-  group: as
+  group: ASIA
   numeric_code: '512'
   capital: OM-MUSCAT
 - name:
@@ -11338,9 +11000,7 @@
     - República Islâmica do Paquistão
     - Paquistão
   id: PK
-  alpha_2: PK
-  alpha_3: PAK
-  group: as
+  group: ASIA
   numeric_code: '586'
   capital: PK-ISLAMABAD
 - name:
@@ -11356,8 +11016,6 @@
     - República de Palau
     - Palau
   id: PW
-  alpha_2: PW
-  alpha_3: PLW
   group: oc
   numeric_code: '585'
   capital: PW-MELEKEOK
@@ -11374,9 +11032,7 @@
     pt-PT:
     - Palestina
   id: PS
-  alpha_2: PS
-  alpha_3: PSE
-  group: as
+  group: ASIA
   numeric_code: '275'
   capital: PS-EAST-JERUSALEM
 - name:
@@ -11392,9 +11048,7 @@
     - República do Panamá
     - Panamá
   id: PA
-  alpha_2: PA
-  alpha_3: PAN
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '591'
   capital: PA-PANAMA-CITY
 - name:
@@ -11411,8 +11065,6 @@
     - Estado Independente da Papua-Nova Guiné
     - Papua-Nova Guiné
   id: PG
-  alpha_2: PG
-  alpha_3: PNG
   group: oc
   numeric_code: '598'
   capital: PG-PORT-MORESBY
@@ -11429,9 +11081,7 @@
     - República do Paraguai
     - Paraguai
   id: PY
-  alpha_2: PY
-  alpha_3: PRY
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '600'
   capital: PY-ASUNCION
 - name:
@@ -11447,9 +11097,7 @@
     - República do Peru
     - Peru
   id: PE
-  alpha_2: PE
-  alpha_3: PER
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '604'
   capital: PE-LIMA
 - name:
@@ -11465,9 +11113,7 @@
     - República das Filipinas
     - Filipinas
   id: PH
-  alpha_2: PH
-  alpha_3: PHL
-  group: as
+  group: ASIA
   numeric_code: '608'
   capital: PH-MANILA
 - name:
@@ -11485,8 +11131,6 @@
     - Grupo de Ilhas Pitcairn
     - Ilhas Pitcairn
   id: PN
-  alpha_2: PN
-  alpha_3: PCN
   group: oc
   numeric_code: '612'
   capital: PN-ADAMSTOWN
@@ -11503,9 +11147,7 @@
     - República da Polónia
     - Polônia
   id: PL
-  alpha_2: PL
-  alpha_3: POL
-  group: eu
+  group: EUROPE
   numeric_code: '616'
   capital: PL-WARSAW
 - name:
@@ -11521,9 +11163,7 @@
     - República Portuguesa
     - Portugal
   id: PT
-  alpha_2: PT
-  alpha_3: PRT
-  group: eu
+  group: EUROPE
   numeric_code: '620'
   capital: PT-LISBON
 - name:
@@ -11540,9 +11180,7 @@
     - Estado Livre Associado de Porto Rico
     - Porto Rico
   id: PR
-  alpha_2: PR
-  alpha_3: PRI
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '630'
   capital: PR-SAN-JUAN
 - name:
@@ -11559,9 +11197,7 @@
     - Catar
     - Qatar
   id: QA
-  alpha_2: QA
-  alpha_3: QAT
-  group: as
+  group: ASIA
   numeric_code: '634'
   capital: QA-DOHA
 - name:
@@ -11576,9 +11212,7 @@
     pt-PT:
     - Reunião
   id: RE
-  alpha_2: RE
-  alpha_3: REU
-  group: af
+  group: AFRICA
   numeric_code: '638'
   capital: RE-SAINT-DENIS
 - name:
@@ -11593,9 +11227,7 @@
     pt-PT:
     - Romênia
   id: RO
-  alpha_2: RO
-  alpha_3: ROU
-  group: eu
+  group: EUROPE
   numeric_code: '642'
   capital: RO-BUCHAREST
 - name:
@@ -11612,9 +11244,7 @@
     - Federação da Rússia
     - Rússia
   id: RU
-  alpha_2: RU
-  alpha_3: RUS
-  group: as
+  group: ASIA
   numeric_code: '643'
   capital: RU-MOSCOW
 - name:
@@ -11631,9 +11261,7 @@
     - República de Ruanda
     - República do Ruanda
   id: RW
-  alpha_2: RW
-  alpha_3: RWA
-  group: af
+  group: AFRICA
   numeric_code: '646'
   capital: RW-KIGALI
 - name:
@@ -11649,9 +11277,7 @@
     - Coletividade de São Bartolomeu
     - São Bartolomeu
   id: BL
-  alpha_2: BL
-  alpha_3: BLM
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '652'
   capital: BL-GUSTAVIA
 - name:
@@ -11683,9 +11309,7 @@
     - Ascensão
     - Tristão da Cunha
   id: SH
-  alpha_2: SH
-  alpha_3: SHN
-  group: af
+  group: AFRICA
   numeric_code: '654'
   capital: SH-JAMESTOWN
 - name:
@@ -11706,9 +11330,7 @@
     - Federação de São Cristóvão e Neves
     - São Cristóvão e Neves
   id: KN
-  alpha_2: KN
-  alpha_3: KNA
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '659'
   capital: KN-BASSETERRE
 - name:
@@ -11723,9 +11345,7 @@
     pt-PT:
     - Santa Lúcia
   id: LC
-  alpha_2: LC
-  alpha_3: LCA
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '662'
   capital: LC-CASTRIES
 - name:
@@ -11742,9 +11362,7 @@
     - Coletividade de São Martinho
     - São Martinho
   id: MF
-  alpha_2: MF
-  alpha_3: MAF
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '663'
   capital: MF-MARIGOT
 - name:
@@ -11761,9 +11379,7 @@
     - São Pedro e Miquelão
     - Coletividade de Ultramar de São Pedro e Miquelão
   id: PM
-  alpha_2: PM
-  alpha_3: SPM
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '666'
   capital: PM-SAINT-PIERRE
 - name:
@@ -11778,9 +11394,7 @@
     pt-PT:
     - São Vicente e Granadinas
   id: VC
-  alpha_2: VC
-  alpha_3: VCT
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '670'
   capital: VC-KINGSTOWN
 - name:
@@ -11796,8 +11410,6 @@
     - Samoa
     - Estado Independente de Samoa
   id: WS
-  alpha_2: WS
-  alpha_3: WSM
   group: oc
   numeric_code: '882'
   capital: WS-APIA
@@ -11820,9 +11432,7 @@
     - São Marinho
     - Sereníssima República de San Marino
   id: SM
-  alpha_2: SM
-  alpha_3: SMR
-  group: eu
+  group: EUROPE
   numeric_code: '674'
   capital: SM-SAN-MARINO
 - name:
@@ -11838,9 +11448,7 @@
     - São Tomé e Príncipe
     - República Democrática de São Tomé e Príncipe
   id: ST
-  alpha_2: ST
-  alpha_3: STP
-  group: af
+  group: AFRICA
   numeric_code: '678'
   capital: ST-SAO-TOME
 - name:
@@ -11856,9 +11464,7 @@
     - Reino da Arábia Saudita
     - Arábia Saudita
   id: SA
-  alpha_2: SA
-  alpha_3: SAU
-  group: as
+  group: ASIA
   numeric_code: '682'
   capital: SA-RIYADH
 - name:
@@ -11874,9 +11480,7 @@
     - República do Senegal
     - Senegal
   id: SN
-  alpha_2: SN
-  alpha_3: SEN
-  group: af
+  group: AFRICA
   numeric_code: '686'
   capital: SN-DAKAR
 - name:
@@ -11892,9 +11496,7 @@
     - República da Sérvia
     - Sérvia
   id: RS
-  alpha_2: RS
-  alpha_3: SRB
-  group: eu
+  group: EUROPE
   numeric_code: '688'
   capital: RS-BELGRADE
 - name:
@@ -11912,9 +11514,7 @@
     - República das Seychelles
     - Seicheles
   id: SC
-  alpha_2: SC
-  alpha_3: SYC
-  group: af
+  group: AFRICA
   numeric_code: '690'
   capital: SC-VICTORIA
 - name:
@@ -11930,9 +11530,7 @@
     - República da Serra Leoa
     - Serra Leoa
   id: SL
-  alpha_2: SL
-  alpha_3: SLE
-  group: af
+  group: AFRICA
   numeric_code: '694'
   capital: SL-FREETOWN
 - name:
@@ -11948,9 +11546,7 @@
     - Singapura
     - República de Singapura
   id: SG
-  alpha_2: SG
-  alpha_3: SGP
-  group: as
+  group: ASIA
   numeric_code: '702'
   capital: SG-SINGAPUR
 - name:
@@ -11965,9 +11561,7 @@
     pt-PT:
     - São Martinho
   id: SX
-  alpha_2: SX
-  alpha_3: SXM
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '534'
   capital: SX-PHILIPSBURG
 - name:
@@ -11983,9 +11577,7 @@
     - República Eslovaca
     - Eslováquia
   id: SK
-  alpha_2: SK
-  alpha_3: SVK
-  group: eu
+  group: EUROPE
   numeric_code: '703'
   capital: SK-BRATISLAVA
 - name:
@@ -12001,9 +11593,7 @@
     - República da Eslovénia
     - Eslovênia
   id: SI
-  alpha_2: SI
-  alpha_3: SVN
-  group: eu
+  group: EUROPE
   numeric_code: '705'
   capital: SI-LJUBLJANA
 - name:
@@ -12018,8 +11608,6 @@
     pt-PT:
     - Ilhas Salomão
   id: SB
-  alpha_2: SB
-  alpha_3: SLB
   group: oc
   numeric_code: '090'
   capital: SB-HONIARA
@@ -12036,9 +11624,7 @@
     - República Federal da Somália
     - Somália
   id: SO
-  alpha_2: SO
-  alpha_3: SOM
-  group: af
+  group: AFRICA
   numeric_code: '706'
   capital: SO-MOGADISHU
 - name:
@@ -12054,9 +11640,7 @@
     - República da África do Sul
     - África do Sul
   id: ZA
-  alpha_2: ZA
-  alpha_3: ZAF
-  group: af
+  group: AFRICA
   numeric_code: '710'
   capital: ZA-PRETORIA
 - name:
@@ -12075,9 +11659,7 @@
     - Ilhas Geórgias do Sul e Sandwich do Sul
     - Ilhas Geórgia do Sul e Sanduíche do Sul
   id: GS
-  alpha_2: GS
-  alpha_3: SGS
-  group: an
+  group: ANTARTICA
   numeric_code: '239'
   capital: GS-KING-EDWARD-POINT
 - name:
@@ -12094,9 +11676,7 @@
     - Sudão do Sul
     - Sudão Meridional
   id: SS
-  alpha_2: SS
-  alpha_3: SSD
-  group: af
+  group: AFRICA
   numeric_code: '728'
   capital: SS-JUBA
 - name:
@@ -12112,9 +11692,7 @@
     - Reino de Espanha
     - Espanha
   id: ES
-  alpha_2: ES
-  alpha_3: ESP
-  group: eu
+  group: EUROPE
   numeric_code: '724'
   capital: ES-MADRID
 - name:
@@ -12132,9 +11710,7 @@
     - Sri Lanca
     - Seri Lanca
   id: LK
-  alpha_2: LK
-  alpha_3: LKA
-  group: as
+  group: ASIA
   numeric_code: '144'
   capital: LK-SRI-JAYAWARDENAPURA-KOTTE
 - name:
@@ -12150,9 +11726,7 @@
     - República do Sudão
     - Sudão
   id: SD
-  alpha_2: SD
-  alpha_3: SDN
-  group: af
+  group: AFRICA
   numeric_code: '729'
   capital: SD-KHARTOUM
 - name:
@@ -12168,9 +11742,7 @@
     - República do Suriname
     - Suriname
   id: SR
-  alpha_2: SR
-  alpha_3: SUR
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '740'
   capital: SR-PARAMARIBO
 - name:
@@ -12185,9 +11757,7 @@
     pt-PT:
     - Esvalbarde e Jan Mayen
   id: SJ
-  alpha_2: SJ
-  alpha_3: SJM
-  group: eu
+  group: EUROPE
   numeric_code: '744'
   capital: SJ-LONGYEARBYEN
 - name:
@@ -12203,9 +11773,7 @@
     - Reino da Suécia
     - Suécia
   id: SE
-  alpha_2: SE
-  alpha_3: SWE
-  group: eu
+  group: EUROPE
   numeric_code: '752'
   capital: SE-STOCKHOLM
 - name:
@@ -12221,9 +11789,7 @@
     - Confederação Suíça
     - Suíça
   id: CH
-  alpha_2: CH
-  alpha_3: CHE
-  group: eu
+  group: EUROPE
   numeric_code: '756'
   capital: CH-BERNE
 - name:
@@ -12242,9 +11808,7 @@
     - Síria
     - República Árabe Síria
   id: SY
-  alpha_2: SY
-  alpha_3: SYR
-  group: as
+  group: ASIA
   numeric_code: '760'
   capital: SY-DAMASCUS
 - name:
@@ -12261,9 +11825,7 @@
     - República da China
     - Taiwan
   id: TW
-  alpha_2: TW
-  alpha_3: TWN
-  group: as
+  group: ASIA
   numeric_code: '158'
   capital: TW-TAIPEI
 - name:
@@ -12280,9 +11842,7 @@
     - Tajiquistão
     - Tadjiquistão
   id: TJ
-  alpha_2: TJ
-  alpha_3: TJK
-  group: as
+  group: ASIA
   numeric_code: '762'
   capital: TJ-DUSHANBE
 - name:
@@ -12300,9 +11860,7 @@
     - República Unida da Tanzânia
     - Tanzânia
   id: TZ
-  alpha_2: TZ
-  alpha_3: TZA
-  group: af
+  group: AFRICA
   numeric_code: '834'
   capital: TZ-DODOMA
 - name:
@@ -12318,9 +11876,7 @@
     - Reino da Tailândia
     - Tailândia
   id: TH
-  alpha_2: TH
-  alpha_3: THA
-  group: as
+  group: ASIA
   numeric_code: '764'
   capital: TH-BANGKOK
 - name:
@@ -12337,9 +11893,7 @@
     - República Democrática de Timor-Leste
     - Timor-Leste
   id: TL
-  alpha_2: TL
-  alpha_3: TLS
-  group: as
+  group: ASIA
   numeric_code: '626'
   capital: TL-DILI
 - name:
@@ -12355,9 +11909,7 @@
     - Togo
     - República Togolesa
   id: TG
-  alpha_2: TG
-  alpha_3: TGO
-  group: af
+  group: AFRICA
   numeric_code: '768'
   capital: TG-LOME
 - name:
@@ -12372,8 +11924,6 @@
     pt-PT:
     - Toquelau
   id: TK
-  alpha_2: TK
-  alpha_3: TKL
   group: oc
   numeric_code: '772'
   capital: TK-ATAFU
@@ -12390,8 +11940,6 @@
     - Reino de Tonga
     - Tonga
   id: TO
-  alpha_2: TO
-  alpha_3: TON
   group: oc
   numeric_code: '776'
   capital: TO-NUKU-ALOFA
@@ -12408,9 +11956,7 @@
     - República de Trindade e Tobago
     - Trindade e Tobago
   id: TT
-  alpha_2: TT
-  alpha_3: TTO
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '780'
   capital: TT-PORT-OF-SPAIN
 - name:
@@ -12426,9 +11972,7 @@
     - República Tunisina
     - Tunísia
   id: TN
-  alpha_2: TN
-  alpha_3: TUN
-  group: af
+  group: AFRICA
   numeric_code: '788'
   capital: TN-TUNIS
 - name:
@@ -12444,9 +11988,7 @@
     - República da Turquia
     - Turquia
   id: TR
-  alpha_2: TR
-  alpha_3: TUR
-  group: as
+  group: ASIA
   numeric_code: '792'
   capital: TR-ANKARA
 - name:
@@ -12464,9 +12006,7 @@
     - República do Turcomenistão
     - Turquemenistão
   id: TM
-  alpha_2: TM
-  alpha_3: TKM
-  group: as
+  group: ASIA
   numeric_code: '795'
   capital: TM-ASHGABAT
 - name:
@@ -12481,9 +12021,7 @@
     pt-PT:
     - Turcas e Caicos
   id: TC
-  alpha_2: TC
-  alpha_3: TCA
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '796'
   capital: TC-COCKBURN-TOWN
 - name:
@@ -12498,8 +12036,6 @@
     pt-PT:
     - Tuvalu
   id: TV
-  alpha_2: TV
-  alpha_3: TUV
   group: oc
   numeric_code: '798'
   capital: TV-FUNAFUTI
@@ -12516,9 +12052,7 @@
     - República de Uganda
     - Uganda
   id: UG
-  alpha_2: UG
-  alpha_3: UGA
-  group: af
+  group: AFRICA
   numeric_code: '800'
   capital: UG-KAMPALA
 - name:
@@ -12533,9 +12067,7 @@
     pt-PT:
     - Ucrânia
   id: UA
-  alpha_2: UA
-  alpha_3: UKR
-  group: eu
+  group: EUROPE
   numeric_code: '804'
   capital: UA-KYIV
 - name:
@@ -12550,9 +12082,7 @@
     pt-PT:
     - Emirados Árabes Unidos
   id: AE
-  alpha_2: AE
-  alpha_3: ARE
-  group: as
+  group: ASIA
   numeric_code: '784'
   capital: AE-ABU-DHABI
 - name:
@@ -12572,9 +12102,7 @@
     - Reino Unido da Grã-Bretanha e Irlanda do Norte
     - Reino Unido
   id: GB
-  alpha_2: GB
-  alpha_3: GBR
-  group: eu
+  group: EUROPE
   numeric_code: '826'
   capital: GB-LONDON
 - name:
@@ -12596,9 +12124,7 @@
     - Estados Unidos da América
     - Estados Unidos
   id: US
-  alpha_2: US
-  alpha_3: USA
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '840'
   capital: US-WASHINGTON-DC
 - name:
@@ -12614,8 +12140,6 @@
     - Ilhas Menores Distantes dos Estados Unidos
     - Ilhas Menores Afastadas dos Estados Unidos
   id: UM
-  alpha_2: UM
-  alpha_3: UMI
   group: oc
   numeric_code: '581'
   capital: UM-JOHNSTON-ATOLL
@@ -12632,9 +12156,7 @@
     - República Oriental do Uruguai
     - Uruguai
   id: UY
-  alpha_2: UY
-  alpha_3: URY
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '858'
   capital: UY-MONTEVIDEO
 - name:
@@ -12651,9 +12173,7 @@
     - Uzbequistão
     - Usbequistão
   id: UZ
-  alpha_2: UZ
-  alpha_3: UZB
-  group: as
+  group: ASIA
   numeric_code: '860'
   capital: UZ-TASHKENT
 - name:
@@ -12669,8 +12189,6 @@
     - Vanuatu
     - República de Vanuatu
   id: VU
-  alpha_2: VU
-  alpha_3: VUT
   group: oc
   numeric_code: '548'
   capital: VU-PORT-VILA
@@ -12691,9 +12209,7 @@
     - República Bolivariana da Venezuela
     - Venezuela
   id: VE
-  alpha_2: VE
-  alpha_3: VEN
-  group: sa
+  group: SOUTH_AMERICA
   numeric_code: '862'
   capital: VE-CARACAS
 - name:
@@ -12715,9 +12231,7 @@
     - República Socialista do Vietnã
     - Vietnã
   id: VN
-  alpha_2: VN
-  alpha_3: VNM
-  group: as
+  group: ASIA
   numeric_code: '704'
   capital: VN-HANOI
 - name:
@@ -12733,9 +12247,7 @@
     pt-PT:
     - Ilhas Virgens Britânicas
   id: VG
-  alpha_2: VG
-  alpha_3: VGB
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '092'
   capital: VG-ROAD-TOWN
 - name:
@@ -12752,9 +12264,7 @@
     - Ilhas Virgens dos Estados Unidos
     - Ilhas Virgens Americanas
   id: VI
-  alpha_2: VI
-  alpha_3: VIR
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '850'
   capital: VI-CHARLOTTE-AMALIE
 - name:
@@ -12770,8 +12280,6 @@
     - Território das Ilhas Wallis e Futuna
     - Wallis e Futuna
   id: WF
-  alpha_2: WF
-  alpha_3: WLF
   group: oc
   numeric_code: '876'
   capital: WF-MATA-UTU
@@ -12788,9 +12296,7 @@
     - Saara Ocidental
     - Sara Ocidental
   id: EH
-  alpha_2: EH
-  alpha_3: ESH
-  group: af
+  group: AFRICA
   numeric_code: '732'
   capital: EH-EL-AAIUN
 - name:
@@ -12806,9 +12312,7 @@
     - Iémen
     - República do Iémen
   id: YE
-  alpha_2: YE
-  alpha_3: YEM
-  group: as
+  group: ASIA
   numeric_code: '887'
   capital: YE-SANA-A
 - name:
@@ -12824,9 +12328,7 @@
     - República da Zâmbia
     - Zâmbia
   id: ZM
-  alpha_2: ZM
-  alpha_3: ZMB
-  group: af
+  group: AFRICA
   numeric_code: '894'
   capital: ZM-LUSAKA
 - name:
@@ -12844,8 +12346,98 @@
     - Zimbaué
     - Zimbabwe
   id: ZW
-  alpha_2: ZW
-  alpha_3: ZWE
-  group: af
+  group: AFRICA
   numeric_code: '716'
   capital: ZW-HARARE
+
+# CONTINENTS
+- name:
+    en-US:
+    - Europe
+    fr-FR:
+    - Europe
+    es-ES:
+    - Europa
+    de-DE:
+    - Europa
+    pt-PT:
+    - Europa
+  id: EUROPE
+  group:
+  numeric_code:
+  capital:
+- name:
+    en-US:
+    - North America
+    fr-FR:
+    - Amérique du Nord
+    es-ES:
+    - América del Norte
+    de-DE:
+    - Nordamerika
+    pt-PT:
+    - América do Norte
+  id: NORTH_AMERICA
+  group:
+  numeric_code:
+  capital:
+- name:
+    en-US:
+    - North America
+    fr-FR:
+    - Amérique du Sud
+    es-ES:
+    - América del Sur
+    de-DE:
+    - Südamerika
+    pt-PT:
+    - América do Sul
+  id: SOUTH_AMERICA
+  group:
+  numeric_code:
+  capital:
+- name:
+    en-US:
+    - Africa
+    fr-FR:
+    - Afrique
+    es-ES:
+    - África
+    de-DE:
+    - Afrika
+    pt-PT:
+    - África
+  id: AFRICA
+  group:
+  numeric_code:
+  capital:
+- name:
+    en-US:
+    - Asia
+    fr-FR:
+    - Asie
+    es-ES:
+    - Asia
+    de-DE:
+    - Asien
+    pt-PT:
+    - Ásia
+  id: AFRICA
+  group:
+  numeric_code:
+  capital:
+- name:
+    en-US:
+    - Antartica
+    fr-FR:
+    - Antarctique
+    es-ES:
+    - Antártida
+    de-DE:
+    - Antarktis
+    pt-PT:
+    - Antártida
+  id: AFRICA
+  group:
+  numeric_code:
+  capital:
