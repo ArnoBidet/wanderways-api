@@ -47,7 +47,7 @@ CREATE TABLE data (
     flag_url VARCHAR(2048),
     data_group VARCHAR(50) REFERENCES data(id),
     data_capital VARCHAR(50) REFERENCES data(id),
-    numeric_code VARCHAR(50) NOT NULL
+    numeric_code VARCHAR(50)
 );
 
 CREATE TABLE map_data (

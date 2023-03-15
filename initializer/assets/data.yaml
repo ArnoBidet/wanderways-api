@@ -1,0 +1,4493 @@
+# FRANCE CITIES
+- name:
+    en-US:
+    - Bourg-en-Bresse
+    fr-FR:
+    - Bourg-en-Bresse
+  id: FR-BOURG-EN-BRESSE
+  flag_url: "./assets/maps/flags/flag_FR-BOURG-EN-BRESSE.svg"
+  group: FR-01
+  numeric_code: "01000"
+  capital:
+- name:
+    en-US:
+    - Laon
+    fr-FR:
+    - Laon
+  id: FR-LAON
+  flag_url: "./assets/maps/flags/flag_FR-LAON.svg"
+  group: FR-02
+  numeric_code: "02000"
+  capital:
+- name:
+    en-US:
+    - Moulins
+    fr-FR:
+    - Moulins
+  id: FR-MOULINS
+  flag_url: "./assets/maps/flags/flag_FR-MOULINS.svg"
+  group: FR-03
+  numeric_code: "03000"
+  capital:
+- name:
+    en-US:
+    - Digne-les-Bains
+    fr-FR:
+    - Digne-les-Bains
+  id: FR-DIGNE-LES-BAINS
+  flag_url: "./assets/maps/flags/flag_FR-DIGNE-LES-BAINS.svg"
+  group: FR-04
+  numeric_code: "04000"
+  capital:
+- name:
+    en-US:
+    - Nice
+    fr-FR:
+    - Nice
+  id: FR-NICE
+  flag_url: "./assets/maps/flags/flag_FR-NICE.svg"
+  group: FR-06
+  numeric_code: "06000"
+  capital:
+- name:
+    en-US:
+    - Privas
+    fr-FR:
+    - Privas
+  id: FR-PRIVAS
+  flag_url: "./assets/maps/flags/flag_FR-PRIVAS.svg"
+  group: FR-07
+  numeric_code: "07000"
+  capital:
+- name:
+    en-US:
+    - Charleville-Mézières
+    fr-FR:
+    - Charleville-Mézières
+  id: FR-CHARLEVILLE-MEZIERES
+  flag_url: "./assets/maps/flags/flag_FR-CHARLEVILLE-MEZIERES.svg"
+  group: FR-08
+  numeric_code: "08000"
+  capital:
+- name:
+    en-US:
+    - Foix
+    fr-FR:
+    - Foix
+  id: FR-FOIX
+  flag_url: "./assets/maps/flags/flag_FR-FOIX.svg"
+  group: FR-09
+  numeric_code: "09000"
+  capital:
+- name:
+    en-US:
+    - Troyes
+    fr-FR:
+    - Troyes
+  id: FR-TROYES
+  flag_url: "./assets/maps/flags/flag_FR-TROYES.svg"
+  group: FR-10
+  numeric_code: "10000"
+  capital:
+- name:
+    en-US:
+    - Carcassonne
+    fr-FR:
+    - Carcassonne
+  id: FR-CARCASSONNE
+  flag_url: "./assets/maps/flags/flag_FR-CARCASSONNE.svg"
+  group: FR-11
+  numeric_code: "11000"
+  capital:
+- name:
+    en-US:
+    - Rodez
+    fr-FR:
+    - Rodez
+  id: FR-RODEZ
+  flag_url: "./assets/maps/flags/flag_FR-RODEZ.svg"
+  group: FR-12
+  numeric_code: "12000"
+  capital:
+- name:
+    en-US:
+    - Marseille
+    fr-FR:
+    - Marseille
+  id: FR-MARSEILLE
+  flag_url: "./assets/maps/flags/flag_FR-MARSEILLE.svg"
+  group: FR-13
+  numeric_code: "13000"
+  capital:
+- name:
+    en-US:
+    - Caen
+    fr-FR:
+    - Caen
+  id: FR-CAEN
+  flag_url: "./assets/maps/flags/flag_FR-CAEN.svg"
+  group: FR-14
+  numeric_code: "14000"
+  capital:
+- name:
+    en-US:
+    - Aurillac
+    fr-FR:
+    - Aurillac
+  id: FR-AURILLAC
+  flag_url: "./assets/maps/flags/flag_FR-AURILLAC.svg"
+  group: FR-15
+  numeric_code: "15000"
+  capital:
+- name:
+    en-US:
+    - Angoulême
+    fr-FR:
+    - Angoulême
+  id: FR-ANGOULEME
+  flag_url: "./assets/maps/flags/flag_FR-ANGOULEME.svg"
+  group: FR-16
+  numeric_code: "16000"
+  capital:
+- name:
+    en-US:
+    - La Rochelle
+    fr-FR:
+    - La Rochelle
+  id: FR-LA-ROCHELLE
+  flag_url: "./assets/maps/flags/flag_FR-LA-ROCHELLE.svg"
+  group: FR-17
+  numeric_code: "17000"
+  capital:
+- name:
+    en-US:
+    - Bourges
+    fr-FR:
+    - Bourges
+  id: FR-BOURGES
+  flag_url: "./assets/maps/flags/flag_FR-BOURGES.svg"
+  group: FR-18
+  numeric_code: "18000"
+  capital:
+- name:
+    en-US:
+    - Tulle
+    fr-FR:
+    - Tulle
+  id: FR-TULLE
+  flag_url: "./assets/maps/flags/flag_FR-TULLE.svg"
+  group: FR-19
+  numeric_code: "19000"
+  capital:
+- name:
+    en-US:
+    - Ajaccio
+    fr-FR:
+    - Ajaccio
+  id: FR-AJACCIO
+  flag_url: "./assets/maps/flags/flag_FR-AJACCIO.svg"
+  group: FR-2A
+  numeric_code: 2A000
+  capital:
+- name:
+    en-US:
+    - Dijon
+    fr-FR:
+    - Dijon
+  id: FR-DIJON
+  flag_url: "./assets/maps/flags/flag_FR-DIJON.svg"
+  group: FR-21
+  numeric_code: "21000"
+  capital:
+- name:
+    en-US:
+    - St-Brieuc
+    fr-FR:
+    - St-Brieuc
+  id: FR-ST-BRIEUC
+  flag_url: "./assets/maps/flags/flag_FR-ST-BRIEUC.svg"
+  group: FR-22
+  numeric_code: "22000"
+  capital:
+- name:
+    en-US:
+    - Guéret
+    fr-FR:
+    - Guéret
+  id: FR-GUERET
+  flag_url: "./assets/maps/flags/flag_FR-GUERET.svg"
+  group: FR-23
+  numeric_code: "23000"
+  capital:
+- name:
+    en-US:
+    - Niort
+    fr-FR:
+    - Niort
+  id: FR-NIORT
+  flag_url: "./assets/maps/flags/flag_FR-NIORT.svg"
+  group: FR-79
+  numeric_code: "79000"
+  capital:
+- name:
+    en-US:
+    - Périgueux
+    fr-FR:
+    - Périgueux
+  id: FR-PERIGUEUX
+  flag_url: "./assets/maps/flags/flag_FR-PERIGUEUX.svg"
+  group: FR-24
+  numeric_code: "24000"
+  capital:
+- name:
+    en-US:
+    - Besançon
+    fr-FR:
+    - Besançon
+  id: FR-BESANÇON
+  flag_url: "./assets/maps/flags/flag_FR-BESANÇON.svg"
+  group: FR-25
+  numeric_code: "25000"
+  capital:
+- name:
+    en-US:
+    - Valence
+    fr-FR:
+    - Valence
+  id: FR-VALENCE
+  flag_url: "./assets/maps/flags/flag_FR-VALENCE.svg"
+  group: FR-26
+  numeric_code: "26000"
+  capital:
+- name:
+    en-US:
+    - Évry
+    fr-FR:
+    - Évry
+  id: FR-EVRY
+  flag_url: "./assets/maps/flags/flag_FR-EVRY.svg"
+  group: FR-91
+  numeric_code: "91000"
+  capital:
+- name:
+    en-US:
+    - Évreux
+    fr-FR:
+    - Évreux
+  id: FR-EVREUX
+  flag_url: "./assets/maps/flags/flag_FR-EVREUX.svg"
+  group: FR-27
+  numeric_code: "27000"
+  capital:
+- name:
+    en-US:
+    - Chartres
+    fr-FR:
+    - Chartres
+  id: FR-CHARTRES
+  flag_url: "./assets/maps/flags/flag_FR-CHARTRES.svg"
+  group: FR-28
+  numeric_code: "28000"
+  capital:
+- name:
+    en-US:
+    - Quimper
+    fr-FR:
+    - Quimper
+  id: FR-QUIMPER
+  flag_url: "./assets/maps/flags/flag_FR-QUIMPER.svg"
+  group: FR-29
+  numeric_code: "29000"
+  capital:
+- name:
+    en-US:
+    - Cayenne
+    fr-FR:
+    - Cayenne
+  id: FR-CAYENNE
+  flag_url: "./assets/maps/flags/flag_FR-CAYENNE.svg"
+  group: FR-973
+  numeric_code: "973000"
+  capital:
+- name:
+    en-US:
+    - Nîmes
+    fr-FR:
+    - Nîmes
+  id: FR-NIMES
+  flag_url: "./assets/maps/flags/flag_FR-NÎMES.svg"
+  group: FR-30
+  numeric_code: "30000"
+  capital:
+- name:
+    en-US:
+    - Auch
+    fr-FR:
+    - Auch
+  id: FR-AUCH
+  flag_url: "./assets/maps/flags/flag_FR-AUCH.svg"
+  group: FR-32
+  numeric_code: "32000"
+  capital:
+- name:
+    en-US:
+    - Bordeaux
+    fr-FR:
+    - Bordeaux
+  id: FR-BORDEAUX
+  flag_url: "./assets/maps/flags/flag_FR-BORDEAUX.svg"
+  group: FR-33
+  numeric_code: "33000"
+  capital:
+- name:
+    en-US:
+    - Basse-Terre
+    fr-FR:
+    - Basse-Terre
+  id: FR-BASSE-TERRE
+  flag_url: "./assets/maps/flags/flag_FR-BASSE-TERRE.svg"
+  group: FR-971
+  numeric_code: "971000"
+  capital:
+- name:
+    en-US:
+    - Bastia
+    fr-FR:
+    - Bastia
+  id: FR-BASTIA
+  flag_url: "./assets/maps/flags/flag_FR-BASTIA.svg"
+  group: FR-2B
+  numeric_code: 2B000
+  capital:
+- name:
+    en-US:
+    - Toulouse
+    fr-FR:
+    - Toulouse
+  id: FR-TOULOUSE
+  flag_url: "./assets/maps/flags/flag_FR-TOULOUSE.svg"
+  group: FR-31
+  numeric_code: "31000"
+  capital:
+- name:
+    en-US:
+    - Le Puy-en-Velay
+    fr-FR:
+    - Le Puy-en-Velay
+  id: FR-LE-PUY-EN-VELAY
+  flag_url: "./assets/maps/flags/flag_FR-LE-PUY-EN-VELAY.svg"
+  group: FR-43
+  numeric_code: "43000"
+  capital:
+- name:
+    en-US:
+    - Chaumont
+    fr-FR:
+    - Chaumont
+  id: FR-CHAUMONT
+  flag_url: "./assets/maps/flags/flag_FR-CHAUMONT.svg"
+  group: FR-52
+  numeric_code: "52000"
+  capital:
+- name:
+    en-US:
+    - Gap
+    fr-FR:
+    - Gap
+  id: FR-GAP
+  flag_url: "./assets/maps/flags/flag_FR-GAP.svg"
+  group: FR-05
+  numeric_code: "05000"
+  capital:
+- name:
+    en-US:
+    - Vesoul
+    fr-FR:
+    - Vesoul
+  id: FR-VESOUL
+  flag_url: "./assets/maps/flags/flag_FR-VESOUL.svg"
+  group: FR-70
+  numeric_code: "70000"
+  capital:
+- name:
+    en-US:
+    - Annecy
+    fr-FR:
+    - Annecy
+  id: FR-ANNECY
+  flag_url: "./assets/maps/flags/flag_FR-ANNECY.svg"
+  group: FR-74
+  numeric_code: "74000"
+  capital:
+- name:
+    en-US:
+    - Tarbes
+    fr-FR:
+    - Tarbes
+  id: FR-TARBES
+  flag_url: "./assets/maps/flags/flag_FR-TARBES.svg"
+  group: FR-65
+  numeric_code: "65000"
+  capital:
+- name:
+    en-US:
+    - Limoges
+    fr-FR:
+    - Limoges
+  id: FR-LIMOGES
+  flag_url: "./assets/maps/flags/flag_FR-LIMOGES.svg"
+  group: FR-87
+  numeric_code: "87000"
+  capital:
+- name:
+    en-US:
+    - Nanterre
+    fr-FR:
+    - Nanterre
+  id: FR-NANTERRE
+  flag_url: "./assets/maps/flags/flag_FR-NANTERRE.svg"
+  group: FR-92
+  numeric_code: "92000"
+  capital:
+- name:
+    en-US:
+    - Montpellier
+    fr-FR:
+    - Montpellier
+  id: FR-MONTPELLIER
+  flag_url: "./assets/maps/flags/flag_FR-MONTPELLIER.svg"
+  group: FR-34
+  numeric_code: "34000"
+  capital:
+- name:
+    en-US:
+    - Rennes
+    fr-FR:
+    - Rennes
+  id: FR-RENNES
+  flag_url: "./assets/maps/flags/flag_FR-RENNES.svg"
+  group: FR-35
+  numeric_code: "35000"
+  capital:
+- name:
+    en-US:
+    - Châteauroux
+    fr-FR:
+    - Châteauroux
+  id: FR-CHATEAUROUX
+  flag_url: "./assets/maps/flags/flag_FR-CHATEAUROUX.svg"
+  group: FR-36
+  numeric_code: "36000"
+  capital:
+- name:
+    en-US:
+    - Tours
+    fr-FR:
+    - Tours
+  id: FR-TOURS
+  flag_url: "./assets/maps/flags/flag_FR-TOURS.svg"
+  group: FR-37
+  numeric_code: "37000"
+  capital:
+- name:
+    en-US:
+    - Grenoble
+    fr-FR:
+    - Grenoble
+  id: FR-GRENOBLE
+  flag_url: "./assets/maps/flags/flag_FR-GRENOBLE.svg"
+  group: FR-38
+  numeric_code: "38000"
+  capital:
+- name:
+    en-US:
+    - Lons-le-Saunier
+    fr-FR:
+    - Lons-le-Saunier
+  id: FR-LONS-LE-SAUNIER
+  flag_url: "./assets/maps/flags/flag_FR-LONS-LE-SAUNIER.svg"
+  group: FR-39
+  numeric_code: "39000"
+  capital:
+- name:
+    en-US:
+    - Mont-de-Marsan
+    fr-FR:
+    - Mont-de-Marsan
+  id: FR-MONT-DE-MARSAN
+  flag_url: "./assets/maps/flags/flag_FR-MONT-DE-MARSAN.svg"
+  group: FR-40
+  numeric_code: "40000"
+  capital:
+- name:
+    en-US:
+    - Saint-Étienne
+    fr-FR:
+    - Saint-Étienne
+  id: FR-SAINT-ETIENNE
+  flag_url: "./assets/maps/flags/flag_FR-SAINT-ETIENNE.svg"
+  group: FR-42
+  numeric_code: "42000"
+  capital:
+- name:
+    en-US:
+    - Nantes
+    fr-FR:
+    - Nantes
+  id: FR-NANTES
+  flag_url: "./assets/maps/flags/flag_FR-NANTES.svg"
+  group: FR-44
+  numeric_code: "44000"
+  capital:
+- name:
+    en-US:
+    - Orléans
+    fr-FR:
+    - Orléans
+  id: FR-ORLEANS
+  flag_url: "./assets/maps/flags/flag_FR-ORLEANS.svg"
+  group: FR-45
+  numeric_code: "45000"
+  capital:
+- name:
+    en-US:
+    - Blois
+    fr-FR:
+    - Blois
+  id: FR-BLOIS
+  flag_url: "./assets/maps/flags/flag_FR-BLOIS.svg"
+  group: FR-41
+  numeric_code: "41000"
+  capital:
+- name:
+    en-US:
+    - Cahors
+    fr-FR:
+    - Cahors
+  id: FR-CAHORS
+  flag_url: "./assets/maps/flags/flag_FR-CAHORS.svg"
+  group: FR-46
+  numeric_code: "46000"
+  capital:
+- name:
+    en-US:
+    - Agen
+    fr-FR:
+    - Agen
+  id: FR-AGEN
+  flag_url: "./assets/maps/flags/flag_FR-AGEN.svg"
+  group: FR-47
+  numeric_code: "47000"
+  capital:
+- name:
+    en-US:
+    - Mende
+    fr-FR:
+    - Mende
+  id: FR-MENDE
+  flag_url: "./assets/maps/flags/flag_FR-MENDE.svg"
+  group: FR-48
+  numeric_code: "48000"
+  capital:
+- name:
+    en-US:
+    - Angers
+    fr-FR:
+    - Angers
+  id: FR-ANGERS
+  flag_url: "./assets/maps/flags/flag_FR-ANGERS.svg"
+  group: FR-49
+  numeric_code: "49000"
+  capital:
+- name:
+    en-US:
+    - Saint-Lô
+    fr-FR:
+    - Saint-Lô
+  id: FR-SAINT-LO
+  flag_url: "./assets/maps/flags/flag_FR-SAINT-LO.svg"
+  group: FR-50
+  numeric_code: "50000"
+  capital:
+- name:
+    en-US:
+    - Châlons-en-Champagne
+    fr-FR:
+    - Châlons-en-Champagne
+  id: FR-CHALONS-EN-CHAMPAGNE
+  flag_url: "./assets/maps/flags/flag_FR-CHALONS-EN-CHAMPAGNE.svg"
+  group: FR-51
+  numeric_code: "51000"
+  capital:
+- name:
+    en-US:
+    - Fort-de-France
+    fr-FR:
+    - Fort-de-France
+  id: FR-FORT-DE-FRANCE
+  flag_url: "./assets/maps/flags/flag_FR-FORT-DE-FRANCE.svg"
+  group: FR-972
+  numeric_code: "972000"
+  capital:
+- name:
+    en-US:
+    - Paris
+    fr-FR:
+    - Paris
+  id: FR-PARIS
+  flag_url: "./assets/maps/flags/flag_FR-PARIS.svg"
+  group: FR-75
+  numeric_code: "75000"
+  capital:
+- name:
+    en-US:
+    - Laval
+    fr-FR:
+    - Laval
+  id: FR-LAVAL
+  flag_url: "./assets/maps/flags/flag_FR-LAVAL.svg"
+  group: FR-53
+  numeric_code: "53000"
+  capital:
+- name:
+    en-US:
+    - Dzaoudzi
+    fr-FR:
+    - Dzaoudzi
+  id: FR-DZAOUDZI
+  flag_url: "./assets/maps/flags/flag_FR-DZAOUDZI.svg"
+  group: FR-976
+  numeric_code: "976000"
+  capital:
+- name:
+    en-US:
+    - Nancy
+    fr-FR:
+    - Nancy
+  id: FR-NANCY
+  flag_url: "./assets/maps/flags/flag_FR-NANCY.svg"
+  group: FR-54
+  numeric_code: "54000"
+  capital:
+- name:
+    en-US:
+    - Bar-le-Duc
+    fr-FR:
+    - Bar-le-Duc
+  id: FR-BAR-LE-DUC
+  flag_url: "./assets/maps/flags/flag_FR-BAR-LE-DUC.svg"
+  group: FR-55
+  numeric_code: "55000"
+  capital:
+- name:
+    en-US:
+    - Vannes
+    fr-FR:
+    - Vannes
+  id: FR-VANNES
+  flag_url: "./assets/maps/flags/flag_FR-VANNES.svg"
+  group: FR-56
+  numeric_code: "56000"
+  capital:
+- name:
+    en-US:
+    - Metz
+    fr-FR:
+    - Metz
+  id: FR-METZ
+  flag_url: "./assets/maps/flags/flag_FR-METZ.svg"
+  group: FR-57
+  numeric_code: "57000"
+  capital:
+- name:
+    en-US:
+    - Nevers
+    fr-FR:
+    - Nevers
+  id: FR-NEVERS
+  flag_url: "./assets/maps/flags/flag_FR-NEVERS.svg"
+  group: FR-58
+  numeric_code: "58000"
+  capital:
+- name:
+    en-US:
+    - Lille
+    fr-FR:
+    - Lille
+  id: FR-LILLE
+  flag_url: "./assets/maps/flags/flag_FR-LILLE.svg"
+  group: FR-59
+  numeric_code: "59000"
+  capital:
+- name:
+    en-US:
+    - Beauvais
+    fr-FR:
+    - Beauvais
+  id: FR-BEAUVAIS
+  flag_url: "./assets/maps/flags/flag_FR-BEAUVAIS.svg"
+  group: FR-60
+  numeric_code: "60000"
+  capital:
+- name:
+    en-US:
+    - Alençon
+    fr-FR:
+    - Alençon
+  id: FR-ALENCON
+  flag_url: "./assets/maps/flags/flag_FR-ALENCON.svg"
+  group: FR-61
+  numeric_code: "61000"
+  capital:
+- name:
+    en-US:
+    - Arras
+    fr-FR:
+    - Arras
+  id: FR-ARRAS
+  flag_url: "./assets/maps/flags/flag_FR-ARRAS.svg"
+  group: FR-62
+  numeric_code: "62000"
+  capital:
+- name:
+    en-US:
+    - Clermont-Ferrand
+    fr-FR:
+    - Clermont-Ferrand
+  id: FR-CLERMONT-FERRAND
+  flag_url: "./assets/maps/flags/flag_FR-CLERMONT-FERRAND.svg"
+  group: FR-63
+  numeric_code: "63000"
+  capital:
+- name:
+    en-US:
+    - Pau
+    fr-FR:
+    - Pau
+  id: FR-PAU
+  flag_url: "./assets/maps/flags/flag_FR-PAU.svg"
+  group: FR-64
+  numeric_code: "64000"
+  capital:
+- name:
+    en-US:
+    - Perpignan
+    fr-FR:
+    - Perpignan
+  id: FR-PERPIGNAN
+  flag_url: "./assets/maps/flags/flag_FR-PERPIGNAN.svg"
+  group: FR-66
+  numeric_code: "66000"
+  capital:
+- name:
+    en-US:
+    - Strasbourg
+    fr-FR:
+    - Strasbourg
+  id: FR-STRASBOURG
+  flag_url: "./assets/maps/flags/flag_FR-STRASBOURG.svg"
+  group: FR-67
+  numeric_code: "67000"
+  capital:
+- name:
+    en-US:
+    - Colmar
+    fr-FR:
+    - Colmar
+  id: FR-COLMAR
+  flag_url: "./assets/maps/flags/flag_FR-COLMAR.svg"
+  group: FR-68
+  numeric_code: "68000"
+  capital:
+- name:
+    en-US:
+    - Saint-Denis
+    fr-FR:
+    - Saint-Denis
+  id: FR-SAINT-DENIS
+  flag_url: "./assets/maps/flags/flag_FR-SAINT-DENIS.svg"
+  group: FR-974
+  numeric_code: "974000"
+  capital:
+- name:
+    en-US:
+    - Lyon
+    fr-FR:
+    - Lyon
+  id: FR-LYON
+  flag_url: "./assets/maps/flags/flag_FR-LYON.svg"
+  group: FR-69
+  numeric_code: "69000"
+  capital:
+- name:
+    en-US:
+    - Mâcon
+    fr-FR:
+    - Mâcon
+  id: FR-MACON
+  flag_url: "./assets/maps/flags/flag_FR-MACON.svg"
+  group: FR-71
+  numeric_code: "71000"
+  capital:
+- name:
+    en-US:
+    - Le Mans
+    fr-FR:
+    - Le Mans
+  id: FR-LE-MANS
+  flag_url: "./assets/maps/flags/flag_FR-LE-MANS.svg"
+  group: FR-72
+  numeric_code: "72000"
+  capital:
+- name:
+    en-US:
+    - Chambéry
+    fr-FR:
+    - Chambéry
+  id: FR-CHAMBERY
+  flag_url: "./assets/maps/flags/flag_FR-CHAMBERY.svg"
+  group: FR-73
+  numeric_code: "73000"
+  capital:
+- name:
+    en-US:
+    - Melun
+    fr-FR:
+    - Melun
+  id: FR-MELUN
+  flag_url: "./assets/maps/flags/flag_FR-MELUN.svg"
+  group: FR-77
+  numeric_code: "77000"
+  capital:
+- name:
+    en-US:
+    - Rouen
+    fr-FR:
+    - Rouen
+  id: FR-ROUEN
+  flag_url: "./assets/maps/flags/flag_FR-ROUEN.svg"
+  group: FR-76
+  numeric_code: "76000"
+  capital:
+- name:
+    en-US:
+    - Bobigny
+    fr-FR:
+    - Bobigny
+  id: FR-BOBIGNY
+  flag_url: "./assets/maps/flags/flag_FR-BOBIGNY.svg"
+  group: FR-93
+  numeric_code: "93000"
+  capital:
+- name:
+    en-US:
+    - Amiens
+    fr-FR:
+    - Amiens
+  id: FR-AMIENS
+  flag_url: "./assets/maps/flags/flag_FR-AMIENS.svg"
+  group: FR-80
+  numeric_code: "80000"
+  capital:
+- name:
+    en-US:
+    - Albi
+    fr-FR:
+    - Albi
+  id: FR-ALBI
+  flag_url: "./assets/maps/flags/flag_FR-ALBI.svg"
+  group: FR-81
+  numeric_code: "81000"
+  capital:
+- name:
+    en-US:
+    - Montauban
+    fr-FR:
+    - Montauban
+  id: FR-MONTAUBAN
+  flag_url: "./assets/maps/flags/flag_FR-MONTAUBAN.svg"
+  group: FR-82
+  numeric_code: "82000"
+  capital:
+- name:
+    en-US:
+    - Belfort
+    fr-FR:
+    - Belfort
+  id: FR-BELFORT
+  flag_url: "./assets/maps/flags/flag_FR-BELFORT.svg"
+  group: FR-90
+  numeric_code: "90000"
+  capital:
+- name:
+    en-US:
+    - Créteil
+    fr-FR:
+    - Créteil
+  id: FR-CRETEIL
+  flag_url: "./assets/maps/flags/flag_FR-CRETEIL.svg"
+  group: FR-94
+  numeric_code: "94000"
+  capital:
+- name:
+    en-US:
+    - Pontoise
+    fr-FR:
+    - Pontoise
+  id: FR-PONTOISE
+  flag_url: "./assets/maps/flags/flag_FR-PONTOISE.svg"
+  group: FR-95
+  numeric_code: "95000"
+  capital:
+- name:
+    en-US:
+    - Toulon
+    fr-FR:
+    - Toulon
+  id: FR-TOULON
+  flag_url: "./assets/maps/flags/flag_FR-TOULON.svg"
+  group: FR-83
+  numeric_code: "83000"
+  capital:
+- name:
+    en-US:
+    - Avignon
+    fr-FR:
+    - Avignon
+  id: FR-AVIGNON
+  flag_url: "./assets/maps/flags/flag_FR-AVIGNON.svg"
+  group: FR-84
+  numeric_code: "84000"
+  capital:
+- name:
+    en-US:
+    - La Roche-sur-Yon
+    fr-FR:
+    - La Roche-sur-Yon
+  id: FR-LA-ROCHE-SUR-YON
+  flag_url: "./assets/maps/flags/flag_FR-LA-ROCHE-SUR-YON.svg"
+  group: FR-85
+  numeric_code: "85000"
+  capital:
+- name:
+    en-US:
+    - Poitiers
+    fr-FR:
+    - Poitiers
+  id: FR-POITIERS
+  flag_url: "./assets/maps/flags/flag_FR-POITIERS.svg"
+  group: FR-86
+  numeric_code: "86000"
+  capital:
+- name:
+    en-US:
+    - Épinal
+    fr-FR:
+    - Épinal
+  id: FR-EPINAL
+  flag_url: "./assets/maps/flags/flag_FR-EPINAL.svg"
+  group: FR-88
+  numeric_code: "88000"
+  capital:
+- name:
+    en-US:
+    - Auxerre
+    fr-FR:
+    - Auxerre
+  id: FR-AUXERRE
+  flag_url: "./assets/maps/flags/flag_FR-AUXERRE.svg"
+  group: FR-89
+  numeric_code: "89000"
+  capital:
+- name:
+    en-US:
+    - Versailles
+    fr-FR:
+    - Versailles
+  id: FR-VERSAILLES
+  flag_url: "./assets/maps/flags/flag_FR-VERSAILLES.svg"
+  group: FR-78
+  numeric_code: "78000"
+  capital:
+# FRANCE-DEPARTMENTS
+- name:
+    en-US:
+    - Ain
+    fr-FR:
+    - Ain
+    es-ES:
+    - Ain
+    de-DE:
+    - Ain
+    pt-PT:
+    - Ain
+  id: FR-01
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-01.svg"
+  group: FR-ARA
+  capital: FR-BOURG-EN-BRESSE
+  numeric_code: '01'
+- name:
+    en-US:
+    - Aisne
+    fr-FR:
+    - Aisne
+    es-ES:
+    - Aisne
+    de-DE:
+    - Aisne
+    pt-PT:
+    - Aisne
+  id: FR-02
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-02.svg"
+  group: FR-HDF
+  capital: FR-LAON
+  numeric_code: '02'
+- name:
+    en-US:
+    - Allier
+    fr-FR:
+    - Allier
+    es-ES:
+    - Allier
+    de-DE:
+    - Allier
+    pt-PT:
+    - Allier
+  id: FR-03
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-03.svg"
+  group: FR-ARA
+  capital: FR-MOULINS
+  numeric_code: '03'
+- name:
+    en-US:
+    - Alpes-de-Haute-Provence
+    fr-FR:
+    - Alpes-de-Haute-Provence
+    es-ES:
+    - Alpes
+    de-DE:
+    - Alpes-de-Haute-Provence
+    pt-PT:
+    - Alpes da Alta Provença
+  id: FR-04
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-04.svg"
+  group: FR-PAC
+  capital: FR-DIGNE-LES-BAINS
+  numeric_code: '04'
+- name:
+    en-US:
+    - Alpes-Maritimes
+    fr-FR:
+    - Alpes-Maritimes
+    es-ES:
+    - Alpes-Marítimos
+    de-DE:
+    - Alpes-Maritimes
+    pt-PT:
+    - Alpes Marítimos
+  id: FR-06
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-06.svg"
+  group: FR-PAC
+  capital: FR-NICE
+  numeric_code: '06'
+- name:
+    en-US:
+    - Ardèche
+    fr-FR:
+    - Ardèche
+    es-ES:
+    - Ardèche
+    de-DE:
+    - Ardèche
+    pt-PT:
+    - Ardèche
+  id: FR-07
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-07.svg"
+  group: FR-ARA
+  capital: FR-PRIVAS
+  numeric_code: '07'
+- name:
+    en-US:
+    - Ardennes
+    fr-FR:
+    - Ardennes
+    es-ES:
+    - Ardenas
+    de-DE:
+    - Ardennen
+    pt-PT:
+    - Ardenas
+  id: FR-08
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-08.svg"
+  group: FR-GES
+  capital: FR-CHARLEVILLE-MEZIERES
+  numeric_code: '08'
+- name:
+    en-US:
+    - Ariège
+    fr-FR:
+    - Ariège
+    es-ES:
+    - Ariège
+    de-DE:
+    - Ariège
+    pt-PT:
+    - Ariège
+  id: FR-09
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-09.svg"
+  group: FR-OCC
+  capital: FR-FOIX
+  numeric_code: '09'
+- name:
+    en-US:
+    - Aube
+    fr-FR:
+    - Aube
+    es-ES:
+    - Aube
+    de-DE:
+    - Aube
+    pt-PT:
+    - Aube
+  id: FR-10
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-10.svg"
+  group: FR-GES
+  capital: FR-TROYES
+  numeric_code: '10'
+- name:
+    en-US:
+    - Aude
+    fr-FR:
+    - Aude
+    es-ES:
+    - Aude
+    de-DE:
+    - Aude
+    pt-PT:
+    - Aude
+  id: FR-11
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-11.svg"
+  group: FR-OCC
+  capital: FR-CARCASSONNE
+  numeric_code: '11'
+- name:
+    en-US:
+    - Aveyron
+    fr-FR:
+    - Aveyron
+    es-ES:
+    - Aveyron
+    de-DE:
+    - Aveyron
+    pt-PT:
+    - Aveyron
+  id: FR-12
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-12.svg"
+  group: FR-OCC
+  capital: FR-RODEZ
+  numeric_code: '12'
+- name:
+    en-US:
+    - Bouches-du-Rhône
+    fr-FR:
+    - Bouches-du-Rhône
+    es-ES:
+    - Bocas
+    de-DE:
+    - Bouches-du-Rhône
+    pt-PT:
+    - Bocas do Ródano
+  id: FR-13
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-13.svg"
+  group: FR-PAC
+  capital: FR-MARSEILLE
+  numeric_code: '13'
+- name:
+    en-US:
+    - Calvados
+    fr-FR:
+    - Calvados
+    es-ES:
+    - Calvados
+    de-DE:
+    - Calvados
+    pt-PT:
+    - Calvados
+  id: FR-14
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-14.svg"
+  group: FR-NOR
+  capital: FR-CAEN
+  numeric_code: '14'
+- name:
+    en-US:
+    - Cantal
+    fr-FR:
+    - Cantal
+    es-ES:
+    - Cantal
+    de-DE:
+    - Cantal
+    pt-PT:
+    - Cantal
+  id: FR-15
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-15.svg"
+  group: FR-ARA
+  capital: FR-AURILLAC
+  numeric_code: '15'
+- name:
+    en-US:
+    - Charente
+    fr-FR:
+    - Charente
+    es-ES:
+    - Charente
+    de-DE:
+    - Charente
+    pt-PT:
+    - Charente
+  id: FR-16
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-16.svg"
+  group: FR-NAQ
+  capital: FR-ANGOULEME
+  numeric_code: '16'
+- name:
+    en-US:
+    - Charente-Maritime
+    fr-FR:
+    - Charente-Maritime
+    es-ES:
+    - Charente
+    de-DE:
+    - Charente-Maritime
+    pt-PT:
+    - Charente Marítimo
+  id: FR-17
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-17.svg"
+  group: FR-NAQ
+  capital: FR-LA-ROCHELLE
+  numeric_code: '17'
+- name:
+    en-US:
+    - Cher
+    fr-FR:
+    - Cher
+    es-ES:
+    - Cher
+    de-DE:
+    - Cher
+    pt-PT:
+    - Cher
+  id: FR-18
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-18.svg"
+  group: FR-CVL
+  capital: FR-BOURGES
+  numeric_code: '18'
+- name:
+    en-US:
+    - Corrèze
+    fr-FR:
+    - Corrèze
+    es-ES:
+    - Corrèze
+    de-DE:
+    - Corrèze
+    pt-PT:
+    - Corrèze
+  id: FR-19
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-19.svg"
+  group: FR-NAQ
+  capital: FR-TULLE
+  numeric_code: '19'
+- name:
+    en-US:
+    - Corse-du-Sud
+    fr-FR:
+    - Corse-du-Sud
+    es-ES:
+    - Córcega
+    de-DE:
+    - Corse-du-Sud
+    pt-PT:
+    - Córsega do Sul
+  id: FR-2A
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-2A.svg"
+  group: FR-20R
+  capital: FR-AJACCIO
+  numeric_code: 2A
+- name:
+    en-US:
+    - Côte-d'Or
+    fr-FR:
+    - Côte-d'Or
+    es-ES:
+    - Côte-d'Or
+    de-DE:
+    - Côte-d'Or
+    pt-PT:
+    - Côte-d'Or
+  id: FR-21
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-21.svg"
+  group: FR-BFC
+  capital: FR-DIJON
+  numeric_code: '21'
+- name:
+    en-US:
+    - Côtes-d'Armor
+    fr-FR:
+    - Côtes-d'Armor
+    es-ES:
+    - Costas
+    de-DE:
+    - Côtes-d'Armor
+    pt-PT:
+    - Côtes-d'Armor
+  id: FR-22
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-22.svg"
+  group: FR-BRE
+  capital: FR-ST-BRIEUC
+  numeric_code: '22'
+- name:
+    en-US:
+    - Creuse
+    fr-FR:
+    - Creuse
+    es-ES:
+    - Creuse
+    de-DE:
+    - Creuse
+    pt-PT:
+    - Creuse
+  id: FR-23
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-23.svg"
+  group: FR-NAQ
+  capital: FR-GUERET
+  numeric_code: '23'
+- name:
+    en-US:
+    - Deux-Sèvres
+    fr-FR:
+    - Deux-Sèvres
+    es-ES:
+    - Deux-Sèvres
+    de-DE:
+    - Deux-Sèvres
+    pt-PT:
+    - Deux-Sèvres
+  id: FR-79
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-79.svg"
+  group: FR-NAQ
+  capital: FR-NIORT
+  numeric_code: '79'
+- name:
+    en-US:
+    - Dordogne
+    fr-FR:
+    - Dordogne
+    es-ES:
+    - Dordoña
+    de-DE:
+    - Dordogne
+    pt-PT:
+    - Dordonha
+  id: FR-24
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-24.svg"
+  group: FR-NAQ
+  capital: FR-PERIGUEUX
+  numeric_code: '24'
+- name:
+    en-US:
+    - Doubs
+    fr-FR:
+    - Doubs
+    es-ES:
+    - Doubs
+    de-DE:
+    - Doubs
+    pt-PT:
+    - Doubs
+  id: FR-25
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-25.svg"
+  group: FR-BFC
+  capital: FR-BESANÇON
+  numeric_code: '25'
+- name:
+    en-US:
+    - Drôme
+    fr-FR:
+    - Drôme
+    es-ES:
+    - Drôme
+    de-DE:
+    - Drôme
+    pt-PT:
+    - Drôme
+  id: FR-26
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-26.svg"
+  group: FR-ARA
+  capital: FR-VALENCE
+  numeric_code: '26'
+- name:
+    en-US:
+    - Essonne
+    fr-FR:
+    - Essonne
+    es-ES:
+    - Essonne
+    de-DE:
+    - Essonne
+    pt-PT:
+    - Essonne
+  id: FR-91
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-91.svg"
+  group: FR-IDF
+  capital: FR-EVRY
+  numeric_code: '91'
+- name:
+    en-US:
+    - Eure
+    fr-FR:
+    - Eure
+    es-ES:
+    - Eure
+    de-DE:
+    - Eure
+    pt-PT:
+    - Eure
+  id: FR-27
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-27.svg"
+  group: FR-NOR
+  capital: FR-EVREUX
+  numeric_code: '27'
+- name:
+    en-US:
+    - Eure-et-Loir
+    fr-FR:
+    - Eure-et-Loir
+    es-ES:
+    - Eure
+    de-DE:
+    - Eure-et-Loir
+    pt-PT:
+    - Eure e Loir
+  id: FR-28
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-28.svg"
+  group: FR-CVL
+  capital: FR-CHARTRES
+  numeric_code: '28'
+- name:
+    en-US:
+    - Finistère
+    fr-FR:
+    - Finistère
+    es-ES:
+    - Finisterre
+    de-DE:
+    - Finistère
+    pt-PT:
+    - Finistère
+  id: FR-29
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-29.svg"
+  group: FR-BRE
+  capital: FR-QUIMPER
+  numeric_code: '29'
+- name:
+    en-US:
+    - Guyane
+    fr-FR:
+    - Guyane
+    es-ES:
+    - Guayana Francesa
+    - Guyana
+    de-DE:
+    - Französisch-Guayana
+    pt-PT:
+    - Guiana
+  id: FR-973
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-973.svg"
+  group: ''
+  numeric_code: '973'
+  capital: FR-CAYENNE
+- name:
+    en-US:
+    - Gard
+    fr-FR:
+    - Gard
+    es-ES:
+    - Gard
+    de-DE:
+    - Gard
+    pt-PT:
+    - Gard
+  id: FR-30
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-30.svg"
+  group: FR-OCC
+  numeric_code: '30'
+  capital: FR-NIMES
+- name:
+    en-US:
+    - Gers
+    fr-FR:
+    - Gers
+    es-ES:
+    - Gers
+    de-DE:
+    - Gers
+    pt-PT:
+    - Gers
+  id: FR-32
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-32.svg"
+  group: FR-OCC
+  numeric_code: '32'
+  capital: FR-AUCH
+- name:
+    en-US:
+    - Gironde
+    fr-FR:
+    - Gironde
+    es-ES:
+    - Gironda
+    de-DE:
+    - Gironde
+    pt-PT:
+    - Gironda
+  id: FR-33
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-33.svg"
+  group: FR-NAQ
+  numeric_code: '33'
+  capital: FR-BORDEAUX
+- name:
+    en-US:
+    - Guadeloupe
+    fr-FR:
+    - Guadeloupe
+    es-ES:
+    - Guadelupe
+    de-DE:
+    - Guadeloupe
+    pt-PT:
+    - Guadalupe
+  id: FR-971
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-971.svg"
+  group: ''
+  numeric_code: '971'
+  capital: FR-BASSE-TERRE
+- name:
+    en-US:
+    - Haute-Corse
+    fr-FR:
+    - Haute-Corse
+    es-ES:
+    - Alta
+    de-DE:
+    - Haute-Corse
+    pt-PT:
+    - Alta Córsega
+  id: FR-2B
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-2B.svg"
+  group: FR-20R
+  numeric_code: 2B
+  capital: FR-BASTIA
+- name:
+    en-US:
+    - Haute-Garonne
+    fr-FR:
+    - Haute-Garonne
+    es-ES:
+    - Alto
+    de-DE:
+    - Haute-Garonne
+    pt-PT:
+    - Alto Garona
+  id: FR-31
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-31.svg"
+  group: FR-OCC
+  numeric_code: '31'
+  capital: FR-TOULOUSE
+- name:
+    en-US:
+    - Haute-Loire
+    fr-FR:
+    - Haute-Loire
+    es-ES:
+    - Alto
+    de-DE:
+    - Haute-Loire
+    pt-PT:
+    - Alto Loire
+  id: FR-43
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-43.svg"
+  group: FR-ARA
+  numeric_code: '43'
+  capital: FR-LE-PUY-EN-VELAY
+- name:
+    en-US:
+    - Haute-Marne
+    fr-FR:
+    - Haute-Marne
+    es-ES:
+    - Alto
+    de-DE:
+    - Haute-Marne
+    pt-PT:
+    - Alto Marne
+  id: FR-52
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-52.svg"
+  group: FR-GES
+  numeric_code: '52'
+  capital: FR-CHAUMONT
+- name:
+    en-US:
+    - Hautes-Alpes
+    fr-FR:
+    - Hautes-Alpes
+    es-ES:
+    - Altos
+    de-DE:
+    - Hautes-Alpes
+    pt-PT:
+    - Altos Alpes
+  id: FR-05
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-05.svg"
+  group: FR-PAC
+  numeric_code: '05'
+  capital: FR-GAP
+- name:
+    en-US:
+    - Haute-Saône
+    fr-FR:
+    - Haute-Saône
+    es-ES:
+    - Alto
+    de-DE:
+    - Haute-Saône
+    pt-PT:
+    - Alto Sona
+  id: FR-70
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-70.svg"
+  group: FR-BFC
+  numeric_code: '70'
+  capital: FR-VESOUL
+- name:
+    en-US:
+    - Haute-Savoie
+    fr-FR:
+    - Haute-Savoie
+    es-ES:
+    - Alta
+    de-DE:
+    - Haute-Savoie
+    pt-PT:
+    - Alta Saboia
+  id: FR-74
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-74.svg"
+  group: FR-ARA
+  numeric_code: '74'
+  capital: FR-ANNECY
+- name:
+    en-US:
+    - Hautes-Pyrénées
+    fr-FR:
+    - Hautes-Pyrénées
+    es-ES:
+    - Altos
+    de-DE:
+    - Hautes-Pyrénées
+    pt-PT:
+    - Altos Pirenéus
+  id: FR-65
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-65.svg"
+  group: FR-OCC
+  numeric_code: '65'
+  capital: FR-TARBES
+- name:
+    en-US:
+    - Haute-Vienne
+    fr-FR:
+    - Haute-Vienne
+    es-ES:
+    - Alto
+    de-DE:
+    - Haute-Vienne
+    pt-PT:
+    - Alto Vienne
+  id: FR-87
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-87.svg"
+  group: FR-NAQ
+  numeric_code: '87'
+  capital: FR-LIMOGES
+- name:
+    en-US:
+    - Hauts-de-Seine
+    fr-FR:
+    - Hauts-de-Seine
+    es-ES:
+    - Altos
+    de-DE:
+    - Hauts-de-Seine
+    pt-PT:
+    - Altos do Sena
+  id: FR-92
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-92.svg"
+  group: FR-IDF
+  numeric_code: '92'
+  capital: FR-NANTERRE
+- name:
+    en-US:
+    - Hérault
+    fr-FR:
+    - Hérault
+    es-ES:
+    - Hérault
+    de-DE:
+    - Hérault
+    pt-PT:
+    - Hérault
+  id: FR-34
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-34.svg"
+  group: FR-OCC
+  numeric_code: '34'
+  capital: FR-MONTPELLIER
+- name:
+    en-US:
+    - Ille-et-Vilaine
+    fr-FR:
+    - Ille-et-Vilaine
+    es-ES:
+    - Ille
+    de-DE:
+    - Ille-et-Vilaine
+    pt-PT:
+    - Ille e Vilaine
+  id: FR-35
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-35.svg"
+  group: FR-BRE
+  numeric_code: '35'
+  capital: FR-RENNES
+- name:
+    en-US:
+    - Indre
+    fr-FR:
+    - Indre
+    es-ES:
+    - Indre
+    de-DE:
+    - Indre
+    pt-PT:
+    - Indre
+  id: FR-36
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-36.svg"
+  group: FR-CVL
+  numeric_code: '36'
+  capital: FR-CHATEAUROUX
+- name:
+    en-US:
+    - Indre-et-Loire
+    fr-FR:
+    - Indre-et-Loire
+    es-ES:
+    - Indre
+    de-DE:
+    - Indre-et-Loire
+    pt-PT:
+    - Indre e Loire
+  id: FR-37
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-37.svg"
+  group: FR-CVL
+  numeric_code: '37'
+  capital: FR-TOURS
+- name:
+    en-US:
+    - Isère
+    fr-FR:
+    - Isère
+    es-ES:
+    - Isère
+    de-DE:
+    - Isère
+    pt-PT:
+    - Isère
+  id: FR-38
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-38.svg"
+  group: FR-ARA
+  numeric_code: '38'
+  capital: FR-GRENOBLE
+- name:
+    en-US:
+    - Jura
+    fr-FR:
+    - Jura
+    es-ES:
+    - Jura
+    de-DE:
+    - Jura
+    pt-PT:
+    - Jura
+  id: FR-39
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-39.svg"
+  group: FR-BFC
+  numeric_code: '39'
+  capital: FR-LONS-LE-SAUNIER
+- name:
+    en-US:
+    - Landes
+    fr-FR:
+    - Landes
+    es-ES:
+    - Landas
+    de-DE:
+    - Landes
+    pt-PT:
+    - Landes
+  id: FR-40
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-40.svg"
+  group: FR-NAQ
+  numeric_code: '40'
+  capital: FR-MONT-DE-MARSAN
+- name:
+    en-US:
+    - Loire
+    fr-FR:
+    - Loire
+    es-ES:
+    - Loira
+    de-DE:
+    - Loire
+    pt-PT:
+    - Loire
+  id: FR-42
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-42.svg"
+  group: FR-ARA
+  numeric_code: '42'
+  capital: FR-SAINT-ETIENNE
+- name:
+    en-US:
+    - Loire-Atlantique
+    fr-FR:
+    - Loire-Atlantique
+    es-ES:
+    - Loira
+    de-DE:
+    - Loire-Atlantique
+    pt-PT:
+    - Loire Atlântico
+  id: FR-44
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-44.svg"
+  group: FR-PDL
+  numeric_code: '44'
+  capital: FR-NANTES
+- name:
+    en-US:
+    - Loiret
+    fr-FR:
+    - Loiret
+    es-ES:
+    - Loiret
+    de-DE:
+    - Loiret
+    pt-PT:
+    - Loiret
+  id: FR-45
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-45.svg"
+  group: FR-CVL
+  numeric_code: '45'
+  capital: FR-ORLEANS
+- name:
+    en-US:
+    - Loir-et-Cher
+    fr-FR:
+    - Loir-et-Cher
+    es-ES:
+    - Loir
+    de-DE:
+    - Loir-et-Cher
+    pt-PT:
+    - Loir e Cher
+  id: FR-41
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-41.svg"
+  group: FR-CVL
+  numeric_code: '41'
+  capital: FR-BLOIS
+- name:
+    en-US:
+    - Lot
+    fr-FR:
+    - Lot
+    es-ES:
+    - Lot
+    de-DE:
+    - Lot
+    pt-PT:
+    - Lot
+  id: FR-46
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-46.svg"
+  group: FR-OCC
+  numeric_code: '46'
+  capital: FR-CAHORS
+- name:
+    en-US:
+    - Lot-et-Garonne
+    fr-FR:
+    - Lot-et-Garonne
+    es-ES:
+    - Lot
+    de-DE:
+    - Lot-et-Garonne
+    pt-PT:
+    - Lot e Garona
+  id: FR-47
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-47.svg"
+  group: FR-NAQ
+  numeric_code: '47'
+  capital: FR-AGEN
+- name:
+    en-US:
+    - Lozère
+    fr-FR:
+    - Lozère
+    es-ES:
+    - Lozère
+    de-DE:
+    - Lozère
+    pt-PT:
+    - Lozère
+  id: FR-48
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-48.svg"
+  group: FR-OCC
+  numeric_code: '48'
+  capital: FR-MENDE
+- name:
+    en-US:
+    - Maine-et-Loire
+    fr-FR:
+    - Maine-et-Loire
+    es-ES:
+    - Maine
+    de-DE:
+    - Maine-et-Loire
+    pt-PT:
+    - Maine e Loire
+  id: FR-49
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-49.svg"
+  group: FR-PDL
+  numeric_code: '49'
+  capital: FR-ANGERS
+- name:
+    en-US:
+    - Manche
+    fr-FR:
+    - Manche
+    es-ES:
+    - Mancha
+    de-DE:
+    - Manche
+    pt-PT:
+    - Mancha
+  id: FR-50
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-50.svg"
+  group: FR-NOR
+  numeric_code: '50'
+  capital: FR-SAINT-LO
+- name:
+    en-US:
+    - Marne
+    fr-FR:
+    - Marne
+    es-ES:
+    - Marne
+    de-DE:
+    - Marne
+    pt-PT:
+    - Marne
+  id: FR-51
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-51.svg"
+  group: FR-GES
+  numeric_code: '51'
+  capital: FR-CHALONS-EN-CHAMPAGNE
+- name:
+    en-US:
+    - Martinique
+    fr-FR:
+    - Martinique
+    es-ES:
+    - Martinica
+    de-DE:
+    - Martinique
+    pt-PT:
+    - Martinica
+  id: FR-972
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-972.svg"
+  group: ''
+  numeric_code: '972'
+  capital: FR-FORT-DE-FRANCE
+- name:
+    en-US:
+    - Paris
+    fr-FR:
+    - Paris
+    es-ES:
+    - París
+    de-DE:
+    - Paris
+    pt-PT:
+    - Paris (coletividade com estatuto especial)
+  id: FR-75
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-75.svg"
+  group: FR-IDF
+  numeric_code: '75'
+  capital: FR-PARIS
+- name:
+    en-US:
+    - Mayenne
+    fr-FR:
+    - Mayenne
+    es-ES:
+    - Mayenne
+    de-DE:
+    - Mayenne
+    pt-PT:
+    - Mayenne
+  id: FR-53
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-53.svg"
+  group: FR-PDL
+  numeric_code: '53'
+  capital: FR-LAVAL
+- name:
+    en-US:
+    - Mayotte
+    fr-FR:
+    - Mayotte
+    es-ES:
+    - Mayotte
+    de-DE:
+    - Mayotte
+    pt-PT:
+    - Maiote
+  id: FR-976
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-976.svg"
+  group: ''
+  numeric_code: '976'
+  capital: FR-DZAOUDZI
+- name:
+    en-US:
+    - Meurthe-et-Moselle
+    fr-FR:
+    - Meurthe-et-Moselle
+    es-ES:
+    - Meurthe
+    de-DE:
+    - Meurthe-et-Moselle
+    pt-PT:
+    - Meurthe e Mosela
+  id: FR-54
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-54.svg"
+  group: FR-GES
+  numeric_code: '54'
+  capital: FR-NANCY
+- name:
+    en-US:
+    - Meuse
+    fr-FR:
+    - Meuse
+    es-ES:
+    - Mosa
+    de-DE:
+    - Meuse
+    pt-PT:
+    - Mosa
+  id: FR-55
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-55.svg"
+  group: FR-GES
+  numeric_code: '55'
+  capital: FR-BAR-LE-DUC
+- name:
+    en-US:
+    - Morbihan
+    fr-FR:
+    - Morbihan
+    es-ES:
+    - Morbihan
+    de-DE:
+    - Morbihan
+    pt-PT:
+    - Morbihan
+  id: FR-56
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-56.svg"
+  group: FR-BRE
+  numeric_code: '56'
+  capital: FR-VANNES
+- name:
+    en-US:
+    - Moselle
+    fr-FR:
+    - Moselle
+    es-ES:
+    - Mosela
+    de-DE:
+    - Moselle
+    pt-PT:
+    - Mosela
+  id: FR-57
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-57.svg"
+  group: FR-GES
+  numeric_code: '57'
+  capital: FR-METZ
+- name:
+    en-US:
+    - Nièvre
+    fr-FR:
+    - Nièvre
+    es-ES:
+    - Nièvre
+    de-DE:
+    - Nièvre
+    pt-PT:
+    - Nièvre
+  id: FR-58
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-58.svg"
+  group: FR-BFC
+  numeric_code: '58'
+  capital: FR-NEVERS
+- name:
+    en-US:
+    - Nord
+    fr-FR:
+    - Nord
+    es-ES:
+    - Norte
+    de-DE:
+    - Nord
+    pt-PT:
+    - Norte
+  id: FR-59
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-59.svg"
+  group: FR-HDF
+  numeric_code: '59'
+  capital: FR-LILLE
+- name:
+    en-US:
+    - Oise
+    fr-FR:
+    - Oise
+    es-ES:
+    - Oise
+    de-DE:
+    - Oise
+    pt-PT:
+    - Oise
+  id: FR-60
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-60.svg"
+  group: FR-HDF
+  numeric_code: '60'
+  capital: FR-BEAUVAIS
+- name:
+    en-US:
+    - Orne
+    fr-FR:
+    - Orne
+    es-ES:
+    - Orne
+    de-DE:
+    - Orne
+    pt-PT:
+    - Orne
+  id: FR-61
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-61.svg"
+  group: FR-NOR
+  numeric_code: '61'
+  capital: FR-ALENCON
+- name:
+    en-US:
+    - Pas-de-Calais
+    fr-FR:
+    - Pas-de-Calais
+    es-ES:
+    - Paso
+    de-DE:
+    - Pas-de-Calais
+    pt-PT:
+    - Pas-de-Calais
+  id: FR-62
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-62.svg"
+  group: FR-HDF
+  numeric_code: '62'
+  capital: FR-ARRAS
+- name:
+    en-US:
+    - Puy-de-Dôme
+    fr-FR:
+    - Puy-de-Dôme
+    es-ES:
+    - Puy-de-Dôme
+    de-DE:
+    - Puy-de-Dôme
+    pt-PT:
+    - Puy-de-Dôme
+  id: FR-63
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-63.svg"
+  group: FR-ARA
+  numeric_code: '63'
+  capital: FR-CLERMONT-FERRAND
+- name:
+    en-US:
+    - Pyrénées-Atlantiques
+    fr-FR:
+    - Pyrénées-Atlantiques
+    es-ES:
+    - Pirineos
+    de-DE:
+    - Pyrénées-Atlantiques
+    pt-PT:
+    - Pirenéus Atlânticos
+  id: FR-64
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-64.svg"
+  group: FR-NAQ
+  numeric_code: '64'
+  capital: FR-PAU
+- name:
+    en-US:
+    - Pyrénées-Orientales
+    fr-FR:
+    - Pyrénées-Orientales
+    es-ES:
+    - Pirineos
+    de-DE:
+    - Pyrénées-Orientales
+    pt-PT:
+    - Pirenéus Orientais
+  id: FR-66
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-66.svg"
+  group: FR-OCC
+  numeric_code: '66'
+  capital: FR-PERPIGNAN
+- name:
+    en-US:
+    - Bas-Rhin
+    fr-FR:
+    - Bas-Rhin
+    es-ES:
+    - Bajo
+    de-DE:
+    - Bas-Rhin
+    pt-PT:
+    - Baixo Reno
+  id: FR-67
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-67.svg"
+  group: FR-GES
+  numeric_code: '67'
+  capital: FR-STRASBOURG
+- name:
+    en-US:
+    - Haut-Rhin
+    fr-FR:
+    - Haut-Rhin
+    es-ES:
+    - Alto
+    de-DE:
+    - Haut-Rhin
+    pt-PT:
+    - Alto Reno
+  id: FR-68
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-68.svg"
+  group: FR-GES
+  numeric_code: '68'
+  capital: FR-COLMAR
+- name:
+    en-US:
+    - La Réunion
+    fr-FR:
+    - La Réunion
+    es-ES:
+    - Reunión
+    de-DE:
+    - Réunion
+    pt-PT:
+    - Reunião
+  id: FR-974
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-974.svg"
+  group: ''
+  numeric_code: '974'
+  capital: FR-SAINT-DENIS
+- name:
+    en-US:
+    - Rhône
+    fr-FR:
+    - Rhône
+    es-ES:
+    - Ródano
+    de-DE:
+    - Rhône
+    pt-PT:
+    - Ródano
+  id: FR-69
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-69.svg"
+  group: FR-ARA
+  numeric_code: '69'
+  capital: FR-LYON
+- name:
+    en-US:
+    - Saône-et-Loire
+    fr-FR:
+    - Saône-et-Loire
+    es-ES:
+    - Saona
+    de-DE:
+    - Saône-et-Loire
+    pt-PT:
+    - Sona e Loire
+  id: FR-71
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-71.svg"
+  group: FR-BFC
+  numeric_code: '71'
+  capital: FR-MACON
+- name:
+    en-US:
+    - Sarthe
+    fr-FR:
+    - Sarthe
+    es-ES:
+    - Sarthe
+    de-DE:
+    - Sarthe
+    pt-PT:
+    - Sarthe
+  id: FR-72
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-72.svg"
+  group: FR-PDL
+  numeric_code: '72'
+  capital: FR-LE MANS
+- name:
+    en-US:
+    - Savoie
+    fr-FR:
+    - Savoie
+    es-ES:
+    - Saboya
+    de-DE:
+    - Savoie
+    pt-PT:
+    - Saboia
+  id: FR-73
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-73.svg"
+  group: FR-ARA
+  numeric_code: '73'
+  capital: FR-CHAMBERY
+- name:
+    en-US:
+    - Seine-et-Marne
+    fr-FR:
+    - Seine-et-Marne
+    es-ES:
+    - Sena
+    de-DE:
+    - Seine-et-Marne
+    pt-PT:
+    - Sena e Marne
+  id: FR-77
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-77.svg"
+  group: FR-IDF
+  numeric_code: '77'
+  capital: FR-MELUN
+- name:
+    en-US:
+    - Seine-Maritime
+    fr-FR:
+    - Seine-Maritime
+    es-ES:
+    - Sena
+    de-DE:
+    - Seine-Maritime
+    pt-PT:
+    - Sena Marítimo
+  id: FR-76
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-76.svg"
+  group: FR-NOR
+  numeric_code: '76'
+  capital: FR-ROUEN
+- name:
+    en-US:
+    - Seine-Saint-Denis
+    fr-FR:
+    - Seine-Saint-Denis
+    es-ES:
+    - Sena-San
+    de-DE:
+    - Seine-Saint-Denis
+    pt-PT:
+    - Sena-Saint-Denis
+  id: FR-93
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-93.svg"
+  group: FR-IDF
+  numeric_code: '93'
+  capital: FR-BOBIGNY
+- name:
+    en-US:
+    - Somme
+    fr-FR:
+    - Somme
+    es-ES:
+    - Somme
+    de-DE:
+    - Somme
+    pt-PT:
+    - Somme
+  id: FR-80
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-80.svg"
+  group: FR-HDF
+  numeric_code: '80'
+  capital: FR-AMIENS
+- name:
+    en-US:
+    - Tarn
+    fr-FR:
+    - Tarn
+    es-ES:
+    - Tarn
+    de-DE:
+    - Tarn
+    pt-PT:
+    - Tarn
+  id: FR-81
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-81.svg"
+  group: FR-OCC
+  numeric_code: '81'
+  capital: FR-ALBI
+- name:
+    en-US:
+    - Tarn-et-Garonne
+    fr-FR:
+    - Tarn-et-Garonne
+    es-ES:
+    - Tarn
+    de-DE:
+    - Tarn-et-Garonne
+    pt-PT:
+    - Tarn e Garona
+  id: FR-82
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-82.svg"
+  group: FR-OCC
+  numeric_code: '82'
+  capital: FR-MONTAUBAN
+- name:
+    en-US:
+    - Territoire de Belfort
+    fr-FR:
+    - Territoire de Belfort
+    es-ES:
+    - Territorio de Belfort
+    de-DE:
+    - Territoire
+    pt-PT:
+    - Território de Belfort
+  id: FR-90
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-90.svg"
+  group: FR-BFC
+  numeric_code: '90'
+  capital: FR-BELFORT
+- name:
+    en-US:
+    - Val-de-Marne
+    fr-FR:
+    - Val-de-Marne
+    es-ES:
+    - Valle
+    de-DE:
+    - Val-de-Marne
+    pt-PT:
+    - Vale do Marne
+  id: FR-94
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-94.svg"
+  group: FR-IDF
+  numeric_code: '94'
+  capital: FR-CRETEIL
+- name:
+    en-US:
+    - Val-d'Oise
+    fr-FR:
+    - Val-d'Oise
+    es-ES:
+    - Valle
+    de-DE:
+    - Val-d'Oise
+    pt-PT:
+    - Val-d'Oise
+  id: FR-95
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-95.svg"
+  group: FR-IDF
+  numeric_code: '95'
+  capital: FR-PONTOISE
+- name:
+    en-US:
+    - Var
+    fr-FR:
+    - Var
+    es-ES:
+    - Var
+    de-DE:
+    - Var
+    pt-PT:
+    - Var
+  id: FR-83
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-83.svg"
+  group: FR-PAC
+  numeric_code: '83'
+  capital: FR-TOULON
+- name:
+    en-US:
+    - Vaucluse
+    fr-FR:
+    - Vaucluse
+    es-ES:
+    - Vaucluse
+    de-DE:
+    - Vaucluse
+    pt-PT:
+    - Vaucluse
+  id: FR-84
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-84.svg"
+  group: FR-PAC
+  numeric_code: '84'
+  capital: FR-AVIGNON
+- name:
+    en-US:
+    - Vendée
+    fr-FR:
+    - Vendée
+    es-ES:
+    - Vandea
+    de-DE:
+    - Vendée
+    pt-PT:
+    - Vendeia
+  id: FR-85
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-85.svg"
+  group: FR-PDL
+  numeric_code: '85'
+  capital: FR-LA-ROCHE-SUR-YON
+- name:
+    en-US:
+    - Vienne
+    fr-FR:
+    - Vienne
+    es-ES:
+    - Vienne
+    de-DE:
+    - Vienne
+    pt-PT:
+    - Vienne
+  id: FR-86
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-86.svg"
+  group: FR-NAQ
+  numeric_code: '86'
+  capital: FR-POITIERS
+- name:
+    en-US:
+    - Vosges
+    fr-FR:
+    - Vosges
+    es-ES:
+    - Vosgos
+    de-DE:
+    - Vosges
+    pt-PT:
+    - Vosges
+  id: FR-88
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-88.svg"
+  group: FR-GES
+  numeric_code: '88'
+  capital: FR-EPINAL
+- name:
+    en-US:
+    - Yonne
+    fr-FR:
+    - Yonne
+    es-ES:
+    - Yonne
+    de-DE:
+    - Yonne
+    pt-PT:
+    - Yonne
+  id: FR-89
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-89.svg"
+  group: FR-BFC
+  numeric_code: '89'
+  capital: FR-AUXERRE
+- name:
+    en-US:
+    - Yvelines
+    fr-FR:
+    - Yvelines
+    es-ES:
+    - Yvelines
+    de-DE:
+    - Yvelines
+    pt-PT:
+    - Yvelines
+  id: FR-78
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-78.svg"
+  group: FR-IDF
+  numeric_code: '78'
+  capital: FR-VERSAILLES
+
+
+
+# FRANCE REGIONS
+
+- name:
+    en-US:
+    - "Auvergne-Rhône-Alpes"
+    fr-FR:
+    - "Auvergne-Rhône-Alpes"
+    de-DE:
+    - "Auvergne-Rhône-Alpes"
+    es-ES:
+    - "Auvernia-Ródano-Alpes"
+    pt-PT:
+    - "Auvergne-Ródano-Alpes"
+  id: FR-ARA
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-ARA.svg"
+  group: FR
+  numeric_code:
+  capital : FR-LYON
+- name:
+    en-US:
+    - "Burgundy-Franche-Comté"
+    fr-FR:
+    - "Bourgogne-Franche-Comté"
+    de-DE:
+    - "Burgund-Franche-Comté"
+    es-ES:
+    - "Borgoña-Franco Condado"
+    pt-PT:
+    - "Borgonha-Franco-Condado"
+  id: FR-BFC
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-BFC.svg"
+  group: FR
+  numeric_code:
+  capital : FR-DIJON
+- name:
+    en-US:
+    - "Brittany"
+    fr-FR:
+    - "Bretagne"
+    de-DE:
+    - "Bretagne"
+    es-ES:
+    - "Bretaña"
+    pt-PT:
+    - "Bretanha"
+  id: FR-BRE
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-BRE.svg"
+  group: FR
+  numeric_code:
+  capital : FR-RENNES
+- name:
+    en-US:
+    - "Centre-Val de Loire"
+    fr-FR:
+    - "Centre-Val de Loire"
+    de-DE:
+    - "Centre-Val de Loire"
+    es-ES:
+    - "Centro-Valle de Loira"
+    pt-PT:
+    - "Centro-Vale do Loire"
+  id: FR-CVL
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-CVL.svg"
+  group: FR
+  numeric_code:
+  capital : FR-ORLEANS
+- name:
+    en-US:
+    - "Corsica"
+    fr-FR:
+    - "Corse"
+    de-DE:
+    - "Korsika"
+    es-ES:
+    - "Córcega"
+    pt-PT:
+    - "Córsega"
+  id: FR-COR
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-COR.svg"
+  group: FR
+  numeric_code:
+  capital : FR-AJACCIO
+- name:
+    en-US:
+    - "Grand Est"
+    fr-FR:
+    - "Grand Est"
+    de-DE:
+    - "Grand Est"
+    es-ES:
+    - "Gran Este"
+    pt-PT:
+    - "Grande Leste"
+  id: FR-GES
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-GES.svg"
+  group: FR
+  numeric_code:
+  capital : FR-
+- name:
+    en-US:
+    - "Hauts-de-France"
+    fr-FR:
+    - "Hauts-de-France"
+    de-DE:
+    - "Hauts-de-France"
+    es-ES:
+    - "Altos de Francia"
+    pt-PT:
+    - "Alto da França"
+  id: FR-HDF
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-HDF.svg"
+  group: FR
+  numeric_code:
+  capital : FR-LILLE
+- name:
+    en-US:
+    - "Île-de-France"
+    fr-FR:
+    - "Île-de-France"
+    de-DE:
+    - "Île-de-France"
+    es-ES:
+    - "Isla de Francia"
+    pt-PT:
+    - "Ilha de França"
+  id: FR-IDF
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-IDF.svg"
+  group: FR
+  numeric_code:
+  capital : FR-PARIS
+- name:
+    en-US:
+    - "Normandy"
+    fr-FR:
+    - "Normandie"
+    de-DE:
+    - "Normandie"
+    es-ES:
+    - "Normandía"
+    pt-PT:
+    - "Normandia"
+  id: FR-NOR
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-NOR.svg"
+  group: FR
+  numeric_code:
+  capital : FR-ROUEN
+- name:
+    en-US:
+    - "Nouvelle-Aquitaine"
+    fr-FR:
+    - "Nouvelle-Aquitaine"
+    de-DE:
+    - "Nouvelle-Aquitaine"
+    es-ES:
+    - "Nueva Aquitania"
+    pt-PT:
+    - "Nova Aquitânia"
+  id: FR-NAQ
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-NAQ.svg"
+  group: FR
+  numeric_code:
+  capital : FR-BORDEAUX
+- name:
+    en-US:
+    - "Occitanie"
+    fr-FR:
+    - "Occitanie"
+    de-DE:
+    - "Okzitanien"
+    es-ES:
+    - "Occitania"
+    pt-PT:
+    - "Occitânia"
+  id: FR-OCC
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-OCC.svg"
+  group: FR
+  numeric_code:
+  capital : FR-TOULOUSE
+- name:
+    en-US:
+    - "Pays de la Loire"
+    fr-FR:
+    - "Pays de la Loire"
+    de-DE:
+    - "Pays de la Loire"
+    es-ES:
+    - "País del Loira"
+    pt-PT:
+    - "País do Loire"
+  id: FR-PDL
+  flag_url: "./assets/maps/flags/france-departments/flag_FR-PDL.svg"
+  group: FR
+  numeric_code:
+  capital : FR-NANTES
+
+# JAPAN CITIES
+- name: 
+    en-US:
+    - Sapporo
+    fr-FR:
+    - Sapporo
+    de-DE:
+    - Sapporo
+    es-ES:
+    - Sapporo
+    pt-PT:
+    - Sapporo
+  id: JP-SAPPORO
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-SAPPORO.svg"
+  group: JP-01
+  numeric_code: '001-0000'
+  capital:
+- name: 
+    en-US:
+    - Aomori
+    fr-FR:
+    - Aomori
+    de-DE:
+    - Aomori
+    es-ES:
+    - Aomori
+    pt-PT:
+    - Aomori
+  id: JP-AOMORI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-AOMORI.svg"
+  group: JP-02
+  numeric_code: '002-0000'
+  capital:
+- name: 
+    en-US:
+    - Morioka
+    fr-FR:
+    - Morioka
+    de-DE:
+    - Morioka
+    es-ES:
+    - Morioka
+    pt-PT:
+    - Morioka
+  id: JP-MORIOKA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-MORIOKA.svg"
+  group: JP-03
+  numeric_code: '003-0000'
+  capital:
+- name: 
+    en-US:
+    - Sendai
+    fr-FR:
+    - Sendai
+    de-DE:
+    - Sendai
+    es-ES:
+    - Sendai
+    pt-PT:
+    - Sendai
+  id: JP-SENDAI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-SENDAI.svg"
+  group: JP-04
+  numeric_code: '004-0000'
+  capital:
+- name: 
+    en-US:
+    - Akita
+    fr-FR:
+    - Akita
+    de-DE:
+    - Akita
+    es-ES:
+    - Akita
+    pt-PT:
+    - Akita
+  id: JP-AKITA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-AKITA.svg"
+  group: JP-05
+  numeric_code: '005-0000'
+  capital:
+- name: 
+    en-US:
+    - Yamagata
+    fr-FR:
+    - Yamagata
+    de-DE:
+    - Yamagata
+    es-ES:
+    - Yamagata
+    pt-PT:
+    - Yamagata
+  id: JP-YAMAGATA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-YAMAGATA.svg"
+  group: JP-06
+  numeric_code: '006-0000'
+  capital:
+- name: 
+    en-US:
+    - Fukushima
+    fr-FR:
+    - Fukushima
+    de-DE:
+    - Fukushima
+    es-ES:
+    - Fukushima
+    pt-PT:
+    - Fukushima
+  id: JP-FUKUSHIMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-FUKUSHIMA.svg"
+  group: JP-07
+  numeric_code: '007-0000'
+  capital:
+- name: 
+    en-US:
+    - Mito
+    fr-FR:
+    - Mito
+    de-DE:
+    - Mito
+    es-ES:
+    - Mito
+    pt-PT:
+    - Mito
+  id: JP-MITO
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-MITO.svg"
+  group: JP-08
+  numeric_code: '008-0000'
+  capital:
+- name: 
+    en-US:
+    - Utsunomiya
+    fr-FR:
+    - Utsunomiya
+    de-DE:
+    - Utsunomiya
+    es-ES:
+    - Utsunomiya
+    pt-PT:
+    - Utsunomiya
+  id: JP-UTSUNOMIYA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-UTSUNOMIYA.svg"
+  group: JP-09
+  numeric_code: '009-0000'
+  capital:
+- name: 
+    en-US:
+    - Maebashi
+    fr-FR:
+    - Maebashi
+    de-DE:
+    - Maebashi
+    es-ES:
+    - Maebashi
+    pt-PT:
+    - Maebashi
+  id: JP-MAEBASHI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-MAEBASHI.svg"
+  group: JP-10
+  numeric_code: '010-0000'
+  capital:
+- name: 
+    en-US:
+    - Saitama
+    fr-FR:
+    - Saitama
+    de-DE:
+    - Saitama
+    es-ES:
+    - Saitama
+    pt-PT:
+    - Saitama
+  id: JP-SAITAMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-SAITAMA.svg"
+  group: JP-11
+  numeric_code: '011-0000'
+  capital:
+- name: 
+    en-US:
+    - Chiba
+    fr-FR:
+    - Chiba
+    de-DE:
+    - Chiba
+    es-ES:
+    - Chiba
+    pt-PT:
+    - Chiba
+  id: JP-CHIBA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-CHIBA.svg"
+  group: JP-12
+  numeric_code: '012-0000'
+  capital:
+- name: 
+    en-US:
+    - Tokyo
+    fr-FR:
+    - Tokyo
+    de-DE:
+    - Tokio
+    es-ES:
+    - Tokio
+    pt-PT:
+    - Tóquio
+  id: JP-TOKYO
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOKYO.svg"
+  group: JP-13
+  numeric_code: '013-0000'
+  capital:
+- name: 
+    en-US:
+    - Yokohama
+    fr-FR:
+    - Yokohama
+    de-DE:
+    - Yokohama
+    es-ES:
+    - Yokohama
+    pt-PT:
+    - Yokohama
+  id: JP-YOKOHAMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-YOKOHAMA.svg"
+  group: JP-14
+  numeric_code: '014-0000'
+  capital:
+- name: 
+    en-US:
+    - Niigata
+    fr-FR:
+    - Niigata
+    de-DE:
+    - Niigata
+    es-ES:
+    - Niigata
+    pt-PT:
+    - Niigata
+  id: JP-NIIGATA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-NIIGATA.svg"
+  group: JP-15
+  numeric_code: '015-0000'
+  capital:
+- name: 
+    en-US:
+    - Toyama
+    fr-FR:
+    - Toyama
+    de-DE:
+    - Toyama
+    es-ES:
+    - Toyama
+    pt-PT:
+    - Toyama
+  id: JP-TOYAMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOYAMA.svg"
+  group: JP-16
+  numeric_code: '016-0000'
+  capital:
+- name: 
+    en-US:
+    - Kanazawa
+    fr-FR:
+    - Kanazawa
+    de-DE:
+    - Kanazawa
+    es-ES:
+    - Kanazawa
+    pt-PT:
+    - Kanazawa
+  id: JP-KANAZAWA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KANAZAWA.svg"
+  group: JP-17
+  numeric_code: '017-0000'
+  capital:
+- name: 
+    en-US:
+    - Fukui
+    fr-FR:
+    - Fukui
+    de-DE:
+    - Fukui
+    es-ES:
+    - Fukui
+    pt-PT:
+    - Fukui
+  id: JP-FUKUI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-FUKUI.svg"
+  group: JP-18
+  numeric_code: '018-0000'
+  capital:
+- name: 
+    en-US:
+    - Kofu
+    fr-FR:
+    - Kofu
+    de-DE:
+    - Kofu
+    es-ES:
+    - Kofu
+    pt-PT:
+    - Kofu
+  id: JP-KOFU
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KOFU.svg"
+  group: JP-19
+  numeric_code: '019-0000'
+  capital:
+- name: 
+    en-US:
+    - Nagano
+    fr-FR:
+    - Nagano
+    de-DE:
+    - Nagano
+    es-ES:
+    - Nagano
+    pt-PT:
+    - Nagano
+  id: JP-NAGANO
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAGANO.svg"
+  group: JP-20
+  numeric_code: '020-0000'
+  capital:
+- name: 
+    en-US:
+    - Gifu
+    fr-FR:
+    - Gifu
+    de-DE:
+    - Gifu
+    es-ES:
+    - Gifu
+    pt-PT:
+    - Gifu
+  id: JP-GIFU
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-GIFU.svg"
+  group: JP-21
+  numeric_code: '021-0000'
+  capital:
+- name: 
+    en-US:
+    - Shizuoka
+    fr-FR:
+    - Shizuoka
+    de-DE:
+    - Shizuoka
+    es-ES:
+    - Shizuoka
+    pt-PT:
+    - Shizuoka
+  id: JP-SHIZUOKA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-SHIZUOKA.svg"
+  group: JP-22
+  numeric_code: '022-0000'
+  capital:
+- name: 
+    en-US:
+    - Nagoya
+    fr-FR:
+    - Nagoya
+    de-DE:
+    - Nagoya
+    es-ES:
+    - Nagoya
+    pt-PT:
+    - Nagoia
+  id: JP-NAGOYA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAGOYA.svg"
+  group: JP-23
+  numeric_code: '023-0000'
+  capital:
+- name: 
+    en-US:
+    - Tsu
+    fr-FR:
+    - Tsu
+    de-DE:
+    - Tsu
+    es-ES:
+    - Tsu
+    pt-PT:
+    - Tsu
+  id: JP-TSU
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-TSU.svg"
+  group: JP-24
+  numeric_code: '024-0000'
+  capital:
+- name: 
+    en-US:
+    - Otsu
+    fr-FR:
+    - Otsu
+    de-DE:
+    - Ōtsu
+    es-ES:
+    - Otsu
+    pt-PT:
+    - Otsu
+  id: JP-OTSU
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-OTSU.svg"
+  group: JP-25
+  numeric_code: '025-0000'
+  capital:
+- name: 
+    en-US:
+    - Kyoto
+    fr-FR:
+    - Kyoto
+    de-DE:
+    - Kyōto
+    es-ES:
+    - Kioto
+    pt-PT:
+    - Quioto
+  id: JP-KYOTO
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KYOTO.svg"
+  group: JP-26
+  numeric_code: '026-0000'
+  capital:
+- name: 
+    en-US:
+    - Osaka
+    fr-FR:
+    - Osaka
+    de-DE:
+    - Osaka
+    es-ES:
+    - Osaka
+    pt-PT:
+    - Osaka
+  id: JP-OSAKA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-OSAKA.svg"
+  group: JP-27
+  numeric_code: '027-0000'
+  capital:
+- name: 
+    en-US:
+    - Kobe
+    fr-FR:
+    - Kobe
+    de-DE:
+    - Kōbe
+    es-ES:
+    - Kobe
+    pt-PT:
+    - Kobe
+  id: JP-KOBE
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KOBE.svg"
+  group: JP-28
+  numeric_code: '028-0000'
+  capital:
+- name: 
+    en-US:
+    - Nara
+    fr-FR:
+    - Nara
+    de-DE:
+    - Nara
+    es-ES:
+    - Nara
+    pt-PT:
+    - Nara
+  id: JP-NARA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-NARA.svg"
+  group: JP-29
+  numeric_code: '029-0000'
+  capital:
+- name: 
+    en-US:
+    - Wakayama
+    fr-FR:
+    - Wakayama
+    de-DE:
+    - Wakayama
+    es-ES:
+    - Wakayama
+    pt-PT:
+    - Wakayama
+  id: JP-WAKAYAMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-WAKAYAMA.svg"
+  group: JP-30
+  numeric_code: '030-0000'
+  capital:
+- name: 
+    en-US:
+    - Tottori
+    fr-FR:
+    - Tottori
+    de-DE:
+    - Tottori
+    es-ES:
+    - Tottori
+    pt-PT:
+    - Tottori
+  id: JP-TOTTORI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOTTORI.svg"
+  group: JP-31
+  numeric_code: '031-0000'
+  capital:
+- name: 
+    en-US:
+    - Matsue
+    fr-FR:
+    - Matsue
+    de-DE:
+    - Matsue
+    es-ES:
+    - Matsue
+    pt-PT:
+    - Matsue
+  id: JP-MATSUE
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-MATSUE.svg"
+  group: JP-32
+  numeric_code: '032-0000'
+  capital:
+- name: 
+    en-US:
+    - Okayama
+    fr-FR:
+    - Okayama
+    de-DE:
+    - Okayama
+    es-ES:
+    - Okayama
+    pt-PT:
+    - Okayama
+  id: JP-OKAYAMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-OKAYAMA.svg"
+  group: JP-33
+  numeric_code: '033-0000'
+  capital:
+- name: 
+    en-US:
+    - Hiroshima
+    fr-FR:
+    - Hiroshima
+    de-DE:
+    - Hiroshima
+    es-ES:
+    - Hiroshima
+    pt-PT:
+    - Hiroshima
+  id: JP-HIROSHIMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-HIROSHIMA.svg"
+  group: JP-34
+  numeric_code: '034-0000'
+  capital:
+- name: 
+    en-US:
+    - Yamaguchi
+    fr-FR:
+    - Yamaguchi
+    de-DE:
+    - Yamaguchi
+    es-ES:
+    - Yamaguchi
+    pt-PT:
+    - Yamaguchi
+  id: JP-YAMAGUCHI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-YAMAGUCHI.svg"
+  group: JP-35
+  numeric_code: '035-0000'
+  capital:
+- name: 
+    en-US:
+    - Tokushima
+    fr-FR:
+    - Tokushima
+    de-DE:
+    - Tokushima
+    es-ES:
+    - Tokushima
+    pt-PT:
+    - Tokushima
+  id: JP-TOKUSHIMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOKUSHIMA.svg"
+  group: JP-36
+  numeric_code: '036-0000'
+  capital:
+- name: 
+    en-US:
+    - Takamatsu
+    fr-FR:
+    - Takamatsu
+    de-DE:
+    - Takamatsu
+    es-ES:
+    - Takamatsu
+    pt-PT:
+    - Takamatsu
+  id: JP-TAKAMATSU
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-TAKAMATSU.svg"
+  group: JP-37
+  numeric_code: '037-0000'
+  capital:
+- name: 
+    en-US:
+    - Matsuyama
+    fr-FR:
+    - Matsuyama
+    de-DE:
+    - Matsuyama
+    es-ES:
+    - Matsuyama
+    pt-PT:
+    - Matsuyama
+  id: JP-MATSUYAMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-MATSUYAMA.svg"
+  group: JP-38
+  numeric_code: '038-0000'
+  capital:
+- name: 
+    en-US:
+    - Kochi
+    fr-FR:
+    - Kōchi
+    de-DE:
+    - Kōchi
+    es-ES:
+    - Kōchi
+    pt-PT:
+    - Kochi
+  id: JP-KOCHI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KOCHI.svg"
+  group: JP-39
+  numeric_code: '039-0000'
+  capital:
+- name: 
+    en-US:
+    - Fukuoka
+    fr-FR:
+    - Fukuoka
+    de-DE:
+    - Fukuoka
+    es-ES:
+    - Fukuoka
+    pt-PT:
+    - Fukuoka
+  id: JP-FUKUOKA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-FUKUOKA.svg"
+  group: JP-40
+  numeric_code: '040-0000'
+  capital:
+- name: 
+    en-US:
+    - Saga
+    fr-FR:
+    - Saga
+    de-DE:
+    - Saga
+    es-ES:
+    - Saga
+    pt-PT:
+    - Saga
+  id: JP-SAGA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-SAGA.svg"
+  group: JP-41
+  numeric_code: '041-0000'
+  capital:
+- name: 
+    en-US:
+    - Nagasaki
+    fr-FR:
+    - Nagasaki
+    de-DE:
+    - Nagasaki
+    es-ES:
+    - Nagasaki
+    pt-PT:
+    - Nagasaki
+  id: JP-NAGASAKI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAGASAKI.svg"
+  group: JP-42
+  numeric_code: '042-0000'
+  capital:
+- name: 
+    en-US:
+    - Kumamoto
+    fr-FR:
+    - Kumamoto
+    de-DE:
+    - Kumamoto
+    es-ES:
+    - Kumamoto
+    pt-PT:
+    - Kumamoto
+  id: JP-KUMAMOTO
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KUMAMOTO.svg"
+  group: JP-43
+  numeric_code: '043-0000'
+  capital:
+- name: 
+    en-US:
+    - Oita
+    fr-FR:
+    - Ōita
+    de-DE:
+    - Ōita
+    es-ES:
+    - Ōita
+    pt-PT:
+    - Oita
+  id: JP-OITA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-OITA.svg"
+  group: JP-44
+  numeric_code: '044-0000'
+  capital:
+- name: 
+    en-US:
+    - Miyazaki
+    fr-FR:
+    - Miyazaki
+    de-DE:
+    - Miyazaki
+    es-ES:
+    - Miyazaki
+    pt-PT:
+    - Miyazaki
+  id: JP-MIYAZAKI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-MIYAZAKI.svg"
+  group: JP-45
+  numeric_code: '045-0000'
+  capital:
+- name: 
+    en-US:
+    - Kagoshima
+    fr-FR:
+    - Kagoshima
+    de-DE:
+    - Kagoshima
+    es-ES:
+    - Kagoshima
+    pt-PT:
+    - Kagoshima
+  id: JP-KAGOSHIMA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KAGOSHIMA.svg"
+  group: JP-46
+  numeric_code: '046-0000'
+  capital:
+- name: 
+    en-US:
+    - Naha
+    fr-FR:
+    - Naha
+    de-DE:
+    - Naha
+    es-ES:
+    - Naha
+    pt-PT:
+    - Naha
+  id: JP-NAHA
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAHA.svg"
+  group: JP-47
+  numeric_code: '047-0000'
+  capital:
+
+
+
+
+
+
+  # JAPAN PREFECTURES
+- name: 
+    en-US:
+    - Hokkaido
+    fr-FR:
+    - Hokkaido
+    de-DE:
+    - Hokkaido
+    es-ES:
+    - Hokkaido
+    pt-PT:
+    - Hokkaido
+  id: JP-01
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-01.svg"
+  group: JP-HOK
+  numeric_code: '001'
+  capital: JP-SAPPORO
+- name: 
+    en-US:
+    - Aomori
+    fr-FR:
+    - Aomori
+    de-DE:
+    - Aomori
+    es-ES:
+    - Aomori
+    pt-PT:
+    - Aomori
+  id: JP-02
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-02.svg"
+  group: JP-TOH
+  numeric_code: '002'
+  capital: JP-AOMORI
+- name: 
+    en-US:
+    - Iwate
+    fr-FR:
+    - Iwate
+    de-DE:
+    - Iwate
+    es-ES:
+    - Iwate
+    pt-PT:
+    - Iwate
+  id: JP-03
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-03.svg"
+  group: JP-TOH
+  numeric_code: '003'
+  capital: JP-MORIOKA
+- name: 
+    en-US:
+    - Miyagi
+    fr-FR:
+    - Miyagi
+    de-DE:
+    - Miyagi
+    es-ES:
+    - Miyagi
+    pt-PT:
+    - Miyagi
+  id: JP-04
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-04.svg"
+  group: JP-TOH
+  numeric_code: '004'
+  capital: JP-SENDAI
+- name: 
+    en-US:
+    - Akita
+    fr-FR:
+    - Akita
+    de-DE:
+    - Akita
+    es-ES:
+    - Akita
+    pt-PT:
+    - Akita
+  id: JP-05
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-05.svg"
+  group: JP-TOH
+  numeric_code: '005'
+  capital: JP-AKITA
+- name: 
+    en-US:
+    - Yamagata
+    fr-FR:
+    - Yamagata
+    de-DE:
+    - Yamagata
+    es-ES:
+    - Yamagata
+    pt-PT:
+    - Yamagata
+  id: JP-06
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-06.svg"
+  group: JP-TOH
+  numeric_code: '006'
+  capital: JP-YAMAGATA
+- name: 
+    en-US:
+    - Fukushima
+    fr-FR:
+    - Fukushima
+    de-DE:
+    - Fukushima
+    es-ES:
+    - Fukushima
+    pt-PT:
+    - Fukushima
+  id: JP-07
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-07.svg"
+  group: JP-TOH
+  numeric_code: '007'
+  capital: JP-FUKUSHIMA
+- name: 
+    en-US:
+    - Ibaraki
+    fr-FR:
+    - Ibaraki
+    de-DE:
+    - Ibaraki
+    es-ES:
+    - Ibaraki
+    pt-PT:
+    - Ibaraki
+  id: JP-08
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-08.svg"
+  group: JP-KNT
+  numeric_code: '008'
+  capital: JP-MITO
+- name: 
+    en-US:
+    - Tochigi
+    fr-FR:
+    - Tochigi
+    de-DE:
+    - Tochigi
+    es-ES:
+    - Tochigi
+    pt-PT:
+    - Tochigi
+  id: JP-09
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-09.svg"
+  group: JP-KNT
+  numeric_code: '009'
+  capital: JP-UTSUNOMIYA
+- name: 
+    en-US:
+    - Gunma
+    fr-FR:
+    - Gunma
+    de-DE:
+    - Gunma
+    es-ES:
+    - Gunma
+    pt-PT:
+    - Gunma
+  id: JP-10
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-10.svg"
+  group: JP-KNT
+  numeric_code: '010'
+  capital: JP-MAEBASHI
+- name: 
+    en-US:
+    - Saitama
+    fr-FR:
+    - Saitama
+    de-DE:
+    - Saitama
+    es-ES:
+    - Saitama
+    pt-PT:
+    - Saitama
+  id: JP-11
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-11.svg"
+  group: JP-KNT
+  numeric_code: '011'
+  capital: JP-SAITAMA
+- name: 
+    en-US:
+    - Chiba
+    fr-FR:
+    - Chiba
+    de-DE:
+    - Chiba
+    es-ES:
+    - Chiba
+    pt-PT:
+    - Chiba
+  id: JP-12
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-12.svg"
+  group: JP-KNT
+  numeric_code: '012'
+  capital: JP-CHIBA
+- name: 
+    en-US:
+    - Tokyo
+    fr-FR:
+    - Tokyo
+    de-DE:
+    - Tokio
+    es-ES:
+    - Tokio
+    pt-PT:
+    - Tóquio
+  id: JP-13
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-13.svg"
+  group: JP-KNT
+  numeric_code: '013'
+  capital: JP-TOKYO
+- name: 
+    en-US:
+    - Kanagawa
+    fr-FR:
+    - Kanagawa
+    de-DE:
+    - Kanagawa
+    es-ES:
+    - Kanagawa
+    pt-PT:
+    - Kanagawa
+  id: JP-14
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-14.svg"
+  group: JP-KNT
+  numeric_code: '014'
+  capital: JP-YOKOHAMA
+- name: 
+    en-US:
+    - Niigata
+    fr-FR:
+    - Niigata
+    de-DE:
+    - Niigata
+    es-ES:
+    - Niigata
+    pt-PT:
+    - Niigata
+  id: JP-15
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-15.svg"
+  group: JP-CHB
+  numeric_code: '015'
+  capital: JP-NIIGATA
+- name: 
+    en-US:
+    - Toyama
+    fr-FR:
+    - Toyama
+    de-DE:
+    - Toyama
+    es-ES:
+    - Toyama
+    pt-PT:
+    - Toyama
+  id: JP-16
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-16.svg"
+  group: JP-CHB
+  numeric_code: '016'
+  capital: JP-TOYAMA
+- name: 
+    en-US:
+    - Ishikawa
+    fr-FR:
+    - Ishikawa
+    de-DE:
+    - Ishikawa
+    es-ES:
+    - Ishikawa
+    pt-PT:
+    - Ishikawa
+  id: JP-17
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-17.svg"
+  group: JP-CHB
+  numeric_code: '017'
+  capital: JP-KANAZAWA
+- name: 
+    en-US:
+    - Fukui
+    fr-FR:
+    - Fukui
+    de-DE:
+    - Fukui
+    es-ES:
+    - Fukui
+    pt-PT:
+    - Fukui
+  id: JP-18
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-18.svg"
+  group: JP-CHB
+  numeric_code: '018'
+  capital: JP-FUKUI
+- name: 
+    en-US:
+    - Yamanashi
+    fr-FR:
+    - Yamanashi
+    de-DE:
+    - Yamanashi
+    es-ES:
+    - Yamanashi
+    pt-PT:
+    - Yamanashi
+  id: JP-19
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-19.svg"
+  group: JP-CHB
+  numeric_code: '019'
+  capital: JP-KOFU
+- name: 
+    en-US:
+    - Nagano
+    fr-FR:
+    - Nagano
+    de-DE:
+    - Nagano
+    es-ES:
+    - Nagano
+    pt-PT:
+    - Nagano
+  id: JP-20
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-20.svg"
+  group: JP-CHB
+  numeric_code: '020'
+  capital: JP-NAGANO
+- name: 
+    en-US:
+    - Gifu
+    fr-FR:
+    - Gifu
+    de-DE:
+    - Gifu
+    es-ES:
+    - Gifu
+    pt-PT:
+    - Gifu
+  id: JP-21
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-21.svg"
+  group: JP-CHB
+  numeric_code: '021'
+  capital: JP-GIFU
+- name: 
+    en-US:
+    - Shizuoka
+    fr-FR:
+    - Shizuoka
+    de-DE:
+    - Shizuoka
+    es-ES:
+    - Shizuoka
+    pt-PT:
+    - Shizuoka
+  id: JP-22
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-22.svg"
+  group: JP-CHB
+  numeric_code: '022'
+  capital: JP-SHIZUOKA
+- name: 
+    en-US:
+    - Aichi
+    fr-FR:
+    - Aichi
+    de-DE:
+    - Aichi
+    es-ES:
+    - Aichi
+    pt-PT:
+    - Aichi
+  id: JP-23
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-23.svg"
+  group: JP-CHB
+  numeric_code: '023'
+  capital: JP-NAGOYA
+- name: 
+    en-US:
+    - Mie
+    fr-FR:
+    - Mie
+    de-DE:
+    - Mie
+    es-ES:
+    - Mie
+    pt-PT:
+    - Mie
+  id: JP-24
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-24.svg"
+  group: JP-KAN
+  numeric_code: '024'
+  capital: JP-TSU
+- name: 
+    en-US:
+    - Shiga
+    fr-FR:
+    - Shiga
+    de-DE:
+    - Shiga
+    es-ES:
+    - Shiga
+    pt-PT:
+    - Shiga
+  id: JP-25
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-25.svg"
+  group: JP-KAN
+  numeric_code: '025'
+  capital: JP-OTSU
+- name: 
+    en-US:
+    - Kyoto
+    fr-FR:
+    - Kyoto
+    de-DE:
+    - Kyōto
+    es-ES:
+    - Kioto
+    pt-PT:
+    - Quioto
+  id: JP-26
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-26.svg"
+  group: JP-KAN
+  numeric_code: '026'
+  capital: JP-KYOTO
+- name: 
+    en-US:
+    - Osaka
+    fr-FR:
+    - Osaka
+    de-DE:
+    - Osaka
+    es-ES:
+    - Osaka
+    pt-PT:
+    - Osaka
+  id: JP-27
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-27.svg"
+  group: JP-KAN
+  numeric_code: '027'
+  capital: JP-OSAKA
+- name: 
+    en-US:
+    - Hyogo
+    fr-FR:
+    - Hyogo
+    de-DE:
+    - Hyogo
+    es-ES:
+    - Hyogo
+    pt-PT:
+    - Hyogo
+  id: JP-28
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-28.svg"
+  group: JP-KAN
+  numeric_code: '028'
+  capital: JP-KOBE
+- name: 
+    en-US:
+    - Nara
+    fr-FR:
+    - Nara
+    de-DE:
+    - Nara
+    es-ES:
+    - Nara
+    pt-PT:
+    - Nara
+  id: JP-29
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-29.svg"
+  group: JP-KAN
+  numeric_code: '029'
+  capital: JP-NARA
+- name: 
+    en-US:
+    - Wakayama
+    fr-FR:
+    - Wakayama
+    de-DE:
+    - Wakayama
+    es-ES:
+    - Wakayama
+    pt-PT:
+    - Wakayama
+  id: JP-30
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-30.svg"
+  group: JP-KAN
+  numeric_code: '030'
+  capital: JP-WAKAYAMA
+- name: 
+    en-US:
+    - Tottori
+    fr-FR:
+    - Tottori
+    de-DE:
+    - Tottori
+    es-ES:
+    - Tottori
+    pt-PT:
+    - Tottori
+  id: JP-31
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-31.svg"
+  group: JP-CHU
+  numeric_code: '031'
+  capital: JP-TOTTORI
+- name: 
+    en-US:
+    - Shimane
+    fr-FR:
+    - Shimane
+    de-DE:
+    - Shimane
+    es-ES:
+    - Shimane
+    pt-PT:
+    - Shimane
+  id: JP-32
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-32.svg"
+  group: JP-CHU
+  numeric_code: '032'
+  capital: JP-MATSUE
+- name: 
+    en-US:
+    - Okayama
+    fr-FR:
+    - Okayama
+    de-DE:
+    - Okayama
+    es-ES:
+    - Okayama
+    pt-PT:
+    - Okayama
+  id: JP-33
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-33.svg"
+  group: JP-CHU
+  numeric_code: '033'
+  capital: JP-OKAYAMA
+- name: 
+    en-US:
+    - Hiroshima
+    fr-FR:
+    - Hiroshima
+    de-DE:
+    - Hiroshima
+    es-ES:
+    - Hiroshima
+    pt-PT:
+    - Hiroshima
+  id: JP-34
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-34.svg"
+  group: JP-CHU
+  numeric_code: '034'
+  capital: JP-HIROSHIMA
+- name: 
+    en-US:
+    - Yamaguchi
+    fr-FR:
+    - Yamaguchi
+    de-DE:
+    - Yamaguchi
+    es-ES:
+    - Yamaguchi
+    pt-PT:
+    - Yamaguchi
+  id: JP-35
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-35.svg"
+  group: JP-CHU
+  numeric_code: '035'
+  capital: JP-YAMAGUCHI
+- name: 
+    en-US:
+    - Tokushima
+    fr-FR:
+    - Tokushima
+    de-DE:
+    - Tokushima
+    es-ES:
+    - Tokushima
+    pt-PT:
+    - Tokushima
+  id: JP-36
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-36.svg"
+  group: JP-SHI
+  numeric_code: '036'
+  capital: JP-TOKUSHIMA
+- name: 
+    en-US:
+    - Kagawa 
+    fr-FR:
+    - Kagawa 
+    de-DE:
+    - Kagawa 
+    es-ES:
+    - Kagawa 
+    pt-PT:
+    - Kagawa 
+  id: JP-37
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-37.svg"
+  group: JP-SHI
+  numeric_code: '037'
+  capital: JP-TAKAMATSU
+- name: 
+    en-US:
+    - Ehime
+    fr-FR:
+    - Ehime
+    de-DE:
+    - Ehime
+    es-ES:
+    - Ehime
+    pt-PT:
+    - Ehime
+  id: JP-38
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-38.svg"
+  group: JP-SHI
+  numeric_code: '038'
+  capital: JP-MATSUYAMA
+- name: 
+    en-US:
+    - Kochi
+    fr-FR:
+    - Kōchi
+    de-DE:
+    - Kōchi
+    es-ES:
+    - Kōchi
+    pt-PT:
+    - Kochi
+  id: JP-39
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-39.svg"
+  group: JP-SHI
+  numeric_code: '039'
+  capital: JP-KOCHI
+- name: 
+    en-US:
+    - Fukuoka
+    fr-FR:
+    - Fukuoka
+    de-DE:
+    - Fukuoka
+    es-ES:
+    - Fukuoka
+    pt-PT:
+    - Fukuoka
+  id: JP-40
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-40.svg"
+  group: JP-KYU
+  numeric_code: '040'
+  capital: JP-FUKUOKA
+- name: 
+    en-US:
+    - Saga
+    fr-FR:
+    - Saga
+    de-DE:
+    - Saga
+    es-ES:
+    - Saga
+    pt-PT:
+    - Saga
+  id: JP-41
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-41.svg"
+  group: JP-KYU
+  numeric_code: '041'
+  capital: JP-SAGA
+- name: 
+    en-US:
+    - Nagasaki
+    fr-FR:
+    - Nagasaki
+    de-DE:
+    - Nagasaki
+    es-ES:
+    - Nagasaki
+    pt-PT:
+    - Nagasaki
+  id: JP-42
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-42.svg"
+  group: JP-KYU
+  numeric_code: '042'
+  capital: JP-NAGASAKI
+- name: 
+    en-US:
+    - Kumamoto
+    fr-FR:
+    - Kumamoto
+    de-DE:
+    - Kumamoto
+    es-ES:
+    - Kumamoto
+    pt-PT:
+    - Kumamoto
+  id: JP-43
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-43.svg"
+  group: JP-KYU
+  numeric_code: '043'
+  capital: JP-KUMAMOTO
+- name: 
+    en-US:
+    - Oita
+    fr-FR:
+    - Ōita
+    de-DE:
+    - Ōita
+    es-ES:
+    - Ōita
+    pt-PT:
+    - Oita
+  id: JP-44
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-44.svg"
+  group: JP-KYU
+  numeric_code: '044'
+  capital: JP-OITA
+- name: 
+    en-US:
+    - Miyazaki
+    fr-FR:
+    - Miyazaki
+    de-DE:
+    - Miyazaki
+    es-ES:
+    - Miyazaki
+    pt-PT:
+    - Miyazaki
+  id: JP-45
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-45.svg"
+  group: JP-KYU
+  numeric_code: '045'
+  capital: JP-MIYAZAKI
+- name: 
+    en-US:
+    - Kagoshima
+    fr-FR:
+    - Kagoshima
+    de-DE:
+    - Kagoshima
+    es-ES:
+    - Kagoshima
+    pt-PT:
+    - Kagoshima
+  id: JP-46
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-46.svg"
+  group: JP-KYU
+  numeric_code: '046'
+  capital: JP-KAGOSHIMA
+- name: 
+    en-US:
+    - Okinawa
+    fr-FR:
+    - Okinawa
+    de-DE:
+    - Okinawa
+    es-ES:
+    - Okinawa
+    pt-PT:
+    - Okinawa
+  id: JP-47
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-47.svg"
+  group: JP-KYU
+  numeric_code: '047'
+  capital: JP-NAHA
+
+
+
+
+# JAPAN'S REGIONS
+- name:
+    en-US:
+    - Hokkaido
+    fr-FR:
+    - Hokkaido
+    de-DE:
+    - Hokkaido
+    es-ES:
+    - Hokkaido
+    pt-PT:
+    - Hokkaido
+  id: JP-HOK
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-HOK.svg"
+  group: JP
+  numeric_code:
+  capital: JP-SAPPORO
+- name:
+    en-US:
+    - Tohoku
+    fr-FR:
+    - Tōhoku
+    de-DE:
+    - Tōhoku
+    es-ES:
+    - Tohoku
+    pt-PT:
+    - Tohoku
+  id: JP-TOH
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOH.svg"
+  group: JP
+  numeric_code:
+  capital: JP-SENDAI
+- name:
+    en-US:
+    - Kanto
+    fr-FR:
+    - Kantō
+    de-DE:
+    - Kantō
+    es-ES:
+    - Kanto
+    pt-PT:
+    - Kanto
+  id: JP-KAN
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KAN.svg"
+  group: JP
+  numeric_code:
+  capital: JP-TOKYO
+- name:
+    en-US:
+    - Chubu
+    fr-FR:
+    - Chūbu
+    de-DE:
+    - Chūbu
+    es-ES:
+    - Chubu
+    pt-PT:
+    - Chubu
+  id: JP-CHB
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-CHB.svg"
+  group: JP
+  numeric_code:
+  capital: JP-NAGOYA
+- name:
+    en-US:
+    - Kansai
+    - Kinki
+    fr-FR:
+    - Kansai
+    - Kinki
+    de-DE:
+    - Kansai
+    - Kinki
+    es-ES:
+    - Kansai
+    - Kinki
+    pt-PT:
+    - Kansai
+    - Kinki
+  id: JP-KAN
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KAN.svg"
+  group: JP
+  numeric_code:
+  capital: JP-OSAKA
+- name:
+    en-US:
+    - Chugoku
+    fr-FR:
+    - Chūgoku
+    de-DE:
+    - Chūgoku
+    es-ES:
+    - Chugoku
+    pt-PT:
+    - Chugoku
+  id: JP-CHU
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-CHU.svg"
+  group: JP
+  numeric_code:
+  capital: JP-HIROSHIMA
+- name:
+    en-US:
+    - Shikoku
+    fr-FR:
+    - Shikoku
+    de-DE:
+    - Shikoku
+    es-ES:
+    - Shikoku
+    pt-PT:
+    - Shikoku
+  id: JP-SHI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-SHI.svg"
+  group: JP
+  numeric_code:
+  capital: JP-TAKAMATSU
+- name:
+    en-US:
+    - Kyushu
+    fr-FR:
+    - Kyūshū
+    de-DE:
+    - Kyūshū
+    es-ES:
+    - Kyushu
+    pt-PT:
+    - Kyushu
+  id: JP-KYU
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-KYU.svg"
+  group: JP
+  numeric_code:
+  capital: JP-FUKUOKA
+- name:
+    en-US:
+    - Okinawa
+    fr-FR:
+    - Okinawa
+    de-DE:
+    - Okinawa
+    es-ES:
+    - Okinawa
+    pt-PT:
+    - Okinawa
+  id: JP-OKI
+  flag_url: "./assets/maps/flags/france-departments/flag_JP-OKI.svg"
+  group: JP
+  numeric_code:
+  capital: JP-NAHA
