@@ -5,7 +5,6 @@
     fr-FR:
     - Bourg-en-Bresse
   id: FR-BOURG-EN-BRESSE
-  flag_url: "./assets/maps/flags/flag_FR-BOURG-EN-BRESSE.svg"
   group: FR-01
   numeric_code: "01000"
   capital:
@@ -15,7 +14,6 @@
     fr-FR:
     - Laon
   id: FR-LAON
-  flag_url: "./assets/maps/flags/flag_FR-LAON.svg"
   group: FR-02
   numeric_code: "02000"
   capital:
@@ -25,7 +23,6 @@
     fr-FR:
     - Moulins
   id: FR-MOULINS
-  flag_url: "./assets/maps/flags/flag_FR-MOULINS.svg"
   group: FR-03
   numeric_code: "03000"
   capital:
@@ -35,7 +32,6 @@
     fr-FR:
     - Digne-les-Bains
   id: FR-DIGNE-LES-BAINS
-  flag_url: "./assets/maps/flags/flag_FR-DIGNE-LES-BAINS.svg"
   group: FR-04
   numeric_code: "04000"
   capital:
@@ -45,7 +41,6 @@
     fr-FR:
     - Nice
   id: FR-NICE
-  flag_url: "./assets/maps/flags/flag_FR-NICE.svg"
   group: FR-06
   numeric_code: "06000"
   capital:
@@ -55,7 +50,6 @@
     fr-FR:
     - Privas
   id: FR-PRIVAS
-  flag_url: "./assets/maps/flags/flag_FR-PRIVAS.svg"
   group: FR-07
   numeric_code: "07000"
   capital:
@@ -65,7 +59,6 @@
     fr-FR:
     - Charleville-Mézières
   id: FR-CHARLEVILLE-MEZIERES
-  flag_url: "./assets/maps/flags/flag_FR-CHARLEVILLE-MEZIERES.svg"
   group: FR-08
   numeric_code: "08000"
   capital:
@@ -75,7 +68,6 @@
     fr-FR:
     - Foix
   id: FR-FOIX
-  flag_url: "./assets/maps/flags/flag_FR-FOIX.svg"
   group: FR-09
   numeric_code: "09000"
   capital:
@@ -85,7 +77,6 @@
     fr-FR:
     - Troyes
   id: FR-TROYES
-  flag_url: "./assets/maps/flags/flag_FR-TROYES.svg"
   group: FR-10
   numeric_code: "10000"
   capital:
@@ -95,7 +86,6 @@
     fr-FR:
     - Carcassonne
   id: FR-CARCASSONNE
-  flag_url: "./assets/maps/flags/flag_FR-CARCASSONNE.svg"
   group: FR-11
   numeric_code: "11000"
   capital:
@@ -105,7 +95,6 @@
     fr-FR:
     - Rodez
   id: FR-RODEZ
-  flag_url: "./assets/maps/flags/flag_FR-RODEZ.svg"
   group: FR-12
   numeric_code: "12000"
   capital:
@@ -115,7 +104,6 @@
     fr-FR:
     - Marseille
   id: FR-MARSEILLE
-  flag_url: "./assets/maps/flags/flag_FR-MARSEILLE.svg"
   group: FR-13
   numeric_code: "13000"
   capital:
@@ -125,7 +113,6 @@
     fr-FR:
     - Caen
   id: FR-CAEN
-  flag_url: "./assets/maps/flags/flag_FR-CAEN.svg"
   group: FR-14
   numeric_code: "14000"
   capital:
@@ -135,7 +122,6 @@
     fr-FR:
     - Aurillac
   id: FR-AURILLAC
-  flag_url: "./assets/maps/flags/flag_FR-AURILLAC.svg"
   group: FR-15
   numeric_code: "15000"
   capital:
@@ -145,7 +131,6 @@
     fr-FR:
     - Angoulême
   id: FR-ANGOULEME
-  flag_url: "./assets/maps/flags/flag_FR-ANGOULEME.svg"
   group: FR-16
   numeric_code: "16000"
   capital:
@@ -155,7 +140,6 @@
     fr-FR:
     - La Rochelle
   id: FR-LA-ROCHELLE
-  flag_url: "./assets/maps/flags/flag_FR-LA-ROCHELLE.svg"
   group: FR-17
   numeric_code: "17000"
   capital:
@@ -165,7 +149,6 @@
     fr-FR:
     - Bourges
   id: FR-BOURGES
-  flag_url: "./assets/maps/flags/flag_FR-BOURGES.svg"
   group: FR-18
   numeric_code: "18000"
   capital:
@@ -175,7 +158,6 @@
     fr-FR:
     - Tulle
   id: FR-TULLE
-  flag_url: "./assets/maps/flags/flag_FR-TULLE.svg"
   group: FR-19
   numeric_code: "19000"
   capital:
@@ -185,7 +167,6 @@
     fr-FR:
     - Ajaccio
   id: FR-AJACCIO
-  flag_url: "./assets/maps/flags/flag_FR-AJACCIO.svg"
   group: FR-2A
   numeric_code: 2A000
   capital:
@@ -195,7 +176,6 @@
     fr-FR:
     - Dijon
   id: FR-DIJON
-  flag_url: "./assets/maps/flags/flag_FR-DIJON.svg"
   group: FR-21
   numeric_code: "21000"
   capital:
@@ -205,7 +185,6 @@
     fr-FR:
     - St-Brieuc
   id: FR-ST-BRIEUC
-  flag_url: "./assets/maps/flags/flag_FR-ST-BRIEUC.svg"
   group: FR-22
   numeric_code: "22000"
   capital:
@@ -215,7 +194,6 @@
     fr-FR:
     - Guéret
   id: FR-GUERET
-  flag_url: "./assets/maps/flags/flag_FR-GUERET.svg"
   group: FR-23
   numeric_code: "23000"
   capital:
@@ -225,7 +203,6 @@
     fr-FR:
     - Niort
   id: FR-NIORT
-  flag_url: "./assets/maps/flags/flag_FR-NIORT.svg"
   group: FR-79
   numeric_code: "79000"
   capital:
@@ -235,7 +212,6 @@
     fr-FR:
     - Périgueux
   id: FR-PERIGUEUX
-  flag_url: "./assets/maps/flags/flag_FR-PERIGUEUX.svg"
   group: FR-24
   numeric_code: "24000"
   capital:
@@ -245,7 +221,6 @@
     fr-FR:
     - Besançon
   id: FR-BESANÇON
-  flag_url: "./assets/maps/flags/flag_FR-BESANÇON.svg"
   group: FR-25
   numeric_code: "25000"
   capital:
@@ -255,7 +230,6 @@
     fr-FR:
     - Valence
   id: FR-VALENCE
-  flag_url: "./assets/maps/flags/flag_FR-VALENCE.svg"
   group: FR-26
   numeric_code: "26000"
   capital:
@@ -265,7 +239,6 @@
     fr-FR:
     - Évry
   id: FR-EVRY
-  flag_url: "./assets/maps/flags/flag_FR-EVRY.svg"
   group: FR-91
   numeric_code: "91000"
   capital:
@@ -275,7 +248,6 @@
     fr-FR:
     - Évreux
   id: FR-EVREUX
-  flag_url: "./assets/maps/flags/flag_FR-EVREUX.svg"
   group: FR-27
   numeric_code: "27000"
   capital:
@@ -285,7 +257,6 @@
     fr-FR:
     - Chartres
   id: FR-CHARTRES
-  flag_url: "./assets/maps/flags/flag_FR-CHARTRES.svg"
   group: FR-28
   numeric_code: "28000"
   capital:
@@ -295,7 +266,6 @@
     fr-FR:
     - Quimper
   id: FR-QUIMPER
-  flag_url: "./assets/maps/flags/flag_FR-QUIMPER.svg"
   group: FR-29
   numeric_code: "29000"
   capital:
@@ -305,7 +275,6 @@
     fr-FR:
     - Cayenne
   id: FR-CAYENNE
-  flag_url: "./assets/maps/flags/flag_FR-CAYENNE.svg"
   group: FR-973
   numeric_code: "973000"
   capital:
@@ -315,7 +284,6 @@
     fr-FR:
     - Nîmes
   id: FR-NIMES
-  flag_url: "./assets/maps/flags/flag_FR-NÎMES.svg"
   group: FR-30
   numeric_code: "30000"
   capital:
@@ -325,7 +293,6 @@
     fr-FR:
     - Auch
   id: FR-AUCH
-  flag_url: "./assets/maps/flags/flag_FR-AUCH.svg"
   group: FR-32
   numeric_code: "32000"
   capital:
@@ -335,7 +302,6 @@
     fr-FR:
     - Bordeaux
   id: FR-BORDEAUX
-  flag_url: "./assets/maps/flags/flag_FR-BORDEAUX.svg"
   group: FR-33
   numeric_code: "33000"
   capital:
@@ -345,7 +311,6 @@
     fr-FR:
     - Basse-Terre
   id: FR-BASSE-TERRE
-  flag_url: "./assets/maps/flags/flag_FR-BASSE-TERRE.svg"
   group: FR-971
   numeric_code: "971000"
   capital:
@@ -355,7 +320,6 @@
     fr-FR:
     - Bastia
   id: FR-BASTIA
-  flag_url: "./assets/maps/flags/flag_FR-BASTIA.svg"
   group: FR-2B
   numeric_code: 2B000
   capital:
@@ -365,7 +329,6 @@
     fr-FR:
     - Toulouse
   id: FR-TOULOUSE
-  flag_url: "./assets/maps/flags/flag_FR-TOULOUSE.svg"
   group: FR-31
   numeric_code: "31000"
   capital:
@@ -375,7 +338,6 @@
     fr-FR:
     - Le Puy-en-Velay
   id: FR-LE-PUY-EN-VELAY
-  flag_url: "./assets/maps/flags/flag_FR-LE-PUY-EN-VELAY.svg"
   group: FR-43
   numeric_code: "43000"
   capital:
@@ -385,7 +347,6 @@
     fr-FR:
     - Chaumont
   id: FR-CHAUMONT
-  flag_url: "./assets/maps/flags/flag_FR-CHAUMONT.svg"
   group: FR-52
   numeric_code: "52000"
   capital:
@@ -395,7 +356,6 @@
     fr-FR:
     - Gap
   id: FR-GAP
-  flag_url: "./assets/maps/flags/flag_FR-GAP.svg"
   group: FR-05
   numeric_code: "05000"
   capital:
@@ -405,7 +365,6 @@
     fr-FR:
     - Vesoul
   id: FR-VESOUL
-  flag_url: "./assets/maps/flags/flag_FR-VESOUL.svg"
   group: FR-70
   numeric_code: "70000"
   capital:
@@ -415,7 +374,6 @@
     fr-FR:
     - Annecy
   id: FR-ANNECY
-  flag_url: "./assets/maps/flags/flag_FR-ANNECY.svg"
   group: FR-74
   numeric_code: "74000"
   capital:
@@ -425,7 +383,6 @@
     fr-FR:
     - Tarbes
   id: FR-TARBES
-  flag_url: "./assets/maps/flags/flag_FR-TARBES.svg"
   group: FR-65
   numeric_code: "65000"
   capital:
@@ -435,7 +392,6 @@
     fr-FR:
     - Limoges
   id: FR-LIMOGES
-  flag_url: "./assets/maps/flags/flag_FR-LIMOGES.svg"
   group: FR-87
   numeric_code: "87000"
   capital:
@@ -445,7 +401,6 @@
     fr-FR:
     - Nanterre
   id: FR-NANTERRE
-  flag_url: "./assets/maps/flags/flag_FR-NANTERRE.svg"
   group: FR-92
   numeric_code: "92000"
   capital:
@@ -455,7 +410,6 @@
     fr-FR:
     - Montpellier
   id: FR-MONTPELLIER
-  flag_url: "./assets/maps/flags/flag_FR-MONTPELLIER.svg"
   group: FR-34
   numeric_code: "34000"
   capital:
@@ -465,7 +419,6 @@
     fr-FR:
     - Rennes
   id: FR-RENNES
-  flag_url: "./assets/maps/flags/flag_FR-RENNES.svg"
   group: FR-35
   numeric_code: "35000"
   capital:
@@ -475,7 +428,6 @@
     fr-FR:
     - Châteauroux
   id: FR-CHATEAUROUX
-  flag_url: "./assets/maps/flags/flag_FR-CHATEAUROUX.svg"
   group: FR-36
   numeric_code: "36000"
   capital:
@@ -485,7 +437,6 @@
     fr-FR:
     - Tours
   id: FR-TOURS
-  flag_url: "./assets/maps/flags/flag_FR-TOURS.svg"
   group: FR-37
   numeric_code: "37000"
   capital:
@@ -495,7 +446,6 @@
     fr-FR:
     - Grenoble
   id: FR-GRENOBLE
-  flag_url: "./assets/maps/flags/flag_FR-GRENOBLE.svg"
   group: FR-38
   numeric_code: "38000"
   capital:
@@ -505,7 +455,6 @@
     fr-FR:
     - Lons-le-Saunier
   id: FR-LONS-LE-SAUNIER
-  flag_url: "./assets/maps/flags/flag_FR-LONS-LE-SAUNIER.svg"
   group: FR-39
   numeric_code: "39000"
   capital:
@@ -515,7 +464,6 @@
     fr-FR:
     - Mont-de-Marsan
   id: FR-MONT-DE-MARSAN
-  flag_url: "./assets/maps/flags/flag_FR-MONT-DE-MARSAN.svg"
   group: FR-40
   numeric_code: "40000"
   capital:
@@ -525,7 +473,6 @@
     fr-FR:
     - Saint-Étienne
   id: FR-SAINT-ETIENNE
-  flag_url: "./assets/maps/flags/flag_FR-SAINT-ETIENNE.svg"
   group: FR-42
   numeric_code: "42000"
   capital:
@@ -535,7 +482,6 @@
     fr-FR:
     - Nantes
   id: FR-NANTES
-  flag_url: "./assets/maps/flags/flag_FR-NANTES.svg"
   group: FR-44
   numeric_code: "44000"
   capital:
@@ -545,7 +491,6 @@
     fr-FR:
     - Orléans
   id: FR-ORLEANS
-  flag_url: "./assets/maps/flags/flag_FR-ORLEANS.svg"
   group: FR-45
   numeric_code: "45000"
   capital:
@@ -555,7 +500,6 @@
     fr-FR:
     - Blois
   id: FR-BLOIS
-  flag_url: "./assets/maps/flags/flag_FR-BLOIS.svg"
   group: FR-41
   numeric_code: "41000"
   capital:
@@ -565,7 +509,6 @@
     fr-FR:
     - Cahors
   id: FR-CAHORS
-  flag_url: "./assets/maps/flags/flag_FR-CAHORS.svg"
   group: FR-46
   numeric_code: "46000"
   capital:
@@ -575,7 +518,6 @@
     fr-FR:
     - Agen
   id: FR-AGEN
-  flag_url: "./assets/maps/flags/flag_FR-AGEN.svg"
   group: FR-47
   numeric_code: "47000"
   capital:
@@ -585,7 +527,6 @@
     fr-FR:
     - Mende
   id: FR-MENDE
-  flag_url: "./assets/maps/flags/flag_FR-MENDE.svg"
   group: FR-48
   numeric_code: "48000"
   capital:
@@ -595,7 +536,6 @@
     fr-FR:
     - Angers
   id: FR-ANGERS
-  flag_url: "./assets/maps/flags/flag_FR-ANGERS.svg"
   group: FR-49
   numeric_code: "49000"
   capital:
@@ -605,7 +545,6 @@
     fr-FR:
     - Saint-Lô
   id: FR-SAINT-LO
-  flag_url: "./assets/maps/flags/flag_FR-SAINT-LO.svg"
   group: FR-50
   numeric_code: "50000"
   capital:
@@ -615,7 +554,6 @@
     fr-FR:
     - Châlons-en-Champagne
   id: FR-CHALONS-EN-CHAMPAGNE
-  flag_url: "./assets/maps/flags/flag_FR-CHALONS-EN-CHAMPAGNE.svg"
   group: FR-51
   numeric_code: "51000"
   capital:
@@ -625,7 +563,6 @@
     fr-FR:
     - Fort-de-France
   id: FR-FORT-DE-FRANCE
-  flag_url: "./assets/maps/flags/flag_FR-FORT-DE-FRANCE.svg"
   group: FR-972
   numeric_code: "972000"
   capital:
@@ -635,7 +572,6 @@
     fr-FR:
     - Paris
   id: FR-PARIS
-  flag_url: "./assets/maps/flags/flag_FR-PARIS.svg"
   group: FR-75
   numeric_code: "75000"
   capital:
@@ -645,7 +581,6 @@
     fr-FR:
     - Laval
   id: FR-LAVAL
-  flag_url: "./assets/maps/flags/flag_FR-LAVAL.svg"
   group: FR-53
   numeric_code: "53000"
   capital:
@@ -655,7 +590,6 @@
     fr-FR:
     - Dzaoudzi
   id: FR-DZAOUDZI
-  flag_url: "./assets/maps/flags/flag_FR-DZAOUDZI.svg"
   group: FR-976
   numeric_code: "976000"
   capital:
@@ -665,7 +599,6 @@
     fr-FR:
     - Nancy
   id: FR-NANCY
-  flag_url: "./assets/maps/flags/flag_FR-NANCY.svg"
   group: FR-54
   numeric_code: "54000"
   capital:
@@ -675,7 +608,6 @@
     fr-FR:
     - Bar-le-Duc
   id: FR-BAR-LE-DUC
-  flag_url: "./assets/maps/flags/flag_FR-BAR-LE-DUC.svg"
   group: FR-55
   numeric_code: "55000"
   capital:
@@ -685,7 +617,6 @@
     fr-FR:
     - Vannes
   id: FR-VANNES
-  flag_url: "./assets/maps/flags/flag_FR-VANNES.svg"
   group: FR-56
   numeric_code: "56000"
   capital:
@@ -695,7 +626,6 @@
     fr-FR:
     - Metz
   id: FR-METZ
-  flag_url: "./assets/maps/flags/flag_FR-METZ.svg"
   group: FR-57
   numeric_code: "57000"
   capital:
@@ -705,7 +635,6 @@
     fr-FR:
     - Nevers
   id: FR-NEVERS
-  flag_url: "./assets/maps/flags/flag_FR-NEVERS.svg"
   group: FR-58
   numeric_code: "58000"
   capital:
@@ -715,7 +644,6 @@
     fr-FR:
     - Lille
   id: FR-LILLE
-  flag_url: "./assets/maps/flags/flag_FR-LILLE.svg"
   group: FR-59
   numeric_code: "59000"
   capital:
@@ -725,7 +653,6 @@
     fr-FR:
     - Beauvais
   id: FR-BEAUVAIS
-  flag_url: "./assets/maps/flags/flag_FR-BEAUVAIS.svg"
   group: FR-60
   numeric_code: "60000"
   capital:
@@ -735,7 +662,6 @@
     fr-FR:
     - Alençon
   id: FR-ALENCON
-  flag_url: "./assets/maps/flags/flag_FR-ALENCON.svg"
   group: FR-61
   numeric_code: "61000"
   capital:
@@ -745,7 +671,6 @@
     fr-FR:
     - Arras
   id: FR-ARRAS
-  flag_url: "./assets/maps/flags/flag_FR-ARRAS.svg"
   group: FR-62
   numeric_code: "62000"
   capital:
@@ -755,7 +680,6 @@
     fr-FR:
     - Clermont-Ferrand
   id: FR-CLERMONT-FERRAND
-  flag_url: "./assets/maps/flags/flag_FR-CLERMONT-FERRAND.svg"
   group: FR-63
   numeric_code: "63000"
   capital:
@@ -765,7 +689,6 @@
     fr-FR:
     - Pau
   id: FR-PAU
-  flag_url: "./assets/maps/flags/flag_FR-PAU.svg"
   group: FR-64
   numeric_code: "64000"
   capital:
@@ -775,7 +698,6 @@
     fr-FR:
     - Perpignan
   id: FR-PERPIGNAN
-  flag_url: "./assets/maps/flags/flag_FR-PERPIGNAN.svg"
   group: FR-66
   numeric_code: "66000"
   capital:
@@ -785,7 +707,6 @@
     fr-FR:
     - Strasbourg
   id: FR-STRASBOURG
-  flag_url: "./assets/maps/flags/flag_FR-STRASBOURG.svg"
   group: FR-67
   numeric_code: "67000"
   capital:
@@ -795,7 +716,6 @@
     fr-FR:
     - Colmar
   id: FR-COLMAR
-  flag_url: "./assets/maps/flags/flag_FR-COLMAR.svg"
   group: FR-68
   numeric_code: "68000"
   capital:
@@ -805,7 +725,6 @@
     fr-FR:
     - Saint-Denis
   id: FR-SAINT-DENIS
-  flag_url: "./assets/maps/flags/flag_FR-SAINT-DENIS.svg"
   group: FR-974
   numeric_code: "974000"
   capital:
@@ -815,7 +734,6 @@
     fr-FR:
     - Lyon
   id: FR-LYON
-  flag_url: "./assets/maps/flags/flag_FR-LYON.svg"
   group: FR-69
   numeric_code: "69000"
   capital:
@@ -825,7 +743,6 @@
     fr-FR:
     - Mâcon
   id: FR-MACON
-  flag_url: "./assets/maps/flags/flag_FR-MACON.svg"
   group: FR-71
   numeric_code: "71000"
   capital:
@@ -835,7 +752,6 @@
     fr-FR:
     - Le Mans
   id: FR-LE-MANS
-  flag_url: "./assets/maps/flags/flag_FR-LE-MANS.svg"
   group: FR-72
   numeric_code: "72000"
   capital:
@@ -845,7 +761,6 @@
     fr-FR:
     - Chambéry
   id: FR-CHAMBERY
-  flag_url: "./assets/maps/flags/flag_FR-CHAMBERY.svg"
   group: FR-73
   numeric_code: "73000"
   capital:
@@ -855,7 +770,6 @@
     fr-FR:
     - Melun
   id: FR-MELUN
-  flag_url: "./assets/maps/flags/flag_FR-MELUN.svg"
   group: FR-77
   numeric_code: "77000"
   capital:
@@ -865,7 +779,6 @@
     fr-FR:
     - Rouen
   id: FR-ROUEN
-  flag_url: "./assets/maps/flags/flag_FR-ROUEN.svg"
   group: FR-76
   numeric_code: "76000"
   capital:
@@ -875,7 +788,6 @@
     fr-FR:
     - Bobigny
   id: FR-BOBIGNY
-  flag_url: "./assets/maps/flags/flag_FR-BOBIGNY.svg"
   group: FR-93
   numeric_code: "93000"
   capital:
@@ -885,7 +797,6 @@
     fr-FR:
     - Amiens
   id: FR-AMIENS
-  flag_url: "./assets/maps/flags/flag_FR-AMIENS.svg"
   group: FR-80
   numeric_code: "80000"
   capital:
@@ -895,7 +806,6 @@
     fr-FR:
     - Albi
   id: FR-ALBI
-  flag_url: "./assets/maps/flags/flag_FR-ALBI.svg"
   group: FR-81
   numeric_code: "81000"
   capital:
@@ -905,7 +815,6 @@
     fr-FR:
     - Montauban
   id: FR-MONTAUBAN
-  flag_url: "./assets/maps/flags/flag_FR-MONTAUBAN.svg"
   group: FR-82
   numeric_code: "82000"
   capital:
@@ -915,7 +824,6 @@
     fr-FR:
     - Belfort
   id: FR-BELFORT
-  flag_url: "./assets/maps/flags/flag_FR-BELFORT.svg"
   group: FR-90
   numeric_code: "90000"
   capital:
@@ -925,7 +833,6 @@
     fr-FR:
     - Créteil
   id: FR-CRETEIL
-  flag_url: "./assets/maps/flags/flag_FR-CRETEIL.svg"
   group: FR-94
   numeric_code: "94000"
   capital:
@@ -935,7 +842,6 @@
     fr-FR:
     - Pontoise
   id: FR-PONTOISE
-  flag_url: "./assets/maps/flags/flag_FR-PONTOISE.svg"
   group: FR-95
   numeric_code: "95000"
   capital:
@@ -945,7 +851,6 @@
     fr-FR:
     - Toulon
   id: FR-TOULON
-  flag_url: "./assets/maps/flags/flag_FR-TOULON.svg"
   group: FR-83
   numeric_code: "83000"
   capital:
@@ -955,7 +860,6 @@
     fr-FR:
     - Avignon
   id: FR-AVIGNON
-  flag_url: "./assets/maps/flags/flag_FR-AVIGNON.svg"
   group: FR-84
   numeric_code: "84000"
   capital:
@@ -965,7 +869,6 @@
     fr-FR:
     - La Roche-sur-Yon
   id: FR-LA-ROCHE-SUR-YON
-  flag_url: "./assets/maps/flags/flag_FR-LA-ROCHE-SUR-YON.svg"
   group: FR-85
   numeric_code: "85000"
   capital:
@@ -975,7 +878,6 @@
     fr-FR:
     - Poitiers
   id: FR-POITIERS
-  flag_url: "./assets/maps/flags/flag_FR-POITIERS.svg"
   group: FR-86
   numeric_code: "86000"
   capital:
@@ -985,7 +887,6 @@
     fr-FR:
     - Épinal
   id: FR-EPINAL
-  flag_url: "./assets/maps/flags/flag_FR-EPINAL.svg"
   group: FR-88
   numeric_code: "88000"
   capital:
@@ -995,7 +896,6 @@
     fr-FR:
     - Auxerre
   id: FR-AUXERRE
-  flag_url: "./assets/maps/flags/flag_FR-AUXERRE.svg"
   group: FR-89
   numeric_code: "89000"
   capital:
@@ -1005,7 +905,6 @@
     fr-FR:
     - Versailles
   id: FR-VERSAILLES
-  flag_url: "./assets/maps/flags/flag_FR-VERSAILLES.svg"
   group: FR-78
   numeric_code: "78000"
   capital:
@@ -1022,7 +921,6 @@
     pt-PT:
     - Ain
   id: FR-01
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-01.svg"
   group: FR-ARA
   capital: FR-BOURG-EN-BRESSE
   numeric_code: '01'
@@ -1038,7 +936,6 @@
     pt-PT:
     - Aisne
   id: FR-02
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-02.svg"
   group: FR-HDF
   capital: FR-LAON
   numeric_code: '02'
@@ -1054,7 +951,6 @@
     pt-PT:
     - Allier
   id: FR-03
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-03.svg"
   group: FR-ARA
   capital: FR-MOULINS
   numeric_code: '03'
@@ -1070,7 +966,6 @@
     pt-PT:
     - Alpes da Alta Provença
   id: FR-04
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-04.svg"
   group: FR-PAC
   capital: FR-DIGNE-LES-BAINS
   numeric_code: '04'
@@ -1086,7 +981,6 @@
     pt-PT:
     - Alpes Marítimos
   id: FR-06
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-06.svg"
   group: FR-PAC
   capital: FR-NICE
   numeric_code: '06'
@@ -1102,7 +996,6 @@
     pt-PT:
     - Ardèche
   id: FR-07
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-07.svg"
   group: FR-ARA
   capital: FR-PRIVAS
   numeric_code: '07'
@@ -1118,7 +1011,6 @@
     pt-PT:
     - Ardenas
   id: FR-08
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-08.svg"
   group: FR-GES
   capital: FR-CHARLEVILLE-MEZIERES
   numeric_code: '08'
@@ -1134,7 +1026,6 @@
     pt-PT:
     - Ariège
   id: FR-09
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-09.svg"
   group: FR-OCC
   capital: FR-FOIX
   numeric_code: '09'
@@ -1150,7 +1041,6 @@
     pt-PT:
     - Aube
   id: FR-10
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-10.svg"
   group: FR-GES
   capital: FR-TROYES
   numeric_code: '10'
@@ -1166,7 +1056,6 @@
     pt-PT:
     - Aude
   id: FR-11
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-11.svg"
   group: FR-OCC
   capital: FR-CARCASSONNE
   numeric_code: '11'
@@ -1182,7 +1071,6 @@
     pt-PT:
     - Aveyron
   id: FR-12
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-12.svg"
   group: FR-OCC
   capital: FR-RODEZ
   numeric_code: '12'
@@ -1198,7 +1086,6 @@
     pt-PT:
     - Bocas do Ródano
   id: FR-13
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-13.svg"
   group: FR-PAC
   capital: FR-MARSEILLE
   numeric_code: '13'
@@ -1214,7 +1101,6 @@
     pt-PT:
     - Calvados
   id: FR-14
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-14.svg"
   group: FR-NOR
   capital: FR-CAEN
   numeric_code: '14'
@@ -1230,7 +1116,6 @@
     pt-PT:
     - Cantal
   id: FR-15
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-15.svg"
   group: FR-ARA
   capital: FR-AURILLAC
   numeric_code: '15'
@@ -1246,7 +1131,6 @@
     pt-PT:
     - Charente
   id: FR-16
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-16.svg"
   group: FR-NAQ
   capital: FR-ANGOULEME
   numeric_code: '16'
@@ -1262,7 +1146,6 @@
     pt-PT:
     - Charente Marítimo
   id: FR-17
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-17.svg"
   group: FR-NAQ
   capital: FR-LA-ROCHELLE
   numeric_code: '17'
@@ -1278,7 +1161,6 @@
     pt-PT:
     - Cher
   id: FR-18
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-18.svg"
   group: FR-CVL
   capital: FR-BOURGES
   numeric_code: '18'
@@ -1294,7 +1176,6 @@
     pt-PT:
     - Corrèze
   id: FR-19
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-19.svg"
   group: FR-NAQ
   capital: FR-TULLE
   numeric_code: '19'
@@ -1310,7 +1191,6 @@
     pt-PT:
     - Córsega do Sul
   id: FR-2A
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-2A.svg"
   group: FR-20R
   capital: FR-AJACCIO
   numeric_code: 2A
@@ -1326,7 +1206,6 @@
     pt-PT:
     - Côte-d'Or
   id: FR-21
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-21.svg"
   group: FR-BFC
   capital: FR-DIJON
   numeric_code: '21'
@@ -1342,7 +1221,6 @@
     pt-PT:
     - Côtes-d'Armor
   id: FR-22
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-22.svg"
   group: FR-BRE
   capital: FR-ST-BRIEUC
   numeric_code: '22'
@@ -1358,7 +1236,6 @@
     pt-PT:
     - Creuse
   id: FR-23
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-23.svg"
   group: FR-NAQ
   capital: FR-GUERET
   numeric_code: '23'
@@ -1374,7 +1251,6 @@
     pt-PT:
     - Deux-Sèvres
   id: FR-79
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-79.svg"
   group: FR-NAQ
   capital: FR-NIORT
   numeric_code: '79'
@@ -1390,7 +1266,6 @@
     pt-PT:
     - Dordonha
   id: FR-24
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-24.svg"
   group: FR-NAQ
   capital: FR-PERIGUEUX
   numeric_code: '24'
@@ -1406,7 +1281,6 @@
     pt-PT:
     - Doubs
   id: FR-25
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-25.svg"
   group: FR-BFC
   capital: FR-BESANÇON
   numeric_code: '25'
@@ -1422,7 +1296,6 @@
     pt-PT:
     - Drôme
   id: FR-26
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-26.svg"
   group: FR-ARA
   capital: FR-VALENCE
   numeric_code: '26'
@@ -1438,7 +1311,6 @@
     pt-PT:
     - Essonne
   id: FR-91
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-91.svg"
   group: FR-IDF
   capital: FR-EVRY
   numeric_code: '91'
@@ -1454,7 +1326,6 @@
     pt-PT:
     - Eure
   id: FR-27
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-27.svg"
   group: FR-NOR
   capital: FR-EVREUX
   numeric_code: '27'
@@ -1470,7 +1341,6 @@
     pt-PT:
     - Eure e Loir
   id: FR-28
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-28.svg"
   group: FR-CVL
   capital: FR-CHARTRES
   numeric_code: '28'
@@ -1486,7 +1356,6 @@
     pt-PT:
     - Finistère
   id: FR-29
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-29.svg"
   group: FR-BRE
   capital: FR-QUIMPER
   numeric_code: '29'
@@ -1503,7 +1372,6 @@
     pt-PT:
     - Guiana
   id: FR-973
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-973.svg"
   group: ''
   numeric_code: '973'
   capital: FR-CAYENNE
@@ -1519,7 +1387,6 @@
     pt-PT:
     - Gard
   id: FR-30
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-30.svg"
   group: FR-OCC
   numeric_code: '30'
   capital: FR-NIMES
@@ -1535,7 +1402,6 @@
     pt-PT:
     - Gers
   id: FR-32
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-32.svg"
   group: FR-OCC
   numeric_code: '32'
   capital: FR-AUCH
@@ -1551,7 +1417,6 @@
     pt-PT:
     - Gironda
   id: FR-33
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-33.svg"
   group: FR-NAQ
   numeric_code: '33'
   capital: FR-BORDEAUX
@@ -1567,7 +1432,6 @@
     pt-PT:
     - Guadalupe
   id: FR-971
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-971.svg"
   group: ''
   numeric_code: '971'
   capital: FR-BASSE-TERRE
@@ -1583,7 +1447,6 @@
     pt-PT:
     - Alta Córsega
   id: FR-2B
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-2B.svg"
   group: FR-20R
   numeric_code: 2B
   capital: FR-BASTIA
@@ -1599,7 +1462,6 @@
     pt-PT:
     - Alto Garona
   id: FR-31
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-31.svg"
   group: FR-OCC
   numeric_code: '31'
   capital: FR-TOULOUSE
@@ -1615,7 +1477,6 @@
     pt-PT:
     - Alto Loire
   id: FR-43
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-43.svg"
   group: FR-ARA
   numeric_code: '43'
   capital: FR-LE-PUY-EN-VELAY
@@ -1631,7 +1492,6 @@
     pt-PT:
     - Alto Marne
   id: FR-52
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-52.svg"
   group: FR-GES
   numeric_code: '52'
   capital: FR-CHAUMONT
@@ -1647,7 +1507,6 @@
     pt-PT:
     - Altos Alpes
   id: FR-05
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-05.svg"
   group: FR-PAC
   numeric_code: '05'
   capital: FR-GAP
@@ -1663,7 +1522,6 @@
     pt-PT:
     - Alto Sona
   id: FR-70
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-70.svg"
   group: FR-BFC
   numeric_code: '70'
   capital: FR-VESOUL
@@ -1679,7 +1537,6 @@
     pt-PT:
     - Alta Saboia
   id: FR-74
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-74.svg"
   group: FR-ARA
   numeric_code: '74'
   capital: FR-ANNECY
@@ -1695,7 +1552,6 @@
     pt-PT:
     - Altos Pirenéus
   id: FR-65
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-65.svg"
   group: FR-OCC
   numeric_code: '65'
   capital: FR-TARBES
@@ -1711,7 +1567,6 @@
     pt-PT:
     - Alto Vienne
   id: FR-87
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-87.svg"
   group: FR-NAQ
   numeric_code: '87'
   capital: FR-LIMOGES
@@ -1727,7 +1582,6 @@
     pt-PT:
     - Altos do Sena
   id: FR-92
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-92.svg"
   group: FR-IDF
   numeric_code: '92'
   capital: FR-NANTERRE
@@ -1743,7 +1597,6 @@
     pt-PT:
     - Hérault
   id: FR-34
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-34.svg"
   group: FR-OCC
   numeric_code: '34'
   capital: FR-MONTPELLIER
@@ -1759,7 +1612,6 @@
     pt-PT:
     - Ille e Vilaine
   id: FR-35
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-35.svg"
   group: FR-BRE
   numeric_code: '35'
   capital: FR-RENNES
@@ -1775,7 +1627,6 @@
     pt-PT:
     - Indre
   id: FR-36
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-36.svg"
   group: FR-CVL
   numeric_code: '36'
   capital: FR-CHATEAUROUX
@@ -1791,7 +1642,6 @@
     pt-PT:
     - Indre e Loire
   id: FR-37
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-37.svg"
   group: FR-CVL
   numeric_code: '37'
   capital: FR-TOURS
@@ -1807,7 +1657,6 @@
     pt-PT:
     - Isère
   id: FR-38
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-38.svg"
   group: FR-ARA
   numeric_code: '38'
   capital: FR-GRENOBLE
@@ -1823,7 +1672,6 @@
     pt-PT:
     - Jura
   id: FR-39
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-39.svg"
   group: FR-BFC
   numeric_code: '39'
   capital: FR-LONS-LE-SAUNIER
@@ -1839,7 +1687,6 @@
     pt-PT:
     - Landes
   id: FR-40
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-40.svg"
   group: FR-NAQ
   numeric_code: '40'
   capital: FR-MONT-DE-MARSAN
@@ -1855,7 +1702,6 @@
     pt-PT:
     - Loire
   id: FR-42
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-42.svg"
   group: FR-ARA
   numeric_code: '42'
   capital: FR-SAINT-ETIENNE
@@ -1871,7 +1717,6 @@
     pt-PT:
     - Loire Atlântico
   id: FR-44
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-44.svg"
   group: FR-PDL
   numeric_code: '44'
   capital: FR-NANTES
@@ -1887,7 +1732,6 @@
     pt-PT:
     - Loiret
   id: FR-45
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-45.svg"
   group: FR-CVL
   numeric_code: '45'
   capital: FR-ORLEANS
@@ -1903,7 +1747,6 @@
     pt-PT:
     - Loir e Cher
   id: FR-41
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-41.svg"
   group: FR-CVL
   numeric_code: '41'
   capital: FR-BLOIS
@@ -1919,7 +1762,6 @@
     pt-PT:
     - Lot
   id: FR-46
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-46.svg"
   group: FR-OCC
   numeric_code: '46'
   capital: FR-CAHORS
@@ -1935,7 +1777,6 @@
     pt-PT:
     - Lot e Garona
   id: FR-47
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-47.svg"
   group: FR-NAQ
   numeric_code: '47'
   capital: FR-AGEN
@@ -1951,7 +1792,6 @@
     pt-PT:
     - Lozère
   id: FR-48
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-48.svg"
   group: FR-OCC
   numeric_code: '48'
   capital: FR-MENDE
@@ -1967,7 +1807,6 @@
     pt-PT:
     - Maine e Loire
   id: FR-49
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-49.svg"
   group: FR-PDL
   numeric_code: '49'
   capital: FR-ANGERS
@@ -1983,7 +1822,6 @@
     pt-PT:
     - Mancha
   id: FR-50
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-50.svg"
   group: FR-NOR
   numeric_code: '50'
   capital: FR-SAINT-LO
@@ -1999,7 +1837,6 @@
     pt-PT:
     - Marne
   id: FR-51
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-51.svg"
   group: FR-GES
   numeric_code: '51'
   capital: FR-CHALONS-EN-CHAMPAGNE
@@ -2015,7 +1852,6 @@
     pt-PT:
     - Martinica
   id: FR-972
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-972.svg"
   group: ''
   numeric_code: '972'
   capital: FR-FORT-DE-FRANCE
@@ -2031,7 +1867,6 @@
     pt-PT:
     - Paris (coletividade com estatuto especial)
   id: FR-75
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-75.svg"
   group: FR-IDF
   numeric_code: '75'
   capital: FR-PARIS
@@ -2047,7 +1882,6 @@
     pt-PT:
     - Mayenne
   id: FR-53
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-53.svg"
   group: FR-PDL
   numeric_code: '53'
   capital: FR-LAVAL
@@ -2063,7 +1897,6 @@
     pt-PT:
     - Maiote
   id: FR-976
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-976.svg"
   group: ''
   numeric_code: '976'
   capital: FR-DZAOUDZI
@@ -2079,7 +1912,6 @@
     pt-PT:
     - Meurthe e Mosela
   id: FR-54
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-54.svg"
   group: FR-GES
   numeric_code: '54'
   capital: FR-NANCY
@@ -2095,7 +1927,6 @@
     pt-PT:
     - Mosa
   id: FR-55
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-55.svg"
   group: FR-GES
   numeric_code: '55'
   capital: FR-BAR-LE-DUC
@@ -2111,7 +1942,6 @@
     pt-PT:
     - Morbihan
   id: FR-56
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-56.svg"
   group: FR-BRE
   numeric_code: '56'
   capital: FR-VANNES
@@ -2127,7 +1957,6 @@
     pt-PT:
     - Mosela
   id: FR-57
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-57.svg"
   group: FR-GES
   numeric_code: '57'
   capital: FR-METZ
@@ -2143,7 +1972,6 @@
     pt-PT:
     - Nièvre
   id: FR-58
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-58.svg"
   group: FR-BFC
   numeric_code: '58'
   capital: FR-NEVERS
@@ -2159,7 +1987,6 @@
     pt-PT:
     - Norte
   id: FR-59
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-59.svg"
   group: FR-HDF
   numeric_code: '59'
   capital: FR-LILLE
@@ -2175,7 +2002,6 @@
     pt-PT:
     - Oise
   id: FR-60
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-60.svg"
   group: FR-HDF
   numeric_code: '60'
   capital: FR-BEAUVAIS
@@ -2191,7 +2017,6 @@
     pt-PT:
     - Orne
   id: FR-61
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-61.svg"
   group: FR-NOR
   numeric_code: '61'
   capital: FR-ALENCON
@@ -2207,7 +2032,6 @@
     pt-PT:
     - Pas-de-Calais
   id: FR-62
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-62.svg"
   group: FR-HDF
   numeric_code: '62'
   capital: FR-ARRAS
@@ -2223,7 +2047,6 @@
     pt-PT:
     - Puy-de-Dôme
   id: FR-63
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-63.svg"
   group: FR-ARA
   numeric_code: '63'
   capital: FR-CLERMONT-FERRAND
@@ -2239,7 +2062,6 @@
     pt-PT:
     - Pirenéus Atlânticos
   id: FR-64
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-64.svg"
   group: FR-NAQ
   numeric_code: '64'
   capital: FR-PAU
@@ -2255,7 +2077,6 @@
     pt-PT:
     - Pirenéus Orientais
   id: FR-66
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-66.svg"
   group: FR-OCC
   numeric_code: '66'
   capital: FR-PERPIGNAN
@@ -2271,7 +2092,6 @@
     pt-PT:
     - Baixo Reno
   id: FR-67
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-67.svg"
   group: FR-GES
   numeric_code: '67'
   capital: FR-STRASBOURG
@@ -2287,7 +2107,6 @@
     pt-PT:
     - Alto Reno
   id: FR-68
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-68.svg"
   group: FR-GES
   numeric_code: '68'
   capital: FR-COLMAR
@@ -2303,7 +2122,6 @@
     pt-PT:
     - Reunião
   id: FR-974
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-974.svg"
   group: ''
   numeric_code: '974'
   capital: FR-SAINT-DENIS
@@ -2319,7 +2137,6 @@
     pt-PT:
     - Ródano
   id: FR-69
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-69.svg"
   group: FR-ARA
   numeric_code: '69'
   capital: FR-LYON
@@ -2335,7 +2152,6 @@
     pt-PT:
     - Sona e Loire
   id: FR-71
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-71.svg"
   group: FR-BFC
   numeric_code: '71'
   capital: FR-MACON
@@ -2351,7 +2167,6 @@
     pt-PT:
     - Sarthe
   id: FR-72
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-72.svg"
   group: FR-PDL
   numeric_code: '72'
   capital: FR-LE MANS
@@ -2367,7 +2182,6 @@
     pt-PT:
     - Saboia
   id: FR-73
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-73.svg"
   group: FR-ARA
   numeric_code: '73'
   capital: FR-CHAMBERY
@@ -2383,7 +2197,6 @@
     pt-PT:
     - Sena e Marne
   id: FR-77
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-77.svg"
   group: FR-IDF
   numeric_code: '77'
   capital: FR-MELUN
@@ -2399,7 +2212,6 @@
     pt-PT:
     - Sena Marítimo
   id: FR-76
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-76.svg"
   group: FR-NOR
   numeric_code: '76'
   capital: FR-ROUEN
@@ -2415,7 +2227,6 @@
     pt-PT:
     - Sena-Saint-Denis
   id: FR-93
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-93.svg"
   group: FR-IDF
   numeric_code: '93'
   capital: FR-BOBIGNY
@@ -2431,7 +2242,6 @@
     pt-PT:
     - Somme
   id: FR-80
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-80.svg"
   group: FR-HDF
   numeric_code: '80'
   capital: FR-AMIENS
@@ -2447,7 +2257,6 @@
     pt-PT:
     - Tarn
   id: FR-81
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-81.svg"
   group: FR-OCC
   numeric_code: '81'
   capital: FR-ALBI
@@ -2463,7 +2272,6 @@
     pt-PT:
     - Tarn e Garona
   id: FR-82
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-82.svg"
   group: FR-OCC
   numeric_code: '82'
   capital: FR-MONTAUBAN
@@ -2479,7 +2287,6 @@
     pt-PT:
     - Território de Belfort
   id: FR-90
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-90.svg"
   group: FR-BFC
   numeric_code: '90'
   capital: FR-BELFORT
@@ -2495,7 +2302,6 @@
     pt-PT:
     - Vale do Marne
   id: FR-94
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-94.svg"
   group: FR-IDF
   numeric_code: '94'
   capital: FR-CRETEIL
@@ -2511,7 +2317,6 @@
     pt-PT:
     - Val-d'Oise
   id: FR-95
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-95.svg"
   group: FR-IDF
   numeric_code: '95'
   capital: FR-PONTOISE
@@ -2527,7 +2332,6 @@
     pt-PT:
     - Var
   id: FR-83
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-83.svg"
   group: FR-PAC
   numeric_code: '83'
   capital: FR-TOULON
@@ -2543,7 +2347,6 @@
     pt-PT:
     - Vaucluse
   id: FR-84
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-84.svg"
   group: FR-PAC
   numeric_code: '84'
   capital: FR-AVIGNON
@@ -2559,7 +2362,6 @@
     pt-PT:
     - Vendeia
   id: FR-85
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-85.svg"
   group: FR-PDL
   numeric_code: '85'
   capital: FR-LA-ROCHE-SUR-YON
@@ -2575,7 +2377,6 @@
     pt-PT:
     - Vienne
   id: FR-86
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-86.svg"
   group: FR-NAQ
   numeric_code: '86'
   capital: FR-POITIERS
@@ -2591,7 +2392,6 @@
     pt-PT:
     - Vosges
   id: FR-88
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-88.svg"
   group: FR-GES
   numeric_code: '88'
   capital: FR-EPINAL
@@ -2607,7 +2407,6 @@
     pt-PT:
     - Yonne
   id: FR-89
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-89.svg"
   group: FR-BFC
   numeric_code: '89'
   capital: FR-AUXERRE
@@ -2623,7 +2422,6 @@
     pt-PT:
     - Yvelines
   id: FR-78
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-78.svg"
   group: FR-IDF
   numeric_code: '78'
   capital: FR-VERSAILLES
@@ -2644,7 +2442,6 @@
     pt-PT:
     - "Auvergne-Ródano-Alpes"
   id: FR-ARA
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-ARA.svg"
   group: FR
   numeric_code:
   capital : FR-LYON
@@ -2660,7 +2457,6 @@
     pt-PT:
     - "Borgonha-Franco-Condado"
   id: FR-BFC
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-BFC.svg"
   group: FR
   numeric_code:
   capital : FR-DIJON
@@ -2676,7 +2472,6 @@
     pt-PT:
     - "Bretanha"
   id: FR-BRE
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-BRE.svg"
   group: FR
   numeric_code:
   capital : FR-RENNES
@@ -2692,7 +2487,6 @@
     pt-PT:
     - "Centro-Vale do Loire"
   id: FR-CVL
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-CVL.svg"
   group: FR
   numeric_code:
   capital : FR-ORLEANS
@@ -2708,7 +2502,6 @@
     pt-PT:
     - "Córsega"
   id: FR-COR
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-COR.svg"
   group: FR
   numeric_code:
   capital : FR-AJACCIO
@@ -2724,7 +2517,6 @@
     pt-PT:
     - "Grande Leste"
   id: FR-GES
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-GES.svg"
   group: FR
   numeric_code:
   capital : FR-
@@ -2740,7 +2532,6 @@
     pt-PT:
     - "Alto da França"
   id: FR-HDF
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-HDF.svg"
   group: FR
   numeric_code:
   capital : FR-LILLE
@@ -2756,7 +2547,6 @@
     pt-PT:
     - "Ilha de França"
   id: FR-IDF
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-IDF.svg"
   group: FR
   numeric_code:
   capital : FR-PARIS
@@ -2772,7 +2562,6 @@
     pt-PT:
     - "Normandia"
   id: FR-NOR
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-NOR.svg"
   group: FR
   numeric_code:
   capital : FR-ROUEN
@@ -2788,7 +2577,6 @@
     pt-PT:
     - "Nova Aquitânia"
   id: FR-NAQ
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-NAQ.svg"
   group: FR
   numeric_code:
   capital : FR-BORDEAUX
@@ -2804,7 +2592,6 @@
     pt-PT:
     - "Occitânia"
   id: FR-OCC
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-OCC.svg"
   group: FR
   numeric_code:
   capital : FR-TOULOUSE
@@ -2820,7 +2607,6 @@
     pt-PT:
     - "País do Loire"
   id: FR-PDL
-  flag_url: "./assets/maps/flags/france-departments/flag_FR-PDL.svg"
   group: FR
   numeric_code:
   capital : FR-NANTES
@@ -2838,7 +2624,6 @@
     pt-PT:
     - Sapporo
   id: JP-SAPPORO
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-SAPPORO.svg"
   group: JP-01
   numeric_code: '001-0000'
   capital:
@@ -2854,7 +2639,6 @@
     pt-PT:
     - Aomori
   id: JP-AOMORI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-AOMORI.svg"
   group: JP-02
   numeric_code: '002-0000'
   capital:
@@ -2870,7 +2654,6 @@
     pt-PT:
     - Morioka
   id: JP-MORIOKA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-MORIOKA.svg"
   group: JP-03
   numeric_code: '003-0000'
   capital:
@@ -2886,7 +2669,6 @@
     pt-PT:
     - Sendai
   id: JP-SENDAI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-SENDAI.svg"
   group: JP-04
   numeric_code: '004-0000'
   capital:
@@ -2902,7 +2684,6 @@
     pt-PT:
     - Akita
   id: JP-AKITA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-AKITA.svg"
   group: JP-05
   numeric_code: '005-0000'
   capital:
@@ -2918,7 +2699,6 @@
     pt-PT:
     - Yamagata
   id: JP-YAMAGATA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-YAMAGATA.svg"
   group: JP-06
   numeric_code: '006-0000'
   capital:
@@ -2934,7 +2714,6 @@
     pt-PT:
     - Fukushima
   id: JP-FUKUSHIMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-FUKUSHIMA.svg"
   group: JP-07
   numeric_code: '007-0000'
   capital:
@@ -2950,7 +2729,6 @@
     pt-PT:
     - Mito
   id: JP-MITO
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-MITO.svg"
   group: JP-08
   numeric_code: '008-0000'
   capital:
@@ -2966,7 +2744,6 @@
     pt-PT:
     - Utsunomiya
   id: JP-UTSUNOMIYA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-UTSUNOMIYA.svg"
   group: JP-09
   numeric_code: '009-0000'
   capital:
@@ -2982,7 +2759,6 @@
     pt-PT:
     - Maebashi
   id: JP-MAEBASHI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-MAEBASHI.svg"
   group: JP-10
   numeric_code: '010-0000'
   capital:
@@ -2998,7 +2774,6 @@
     pt-PT:
     - Saitama
   id: JP-SAITAMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-SAITAMA.svg"
   group: JP-11
   numeric_code: '011-0000'
   capital:
@@ -3014,7 +2789,6 @@
     pt-PT:
     - Chiba
   id: JP-CHIBA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-CHIBA.svg"
   group: JP-12
   numeric_code: '012-0000'
   capital:
@@ -3030,7 +2804,6 @@
     pt-PT:
     - Tóquio
   id: JP-TOKYO
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOKYO.svg"
   group: JP-13
   numeric_code: '013-0000'
   capital:
@@ -3046,7 +2819,6 @@
     pt-PT:
     - Yokohama
   id: JP-YOKOHAMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-YOKOHAMA.svg"
   group: JP-14
   numeric_code: '014-0000'
   capital:
@@ -3062,7 +2834,6 @@
     pt-PT:
     - Niigata
   id: JP-NIIGATA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-NIIGATA.svg"
   group: JP-15
   numeric_code: '015-0000'
   capital:
@@ -3078,7 +2849,6 @@
     pt-PT:
     - Toyama
   id: JP-TOYAMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOYAMA.svg"
   group: JP-16
   numeric_code: '016-0000'
   capital:
@@ -3094,7 +2864,6 @@
     pt-PT:
     - Kanazawa
   id: JP-KANAZAWA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KANAZAWA.svg"
   group: JP-17
   numeric_code: '017-0000'
   capital:
@@ -3110,7 +2879,6 @@
     pt-PT:
     - Fukui
   id: JP-FUKUI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-FUKUI.svg"
   group: JP-18
   numeric_code: '018-0000'
   capital:
@@ -3126,7 +2894,6 @@
     pt-PT:
     - Kofu
   id: JP-KOFU
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KOFU.svg"
   group: JP-19
   numeric_code: '019-0000'
   capital:
@@ -3142,7 +2909,6 @@
     pt-PT:
     - Nagano
   id: JP-NAGANO
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAGANO.svg"
   group: JP-20
   numeric_code: '020-0000'
   capital:
@@ -3158,7 +2924,6 @@
     pt-PT:
     - Gifu
   id: JP-GIFU
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-GIFU.svg"
   group: JP-21
   numeric_code: '021-0000'
   capital:
@@ -3174,7 +2939,6 @@
     pt-PT:
     - Shizuoka
   id: JP-SHIZUOKA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-SHIZUOKA.svg"
   group: JP-22
   numeric_code: '022-0000'
   capital:
@@ -3190,7 +2954,6 @@
     pt-PT:
     - Nagoia
   id: JP-NAGOYA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAGOYA.svg"
   group: JP-23
   numeric_code: '023-0000'
   capital:
@@ -3206,7 +2969,6 @@
     pt-PT:
     - Tsu
   id: JP-TSU
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-TSU.svg"
   group: JP-24
   numeric_code: '024-0000'
   capital:
@@ -3222,7 +2984,6 @@
     pt-PT:
     - Otsu
   id: JP-OTSU
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-OTSU.svg"
   group: JP-25
   numeric_code: '025-0000'
   capital:
@@ -3238,7 +2999,6 @@
     pt-PT:
     - Quioto
   id: JP-KYOTO
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KYOTO.svg"
   group: JP-26
   numeric_code: '026-0000'
   capital:
@@ -3254,7 +3014,6 @@
     pt-PT:
     - Osaka
   id: JP-OSAKA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-OSAKA.svg"
   group: JP-27
   numeric_code: '027-0000'
   capital:
@@ -3270,7 +3029,6 @@
     pt-PT:
     - Kobe
   id: JP-KOBE
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KOBE.svg"
   group: JP-28
   numeric_code: '028-0000'
   capital:
@@ -3286,7 +3044,6 @@
     pt-PT:
     - Nara
   id: JP-NARA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-NARA.svg"
   group: JP-29
   numeric_code: '029-0000'
   capital:
@@ -3302,7 +3059,6 @@
     pt-PT:
     - Wakayama
   id: JP-WAKAYAMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-WAKAYAMA.svg"
   group: JP-30
   numeric_code: '030-0000'
   capital:
@@ -3318,7 +3074,6 @@
     pt-PT:
     - Tottori
   id: JP-TOTTORI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOTTORI.svg"
   group: JP-31
   numeric_code: '031-0000'
   capital:
@@ -3334,7 +3089,6 @@
     pt-PT:
     - Matsue
   id: JP-MATSUE
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-MATSUE.svg"
   group: JP-32
   numeric_code: '032-0000'
   capital:
@@ -3350,7 +3104,6 @@
     pt-PT:
     - Okayama
   id: JP-OKAYAMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-OKAYAMA.svg"
   group: JP-33
   numeric_code: '033-0000'
   capital:
@@ -3366,7 +3119,6 @@
     pt-PT:
     - Hiroshima
   id: JP-HIROSHIMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-HIROSHIMA.svg"
   group: JP-34
   numeric_code: '034-0000'
   capital:
@@ -3382,7 +3134,6 @@
     pt-PT:
     - Yamaguchi
   id: JP-YAMAGUCHI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-YAMAGUCHI.svg"
   group: JP-35
   numeric_code: '035-0000'
   capital:
@@ -3398,7 +3149,6 @@
     pt-PT:
     - Tokushima
   id: JP-TOKUSHIMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOKUSHIMA.svg"
   group: JP-36
   numeric_code: '036-0000'
   capital:
@@ -3414,7 +3164,6 @@
     pt-PT:
     - Takamatsu
   id: JP-TAKAMATSU
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-TAKAMATSU.svg"
   group: JP-37
   numeric_code: '037-0000'
   capital:
@@ -3430,7 +3179,6 @@
     pt-PT:
     - Matsuyama
   id: JP-MATSUYAMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-MATSUYAMA.svg"
   group: JP-38
   numeric_code: '038-0000'
   capital:
@@ -3446,7 +3194,6 @@
     pt-PT:
     - Kochi
   id: JP-KOCHI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KOCHI.svg"
   group: JP-39
   numeric_code: '039-0000'
   capital:
@@ -3462,7 +3209,6 @@
     pt-PT:
     - Fukuoka
   id: JP-FUKUOKA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-FUKUOKA.svg"
   group: JP-40
   numeric_code: '040-0000'
   capital:
@@ -3478,7 +3224,6 @@
     pt-PT:
     - Saga
   id: JP-SAGA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-SAGA.svg"
   group: JP-41
   numeric_code: '041-0000'
   capital:
@@ -3494,7 +3239,6 @@
     pt-PT:
     - Nagasaki
   id: JP-NAGASAKI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAGASAKI.svg"
   group: JP-42
   numeric_code: '042-0000'
   capital:
@@ -3510,7 +3254,6 @@
     pt-PT:
     - Kumamoto
   id: JP-KUMAMOTO
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KUMAMOTO.svg"
   group: JP-43
   numeric_code: '043-0000'
   capital:
@@ -3526,7 +3269,6 @@
     pt-PT:
     - Oita
   id: JP-OITA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-OITA.svg"
   group: JP-44
   numeric_code: '044-0000'
   capital:
@@ -3542,7 +3284,6 @@
     pt-PT:
     - Miyazaki
   id: JP-MIYAZAKI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-MIYAZAKI.svg"
   group: JP-45
   numeric_code: '045-0000'
   capital:
@@ -3558,7 +3299,6 @@
     pt-PT:
     - Kagoshima
   id: JP-KAGOSHIMA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KAGOSHIMA.svg"
   group: JP-46
   numeric_code: '046-0000'
   capital:
@@ -3574,7 +3314,6 @@
     pt-PT:
     - Naha
   id: JP-NAHA
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-NAHA.svg"
   group: JP-47
   numeric_code: '047-0000'
   capital:
@@ -3597,7 +3336,6 @@
     pt-PT:
     - Hokkaido
   id: JP-01
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-01.svg"
   group: JP-HOK
   numeric_code: '001'
   capital: JP-SAPPORO
@@ -3613,7 +3351,6 @@
     pt-PT:
     - Aomori
   id: JP-02
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-02.svg"
   group: JP-TOH
   numeric_code: '002'
   capital: JP-AOMORI
@@ -3629,7 +3366,6 @@
     pt-PT:
     - Iwate
   id: JP-03
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-03.svg"
   group: JP-TOH
   numeric_code: '003'
   capital: JP-MORIOKA
@@ -3645,7 +3381,6 @@
     pt-PT:
     - Miyagi
   id: JP-04
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-04.svg"
   group: JP-TOH
   numeric_code: '004'
   capital: JP-SENDAI
@@ -3661,7 +3396,6 @@
     pt-PT:
     - Akita
   id: JP-05
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-05.svg"
   group: JP-TOH
   numeric_code: '005'
   capital: JP-AKITA
@@ -3677,7 +3411,6 @@
     pt-PT:
     - Yamagata
   id: JP-06
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-06.svg"
   group: JP-TOH
   numeric_code: '006'
   capital: JP-YAMAGATA
@@ -3693,7 +3426,6 @@
     pt-PT:
     - Fukushima
   id: JP-07
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-07.svg"
   group: JP-TOH
   numeric_code: '007'
   capital: JP-FUKUSHIMA
@@ -3709,7 +3441,6 @@
     pt-PT:
     - Ibaraki
   id: JP-08
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-08.svg"
   group: JP-KNT
   numeric_code: '008'
   capital: JP-MITO
@@ -3725,7 +3456,6 @@
     pt-PT:
     - Tochigi
   id: JP-09
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-09.svg"
   group: JP-KNT
   numeric_code: '009'
   capital: JP-UTSUNOMIYA
@@ -3741,7 +3471,6 @@
     pt-PT:
     - Gunma
   id: JP-10
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-10.svg"
   group: JP-KNT
   numeric_code: '010'
   capital: JP-MAEBASHI
@@ -3757,7 +3486,6 @@
     pt-PT:
     - Saitama
   id: JP-11
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-11.svg"
   group: JP-KNT
   numeric_code: '011'
   capital: JP-SAITAMA
@@ -3773,7 +3501,6 @@
     pt-PT:
     - Chiba
   id: JP-12
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-12.svg"
   group: JP-KNT
   numeric_code: '012'
   capital: JP-CHIBA
@@ -3789,7 +3516,6 @@
     pt-PT:
     - Tóquio
   id: JP-13
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-13.svg"
   group: JP-KNT
   numeric_code: '013'
   capital: JP-TOKYO
@@ -3805,7 +3531,6 @@
     pt-PT:
     - Kanagawa
   id: JP-14
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-14.svg"
   group: JP-KNT
   numeric_code: '014'
   capital: JP-YOKOHAMA
@@ -3821,7 +3546,6 @@
     pt-PT:
     - Niigata
   id: JP-15
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-15.svg"
   group: JP-CHB
   numeric_code: '015'
   capital: JP-NIIGATA
@@ -3837,7 +3561,6 @@
     pt-PT:
     - Toyama
   id: JP-16
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-16.svg"
   group: JP-CHB
   numeric_code: '016'
   capital: JP-TOYAMA
@@ -3853,7 +3576,6 @@
     pt-PT:
     - Ishikawa
   id: JP-17
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-17.svg"
   group: JP-CHB
   numeric_code: '017'
   capital: JP-KANAZAWA
@@ -3869,7 +3591,6 @@
     pt-PT:
     - Fukui
   id: JP-18
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-18.svg"
   group: JP-CHB
   numeric_code: '018'
   capital: JP-FUKUI
@@ -3885,7 +3606,6 @@
     pt-PT:
     - Yamanashi
   id: JP-19
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-19.svg"
   group: JP-CHB
   numeric_code: '019'
   capital: JP-KOFU
@@ -3901,7 +3621,6 @@
     pt-PT:
     - Nagano
   id: JP-20
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-20.svg"
   group: JP-CHB
   numeric_code: '020'
   capital: JP-NAGANO
@@ -3917,7 +3636,6 @@
     pt-PT:
     - Gifu
   id: JP-21
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-21.svg"
   group: JP-CHB
   numeric_code: '021'
   capital: JP-GIFU
@@ -3933,7 +3651,6 @@
     pt-PT:
     - Shizuoka
   id: JP-22
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-22.svg"
   group: JP-CHB
   numeric_code: '022'
   capital: JP-SHIZUOKA
@@ -3949,7 +3666,6 @@
     pt-PT:
     - Aichi
   id: JP-23
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-23.svg"
   group: JP-CHB
   numeric_code: '023'
   capital: JP-NAGOYA
@@ -3965,7 +3681,6 @@
     pt-PT:
     - Mie
   id: JP-24
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-24.svg"
   group: JP-KAN
   numeric_code: '024'
   capital: JP-TSU
@@ -3981,7 +3696,6 @@
     pt-PT:
     - Shiga
   id: JP-25
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-25.svg"
   group: JP-KAN
   numeric_code: '025'
   capital: JP-OTSU
@@ -3997,7 +3711,6 @@
     pt-PT:
     - Quioto
   id: JP-26
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-26.svg"
   group: JP-KAN
   numeric_code: '026'
   capital: JP-KYOTO
@@ -4013,7 +3726,6 @@
     pt-PT:
     - Osaka
   id: JP-27
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-27.svg"
   group: JP-KAN
   numeric_code: '027'
   capital: JP-OSAKA
@@ -4029,7 +3741,6 @@
     pt-PT:
     - Hyogo
   id: JP-28
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-28.svg"
   group: JP-KAN
   numeric_code: '028'
   capital: JP-KOBE
@@ -4045,7 +3756,6 @@
     pt-PT:
     - Nara
   id: JP-29
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-29.svg"
   group: JP-KAN
   numeric_code: '029'
   capital: JP-NARA
@@ -4061,7 +3771,6 @@
     pt-PT:
     - Wakayama
   id: JP-30
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-30.svg"
   group: JP-KAN
   numeric_code: '030'
   capital: JP-WAKAYAMA
@@ -4077,7 +3786,6 @@
     pt-PT:
     - Tottori
   id: JP-31
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-31.svg"
   group: JP-CHU
   numeric_code: '031'
   capital: JP-TOTTORI
@@ -4093,7 +3801,6 @@
     pt-PT:
     - Shimane
   id: JP-32
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-32.svg"
   group: JP-CHU
   numeric_code: '032'
   capital: JP-MATSUE
@@ -4109,7 +3816,6 @@
     pt-PT:
     - Okayama
   id: JP-33
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-33.svg"
   group: JP-CHU
   numeric_code: '033'
   capital: JP-OKAYAMA
@@ -4125,7 +3831,6 @@
     pt-PT:
     - Hiroshima
   id: JP-34
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-34.svg"
   group: JP-CHU
   numeric_code: '034'
   capital: JP-HIROSHIMA
@@ -4141,7 +3846,6 @@
     pt-PT:
     - Yamaguchi
   id: JP-35
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-35.svg"
   group: JP-CHU
   numeric_code: '035'
   capital: JP-YAMAGUCHI
@@ -4157,7 +3861,6 @@
     pt-PT:
     - Tokushima
   id: JP-36
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-36.svg"
   group: JP-SHI
   numeric_code: '036'
   capital: JP-TOKUSHIMA
@@ -4173,7 +3876,6 @@
     pt-PT:
     - Kagawa 
   id: JP-37
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-37.svg"
   group: JP-SHI
   numeric_code: '037'
   capital: JP-TAKAMATSU
@@ -4189,7 +3891,6 @@
     pt-PT:
     - Ehime
   id: JP-38
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-38.svg"
   group: JP-SHI
   numeric_code: '038'
   capital: JP-MATSUYAMA
@@ -4205,7 +3906,6 @@
     pt-PT:
     - Kochi
   id: JP-39
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-39.svg"
   group: JP-SHI
   numeric_code: '039'
   capital: JP-KOCHI
@@ -4221,7 +3921,6 @@
     pt-PT:
     - Fukuoka
   id: JP-40
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-40.svg"
   group: JP-KYU
   numeric_code: '040'
   capital: JP-FUKUOKA
@@ -4237,7 +3936,6 @@
     pt-PT:
     - Saga
   id: JP-41
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-41.svg"
   group: JP-KYU
   numeric_code: '041'
   capital: JP-SAGA
@@ -4253,7 +3951,6 @@
     pt-PT:
     - Nagasaki
   id: JP-42
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-42.svg"
   group: JP-KYU
   numeric_code: '042'
   capital: JP-NAGASAKI
@@ -4269,7 +3966,6 @@
     pt-PT:
     - Kumamoto
   id: JP-43
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-43.svg"
   group: JP-KYU
   numeric_code: '043'
   capital: JP-KUMAMOTO
@@ -4285,7 +3981,6 @@
     pt-PT:
     - Oita
   id: JP-44
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-44.svg"
   group: JP-KYU
   numeric_code: '044'
   capital: JP-OITA
@@ -4301,7 +3996,6 @@
     pt-PT:
     - Miyazaki
   id: JP-45
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-45.svg"
   group: JP-KYU
   numeric_code: '045'
   capital: JP-MIYAZAKI
@@ -4317,7 +4011,6 @@
     pt-PT:
     - Kagoshima
   id: JP-46
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-46.svg"
   group: JP-KYU
   numeric_code: '046'
   capital: JP-KAGOSHIMA
@@ -4333,7 +4026,6 @@
     pt-PT:
     - Okinawa
   id: JP-47
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-47.svg"
   group: JP-KYU
   numeric_code: '047'
   capital: JP-NAHA
@@ -4354,7 +4046,6 @@
     pt-PT:
     - Hokkaido
   id: JP-HOK
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-HOK.svg"
   group: JP
   numeric_code:
   capital: JP-SAPPORO
@@ -4370,7 +4061,6 @@
     pt-PT:
     - Tohoku
   id: JP-TOH
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-TOH.svg"
   group: JP
   numeric_code:
   capital: JP-SENDAI
@@ -4386,7 +4076,6 @@
     pt-PT:
     - Kanto
   id: JP-KAN
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KAN.svg"
   group: JP
   numeric_code:
   capital: JP-TOKYO
@@ -4402,7 +4091,6 @@
     pt-PT:
     - Chubu
   id: JP-CHB
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-CHB.svg"
   group: JP
   numeric_code:
   capital: JP-NAGOYA
@@ -4423,7 +4111,6 @@
     - Kansai
     - Kinki
   id: JP-KAN
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KAN.svg"
   group: JP
   numeric_code:
   capital: JP-OSAKA
@@ -4439,7 +4126,6 @@
     pt-PT:
     - Chugoku
   id: JP-CHU
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-CHU.svg"
   group: JP
   numeric_code:
   capital: JP-HIROSHIMA
@@ -4455,7 +4141,6 @@
     pt-PT:
     - Shikoku
   id: JP-SHI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-SHI.svg"
   group: JP
   numeric_code:
   capital: JP-TAKAMATSU
@@ -4471,7 +4156,6 @@
     pt-PT:
     - Kyushu
   id: JP-KYU
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-KYU.svg"
   group: JP
   numeric_code:
   capital: JP-FUKUOKA
@@ -4487,7 +4171,8696 @@
     pt-PT:
     - Okinawa
   id: JP-OKI
-  flag_url: "./assets/maps/flags/france-departments/flag_JP-OKI.svg"
   group: JP
   numeric_code:
   capital: JP-NAHA
+
+
+
+# WORLD ISO3166 - CITIES
+# For this part, it will be capital first, then country
+
+---
+- name:
+    en-US:
+    - Kabul
+    - Pashto
+    - Dari
+    fr-FR:
+    - Kaboul
+    - Pachtou
+    - Dari
+    es-ES:
+    - Kabul
+    de-DE:
+    - Kabul
+    pt-PT:
+    - Cabul
+    - Kabul
+  id: AF-KABUL
+  group: AF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Mariehamn
+    fr-FR:
+    - Mariehamn
+    - Maarianhamina
+    es-ES:
+    - Mariehamn
+    - Maarianhamina
+    de-DE:
+    - Mariehamns
+    - Maarianhamina
+    pt-PT:
+    - Mariehamn
+    - 'Maarianhamina '
+  id: AX-MARIEHAMN
+  group: AX
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tirana
+    fr-FR:
+    - Tirana
+    - Tiranë
+    es-ES:
+    - Tirana
+    - La Tirana
+    de-DE:
+    - Tirana
+    - Tiranë
+    pt-PT:
+    - Tirana
+    - Tiranë
+    - Tirona
+  id: AL-TIRANA
+  group: AL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Algiers
+    - Dzayer
+    - Alger
+    fr-FR:
+    - Alger
+    - Ldzayer
+    es-ES:
+    - Argel
+    - Dzayer
+    - Alger
+    de-DE:
+    - Algier
+    - Dzayer
+    pt-PT:
+    - Argel
+    - Dzayer
+  id: DZ-ALGIERS
+  group: DZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Pago Pago
+    fr-FR:
+    - Pago Pago
+    es-ES:
+    - Pago Pago
+    de-DE:
+    - Pago Pago
+    pt-PT:
+    - Pago Pago
+  id: AS-PAGO-PAGO
+  group: AS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Andorra la Vella
+    fr-FR:
+    - Andorre-la-Vieille
+    es-ES:
+    - Andorra la Vieja
+    de-DE:
+    - Andorra la Vella
+    pt-PT:
+    - Andorra-a-Velha
+  id: AD-ANDORRA-LA-VELLA
+  group: AD
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Luanda
+    fr-FR:
+    - Luanda
+    - Louanda
+    - São Paulo da Assunção de Loanda
+    es-ES:
+    - Luanda
+    de-DE:
+    - Luanda
+    - Loanda
+    - São Paulo da Assunção de Loanda
+    pt-PT:
+    - Luanda
+  id: AO-LUANDA
+  group: AO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - The Valley
+    fr-FR:
+    - The Valley
+    es-ES:
+    - The Valley
+    de-DE:
+    - The Valley
+    pt-PT:
+    - The Valley
+  id: AI-THE-VALLEY
+  group: AI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - McMurdo Station (biggest station, not formal capital)
+    - McMurdo
+    fr-FR:
+    - Base antarctique McMurdo
+    - McMurdo
+    es-ES:
+    - Base McMurdo (la mayor estación, no la capital formal)
+    - McMurdo
+    de-DE:
+    - McMurdo-Station (größter Bahnhof, nicht formale Hauptstadt)
+    - McMurdo
+    pt-PT:
+    - Estação McMurdo (maior estação, não capital formal)
+    - McMurdo
+  id: AQ-MCMURDO
+  group: AQ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Saint John's
+    - St. John's
+    fr-FR:
+    - Saint John's
+    - St. John's
+    es-ES:
+    - Saint John
+    de-DE:
+    - Saint John's
+    pt-PT:
+    - São João
+  id: AG-SAINT-JOHN-S
+  group: AG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Buenos Aires
+    fr-FR:
+    - Buenos Aires
+    es-ES:
+    - Buenos Aires
+    de-DE:
+    - Buenos Aires
+    pt-PT:
+    - Buenos Aires
+  id: AR-BUENOS-AIRES
+  group: AR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Yerevan
+    - Erevan
+    fr-FR:
+    - Erevan
+    - Yerevan
+    es-ES:
+    - Ereván
+    de-DE:
+    - Jerewan
+    - Eriwan
+    - Erewan
+    pt-PT:
+    - Erevã
+    - Erevan
+    - Ierevan
+    - Ierevã
+  id: AM-YEREVAN
+  group: AM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Oranjestad
+    fr-FR:
+    - Oranjestad
+    - Ville d'Orange
+    - Orangeville
+    es-ES:
+    - Oranjestad
+    - Ciudad naranja
+    de-DE:
+    - Oranjestad
+    pt-PT:
+    - Oranjestad
+  id: AW-ORANJESTAD
+  group: AW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Canberra
+    fr-FR:
+    - Canberra
+    es-ES:
+    - Canberra
+    de-DE:
+    - Canberra
+    pt-PT:
+    - Camberra
+    - Canberra
+  id: AU-CANBERRA
+  group: AU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Vienna
+    - Wien
+    fr-FR:
+    - Vienne
+    - Wien
+    es-ES:
+    - Viena
+    - Wien
+    de-DE:
+    - Wien
+    pt-PT:
+    - Viena
+    - Wien
+  id: AT-VIENNA
+  group: AT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Baku
+    - Bakı
+    fr-FR:
+    - Bakou
+    - Bakı
+    es-ES:
+    - Bakú
+    - Bakı
+    de-DE:
+    - Baku
+    - Bakı
+    pt-PT:
+    - Bacu
+    - Baku
+    - Bakı
+  id: AZ-BAKU
+  group: AZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nassau
+    - Charles Town
+    fr-FR:
+    - Nassau
+    - Charles Town
+    es-ES:
+    - Nasáu
+    - Charles Town
+    de-DE:
+    - Nassau
+    - Charles Town
+    pt-PT:
+    - Nassau
+    - Charles Town
+  id: BS-NASSAU
+  group: BS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Manama
+    fr-FR:
+    - Manama
+    es-ES:
+    - Manama
+    de-DE:
+    - Manama
+    pt-PT:
+    - Manama
+  id: BH-MANAMA
+  group: BH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Dhaka
+    fr-FR:
+    - Dacca
+    - Dhaka
+    es-ES:
+    - Daca
+    - Dhaka
+    de-DE:
+    - Dhaka
+    pt-PT:
+    - Daca
+    - Dhaka
+  id: BD-DHAKA
+  group: BD
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bridgetown
+    fr-FR:
+    - Bridgetown
+    es-ES:
+    - Bridgetown
+    de-DE:
+    - Bridgetown
+    pt-PT:
+    - Bridgetown
+  id: BB-BRIDGETOWN
+  group: BB
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Minsk
+    fr-FR:
+    - Minsk
+    es-ES:
+    - Minsk
+    de-DE:
+    - Minsk
+    pt-PT:
+    - Minsk
+  id: BY-MINSK
+  group: BY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Brussels
+    - City of Brussels
+    fr-FR:
+    - Bruxelles
+    - Ville de Bruxelles
+    es-ES:
+    - Bruselas
+    de-DE:
+    - Brüssel
+    - Stadt Brüssel
+    pt-PT:
+    - Bruxelas
+    - Cidade de Bruxelas
+  id: BE-BRUSSELS
+  group: BE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Belmopan
+    fr-FR:
+    - Belmopan
+    - Belmopán
+    es-ES:
+    - Belmopan
+    de-DE:
+    - Belmopan
+    pt-PT:
+    - Belmopan
+  id: BZ-BELMOPAN
+  group: BZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Porto-Novo (political) and Cotonou (economic)
+    fr-FR:
+    - Porto-Novo (politique) et Cotonou (économique)
+    es-ES:
+    - Porto-Novo (político) y Cotonú (económico)
+    de-DE:
+    - Porto-Novo (politisch) und Cotonou (wirtschaftlich)
+    pt-PT:
+    - Porto-Novo (político) e Cotonou (económico)
+  id: BJ-PORTO-NOVO
+  group: BJ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Hamilton
+    fr-FR:
+    - Hamilton
+    es-ES:
+    - Hamilton
+    de-DE:
+    - Hamilton
+    pt-PT:
+    - Hamilton
+  id: BM-HAMILTON
+  group: BM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Thimphu
+    fr-FR:
+    - Thimphou
+    es-ES:
+    - Timbu
+    - Timbú
+    de-DE:
+    - Thimphu
+    pt-PT:
+    - Thimbu
+    - Timbu
+    - Timpu
+  id: BT-THIMPHU
+  group: BT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Sucre (constitutional and judicial) and La Paz (executive and legislative)
+    - Sucre
+    - La Paz
+    fr-FR:
+    - Sucre (constitutionnelle et judiciaire) et La Paz (administrative)
+    - Sucre
+    - La Paz
+    es-ES:
+    - Sucre (constitucional y judicial) y La Paz (ejecutivo y legislativo)
+    - Sucre
+    - La Paz
+    de-DE:
+    - Sucre (Hauptstadt) und La Paz (Regierungssitz)
+    - Sucre
+    - La Paz
+    pt-PT:
+    - Sucre (constitucional e judicial) e La Paz (executivo e legislativo)
+    - Sucre
+    - La Paz
+  id: BO-SUCRE"
+  group: BO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kralendijk, Oranjestad and The Bottom (main city of each island)
+    - Kralendijk
+    - Oranjestad
+    - Bottom
+    fr-FR:
+    - Kralendijk, Oranjestad et The Bottom (ville principale de chaque île)
+    - Kralendijk
+    - Oranjestad
+    - Bottom
+    es-ES:
+    - Kralendijk, Oranjestad y The Bottom (ciudad principal de cada isla)
+    - Kralendijk
+    - Oranjestad
+    - Bottom
+    de-DE:
+    - Kralendijk, Oranjestad und The Bottom (Hauptort der jeweiligen Insel)
+    - Kralendijk
+    - Oranjestad
+    - Bottom
+    pt-PT:
+    - Kralendijk, Oranjestad e The Bottom (principal cidade de cada ilha)
+    - Kralendijk
+    - Oranjestad
+    - Bottom
+  id: BQ-KRALENDIJK"
+  group: BQ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Sarajevo
+    fr-FR:
+    - Sarajevo
+    es-ES:
+    - Sarajevo
+    de-DE:
+    - Sarajevo
+    pt-PT:
+    - Sarajevo
+  id: BA-SARAJEVO
+  group: BA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Gaborone
+    fr-FR:
+    - Gaborone
+    es-ES:
+    - Gaborone
+    de-DE:
+    - Gaborone
+    pt-PT:
+    - Gaborone
+  id: BW-GABORONE
+  group: BW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bouvet (no city)
+    fr-FR:
+    - Bouvet (aucune ville)
+    es-ES:
+    - Bouvet (ninguna ciudad)
+    de-DE:
+    - Bouvet (aucune ville)
+    pt-PT:
+    - Bouvet (nenhuma cidade)
+  id: BV-BOUVET
+  group: BV
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Brasília
+    fr-FR:
+    - Brasilia
+    es-ES:
+    - Brasilia
+    de-DE:
+    - Brasília
+    pt-PT:
+    - Brasília
+  id: BR-BRASILIA
+  group: BR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Camp Thunder Cove (U.S military camp, no other inhabitants)
+    - Camp Thunder Cove
+    fr-FR:
+    - Camp Thunder Cove (Camp militaire américain, pas d'autres habitants)
+    - Camp Thunder Cove
+    es-ES:
+    - Camp Thunder Cove (Campo militar estadounidense, sin otros habitantes)
+    - Camp Thunder Cove
+    de-DE:
+    - Camp Thunder Cove (U.S.-Militärlager, keine anderen Bewohner)
+    - Camp Thunder Cove
+    pt-PT:
+    - Camp Thunder Cove (Campo militar dos E.U.A., sem outros habitantes)
+    - Camp Thunder Cove
+  id: IO-CAMP-THUNDER-COVE"
+  group: IO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bandar Seri Begawan
+    fr-FR:
+    - Bandar Seri Begawan
+    es-ES:
+    - Bandar Seri Begawan
+    de-DE:
+    - Bandar Seri Begawan
+    pt-PT:
+    - Bandar Seri Begawan
+  id: BN-BANDAR-SERI-BEGAWAN
+  group: BN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Sofia
+    fr-FR:
+    - Sofia
+    es-ES:
+    - Sofía
+    de-DE:
+    - Sofia
+    pt-PT:
+    - Sofía
+  id: BG-SOFIA
+  group: BG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Ouagadougou
+    fr-FR:
+    - Ouagadougou
+    es-ES:
+    - Uagadugú
+    de-DE:
+    - Ouagadougou
+    pt-PT:
+    - Uagadugu
+  id: BF-OUAGADOUGOU
+  group: BF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Gitega (political) and Bujumbura (economic)
+    - Gitega
+    - Bujumbura
+    fr-FR:
+    - Gitega (politique) et Bujumbura (économique)
+    - Gitega
+    - Bujumbura
+    es-ES:
+    - Gitega (político) y Bujumbura (económico)
+    - Gitega
+    - Bujumbura
+    de-DE:
+    - Gitega (politique) et Bujumbura (économique)
+    - Gitega
+    - Bujumbura
+    pt-PT:
+    - Gitega (político) e Bujumbura (económico)
+    - Gitega
+    - Bujumbura
+  id: BI-GITEGA
+  group: BI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Praia
+    fr-FR:
+    - Praia
+    es-ES:
+    - Praia
+    de-DE:
+    - Praia
+    pt-PT:
+    - Praia
+  id: CV-PRAIA
+  group: CV
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Phnom Penh
+    fr-FR:
+    - Phnom Penh
+    es-ES:
+    - Nom Pen
+    de-DE:
+    - Phnom Penh
+    pt-PT:
+    - Phnom Penh
+  id: KH-PHNOM-PENH
+  group: KH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Yaoundé
+    fr-FR:
+    - Yaoundé
+    es-ES:
+    - Yaundé
+    de-DE:
+    - Yaoundé
+    pt-PT:
+    - Iaundé
+  id: CM-YAOUNDE
+  group: CM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Ottawa
+    fr-FR:
+    - Ottawa
+    es-ES:
+    - Ottawa
+    de-DE:
+    - Ottawa
+    pt-PT:
+    - Ottawa
+  id: CA-OTTAWA
+  group: CA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - George Town
+    fr-FR:
+    - George Town
+    es-ES:
+    - George Town
+    de-DE:
+    - George Town
+    pt-PT:
+    - Grande Caimão
+  id: KY-GEORGE-TOWN
+  group: KY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bangui
+    fr-FR:
+    - Bangui
+    es-ES:
+    - Bangui
+    de-DE:
+    - Bangui
+    pt-PT:
+    - Bangui
+  id: CF-BANGUI
+  group: CF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - N'Djaména
+    fr-FR:
+    - N'Djaména
+    es-ES:
+    - Yamena
+    de-DE:
+    - N'Djaména
+    pt-PT:
+    - Jamena
+  id: TD-N-DJAMENA
+  group: TD
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Santiago
+    - Santiago de Chile
+    fr-FR:
+    - Santiago
+    - Santiago du Chili
+    es-ES:
+    - Santiago
+    - Santiago de Chile
+    de-DE:
+    - Santiago
+    - Santiago de Chile
+    pt-PT:
+    - Santiago
+    - Santiago do Chile
+  id: CL-SANTIAGO
+  group: CL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Beijing
+    - Peking
+    fr-FR:
+    - Pékin
+    - Beijing
+    es-ES:
+    - Pekín
+    - Beijing
+    de-DE:
+    - Peking
+    - Beijing
+    pt-PT:
+    - Pequim
+    - Beijing
+  id: CN-BEIJING
+  group: CN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Flying Fish Cove
+    fr-FR:
+    - Flying Fish Cove
+    es-ES:
+    - Flying Fish Cove
+    de-DE:
+    - Flying Fish Cove
+    pt-PT:
+    - Flying Fish Cove
+  id: CX-FLYING-FISH-COVE
+  group: CX
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - West Island
+    fr-FR:
+    - West Island
+    es-ES:
+    - West Island
+    de-DE:
+    - West Island
+    pt-PT:
+    - Ilha Ocidental
+  id: CC-WEST-ISLAND
+  group: CC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bogotá
+    fr-FR:
+    - Bogota
+    es-ES:
+    - Bogotá
+    de-DE:
+    - Bogotá
+    pt-PT:
+    - Bogotá
+  id: CO-BOGOTA
+  group: CO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Moroni
+    fr-FR:
+    - Moroni
+    es-ES:
+    - Moroni
+    de-DE:
+    - Moroni
+    pt-PT:
+    - Moroni
+  id: KM-MORONI
+  group: KM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Brazzaville (political) and Pointe-Noire (economic)
+    fr-FR:
+    - Brazzaville (politique) et Pointe-Noire (économique)
+    es-ES:
+    - Brazzaville (político) y Pointe-Noire (económico)
+    de-DE:
+    - Brazzaville (politisch) und Pointe-Noire (wirtschaftlich)
+    pt-PT:
+    - Brazzaville (político) e Pointe-Noire (económico)
+  id: CG-BRAZZAVILLE
+  group: CG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kinshasa
+    fr-FR:
+    - Kinshasa
+    es-ES:
+    - Kinsasa
+    - Kinshasa
+    de-DE:
+    - Kinshasa
+    pt-PT:
+    - Quinxassa
+    - Quinxasa
+    - Kinshasa
+  id: CD-KINSHASA
+  group: CD
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Avarua
+    fr-FR:
+    - Avarua
+    es-ES:
+    - Avarua
+    de-DE:
+    - Avarua
+    pt-PT:
+    - Avarua
+  id: CK-AVARUA
+  group: CK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - San José
+    fr-FR:
+    - San José
+    es-ES:
+    - San José
+    de-DE:
+    - San José
+    pt-PT:
+    - San José
+    - São José
+  id: CR-SAN-JOSE
+  group: CR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Yamoussoukro (political) and Abidjan (economic)
+    - Yamoussoukro
+    - Abidjan
+    fr-FR:
+    - Yamoussoukro (politique) et Abidjan (économique)
+    - Yamoussoukro
+    - Abidjan
+    es-ES:
+    - Yamusukro (político) y Abiyán (económico)
+    - Yamoussoukro
+    - Abidjan
+    de-DE:
+    - Yamoussoukro (politisch) und Abidjan (wirtschaftlich)
+    - Yamoussoukro
+    - Abidjan
+    pt-PT:
+    - Yamoussoukro (político) e Abidjan (económico)
+    - Yamoussoukro
+    - Abidjan
+  id: CI-YAMOUSSOUKRO
+  group: CI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Zagreb
+    fr-FR:
+    - Zagreb
+    es-ES:
+    - Zagreb
+    de-DE:
+    - Zagreb
+    pt-PT:
+    - Zagreb
+  id: HR-ZAGREB
+  group: HR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Havana
+    fr-FR:
+    - La Havane
+    es-ES:
+    - La Habana
+    de-DE:
+    - Havanna
+    pt-PT:
+    - Havana
+  id: CU-HAVANA
+  group: CU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Willemstad
+    fr-FR:
+    - Willemstad
+    es-ES:
+    - Willemstad
+    de-DE:
+    - Willemstad
+    pt-PT:
+    - Willemstad
+  id: CW-WILLEMSTAD
+  group: CW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nicosia
+    fr-FR:
+    - Nicosie
+    es-ES:
+    - Nicosia
+    de-DE:
+    - Nikosia
+    pt-PT:
+    - Nicósia
+  id: CY-NICOSIA
+  group: CY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Prague
+    fr-FR:
+    - Prague
+    es-ES:
+    - Praga
+    de-DE:
+    - Prag
+    pt-PT:
+    - Praga
+  id: CZ-PRAGUE
+  group: CZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Copenhagen
+    fr-FR:
+    - Copenhague
+    es-ES:
+    - Copenhague
+    de-DE:
+    - Kopenhagen
+    pt-PT:
+    - Copenhaga
+  id: DK-COPENHAGEN
+  group: DK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Djibouti
+    fr-FR:
+    - Djibouti
+    es-ES:
+    - Yibuti
+    de-DE:
+    - Dschibuti
+    pt-PT:
+    - Djibouti
+  id: DJ-DJIBOUTI
+  group: DJ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Roseau
+    fr-FR:
+    - Roseau
+    es-ES:
+    - Roseau
+    de-DE:
+    - Roseau
+    pt-PT:
+    - Roseau
+  id: DM-ROSEAU
+  group: DM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Santo Domingo
+    fr-FR:
+    - Saint-Domingue
+    es-ES:
+    - Santo Domingo
+    de-DE:
+    - Santo Domingo
+    pt-PT:
+    - São Domingos
+  id: DO-SANTO-DOMINGO
+  group: DO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Quito
+    fr-FR:
+    - Quito
+    es-ES:
+    - Quito
+    de-DE:
+    - Quito
+    pt-PT:
+    - Quito
+  id: EC-QUITO
+  group: EC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Cairo
+    fr-FR:
+    - Le Caire
+    es-ES:
+    - El Cairo
+    de-DE:
+    - Kairo
+    pt-PT:
+    - Cairo
+  id: EG-CAIRO
+  group: EG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - San Salvador
+    fr-FR:
+    - San Salvador
+    es-ES:
+    - San Salvador
+    de-DE:
+    - San Salvador
+    pt-PT:
+    - San Salvador
+  id: SV-SAN-SALVADOR
+  group: SV
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Malabo
+    fr-FR:
+    - Malabo
+    es-ES:
+    - Malabo
+    de-DE:
+    - Malabo
+    pt-PT:
+    - Malabo
+  id: GQ-MALABO
+  group: GQ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Asmara
+    fr-FR:
+    - Asmara
+    es-ES:
+    - Asmara
+    de-DE:
+    - Asmara
+    pt-PT:
+    - Asmara
+  id: ER-ASMARA
+  group: ER
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tallinn
+    fr-FR:
+    - Tallinn
+    es-ES:
+    - Tallin
+    de-DE:
+    - Tallinn
+    pt-PT:
+    - Tallinn
+  id: EE-TALLINN
+  group: EE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Mbabane (administrative and judicial) and Lobamba (royal and legislative)
+    - Mbabane
+    - Lobamba
+    fr-FR:
+    - Mbabane (administrative et judiciaire) et Lobamba (royale et législative)
+    - Mbabane
+    - Lobamba
+    es-ES:
+    - Mbabane (administrativo y judicial) y Lobamba (real y legislativo)
+    - Mbabane
+    - Lobamba
+    de-DE:
+    - Mbabane (Verwaltungs- und Gerichtsbezirk) und Lobamba (königlicher und gesetzgebender
+      Bezirk)
+    - Mbabane
+    - Lobamba
+    pt-PT:
+    - Mbabane (administrativo e judicial) e Lobamba (real e legislativo)
+    - Mbabane
+    - Lobamba
+  id: SZ-MBABANE"
+  group: SZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Addis Ababa
+    fr-FR:
+    - Addis-Abeba
+    es-ES:
+    - Adís Abeba
+    de-DE:
+    - Addis Abeba
+    pt-PT:
+    - Adis Abeba
+  id: ET-ADDIS-ABABA
+  group: ET
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Stanley
+    fr-FR:
+    - Stanley
+    es-ES:
+    - Puerto Stanley
+    - Puerto Argentino
+    de-DE:
+    - Stanley
+    pt-PT:
+    - Porto Stanley
+  id: FK-STANLEY
+  group: FK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Torshavn
+    fr-FR:
+    - Tórshavn
+    es-ES:
+    - Tórshavn
+    de-DE:
+    - Tórshavn
+    pt-PT:
+    - Tórshavn
+  id: FO-TORSHAVN
+  group: FO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Suva
+    fr-FR:
+    - Suva
+    es-ES:
+    - Suva
+    de-DE:
+    - Suva
+    pt-PT:
+    - Suva
+  id: FJ-SUVA
+  group: FJ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Helsinki
+    fr-FR:
+    - Helsinki
+    es-ES:
+    - Helsinki
+    de-DE:
+    - Helsinki
+    pt-PT:
+    - Helsínquia
+  id: FI-HELSINKI
+  group: FI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Cayenne
+    fr-FR:
+    - Cayenne
+    es-ES:
+    - Cayenne
+    de-DE:
+    - Cayenne
+    pt-PT:
+    - Caiena
+  id: GF-CAYENNE
+  group: GF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Papeete
+    fr-FR:
+    - Papeete
+    es-ES:
+    - Papeete
+    de-DE:
+    - Papeete
+    pt-PT:
+    - Papeete
+  id: PF-PAPEETE
+  group: PF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Port-aux-Francais
+    fr-FR:
+    - Port-aux-Français
+    es-ES:
+    - Port-aux-Français
+    de-DE:
+    - Port-aux-Français
+    pt-PT:
+    - Port-aux-Français
+  id: TF-PORT-AUX-FRANCAIS
+  group: TF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Libreville
+    fr-FR:
+    - Libreville
+    es-ES:
+    - Libreville
+    de-DE:
+    - Libreville
+    pt-PT:
+    - Libreville
+  id: GA-LIBREVILLE
+  group: GA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Banjul
+    fr-FR:
+    - Banjul
+    es-ES:
+    - Banjul
+    de-DE:
+    - Banjul
+    pt-PT:
+    - Banjul
+  id: GM-BANJUL
+  group: GM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tbilisi
+    fr-FR:
+    - Tbilissi
+    es-ES:
+    - Tbilissi
+    de-DE:
+    - Tbilissi
+    pt-PT:
+    - Tbilissi
+  id: GE-TBILISI
+  group: GE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Berlin
+    fr-FR:
+    - Berlin
+    es-ES:
+    - Berlín
+    de-DE:
+    - Berlin
+    pt-PT:
+    - Berlim
+  id: DE-BERLIN
+  group: DE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Accra
+    fr-FR:
+    - Accra
+    es-ES:
+    - Acra
+    de-DE:
+    - Accra
+    pt-PT:
+    - Acra
+  id: GH-ACCRA
+  group: GH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Gibraltar
+    fr-FR:
+    - Gibraltar
+    es-ES:
+    - Gibraltar
+    de-DE:
+    - Gibraltar
+    pt-PT:
+    - Gibraltar
+  id: GI-GIBRALTAR
+  group: GI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Athens
+    fr-FR:
+    - Athènes
+    es-ES:
+    - Atenas
+    de-DE:
+    - Athen
+    pt-PT:
+    - Atenas
+  id: GR-ATHENS
+  group: GR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nuuk
+    fr-FR:
+    - Nuuk
+    es-ES:
+    - Nuuk
+    de-DE:
+    - Nuuk
+    pt-PT:
+    - Nuuk
+  id: GL-NUUK
+  group: GL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - St. George's
+    - Saint George's
+    fr-FR:
+    - Saint-Georges
+    es-ES:
+    - Saint George
+    de-DE:
+    - St. George’s
+    - Sankt George's
+    pt-PT:
+    - São Jorge
+  id: GD-ST-GEORGE-S
+  group: GD
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Basse-Terre
+    fr-FR:
+    - Basse-Terre
+    es-ES:
+    - Basse-Terre
+    de-DE:
+    - Basse-Terre
+    pt-PT:
+    - Basse-Terre
+  id: GP-BASSE-TERRE
+  group: GP
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Hagatna
+    fr-FR:
+    - Hagåtña
+    - Agana
+    - Agaña
+    es-ES:
+    - Agaña
+    de-DE:
+    - Hagåtña
+    pt-PT:
+    - Aganha
+  id: GU-HAGATNA
+  group: GU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Guatemala City
+    fr-FR:
+    - 'Guatemala '
+    es-ES:
+    - Ciudad de Guatemala
+    de-DE:
+    - Guatemala-Stadt
+    pt-PT:
+    - Cidade da Guatemala
+  id: GT-GUATEMALA-CITY
+  group: GT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - St Peter Port
+    fr-FR:
+    - Saint-Pierre-Port
+    es-ES:
+    - Saint Peter Port
+    de-DE:
+    - Saint Peter Port
+    pt-PT:
+    - Porto de São Pedro
+  id: GG-ST-PETER-PORT
+  group: GG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Conakry
+    fr-FR:
+    - Conakry
+    es-ES:
+    - Conakri
+    de-DE:
+    - Conakry
+    pt-PT:
+    - Conacri
+  id: GN-CONAKRY
+  group: GN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bissau
+    fr-FR:
+    - Bissau
+    es-ES:
+    - Bisáu
+    de-DE:
+    - Bissau
+    pt-PT:
+    - Bissau
+  id: GW-BISSAU
+  group: GW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Georgetown
+    fr-FR:
+    - 'Georgetown '
+    es-ES:
+    - 'Georgetown '
+    de-DE:
+    - 'Georgetown '
+    pt-PT:
+    - 'Georgetown '
+  id: GY-GEORGETOWN
+  group: GY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Port-au-Prince
+    fr-FR:
+    - Port-au-Prince
+    es-ES:
+    - Puerto Príncipe
+    de-DE:
+    - Port-au-Prince
+    pt-PT:
+    - Porto Príncipe
+  id: HT-PORT-AU-PRINCE
+  group: HT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Heard (arbitrary name, no cities, uninhabited)
+    fr-FR:
+    - Heard (nom arbitraire, pas de villes, inhabité)
+    - Heard
+    es-ES:
+    - Heard (nombre arbitrario, sin pueblos, deshabitado)
+    de-DE:
+    - Heard (willkürlicher Name, keine Städte, unbewohnt)
+    - Heard
+    pt-PT:
+    - Heard (nome arbitrário, sem cidades, desabitado)
+  id: HM-HEARD
+  group: HM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Vatican City
+    fr-FR:
+    - Cité du Vatican
+    es-ES:
+    - Cidade do Vaticano
+    de-DE:
+    - Vatikanstadt
+    - Città del Vaticano
+    pt-PT:
+    - Cidade do Vaticano
+  id: VA-VATICAN-CITY
+  group: VA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tegucigalpa
+    fr-FR:
+    - Tegucigalpa
+    es-ES:
+    - Tegucigalpa
+    de-DE:
+    - Tegucigalpa
+    pt-PT:
+    - Tegucigalpa
+  id: HN-TEGUCIGALPA
+  group: HN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Hong Kong
+    fr-FR:
+    - Hong Kong
+    es-ES:
+    - Hong Kong
+    de-DE:
+    - Hong Kong
+    pt-PT:
+    - Hong Kong
+  id: HK-HONG-KONG
+  group: HK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Budapest
+    fr-FR:
+    - Budapest
+    es-ES:
+    - Budapest
+    de-DE:
+    - Budapest
+    pt-PT:
+    - Budapeste
+  id: HU-BUDAPEST
+  group: HU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Reykjavik
+    fr-FR:
+    - Reykjavik
+    es-ES:
+    - Reikiavik
+    de-DE:
+    - Reykjavík
+    pt-PT:
+    - Reiquiavique
+  id: IS-REYKJAVIK
+  group: IS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - New Delhi
+    fr-FR:
+    - New Delhi
+    es-ES:
+    - Nueva Delhi
+    de-DE:
+    - Neu-Delhi
+    pt-PT:
+    - Nova Deli
+  id: IN-NEW-DELHI
+  group: IN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Jakarta
+    fr-FR:
+    - Jakarta
+    es-ES:
+    - Yakarta
+    de-DE:
+    - Jakarta
+    pt-PT:
+    - Jacarta
+  id: ID-JAKARTA
+  group: ID
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tehran
+    fr-FR:
+    - Téhéran
+    es-ES:
+    - Teherán
+    de-DE:
+    - Teheran
+    pt-PT:
+    - Teerã
+  id: IR-TEHRAN
+  group: IR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Baghdad
+    fr-FR:
+    - Bagdad
+    es-ES:
+    - Bagdad
+    de-DE:
+    - Bagdad
+    pt-PT:
+    - Bagdá
+  id: IQ-BAGHDAD
+  group: IQ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Dublin
+    fr-FR:
+    - Dublin
+    es-ES:
+    - Dublín
+    de-DE:
+    - Dublin
+    pt-PT:
+    - Dublin
+  id: IE-DUBLIN
+  group: IE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Douglas
+    fr-FR:
+    - Douglas
+    es-ES:
+    - Douglas
+    de-DE:
+    - Douglas
+    pt-PT:
+    - Douglas
+  id: IM-DOUGLAS
+  group: IM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Jerusalem
+    fr-FR:
+    - Jérusalem
+    es-ES:
+    - Jerusalén
+    de-DE:
+    - Jerusalem
+    pt-PT:
+    - Jerusalém
+  id: IL-JERUSALEM
+  group: IL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Rome
+    fr-FR:
+    - Rome
+    es-ES:
+    - Roma
+    de-DE:
+    - Rom
+    pt-PT:
+    - Roma
+  id: IT-ROME
+  group: IT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kingston
+    fr-FR:
+    - Kingston
+    es-ES:
+    - Kingston
+    de-DE:
+    - Kingston
+    pt-PT:
+    - Kingston
+  id: JM-KINGSTON
+  group: JM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tokyo
+    - Tokyo Metropolis
+    fr-FR:
+    - Tokyo
+    - Métropole de Tokyo
+    es-ES:
+    - Tokio
+    - Metrópolis de Tokio
+    de-DE:
+    - Tokyo
+    - Tokyo Metropolis
+    pt-PT:
+    - Tóquio
+    - Metrópole de Tóquio
+  id: JP-TOKYO
+  group: JP
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Saint Helier
+    fr-FR:
+    - Saint-Hélier
+    es-ES:
+    - Saint Helier
+    de-DE:
+    - Saint Helier
+    pt-PT:
+    - Santo Helério
+  id: JE-SAINT-HELIER
+  group: JE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Amman
+    fr-FR:
+    - Amman
+    es-ES:
+    - Amman
+    de-DE:
+    - Amán
+    pt-PT:
+    - Amã
+  id: JO-AMMAN
+  group: JO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nur-Sultan
+    - Astana
+    fr-FR:
+    - Nour-Soultan
+    es-ES:
+    - Nursultán
+    de-DE:
+    - Nur-Sultan
+    pt-PT:
+    - Nur-Sultã
+  id: KZ-NUR-SULTAN
+  group: KZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nairobi
+    fr-FR:
+    - Nairobi
+    es-ES:
+    - Nairobi
+    de-DE:
+    - Nairobi
+    pt-PT:
+    - Nairóbi
+  id: KE-NAIROBI
+  group: KE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - South Tarawa
+    fr-FR:
+    - Tarawa-Sud
+    es-ES:
+    - Tarawa Sur
+    de-DE:
+    - South Tarawa
+    pt-PT:
+    - Taraua do Sul
+  id: KI-SOUTH-TARAWA
+  group: KI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Pyongyang
+    fr-FR:
+    - Pyongyang
+    es-ES:
+    - Pionyang
+    de-DE:
+    - Pjöngjang
+    pt-PT:
+    - Pyongyang
+  id: KP-PYONGYANG
+  group: KP
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Seoul
+    fr-FR:
+    - Séoul
+    es-ES:
+    - Seúl
+    de-DE:
+    - Seoul
+    pt-PT:
+    - Seul
+  id: KR-SEOUL
+  group: KR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Pristina
+    fr-FR:
+    - Pristina
+    es-ES:
+    - Pristina
+    de-DE:
+    - Pristina
+    pt-PT:
+    - Pristina
+  id: XK-PRISTINA
+  group: XK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kuwait
+    fr-FR:
+    - Koweït
+    es-ES:
+    - Kuwait
+    de-DE:
+    - Kuwait
+    pt-PT:
+    - Kuwait
+  id: KW-KUWAIT
+  group: KW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bishkek
+    fr-FR:
+    - Bichkek
+    es-ES:
+    - Biskek
+    de-DE:
+    - Bischkek
+    pt-PT:
+    - Bisqueque
+  id: KG-BISHKEK
+  group: KG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Vientiane
+    fr-FR:
+    - Vientiane
+    es-ES:
+    - Vientián
+    de-DE:
+    - Vientiane
+    pt-PT:
+    - Vientiane
+  id: LA-VIENTIANE
+  group: LA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Riga
+    fr-FR:
+    - Riga
+    es-ES:
+    - Riga
+    de-DE:
+    - Riga
+    pt-PT:
+    - Riga
+  id: LV-RIGA
+  group: LV
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Beirut
+    fr-FR:
+    - Beyrouth
+    es-ES:
+    - Beirut
+    de-DE:
+    - Beirut
+    pt-PT:
+    - Beirute
+  id: LB-BEIRUT
+  group: LB
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Maseru
+    fr-FR:
+    - Maseru
+    es-ES:
+    - Maseru
+    de-DE:
+    - Maseru
+    pt-PT:
+    - Maseru
+  id: LS-MASERU
+  group: LS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Monrovia
+    fr-FR:
+    - Monrovia
+    es-ES:
+    - Monrovia
+    de-DE:
+    - Monrovia
+    pt-PT:
+    - Monróvia
+  id: LR-MONROVIA
+  group: LR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tripolis
+    fr-FR:
+    - Tripoli
+    es-ES:
+    - Trípoli
+    de-DE:
+    - Tripolis
+    pt-PT:
+    - Trípoli
+  id: LY-TRIPOLIS
+  group: LY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Vaduz
+    fr-FR:
+    - Vaduz
+    es-ES:
+    - Vaduz
+    de-DE:
+    - Vaduz
+    pt-PT:
+    - Vaduz
+  id: LI-VADUZ
+  group: LI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Vilnius
+    fr-FR:
+    - Vilnius
+    es-ES:
+    - Vilna
+    de-DE:
+    - Vilnius
+    pt-PT:
+    - Vilnius
+  id: LT-VILNIUS
+  group: LT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Luxembourg
+    fr-FR:
+    - Luxembourg
+    es-ES:
+    - Luxembourg
+    de-DE:
+    - Luxembourg
+    pt-PT:
+    - Luxembourg
+  id: LU-LUXEMBOURG
+  group: LU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Macao
+    fr-FR:
+    - Macao
+    es-ES:
+    - Macao
+    de-DE:
+    - Macau
+    pt-PT:
+    - Macau
+  id: MO-MACAO
+  group: MO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Antananarivo
+    fr-FR:
+    - Antananarivo
+    es-ES:
+    - Antananarivo
+    de-DE:
+    - Antananarivo
+    pt-PT:
+    - Antananarivo
+  id: MG-ANTANANARIVO
+  group: MG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Lilongwe
+    fr-FR:
+    - Lilongwe
+    es-ES:
+    - Lilongüe
+    de-DE:
+    - Lilongwe
+    pt-PT:
+    - Lilongué
+  id: MW-LILONGWE
+  group: MW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kuala Lumpur and Putrajaya (administrative capitals)
+    fr-FR:
+    - Kuala Lumpur et Putrajaya (capitales administratives)
+    es-ES:
+    - Kuala Lumpur y Putrajaya (capitales administrativas)
+    de-DE:
+    - Kuala Lumpur und Putrajaya (Verwaltungshauptstädte)
+    pt-PT:
+    - Kuala Lumpur e Putrajaya (capitais administrativas)
+  id: MY-KUALA-LUMPUR
+  group: MY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Male
+    fr-FR:
+    - Malé
+    es-ES:
+    - Malé
+    de-DE:
+    - Malé
+    pt-PT:
+    - Malé
+  id: MV-MALE
+  group: MV
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bamako
+    fr-FR:
+    - Bamako
+    es-ES:
+    - Bamako
+    de-DE:
+    - Bamako
+    pt-PT:
+    - Bamaco
+  id: ML-BAMAKO
+  group: ML
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Valletta
+    fr-FR:
+    - La Valette
+    es-ES:
+    - La Valeta
+    de-DE:
+    - Valletta
+    pt-PT:
+    - Valeta
+  id: MT-VALLETTA
+  group: MT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Majuro
+    fr-FR:
+    - Majuro
+    es-ES:
+    - Majuro
+    de-DE:
+    - Majuro
+    pt-PT:
+    - Majuro
+  id: MH-MAJURO
+  group: MH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Fort-de-France
+    fr-FR:
+    - Fort-de-France
+    es-ES:
+    - Fort-de-France
+    de-DE:
+    - Fort-de-France
+    pt-PT:
+    - Forte da França
+  id: MQ-FORT-DE-FRANCE
+  group: MQ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nouakchott
+    fr-FR:
+    - Nouakchott
+    es-ES:
+    - Nuakchot
+    de-DE:
+    - Nouakchott
+    pt-PT:
+    - Nuaquexote
+  id: MR-NOUAKCHOTT
+  group: MR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Port Louis
+    fr-FR:
+    - Port-Louis
+    es-ES:
+    - Port-Louis
+    de-DE:
+    - Port-Louis
+    pt-PT:
+    - Porto Luís
+  id: MU-PORT-LOUIS
+  group: MU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Mamoudzou
+    fr-FR:
+    - Dzaoudzi (de jure) et Mamoudzou (de facto)
+    - Dzaoudzi
+    - Mamoudzou
+    es-ES:
+    - Mamoudzou
+    de-DE:
+    - Mamoudzou
+    pt-PT:
+    - Mamoudzou
+  id: YT-MAMOUDZOU
+  group: YT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Mexico
+    - Mexico City
+    fr-FR:
+    - Mexico
+    - Ville de Mexico
+    es-ES:
+    - Ciudad de México
+    de-DE:
+    - Mexiko-Stadt
+    pt-PT:
+    - Cidade do México
+  id: MX-MEXICO
+  group: MX
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Palikir
+    fr-FR:
+    - Palikir
+    es-ES:
+    - Palikir
+    de-DE:
+    - Palikir
+    pt-PT:
+    - Paliquir
+  id: FM-PALIKIR
+  group: FM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Chisinau
+    fr-FR:
+    - Chișinău
+    es-ES:
+    - Chisináu
+    de-DE:
+    - Chișinău
+    pt-PT:
+    - Quixinau
+  id: MD-CHISINAU
+  group: MD
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Monaco
+    fr-FR:
+    - Monaco
+    es-ES:
+    - Mónaco
+    de-DE:
+    - Monaco
+    pt-PT:
+    - Mónaco
+  id: MC-MONACO
+  group: MC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Ulan Bator
+    fr-FR:
+    - Oulan-Bator
+    es-ES:
+    - Ulán Bator
+    de-DE:
+    - Ulaanbaatar
+    pt-PT:
+    - Ulã Bator
+  id: MN-ULAN-BATOR
+  group: MN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Podgorica
+    fr-FR:
+    - Podgorica
+    es-ES:
+    - Podgorica
+    de-DE:
+    - Podgorica
+    pt-PT:
+    - Podgoritza
+  id: ME-PODGORICA
+  group: ME
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Plymouth (de jure) and Brades (de facto)
+    - Plymouth
+    - Brades
+    fr-FR:
+    - Plymouth (de jure) et Brades (de facto)
+    - Plymouth
+    - Brades
+    es-ES:
+    - Plymouth (de jure) y Brades (de facto)
+    - Plymouth
+    - Brades
+    de-DE:
+    - Plymouth (de jure) und Brades (de facto)
+    - Plymouth
+    - Brades
+    pt-PT:
+    - Plymouth (de jure) e Brades (de facto)
+    - Plymouth
+    - Brades
+  id: MS-PLYMOUTH
+  group: MS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Rabat
+    fr-FR:
+    - Rabat
+    es-ES:
+    - Rabat
+    de-DE:
+    - Rabat
+    pt-PT:
+    - Rabat
+  id: MA-RABAT
+  group: MA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Maputo
+    fr-FR:
+    - Maputo
+    es-ES:
+    - Maputo
+    de-DE:
+    - Maputo
+    pt-PT:
+    - Maputo
+  id: MZ-MAPUTO
+  group: MZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nay Pyi Taw
+    fr-FR:
+    - Naypyidaw
+    es-ES:
+    - Naipyidó
+    de-DE:
+    - Naypyidaw
+    pt-PT:
+    - Nepiedó
+  id: MM-NAY-PYI-TAW
+  group: MM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Windhoek
+    fr-FR:
+    - Windhoek
+    es-ES:
+    - Windhoek
+    de-DE:
+    - Windhoek
+    pt-PT:
+    - Vinduque
+  id: NA-WINDHOEK
+  group: NA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Yaren
+    fr-FR:
+    - Yaren
+    es-ES:
+    - Yaren
+    de-DE:
+    - Yaren
+    pt-PT:
+    - Yaren
+  id: NR-YAREN
+  group: NR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kathmandu
+    fr-FR:
+    - Katmandou
+    es-ES:
+    - Katmandú
+    de-DE:
+    - Kathmandu
+    pt-PT:
+    - Catmandu
+  id: NP-KATHMANDU
+  group: NP
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Amsterdam (capital) and The Hague (seat of government)
+    - Amsterdam
+    - The Hague
+    fr-FR:
+    - Amsterdam (capitale) et La Haye (siège du gouvernement)
+    - Amsterdam
+    - La Haye
+    es-ES:
+    - Ámsterdam (capital) y La Haya (sede del gobierno)
+    - Ámsterdam
+    - La Haya
+    de-DE:
+    - Amsterdam (Hauptstadt) und Den Haag (Regierungssitz)
+    - Amsterdam
+    - Den Haag
+    pt-PT:
+    - Amesterdão (capital) e Haia (sede do governo)
+    - Amesterdão
+    - Haia
+  id: NL-AMSTERDAM
+  group: NL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Noumea
+    fr-FR:
+    - Nouméa
+    es-ES:
+    - Numea
+    de-DE:
+    - Nouméa
+    pt-PT:
+    - Numeá
+  id: NC-NOUMEA
+  group: NC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Wellington
+    fr-FR:
+    - Wellington
+    es-ES:
+    - Wellington
+    de-DE:
+    - Wellington
+    pt-PT:
+    - Wellington
+  id: NZ-WELLINGTON
+  group: NZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Managua
+    fr-FR:
+    - Managua
+    es-ES:
+    - Managua
+    de-DE:
+    - Managua
+    pt-PT:
+    - Manágua
+  id: NI-MANAGUA
+  group: NI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Niamey
+    fr-FR:
+    - Niamey
+    es-ES:
+    - Niamey
+    de-DE:
+    - Niamey
+    pt-PT:
+    - Niamei
+  id: NE-NIAMEY
+  group: NE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Abuja
+    fr-FR:
+    - Abuja
+    es-ES:
+    - Abuya
+    de-DE:
+    - Abuja
+    pt-PT:
+    - Abuja
+  id: NG-ABUJA
+  group: NG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Alofi
+    fr-FR:
+    - Alofi
+    es-ES:
+    - Alofi
+    de-DE:
+    - Alofi
+    pt-PT:
+    - Alofi
+  id: NU-ALOFI
+  group: NU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kingston
+    fr-FR:
+    - 'Kingston '
+    es-ES:
+    - 'Kingston '
+    de-DE:
+    - 'Kingston '
+    pt-PT:
+    - 'Kingston '
+  id: NF-KINGSTON
+  group: NF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Skopje
+    fr-FR:
+    - Skopje
+    es-ES:
+    - Skopie
+    de-DE:
+    - Skopje
+    pt-PT:
+    - Escópia
+  id: MK-SKOPJE
+  group: MK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Saipan
+    fr-FR:
+    - Saipan
+    es-ES:
+    - Saipan
+    de-DE:
+    - Saipán
+    pt-PT:
+    - Saipã
+  id: MP-SAIPAN
+  group: MP
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Oslo
+    fr-FR:
+    - Oslo
+    es-ES:
+    - Oslo
+    de-DE:
+    - Oslo
+    pt-PT:
+    - Oslo
+  id: NO-OSLO
+  group: 'NO'
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Muscat
+    fr-FR:
+    - Mascate
+    es-ES:
+    - Mascate
+    de-DE:
+    - Muskat
+    pt-PT:
+    - Mascate
+  id: OM-MUSCAT
+  group: OM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Islamabad
+    fr-FR:
+    - Mascate
+    es-ES:
+    - Mascate
+    de-DE:
+    - Maskat
+    pt-PT:
+    - Mascate
+  id: PK-ISLAMABAD
+  group: PK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Melekeok
+    fr-FR:
+    - Melekeok
+    es-ES:
+    - Melekeok
+    de-DE:
+    - Melekeok
+    pt-PT:
+    - Melequeoque
+  id: PW-MELEKEOK
+  group: PW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - East Jerusalem (proclaimed) and Ramallah (de facto)
+    - East Jerusalem
+    - Ramallah
+    fr-FR:
+    - Jérusalem-Est (proclamée) et Ramallah (de facto)
+    - Jérusalem-Est
+    - Ramallah
+    es-ES:
+    - Jerusalén Este (proclamada) y Ramallah (de facto)
+    - Jerusalén Este
+    - Ramallah
+    de-DE:
+    - Ost-Jerusalem (proklamiert) und Ramallah (de facto)
+    - Ost-Jerusalem
+    - Ramallah
+    pt-PT:
+    - Jerusalém Oriental (proclamada) e Ramallah (de facto)
+    - Jerusalém Oriental
+    - Ramallah
+  id: PS-EAST-JERUSALEM
+    FACTO)"
+  group: PS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Panama City
+    fr-FR:
+    - Panama
+    es-ES:
+    - Ciudad de Panamá
+    de-DE:
+    - Panama-Stadt
+    pt-PT:
+    - Cidade do Panamá
+  id: PA-PANAMA-CITY
+  group: PA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Port Moresby
+    fr-FR:
+    - Port Moresby
+    es-ES:
+    - Puerto Moresby
+    de-DE:
+    - Port Moresby
+    pt-PT:
+    - Porto Moresby
+  id: PG-PORT-MORESBY
+  group: PG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Asuncion
+    fr-FR:
+    - Asuncion
+    es-ES:
+    - Asunción
+    de-DE:
+    - Asunción
+    pt-PT:
+    - Assunção
+  id: PY-ASUNCION
+  group: PY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Lima
+    fr-FR:
+    - Lima
+    es-ES:
+    - Lima
+    de-DE:
+    - Lima
+    pt-PT:
+    - Lima
+  id: PE-LIMA
+  group: PE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Manila
+    fr-FR:
+    - Manille
+    es-ES:
+    - Manila
+    de-DE:
+    - Manila
+    pt-PT:
+    - Manila
+  id: PH-MANILA
+  group: PH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Adamstown
+    fr-FR:
+    - Adamstown
+    es-ES:
+    - Adamstown
+    de-DE:
+    - Adamstown
+    pt-PT:
+    - Adamstown
+  id: PN-ADAMSTOWN
+  group: PN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Warsaw
+    fr-FR:
+    - Varsovie
+    es-ES:
+    - Varsovia
+    de-DE:
+    - Warschau
+    pt-PT:
+    - Varsóvia
+  id: PL-WARSAW
+  group: PL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Lisbon
+    fr-FR:
+    - Lisbonne
+    es-ES:
+    - Lisboa
+    de-DE:
+    - Lissabon
+    pt-PT:
+    - Lisboa
+  id: PT-LISBON
+  group: PT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - San Juan
+    fr-FR:
+    - San Juan
+    es-ES:
+    - San Juan
+    de-DE:
+    - San Juan
+    pt-PT:
+    - San Juan
+  id: PR-SAN-JUAN
+  group: PR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Doha
+    fr-FR:
+    - Doha
+    es-ES:
+    - Doha
+    de-DE:
+    - Doha
+    pt-PT:
+    - Doha
+  id: QA-DOHA
+  group: QA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Saint-Denis
+    fr-FR:
+    - Saint-Denis
+    es-ES:
+    - Saint-Denis
+    de-DE:
+    - Saint-Denis
+    pt-PT:
+    - São Dinis
+  id: RE-SAINT-DENIS
+  group: RE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bucharest
+    fr-FR:
+    - Bucarest
+    es-ES:
+    - Bucarest
+    de-DE:
+    - Bukarest
+    pt-PT:
+    - Bucareste
+  id: RO-BUCHAREST
+  group: RO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Moscow
+    fr-FR:
+    - Moscou
+    es-ES:
+    - Moscú
+    de-DE:
+    - Moskau
+    pt-PT:
+    - Moscovo
+  id: RU-MOSCOW
+  group: RU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kigali
+    fr-FR:
+    - Kigali
+    es-ES:
+    - Kigali
+    de-DE:
+    - Kigali
+    pt-PT:
+    - Quigali
+  id: RW-KIGALI
+  group: RW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Gustavia
+    fr-FR:
+    - Gustavia
+    es-ES:
+    - Gustavia
+    de-DE:
+    - Gustavia
+    pt-PT:
+    - Gustávia
+  id: BL-GUSTAVIA
+  group: BL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Jamestown
+    fr-FR:
+    - Jamestown
+    es-ES:
+    - Jamestown
+    de-DE:
+    - Jamestown
+    pt-PT:
+    - Jamestown
+  id: SH-JAMESTOWN
+  group: SH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Basseterre
+    fr-FR:
+    - Basseterre
+    es-ES:
+    - Basseterre
+    de-DE:
+    - Basseterre
+    pt-PT:
+    - Basseterre
+  id: KN-BASSETERRE
+  group: KN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Castries
+    fr-FR:
+    - Castries
+    es-ES:
+    - Castries
+    de-DE:
+    - Castries
+    pt-PT:
+    - Castries
+  id: LC-CASTRIES
+  group: LC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Marigot
+    fr-FR:
+    - Marigot
+    es-ES:
+    - Marigot
+    de-DE:
+    - Marigot
+    pt-PT:
+    - Marigot
+  id: MF-MARIGOT
+  group: MF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Saint-Pierre
+    fr-FR:
+    - Saint-Pierre
+    es-ES:
+    - San Pedro
+    de-DE:
+    - Saint-Pierre
+    pt-PT:
+    - São Pedro
+  id: PM-SAINT-PIERRE
+  group: PM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kingstown
+    fr-FR:
+    - Kingstown
+    es-ES:
+    - Kingstown
+    de-DE:
+    - Kingstown
+    pt-PT:
+    - Kingstown
+  id: VC-KINGSTOWN
+  group: VC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Apia
+    fr-FR:
+    - Apia
+    es-ES:
+    - Apia
+    de-DE:
+    - Apia
+    pt-PT:
+    - Apia
+  id: WS-APIA
+  group: WS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - San Marino
+    fr-FR:
+    - Ville de Saint-Marin
+    es-ES:
+    - Ciudad de San Marino
+    - San Marino
+    de-DE:
+    - Stadt San Marino
+    - San Marino
+    pt-PT:
+    - São Marino
+    - República de San Marino
+    - São Marinho
+    - Sereníssima República de San Marino
+  id: SM-SAN-MARINO
+  group: SM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Sao Tome
+    fr-FR:
+    - São Tomé
+    es-ES:
+    - Santo Tomé
+    de-DE:
+    - São Tomé
+    pt-PT:
+    - São Tomé
+  id: ST-SAO-TOME
+  group: ST
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Riyadh
+    fr-FR:
+    - Riyad
+    es-ES:
+    - Riad
+    de-DE:
+    - Riad
+    pt-PT:
+    - Riade
+  id: SA-RIYADH
+  group: SA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Dakar
+    fr-FR:
+    - Dakar
+    es-ES:
+    - Dakar
+    de-DE:
+    - Dakar
+    pt-PT:
+    - Dacar
+  id: SN-DAKAR
+  group: SN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Belgrade
+    fr-FR:
+    - Belgrade
+    es-ES:
+    - Belgrado
+    de-DE:
+    - Belgrad
+    pt-PT:
+    - Belgrado
+  id: RS-BELGRADE
+  group: RS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Victoria
+    fr-FR:
+    - Victoria
+    es-ES:
+    - Victoria
+    de-DE:
+    - Victoria
+    pt-PT:
+    - Vitória
+  id: SC-VICTORIA
+  group: SC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Freetown
+    fr-FR:
+    - Freetown
+    es-ES:
+    - Freetown
+    de-DE:
+    - Freetown
+    pt-PT:
+    - Freetown
+  id: SL-FREETOWN
+  group: SL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Singapur
+    fr-FR:
+    - Singapour
+    es-ES:
+    - Singapur
+    de-DE:
+    - Singapur
+    pt-PT:
+    - Singapura
+  id: SG-SINGAPUR
+  group: SG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Philipsburg
+    fr-FR:
+    - 'Philipsburg '
+    es-ES:
+    - Philipsburg
+    de-DE:
+    - Philipsburg
+    pt-PT:
+    - Philipsburg
+  id: SX-PHILIPSBURG
+  group: SX
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bratislava
+    fr-FR:
+    - Bratislava
+    es-ES:
+    - Bratislava
+    de-DE:
+    - Bratislava
+    pt-PT:
+    - Bratislava
+  id: SK-BRATISLAVA
+  group: SK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Ljubljana
+    fr-FR:
+    - Ljubljana
+    es-ES:
+    - Liubliana
+    de-DE:
+    - Ljubljana
+    pt-PT:
+    - Liubliana
+  id: SI-LJUBLJANA
+  group: SI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Honiara
+    fr-FR:
+    - Honiara
+    es-ES:
+    - Honiara
+    de-DE:
+    - Honiara
+    pt-PT:
+    - Honiara
+  id: SB-HONIARA
+  group: SB
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Mogadishu
+    fr-FR:
+    - Mogadiscio
+    es-ES:
+    - Mogadiscio
+    de-DE:
+    - Mogadischu
+    pt-PT:
+    - Mogadíscio
+  id: SO-MOGADISHU
+  group: SO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Pretoria
+    fr-FR:
+    - Mogadiscio
+    es-ES:
+    - Mogadiscio
+    de-DE:
+    - Mogadischu
+    pt-PT:
+    - Mogadíscio
+  id: ZA-PRETORIA
+  group: ZA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - King Edward Point
+    fr-FR:
+    - King Edward Point
+    es-ES:
+    - Base King Edward Point
+    de-DE:
+    - King Edward Point
+    pt-PT:
+    - Cabo Rei Eduardo
+  id: GS-KING-EDWARD-POINT
+  group: GS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Juba
+    fr-FR:
+    - Djouba
+    es-ES:
+    - Yuba
+    de-DE:
+    - Juba
+    pt-PT:
+    - Juba
+  id: SS-JUBA
+  group: SS
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Madrid
+    fr-FR:
+    - Madrid
+    es-ES:
+    - Madrid
+    de-DE:
+    - Madrid
+    pt-PT:
+    - Madrid
+  id: ES-MADRID
+  group: ES
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Sri Jayawardenapura Kotte (political and administrative) and Colombo (economic)
+    - Sri Jayawardenapura Kotte
+    - Colombo
+    fr-FR:
+    - Sri Jayawardenapura Kotte (politique et administrative) et Colombo (économique)
+    - Sri Jayawardenapura Kotte
+    - Colombo
+    es-ES:
+    - Sri Jayawardenapura Kotte (político y administrativo) y Colombo (económico)
+    - Sri Jayawardenapura Kotte
+    - Colombo
+    de-DE:
+    - Sri Jayawardenapura Kotte (Politik und Verwaltung) und Colombo (Wirtschaft)
+    - Sri Jayawardenapura Kotte
+    - Colombo
+    pt-PT:
+    - Sri Jayawardenapura Kotte (político e administrativo) e Colombo (económico)
+    - Sri Jayawardenapura Kotte
+    - Colombo
+  id: LK-SRI-JAYAWARDENAPURA-KOTTE"
+  group: LK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Khartoum
+    fr-FR:
+    - Khartoum
+    es-ES:
+    - Jartum
+    de-DE:
+    - Khartum
+    pt-PT:
+    - Cartum
+  id: SD-KHARTOUM
+  group: SD
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Paramaribo
+    fr-FR:
+    - Paramaribo
+    es-ES:
+    - Paramaribo
+    de-DE:
+    - Paramaribo
+    pt-PT:
+    - Paramaribo
+  id: SR-PARAMARIBO
+  group: SR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Longyearbyen
+    fr-FR:
+    - Longyearbyen
+    es-ES:
+    - Longyearbyen
+    de-DE:
+    - Longyearbyen
+    pt-PT:
+    - Longyearbyen
+  id: SJ-LONGYEARBYEN
+  group: SJ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Stockholm
+    fr-FR:
+    - Stockholm
+    es-ES:
+    - Estocolmo
+    de-DE:
+    - Stockholm
+    pt-PT:
+    - Estocolmo
+  id: SE-STOCKHOLM
+  group: SE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Berne
+    fr-FR:
+    - Stockholm
+    es-ES:
+    - Estocolmo
+    de-DE:
+    - Stockholm
+    pt-PT:
+    - Estocolmo
+  id: CH-BERNE
+  group: CH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Damascus
+    fr-FR:
+    - Damas
+    es-ES:
+    - Damasco
+    de-DE:
+    - Damaskus
+    pt-PT:
+    - Damasco
+  id: SY-DAMASCUS
+  group: SY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Taipei
+    fr-FR:
+    - Taipei
+    es-ES:
+    - Taipéi
+    de-DE:
+    - Taipeh
+    pt-PT:
+    - Taipé
+  id: TW-TAIPEI
+  group: TW
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Dushanbe
+    fr-FR:
+    - Douchanbé
+    es-ES:
+    - Dusambé
+    de-DE:
+    - Duschanbe
+    pt-PT:
+    - Duxambé
+  id: TJ-DUSHANBE
+  group: TJ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Dodoma
+    fr-FR:
+    - Dodoma
+    es-ES:
+    - Dodoma
+    de-DE:
+    - Dodoma
+    pt-PT:
+    - Dodoma
+  id: TZ-DODOMA
+  group: TZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Bangkok
+    fr-FR:
+    - Bangkok
+    es-ES:
+    - Bangkok
+    de-DE:
+    - Bangkok
+    pt-PT:
+    - Banguecoque
+  id: TH-BANGKOK
+  group: TH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Dili
+    fr-FR:
+    - Dili
+    es-ES:
+    - Dili
+    de-DE:
+    - Dili
+    pt-PT:
+    - Díli
+  id: TL-DILI
+  group: TL
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Lome
+    fr-FR:
+    - Lomé
+    es-ES:
+    - Lomé
+    de-DE:
+    - Lomé
+    pt-PT:
+    - Lomé
+  id: TG-LOME
+  group: TG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - None. Each of the three atolls (Atafu, Nukunonu and Fakaofo) has its own administrative
+      center
+    - Atafu
+    - Nukunonu
+    - Fakaofo
+    fr-FR:
+    - Aucune. Chacun des trois atolls (Atafu, Nukunonu et Fakaofo) possède son propre
+      centre administratif
+    - Atafu
+    - Nukunonu
+    - Fakaofo
+    es-ES:
+    - Ninguna. Cada uno de los tres atolones (Atafu, Nukunonu y Fakaofo) tiene su
+      propio centro administrativo
+    - Atafu
+    - Nukunonu
+    - Fakaofo
+    de-DE:
+    - Keine. Jedes der drei Atolle (Atafu, Nukunonu und Fakaofo) hat sein eigenes
+      Verwaltungszentrum
+    - Atafu
+    - Nukunonu
+    - Fakaofo
+    pt-PT:
+    - Nenhuma. Cada um dos três atóis (Atafu, Nukunonu e Fakaofo) tem o seu próprio
+      centro administrativo
+    - Atafu
+    - Nukunonu
+    - Fakaofo
+  id: TK-ATAFU"
+  group: TK
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Nuku'alofa
+    fr-FR:
+    - Nukuʻalofa
+    es-ES:
+    - Nukualofa
+    de-DE:
+    - Nukuʻalofa
+    pt-PT:
+    - Nucualofa
+  id: TO-NUKU-ALOFA
+  group: TO
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Port of Spain
+    fr-FR:
+    - Port-d'Espagne
+    - Port of Spain
+    es-ES:
+    - Puerto España
+    de-DE:
+    - Port of Spain
+    pt-PT:
+    - Port of Spain
+  id: TT-PORT-OF-SPAIN
+  group: TT
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tunis
+    fr-FR:
+    - Tunis
+    es-ES:
+    - Túnez
+    de-DE:
+    - Tunis
+    pt-PT:
+    - Tunes
+  id: TN-TUNIS
+  group: TN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Ankara
+    fr-FR:
+    - Ankara
+    es-ES:
+    - Ankara
+    de-DE:
+    - Ankara
+    pt-PT:
+    - Ancara
+  id: TR-ANKARA
+  group: TR
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Ashgabat
+    fr-FR:
+    - Achgabat
+    es-ES:
+    - Asjabad
+    de-DE:
+    - Aşgabat
+    pt-PT:
+    - Asgabade
+  id: TM-ASHGABAT
+  group: TM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Cockburn Town
+    fr-FR:
+    - Cockburn Town
+    es-ES:
+    - Cockburn Town
+    de-DE:
+    - Cockburn Town
+    pt-PT:
+    - Cockburn Town
+  id: TC-COCKBURN-TOWN
+  group: TC
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Funafuti
+    fr-FR:
+    - Funafuti
+    es-ES:
+    - Funafuti
+    de-DE:
+    - Funafuti
+    pt-PT:
+    - Funafuti
+  id: TV-FUNAFUTI
+  group: TV
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kampala
+    fr-FR:
+    - Kampala
+    es-ES:
+    - Kampala
+    de-DE:
+    - Kampala
+    pt-PT:
+    - Campala
+  id: UG-KAMPALA
+  group: UG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Kyiv
+    - Kiev
+    fr-FR:
+    - Kyiv
+    - Kiev
+    - Kyjiw
+    - Kyïv
+    es-ES:
+    - Kyiv
+    - Kiev
+    de-DE:
+    - Kyiv
+    - Kiev
+    pt-PT:
+    - Kyiv
+    - Kiev
+    - Quieve
+  id: UA-KYIV
+  group: UA
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Abu Dhabi
+    fr-FR:
+    - Abou Dabi
+    - Abu Dhabi
+    - Abou Dhabi
+    - Aboû Dabî
+    es-ES:
+    - Abu Dabi
+    de-DE:
+    - Abu Dhabi
+    pt-PT:
+    - Abu Dhabi
+  id: AE-ABU-DHABI
+  group: AE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - London
+    fr-FR:
+    - Londres
+    es-ES:
+    - Londres
+    de-DE:
+    - London
+    pt-PT:
+    - Londres
+  id: GB-LONDON
+  group: GB
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Washington D.C.
+    - Washington
+    fr-FR:
+    - Washington D.C.
+    - Washington
+    es-ES:
+    - Washington D.C.
+    - Washington
+    de-DE:
+    - Washington D.C.
+    - Washington
+    pt-PT:
+    - Washington D.C.
+    - Washington
+  id: US-WASHINGTON-DC
+  group: US
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Johnston Atoll (only inhabited island)
+    - Johnston Atoll
+    fr-FR:
+    - Atoll Johnston (seule ile habitée)
+    - Atoll Johnston
+    es-ES:
+    - Atolón Johnston (única isla habitada)
+    - Atolón Johnston
+    de-DE:
+    - Johnston-Atoll (einzige bewohnte Insel)
+    - Johnston-Atoll
+    pt-PT:
+    - Johnston Atoll (apenas ilha habitada)
+    - Atol Johnston
+  id: UM-JOHNSTON-ATOLL
+  group: UM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Montevideo
+    fr-FR:
+    - Montevideo
+    es-ES:
+    - Montevideo
+    de-DE:
+    - Montevideo
+    pt-PT:
+    - Montevidéu
+  id: UY-MONTEVIDEO
+  group: UY
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Tashkent
+    fr-FR:
+    - Ouzbékistan
+    es-ES:
+    - Uzbekistán
+    de-DE:
+    - Usbekistan
+    pt-PT:
+    - Uzbequistão
+  id: UZ-TASHKENT
+  group: UZ
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Port Vila
+    fr-FR:
+    - Port-Vila
+    es-ES:
+    - Port Vila
+    de-DE:
+    - Port Vila
+    pt-PT:
+    - Porto Vila
+  id: VU-PORT-VILA
+  group: VU
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Caracas
+    fr-FR:
+    - Caracas
+    es-ES:
+    - Caracas
+    de-DE:
+    - Caracas
+    pt-PT:
+    - Caracas
+  id: VE-CARACAS
+  group: VE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Hanoi
+    fr-FR:
+    - Hanoï
+    es-ES:
+    - Hanói
+    de-DE:
+    - Hanoi
+    pt-PT:
+    - Hanói
+  id: VN-HANOI
+  group: VN
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Road Town
+    fr-FR:
+    - Road Town
+    es-ES:
+    - Road Town
+    de-DE:
+    - Road Town
+    pt-PT:
+    - Road Town
+  id: VG-ROAD-TOWN
+  group: VG
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Charlotte Amalie
+    fr-FR:
+    - Charlotte-Amélie
+    es-ES:
+    - Charlotte Amalie
+    - Carlota Amalia
+    de-DE:
+    - Charlotte Amalie
+    pt-PT:
+    - Charlotte Amalie
+    - Carlota Amália)
+  id: VI-CHARLOTTE-AMALIE
+  group: VI
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Mata Utu
+    fr-FR:
+    - Mata Utu
+    es-ES:
+    - Mata Utu
+    de-DE:
+    - Mata Utu
+    pt-PT:
+    - Mata Utu
+  id: WF-MATA-UTU
+  group: WF
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - El-Aaiun
+    - Laâyoune
+    fr-FR:
+    - Laâyoune
+    es-ES:
+    - El Aaiún
+    - Laâyoune
+    de-DE:
+    - El Aaiún
+    - Laâyoune
+    pt-PT:
+    - El Aiune
+    - Laâyoune
+  id: EH-EL-AAIUN
+  group: EH
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Sana'a (Houthi government) and Aden (internationally recognized government)
+    - Sana'a
+    - Aden
+    fr-FR:
+    - Sanaa (gouvernement houthi) et Aden (gouvernement internationalement reconnu)
+    - Sanaa
+    - Aden
+    es-ES:
+    - Sana'a (gobierno Houthi) y Aden (gobierno reconocido internacionalmente)
+    - Sana'a
+    - Aden
+    de-DE:
+    - Sanaa (Huthi-Regierung) und Aden (international anerkannte Regierung)
+    - Sanaa
+    - Aden
+    pt-PT:
+    - Sana'a (governo de Houthi) e Aden (governo internacionalmente reconhecido)
+    - Sana'a
+    - Aden
+  id: YE-SANA-A"
+  group: YE
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Lusaka
+    fr-FR:
+    - Lusaka
+    es-ES:
+    - Lusaka
+    de-DE:
+    - Lusaka
+    pt-PT:
+    - Lusaca
+  id: ZM-LUSAKA
+  group: ZM
+  numeric_code: ''
+  capital:
+- name:
+    en-US:
+    - Harare
+    fr-FR:
+    - Harare
+    es-ES:
+    - Harare
+    de-DE:
+    - Harare
+    pt-PT:
+    - Harare
+  id: ZW-HARARE
+  group: ZW
+  numeric_code: ''
+  capital:
+
+# ISO3166 - COUNTRY
+
+---
+- name:
+    en-US:
+    - Afghanistan
+    - Islamic Republic of Afghanistan
+    - Islamic Emirate of Afghanistan
+    fr-FR:
+    - Afghanistan
+    - République islamique d'Afghanistan
+    - Émirat Islamique d'Afghanistan
+    es-ES:
+    - Afganistán
+    - Emirato Islámico de Afganistán
+    - República Democrática de Afganistán
+    de-DE:
+    - Afghanistan
+    - Islamische Republik Afghanistan
+    - Islamisches Emirat Afghanistan
+    pt-PT:
+    - Afeganistão
+    - Emirado Islâmico do Afeganistão
+  id: AF
+  alpha_2: AF
+  alpha_3: AFG
+  group: as
+  numeric_code: '004'
+  capital: AF-KABUL
+- name:
+    en-US:
+    - Åland
+    - Åland Islands
+    fr-FR:
+    - Åland
+    es-ES:
+    - Åland
+    de-DE:
+    - Åland
+    - Landskapet Åland
+    pt-PT:
+    - Ilhas Åland
+    - Aland
+    - Alanda
+  id: AX
+  alpha_2: AX
+  alpha_3: ALA
+  group: eu
+  numeric_code: '248'
+  capital: AX-MARIEHAMN
+- name:
+    en-US:
+    - Albania
+    - Republic of Albania
+    fr-FR:
+    - Albanie
+    - République d'Albanie
+    es-ES:
+    - Albania
+    - República de Albania
+    de-DE:
+    - Albanien
+    - Republika e Shqipërisë
+    pt-PT:
+    - Albânia
+    - República da Albânia
+  id: AL
+  alpha_2: AL
+  alpha_3: ALB
+  group: eu
+  numeric_code: '008'
+  capital: AL-TIRANA
+- name:
+    en-US:
+    - Algeria
+    - People's Democratic Republic of Algeria
+    fr-FR:
+    - Algérie
+    - République algérienne démocratique et populaire
+    es-ES:
+    - Argelia
+    - República Argelina Democrática y Popular
+    de-DE:
+    - Algerien
+    - Demokratische Volksrepublik Algerien
+    pt-PT:
+    - Argélia
+    - República Argelina Democrática e Popular
+  id: DZ
+  alpha_2: DZ
+  alpha_3: DZA
+  group: af
+  numeric_code: '012'
+  capital: DZ-ALGIERS
+- name:
+    en-US:
+    - American Samoa
+    fr-FR:
+    - Samoa Américaines
+    es-ES:
+    - Samoa Americana
+    de-DE:
+    - Amerikanisch-Samoa
+    pt-PT:
+    - Samoa Americana
+  id: AS
+  alpha_2: AS
+  alpha_3: ASM
+  group: oc
+  numeric_code: '016'
+  capital: AS-PAGO-PAGO
+- name:
+    en-US:
+    - Andorra
+    fr-FR:
+    - Andorre
+    es-ES:
+    - Andorra
+    de-DE:
+    - Andorra
+    pt-PT:
+    - Andorra
+    - Principado de Andorra
+    - Principado dos Vales de Andorra
+  id: AD
+  alpha_2: AD
+  alpha_3: AND
+  group: eu
+  numeric_code: '020'
+  capital: AD-ANDORRA-LA-VELLA
+- name:
+    en-US:
+    - Angola
+    fr-FR:
+    - Angola
+    es-ES:
+    - Angola
+    de-DE:
+    - Angola
+    pt-PT:
+    - Angola
+    - República de Angola
+  id: AO
+  alpha_2: AO
+  alpha_3: AGO
+  group: af
+  numeric_code: '024'
+  capital: AO-LUANDA
+- name:
+    en-US:
+    - Anguilla
+    fr-FR:
+    - Anguilla
+    es-ES:
+    - Anguila
+    de-DE:
+    - Anguilla
+    pt-PT:
+    - Anguila
+  id: AI
+  alpha_2: AI
+  alpha_3: AIA
+  group: na
+  numeric_code: '660'
+  capital: AI-THE-VALLEY
+- name:
+    en-US:
+    - Antarctica
+    fr-FR:
+    - Antarctique
+    es-ES:
+    - Antártida
+    de-DE:
+    - Antarktis
+    pt-PT:
+    - Antártida
+    - Antártica
+  id: AQ
+  alpha_2: AQ
+  alpha_3: ATA
+  group: an
+  numeric_code: '010'
+  capital: AQ-MCMURDO-STATION
+- name:
+    en-US:
+    - Antigua and Barbuda
+    fr-FR:
+    - Antigua-et-Barbuda
+    es-ES:
+    - Antigua y Barbuda
+    de-DE:
+    - Antigua und Barbuda
+    pt-PT:
+    - Antígua e Barbuda
+  id: AG
+  alpha_2: AG
+  alpha_3: ATG
+  group: na
+  numeric_code: '028'
+  capital: AG-SAINT-JOHN-S
+- name:
+    en-US:
+    - Argentina
+    fr-FR:
+    - Argentine
+    es-ES:
+    - Argentina
+    de-DE:
+    - Argentinien
+    pt-PT:
+    - República Argentina
+    - Argentina
+  id: AR
+  alpha_2: AR
+  alpha_3: ARG
+  group: sa
+  numeric_code: '032'
+  capital: AR-BUENOS-AIRES
+- name:
+    en-US:
+    - Armenia
+    fr-FR:
+    - Arménie
+    es-ES:
+    - Armenia
+    de-DE:
+    - Armenien
+    pt-PT:
+    - República da Arménia
+    - Armênia
+  id: AM
+  alpha_2: AM
+  alpha_3: ARM
+  group: as
+  numeric_code: '051'
+  capital: AM-YEREVAN
+- name:
+    en-US:
+    - Aruba
+    fr-FR:
+    - Aruba
+    es-ES:
+    - Aruba
+    de-DE:
+    - Aruba
+    pt-PT:
+    - Aruba
+  id: AW
+  alpha_2: AW
+  alpha_3: ABW
+  group: na
+  numeric_code: '533'
+  capital: AW-ORANJESTAD
+- name:
+    en-US:
+    - Australia
+    fr-FR:
+    - Australie
+    es-ES:
+    - Australia
+    de-DE:
+    - Australien
+    pt-PT:
+    - Comunidade da Austrália
+    - Austrália
+  id: AU
+  alpha_2: AU
+  alpha_3: AUS
+  group: oc
+  numeric_code: '036'
+  capital: AU-CANBERRA
+- name:
+    en-US:
+    - Austria
+    fr-FR:
+    - Autriche
+    es-ES:
+    - Austria
+    de-DE:
+    - Österreich
+    pt-PT:
+    - República da Áustria
+    - Áustria
+  id: AT
+  alpha_2: AT
+  alpha_3: AUT
+  group: eu
+  numeric_code: '040'
+  capital: AT-VIENNA
+- name:
+    en-US:
+    - Azerbaijan
+    fr-FR:
+    - Azerbaïdjan
+    es-ES:
+    - Azerbaiyán
+    de-DE:
+    - Aserbaidschan
+    pt-PT:
+    - República do Azerbaijão
+    - Azerbaijão
+  id: AZ
+  alpha_2: AZ
+  alpha_3: AZE
+  group: as
+  numeric_code: '031'
+  capital: AZ-BAKU
+- name:
+    en-US:
+    - Bahamas
+    fr-FR:
+    - Bahamas
+    es-ES:
+    - Bahamas
+    de-DE:
+    - Bahamas
+    pt-PT:
+    - Comunidade das Bahamas
+    - Bahamas
+    - Baamas
+  id: BS
+  alpha_2: BS
+  alpha_3: BHS
+  group: na
+  numeric_code: '044'
+  capital: BS-NASSAU
+- name:
+    en-US:
+    - Bahrain
+    fr-FR:
+    - Bahrain
+    es-ES:
+    - Baréin
+    de-DE:
+    - Bahrain
+    pt-PT:
+    - Reino do Barém
+    - Barém
+    - Bahrein
+    - Barein
+    - Bareine
+  id: BH
+  alpha_2: BH
+  alpha_3: BHR
+  group: as
+  numeric_code: '048'
+  capital: BH-MANAMA
+- name:
+    en-US:
+    - Bangladesh
+    fr-FR:
+    - Bangladesh
+    es-ES:
+    - Bangladés
+    de-DE:
+    - Bangladesch
+    pt-PT:
+    - República Popular do Bangladexe
+    - Bangladexe
+    - Bangladesh
+  id: BD
+  alpha_2: BD
+  alpha_3: BGD
+  group: as
+  numeric_code: '050'
+  capital: BD-DHAKA
+- name:
+    en-US:
+    - Barbados
+    fr-FR:
+    - Barbade
+    es-ES:
+    - Barbados
+    de-DE:
+    - Barbados
+    pt-PT:
+    - Barbados
+  id: BB
+  alpha_2: BB
+  alpha_3: BRB
+  group: na
+  numeric_code: '052'
+  capital: BB-BRIDGETOWN
+- name:
+    en-US:
+    - Belarus
+    fr-FR:
+    - Biélorussie
+    - Bélarus
+    es-ES:
+    - Bielorrusia
+    de-DE:
+    - Belarus
+    - Republik Belarus
+    pt-PT:
+    - República de Belarus
+    - República da Bielorrússia
+    - Bielorrússia
+    - Belarus
+  id: BY
+  alpha_2: BY
+  alpha_3: BLR
+  group: eu
+  numeric_code: '112'
+  capital: BY-MINSK
+- name:
+    en-US:
+    - Belgium
+    fr-FR:
+    - Belgique
+    es-ES:
+    - Bélgica
+    de-DE:
+    - Belgien
+    pt-PT:
+    - Reino da Bélgica
+    - Bélgica
+  id: BE
+  alpha_2: BE
+  alpha_3: BEL
+  group: eu
+  numeric_code: '056'
+  capital: BE-BRUSSELS
+- name:
+    en-US:
+    - Belize
+    fr-FR:
+    - Belize
+    es-ES:
+    - Belice
+    de-DE:
+    - Belize
+    pt-PT:
+    - Belize
+  id: BZ
+  alpha_2: BZ
+  alpha_3: BLZ
+  group: na
+  numeric_code: '084'
+  capital: BZ-BELMOPAN
+- name:
+    en-US:
+    - Benin
+    fr-FR:
+    - Bénin
+    es-ES:
+    - Benín
+    de-DE:
+    - Benin
+    pt-PT:
+    - Benim
+    - República do Benim
+  id: BJ
+  alpha_2: BJ
+  alpha_3: BEN
+  group: af
+  numeric_code: '204'
+  capital: BJ-PORTO-NOVO
+- name:
+    en-US:
+    - Bermuda
+    fr-FR:
+    - Bermudes
+    es-ES:
+    - Bermudas
+    de-DE:
+    - Bermuda
+    pt-PT:
+    - Bermudas
+  id: BM
+  alpha_2: BM
+  alpha_3: BMU
+  group: na
+  numeric_code: '060'
+  capital: BM-HAMILTON
+- name:
+    en-US:
+    - Bhutan
+    fr-FR:
+    - Bhoutan
+    es-ES:
+    - Bután
+    de-DE:
+    - Bhutan
+    pt-PT:
+    - Reino do Butão
+    - Butão
+  id: BT
+  alpha_2: BT
+  alpha_3: BTN
+  group: as
+  numeric_code: '064'
+  capital: BT-THIMPHU
+- name:
+    en-US:
+    - Bolivia
+    - Plurinational State of Bolivia
+    fr-FR:
+    - Bolivie
+    es-ES:
+    - Bolivia
+    de-DE:
+    - Bolivien
+    pt-PT:
+    - Bolívia
+    - Estado Plurinacional da Bolívia
+  id: BO
+  alpha_2: BO
+  alpha_3: BOL
+  group: sa
+  numeric_code: '068'
+  capital: BO-SUCRE
+- name:
+    en-US:
+    - Bonaire, Sint Eustatius and Saba
+    - Caribbean Netherlands
+    - Bonaire
+    fr-FR:
+    - Bonaire, Saint-Eustache et Saba
+    - Bonaire
+    - Pays-Bas caribéens
+    es-ES:
+    - Bonaire, San Eustaquio y Saba
+    - Caribe Neerlandés
+    de-DE:
+    - Bonaire, Saba, Sint Eustatius
+    - Bonaire
+    - Karibische Niederlande
+    pt-PT:
+    - Bonaire, Santo Eustáquio e Saba
+    - Países Baixos Caribenhos
+  id: BQ
+  alpha_2: BQ
+  alpha_3: BES
+  group: na
+  numeric_code: '535'
+  capital: BQ-KRALENDIJK
+- name:
+    en-US:
+    - Bosnia and Herzegovina
+    fr-FR:
+    - Bosnie-Herzégovine
+    es-ES:
+    - Bosnia y Herzegovina
+    de-DE:
+    - Bosnien und Herzegowina
+    pt-PT:
+    - Bósnia e Herzegovina
+  id: BA
+  alpha_2: BA
+  alpha_3: BIH
+  group: eu
+  numeric_code: '070'
+  capital: BA-SARAJEVO
+- name:
+    en-US:
+    - Botswana
+    fr-FR:
+    - Botswana
+    es-ES:
+    - Botsuana
+    de-DE:
+    - Botswana
+    pt-PT:
+    - República do Botsuana
+    - República do Botswana
+    - Botsuana
+    - Botswana
+  id: BW
+  alpha_2: BW
+  alpha_3: BWA
+  group: af
+  numeric_code: '072'
+  capital: BW-GABORONE
+- name:
+    en-US:
+    - Bouvet Island
+    - Bouvet
+    fr-FR:
+    - Île Bouvet
+    - Bouvet
+    es-ES:
+    - Isla Bouvet
+    - Bouvet
+    de-DE:
+    - Bouvetinsel
+    pt-PT:
+    - Ilha Bouvet
+  id: BV
+  alpha_2: BV
+  alpha_3: BVT
+  group: an
+  numeric_code: '074'
+  capital: BV-BOUVET
+- name:
+    en-US:
+    - Brazil
+    fr-FR:
+    - Brésil
+    es-ES:
+    - Brasil
+    de-DE:
+    - Brasilien
+    pt-PT:
+    - Brasil
+    - República Federativa do Brasil
+  id: BR
+  alpha_2: BR
+  alpha_3: BRA
+  group: sa
+  numeric_code: '076'
+  capital: BR-BRASILIA
+- name:
+    en-US:
+    - British Indian Ocean Territory
+    fr-FR:
+    - Territoire britannique de l'océan Indien
+    es-ES:
+    - Territorio Británico del Océano Índico
+    de-DE:
+    - Britisches Territorium im Indischen Ozean
+    pt-PT:
+    - Território Britânico do Oceano Índico
+  id: IO
+  alpha_2: IO
+  alpha_3: IOT
+  group: as
+  numeric_code: '086'
+  capital: IO-CAMP-THUNDER-COVE
+- name:
+    en-US:
+    - Brunei
+    - Brunei Darussalam
+    fr-FR:
+    - Brunei
+    - Brunei Darussalam
+    es-ES:
+    - Brunéi
+    - Estado de Brunéi Darussalam
+    de-DE:
+    - Brunei
+    - Brunei Darussalam
+    pt-PT:
+    - Brunei
+    - Nação de Brunei, a Morada da Paz
+    - Estado de Brunei Darussalam
+    - Darussalã
+  id: BN
+  alpha_2: BN
+  alpha_3: BRN
+  group: as
+  numeric_code: '096'
+  capital: BN-BANDAR-SERI-BEGAWAN
+- name:
+    en-US:
+    - Bulgaria
+    fr-FR:
+    - Bulgarie
+    es-ES:
+    - Bulgaria
+    de-DE:
+    - Bulgarien
+    pt-PT:
+    - Bulgária
+    - República da Bulgária
+  id: BG
+  alpha_2: BG
+  alpha_3: BGR
+  group: eu
+  numeric_code: '100'
+  capital: BG-SOFIA
+- name:
+    en-US:
+    - Burkina Faso
+    fr-FR:
+    - Burkina Faso
+    es-ES:
+    - Burkina Faso
+    de-DE:
+    - Burkina Faso
+    pt-PT:
+    - Burquina Fasso
+    - Burquina Faso
+  id: BF
+  alpha_2: BF
+  alpha_3: BFA
+  group: af
+  numeric_code: '854'
+  capital: BF-OUAGADOUGOU
+- name:
+    en-US:
+    - Burundi
+    fr-FR:
+    - Burundi
+    es-ES:
+    - Burundi
+    de-DE:
+    - Burundi
+    pt-PT:
+    - Burundi
+    - República do Burúndi
+  id: BI
+  alpha_2: BI
+  alpha_3: BDI
+  group: af
+  numeric_code: '108'
+  capital: BI-GITEGA
+- name:
+    en-US:
+    - Cabo Verde
+    - Cape Verde
+    fr-FR:
+    - Cap-Vert
+    es-ES:
+    - Cabo Verde
+    de-DE:
+    - Kap Verde
+    - Cabo Verde
+    pt-PT:
+    - Cabo Verde
+    - República de Cabo Verde
+  id: CV
+  alpha_2: CV
+  alpha_3: CPV
+  group: af
+  numeric_code: '132'
+  capital: CV-PRAIA
+- name:
+    en-US:
+    - Cambodia
+    fr-FR:
+    - Cambodge
+    es-ES:
+    - Camboya
+    de-DE:
+    - Kambodscha
+    pt-PT:
+    - Reino do Camboja
+    - Camboja
+    - Cambodja
+  id: KH
+  alpha_2: KH
+  alpha_3: KHM
+  group: as
+  numeric_code: '116'
+  capital: KH-PHNOM-PENH
+- name:
+    en-US:
+    - Cameroon
+    fr-FR:
+    - Cameroun
+    es-ES:
+    - Camerún
+    de-DE:
+    - Kamerun
+    pt-PT:
+    - República dos Camarões
+    - Camarões
+  id: CM
+  alpha_2: CM
+  alpha_3: CMR
+  group: af
+  numeric_code: '120'
+  capital: CM-YAOUNDE
+- name:
+    en-US:
+    - Canada
+    fr-FR:
+    - Canada
+    es-ES:
+    - Canadá
+    de-DE:
+    - Kanada
+    pt-PT:
+    - Canadá
+  id: CA
+  alpha_2: CA
+  alpha_3: CAN
+  group: na
+  numeric_code: '124'
+  capital: CA-OTTAWA
+- name:
+    en-US:
+    - Cayman Islands
+    fr-FR:
+    - Îles Cayman
+    es-ES:
+    - Islas Caimán
+    de-DE:
+    - Cayman Islands
+    - Kaimaninseln
+    pt-PT:
+    - ilhas Caimã
+    - Ilhas Caimão
+    - Ilhas Cayman
+  id: KY
+  alpha_2: KY
+  alpha_3: CYM
+  group: na
+  numeric_code: '136'
+  capital: KY-GEORGE-TOWN
+- name:
+    en-US:
+    - Central African Republic
+    fr-FR:
+    - République Centrafricaine
+    es-ES:
+    - República Centroafricana
+    de-DE:
+    - Zentralafrikanische Republik
+    pt-PT:
+    - República Centro-Africana
+    - República da África-Central e Centráfrica
+  id: CF
+  alpha_2: CF
+  alpha_3: CAF
+  group: af
+  numeric_code: '140'
+  capital: CF-BANGUI
+- name:
+    en-US:
+    - Chad
+    fr-FR:
+    - Tchad
+    es-ES:
+    - Chad
+    de-DE:
+    - Tschad
+    pt-PT:
+    - Chade
+  id: TD
+  alpha_2: TD
+  alpha_3: TCD
+  group: af
+  numeric_code: '148'
+  capital: TD-N'DJAMENA
+- name:
+    en-US:
+    - Chile
+    fr-FR:
+    - Chili
+    es-ES:
+    - Chile
+    de-DE:
+    - Chile
+    pt-PT:
+    - República do Chile
+    - Chile
+  id: CL
+  alpha_2: CL
+  alpha_3: CHL
+  group: sa
+  numeric_code: '152'
+  capital: CL-SANTIAGO
+- name:
+    en-US:
+    - China
+    fr-FR:
+    - Chine
+    - République populaire de Chine
+    es-ES:
+    - China
+    de-DE:
+    - China
+    - Volksrepublik China
+    pt-PT:
+    - China
+    - República Popular da China
+  id: CN
+  alpha_2: CN
+  alpha_3: CHN
+  group: as
+  numeric_code: '156'
+  capital: CN-BEIJING
+- name:
+    en-US:
+    - Christmas Island
+    fr-FR:
+    - Ïle Christmas
+    es-ES:
+    - Isla de Navidad
+    de-DE:
+    - Weihnachtsinsel
+    pt-PT:
+    - Ilha Christmas
+    - Território da Ilha Christmas
+    - Território da Ilha do Natal
+    - Ilha do Nata
+  id: CX
+  alpha_2: CX
+  alpha_3: CXR
+  group: as
+  numeric_code: '162'
+  capital: CX-FLYING-FISH-COVE
+- name:
+    en-US:
+    - Cocos Islands
+    - Keeling Islands
+    fr-FR:
+    - Îles Cocos
+    - îles Keeling
+    es-ES:
+    - Islas Cocos
+    - Islas Keeling
+    de-DE:
+    - Kokosinseln
+    - Keelinginseln
+    pt-PT:
+    - Território das Ilhas Cocos
+    - Ilhas Cocos
+    - Ilhas dos Cocos
+    - Ilhas Keeling
+  id: CC
+  alpha_2: CC
+  alpha_3: CCK
+  group: as
+  numeric_code: '166'
+  capital: CC-WEST-ISLAND
+- name:
+    en-US:
+    - Colombia
+    fr-FR:
+    - Colombie
+    es-ES:
+    - Colombia
+    de-DE:
+    - Kolumbien
+    pt-PT:
+    - República da Colômbia
+    - Colômbia
+  id: CO
+  alpha_2: CO
+  alpha_3: COL
+  group: sa
+  numeric_code: '170'
+  capital: CO-BOGOTA
+- name:
+    en-US:
+    - Comoros
+    fr-FR:
+    - Comores
+    es-ES:
+    - Comoras
+    de-DE:
+    - Komoren
+    pt-PT:
+    - União das Comores
+    - Comores
+  id: KM
+  alpha_2: KM
+  alpha_3: COM
+  group: af
+  numeric_code: '174'
+  capital: KM-MORONI
+- name:
+    en-US:
+    - Republic of the Congo
+    - Congo
+    fr-FR:
+    - République du Congo
+    - Congo
+    es-ES:
+    - República del Congo
+    - Congo
+    de-DE:
+    - Republik Kongo
+    pt-PT:
+    - República do Congo
+    - Congo-Brazavile
+    - Congo-Brazzaville
+  id: CG
+  alpha_2: CG
+  alpha_3: COG
+  group: af
+  numeric_code: '178'
+  capital: CG-BRAZZAVILLE
+- name:
+    en-US:
+    - Democratic Republic of the Congo
+    - Congo-Kinshasa
+    fr-FR:
+    - République démocratique du Congo
+    - Congo-Kinshasa
+    es-ES:
+    - República Democrática del Congo
+    - Congo-Kinsasa
+    - Congo Democrático
+    - Congo del Este
+    de-DE:
+    - Demokratische Republik Kongo
+    - Kongo-Kinshasa
+    - Congo-Léopoldville
+    pt-PT:
+    - República Democrática do Congo
+    - Congo-Quinxassa
+    - Congo-Kinshasa
+  id: CD
+  alpha_2: CD
+  alpha_3: COD
+  group: af
+  numeric_code: '180'
+  capital: CD-KINSHASA
+- name:
+    en-US:
+    - Cook Islands
+    fr-FR:
+    - Ïles Cook
+    es-ES:
+    - Islas Cook
+    de-DE:
+    - Cookinseln
+    pt-PT:
+    - Ilhas Cook
+  id: CK
+  alpha_2: CK
+  alpha_3: COK
+  group: oc
+  numeric_code: '184'
+  capital: CK-AVARUA
+- name:
+    en-US:
+    - Costa Rica
+    fr-FR:
+    - Costa Rica
+    es-ES:
+    - Costa Rica
+    de-DE:
+    - Costa Rica
+    pt-PT:
+    - República da Costa Rica
+    - Costa Rica
+  id: CR
+  alpha_2: CR
+  alpha_3: CRI
+  group: na
+  numeric_code: '188'
+  capital: CR-SAN-JOSE
+- name:
+    en-US:
+    - Côte d'Ivoire
+    fr-FR:
+    - Côte d'Ivoire
+    es-ES:
+    - Costa de Marfil
+    de-DE:
+    - Elfenbeinküste
+    pt-PT:
+    - República da Costa do Marfim
+    - Costa do Marfim
+  id: CI
+  alpha_2: CI
+  alpha_3: CIV
+  group: af
+  numeric_code: '384'
+  capital: CI-YAMOUSSOUKRO
+- name:
+    en-US:
+    - Croatia
+    fr-FR:
+    - Croatie
+    - République de Croatie
+    es-ES:
+    - Croacia
+    de-DE:
+    - Kroatien
+    - Republik Kroatien
+    pt-PT:
+    - República da Croácia
+    - Croácia
+  id: HR
+  alpha_2: HR
+  alpha_3: HRV
+  group: eu
+  numeric_code: '191'
+  capital: HR-ZAGREB
+- name:
+    en-US:
+    - Cuba
+    fr-FR:
+    - Cuba
+    - République de Cuba
+    es-ES:
+    - Cuba
+    - República de Cuba
+    de-DE:
+    - Kuba
+    - República de Cuba
+    pt-PT:
+    - República de Cuba
+    - Cuba
+  id: CU
+  alpha_2: CU
+  alpha_3: CUB
+  group: na
+  numeric_code: '192'
+  capital: CU-HAVANA
+- name:
+    en-US:
+    - Curaçao
+    fr-FR:
+    - Curaçao
+    es-ES:
+    - Curazao
+    de-DE:
+    - Curaçao
+    pt-PT:
+    - Curaçau
+  id: CW
+  alpha_2: CW
+  alpha_3: CUW
+  group: na
+  numeric_code: '531'
+  capital: CW-WILLEMSTAD
+- name:
+    en-US:
+    - Cyprus
+    fr-FR:
+    - Chypre
+    es-ES:
+    - Chipre
+    de-DE:
+    - Zypern
+    pt-PT:
+    - República de Chipre
+    - Chipre
+  id: CY
+  alpha_2: CY
+  alpha_3: CYP
+  group: as
+  numeric_code: '196'
+  capital: CY-NICOSIA
+- name:
+    en-US:
+    - Czechia
+    fr-FR:
+    - République tchèque
+    - Tchéquie
+    es-ES:
+    - República Checa
+    de-DE:
+    - Tschechien
+    - Tschechische Republik
+    pt-PT:
+    - República Checa
+    - República Tcheca
+    - Chéquia
+    - Tchéquia
+  id: CZ
+  alpha_2: CZ
+  alpha_3: CZE
+  group: eu
+  numeric_code: '203'
+  capital: CZ-PRAGUE
+- name:
+    en-US:
+    - Denmark
+    fr-FR:
+    - Danemark
+    es-ES:
+    - Dinamarca
+    de-DE:
+    - Dänemark
+    pt-PT:
+    - Reino da Dinamarca
+    - Dinamarca
+  id: DK
+  alpha_2: DK
+  alpha_3: DNK
+  group: eu
+  numeric_code: '208'
+  capital: DK-COPENHAGEN
+- name:
+    en-US:
+    - Djibouti
+    fr-FR:
+    - Djibouti
+    es-ES:
+    - Yibuti
+    de-DE:
+    - Dschibuti
+    pt-PT:
+    - República do Djibuti
+    - Djibuti
+    - Jibuti
+  id: DJ
+  alpha_2: DJ
+  alpha_3: DJI
+  group: af
+  numeric_code: '262'
+  capital: DJ-DJIBOUTI
+- name:
+    en-US:
+    - Dominica
+    fr-FR:
+    - Dominique
+    es-ES:
+    - Dominica
+    de-DE:
+    - Dominica
+    pt-PT:
+    - Comunidade da Dominica
+    - Dominica
+  id: DM
+  alpha_2: DM
+  alpha_3: DMA
+  group: na
+  numeric_code: '212'
+  capital: DM-ROSEAU
+- name:
+    en-US:
+    - Dominican Republic
+    fr-FR:
+    - République Dominicaine
+    es-ES:
+    - República Dominicana
+    de-DE:
+    - Dominikanische Republik
+    pt-PT:
+    - República Dominicana
+  id: DO
+  alpha_2: DO
+  alpha_3: DOM
+  group: na
+  numeric_code: '214'
+  capital: DO-SANTO-DOMINGO
+- name:
+    en-US:
+    - Ecuador
+    fr-FR:
+    - Équateur
+    es-ES:
+    - Ecuador
+    de-DE:
+    - Ecuador
+    pt-PT:
+    - República do Equador
+    - Equador
+  id: EC
+  alpha_2: EC
+  alpha_3: ECU
+  group: na
+  numeric_code: '218'
+  capital: EC-QUITO
+- name:
+    en-US:
+    - Egypt
+    fr-FR:
+    - Égypte
+    es-ES:
+    - Egipto
+    de-DE:
+    - Ägypten
+    pt-PT:
+    - Egito
+    - República Árabe do Egito
+  id: EG
+  alpha_2: EG
+  alpha_3: EGY
+  group: af
+  numeric_code: '818'
+  capital: EG-CAIRO
+- name:
+    en-US:
+    - El Salvador
+    fr-FR:
+    - El Salvardor
+    - Salvador
+    es-ES:
+    - El Salvador
+    de-DE:
+    - El Salvador
+    pt-PT:
+    - El Salvador
+    - República de El Salvador
+    - República do Salvador
+    - Salvador
+  id: SV
+  alpha_2: SV
+  alpha_3: SLV
+  group: na
+  numeric_code: '222'
+  capital: SV-SAN-SALVADOR
+- name:
+    en-US:
+    - Equatorial Guinea
+    fr-FR:
+    - Guinée Équatoriale
+    es-ES:
+    - Guinea Ecuatorial
+    de-DE:
+    - Äquatorialguinea
+    pt-PT:
+    - República da Guiné Equatorial
+    - Guiné Equatorial
+  id: GQ
+  alpha_2: GQ
+  alpha_3: GNQ
+  group: af
+  numeric_code: '226'
+  capital: GQ-MALABO
+- name:
+    en-US:
+    - Eritrea
+    fr-FR:
+    - Érythrée
+    es-ES:
+    - Eritrea
+    de-DE:
+    - Eritrea
+    pt-PT:
+    - Estado da Eritreia
+    - Eritreia
+  id: ER
+  alpha_2: ER
+  alpha_3: ERI
+  group: af
+  numeric_code: '232'
+  capital: ER-ASMARA
+- name:
+    en-US:
+    - Estonia
+    fr-FR:
+    - Estonie
+    es-ES:
+    - Estonia
+    de-DE:
+    - Estland
+    pt-PT:
+    - República da Estónia
+    - Estónia
+  id: EE
+  alpha_2: EE
+  alpha_3: EST
+  group: eu
+  numeric_code: '233'
+  capital: EE-TALLINN
+- name:
+    en-US:
+    - Eswatini
+    - Swaziland
+    fr-FR:
+    - Eswatini
+    - Royaume d'Eswatini
+    - Swaziland
+    es-ES:
+    - Esuatini
+    - Suazilandia
+    - Eswatini
+    - Reino de Suazilandia
+    - Reino de Esuatini
+    de-DE:
+    - Eswatini
+    - Königreich Eswatini
+    pt-PT:
+    - Essuatíni
+    - Reino de Essuatíni
+  id: SZ
+  alpha_2: SZ
+  alpha_3: SWZ
+  group: af
+  numeric_code: '748'
+  capital: SZ-MBABANE
+- name:
+    en-US:
+    - Ethiopia
+    fr-FR:
+    - Éthiopie
+    es-ES:
+    - Etiopía
+    de-DE:
+    - Äthiopien
+    pt-PT:
+    - República Democrática Federal da Etiópia
+    - Etiópia
+  id: ET
+  alpha_2: ET
+  alpha_3: ETH
+  group: af
+  numeric_code: '231'
+  capital: ET-ADDIS-ABABA
+- name:
+    en-US:
+    - Falkland Islands
+    - Malvinas
+    fr-FR:
+    - Îles Falkland
+    - Îles Malouines
+    es-ES:
+    - Islas Malvinas
+    de-DE:
+    - Falklandinseln
+    - Malwinen
+    pt-PT:
+    - Ilhas Malvinas
+    - Ilhas Falkland
+    - Falklands
+  id: FK
+  alpha_2: FK
+  alpha_3: FLK
+  group: sa
+  numeric_code: '238'
+  capital: FK-STANLEY
+- name:
+    en-US:
+    - Faroe Islands
+    fr-FR:
+    - Îles Féroé
+    es-ES:
+    - Islas Feroe
+    de-DE:
+    - Färöer
+    pt-PT:
+    - Ilhas Feroé
+    - Ilhas Féroe
+  id: FO
+  alpha_2: FO
+  alpha_3: FRO
+  group: eu
+  numeric_code: '234'
+  capital: FO-TORSHAVN
+- name:
+    en-US:
+    - Fiji
+    fr-FR:
+    - Fidji
+    es-ES:
+    - Fiyi
+    de-DE:
+    - Fidschi
+    pt-PT:
+    - República das Fíji
+    - Fiji
+  id: FJ
+  alpha_2: FJ
+  alpha_3: FJI
+  group: oc
+  numeric_code: '242'
+  capital: FJ-SUVA
+- name:
+    en-US:
+    - Finland
+    fr-FR:
+    - Finlande
+    es-ES:
+    - Finlandia
+    de-DE:
+    - Finnland
+    - Republik Finnland
+    pt-PT:
+    - República da Finlândia
+    - Finlândia
+  id: FI
+  alpha_2: FI
+  alpha_3: FIN
+  group: eu
+  numeric_code: '246'
+  capital: FI-HELSINKI
+- name:
+    en-US:
+    - France
+    fr-FR:
+    - France
+    es-ES:
+    - Francia
+    de-DE:
+    - Frankreich
+    pt-PT:
+    - República Francesa
+    - França
+  id: FR
+  alpha_2: FR
+  alpha_3: FRA
+  group: eu
+  numeric_code: '250'
+  capital: FR-PARIS
+- name:
+    en-US:
+    - French Guiana
+    fr-FR:
+    - Guyane
+    es-ES:
+    - Guayana Francesa
+    de-DE:
+    - Französisch-Guayana
+    pt-PT:
+    - Guiana Francesa
+  id: GF
+  alpha_2: GF
+  alpha_3: GUF
+  group: sa
+  numeric_code: '254'
+  capital: GF-CAYENNE
+- name:
+    en-US:
+    - French Polynesia
+    fr-FR:
+    - Polynésie française
+    es-ES:
+    - Polinesia Francesa
+    de-DE:
+    - Französisch-Polynesien
+    pt-PT:
+    - Polinésia Francesa
+  id: PF
+  alpha_2: PF
+  alpha_3: PYF
+  group: oc
+  numeric_code: '258'
+  capital: PF-PAPEETE
+- name:
+    en-US:
+    - French Southern Territories
+    fr-FR:
+    - Terres australes et antarctiques françaises
+    - Terres australes et antarctiques
+    es-ES:
+    - Tierras Australes y Antárticas Francesas
+    de-DE:
+    - Französische Süd- und Antarktisgebiete
+    pt-PT:
+    - Território das Terras Austrais e Antárcticas Francesas
+    - Terras Austrais e Antárticas Francesas
+  id: TF
+  alpha_2: TF
+  alpha_3: ATF
+  group: an
+  numeric_code: '260'
+  capital: TF-PORT-AUX-FRANCAIS
+- name:
+    en-US:
+    - Gabon
+    fr-FR:
+    - Gabon
+    es-ES:
+    - Gabón
+    de-DE:
+    - Gabun
+    pt-PT:
+    - República Gabonesa
+    - Gabão
+  id: GA
+  alpha_2: GA
+  alpha_3: GAB
+  group: af
+  numeric_code: '266'
+  capital: GA-LIBREVILLE
+- name:
+    en-US:
+    - Gambia
+    fr-FR:
+    - Gambie
+    es-ES:
+    - Gambia
+    de-DE:
+    - Gambia
+    pt-PT:
+    - República da Gâmbia
+    - Gâmbia
+  id: GM
+  alpha_2: GM
+  alpha_3: GMB
+  group: af
+  numeric_code: '270'
+  capital: GM-BANJUL
+- name:
+    en-US:
+    - Georgia
+    fr-FR:
+    - Géorgie
+    es-ES:
+    - Georgia
+    de-DE:
+    - Georgien
+    pt-PT:
+    - Geórgia
+  id: GE
+  alpha_2: GE
+  alpha_3: GEO
+  group: as
+  numeric_code: '268'
+  capital: GE-TBILISI
+- name:
+    en-US:
+    - Germany
+    fr-FR:
+    - Allemagne
+    es-ES:
+    - Alemania
+    de-DE:
+    - Deutschland
+    pt-PT:
+    - República Federal da Alemanha
+    - Alemanha
+  id: DE
+  alpha_2: DE
+  alpha_3: DEU
+  group: eu
+  numeric_code: '276'
+  capital: DE-BERLIN
+- name:
+    en-US:
+    - Ghana
+    fr-FR:
+    - Ghana
+    es-ES:
+    - Ghana
+    de-DE:
+    - Ghana
+    pt-PT:
+    - Gana
+    - República do Gana
+  id: GH
+  alpha_2: GH
+  alpha_3: GHA
+  group: af
+  numeric_code: '288'
+  capital: GH-ACCRA
+- name:
+    en-US:
+    - Gibraltar
+    fr-FR:
+    - Gibraltar
+    es-ES:
+    - Gibraltar
+    de-DE:
+    - Gibraltar
+    pt-PT:
+    - Gibraltar
+  id: GI
+  alpha_2: GI
+  alpha_3: GIB
+  group: eu
+  numeric_code: '292'
+  capital: GI-GIBRALTAR
+- name:
+    en-US:
+    - Greece
+    fr-FR:
+    - Grèce
+    es-ES:
+    - Grecia
+    de-DE:
+    - Griechenland
+    pt-PT:
+    - República Helênica
+    - Grécia
+  id: GR
+  alpha_2: GR
+  alpha_3: GRC
+  group: eu
+  numeric_code: '300'
+  capital: GR-ATHENS
+- name:
+    en-US:
+    - Greenland
+    fr-FR:
+    - Groenland
+    es-ES:
+    - Groenlandia
+    de-DE:
+    - Grönland
+    pt-PT:
+    - Groenlândia
+    - Gronelândia
+    - Groelândia
+  id: GL
+  alpha_2: GL
+  alpha_3: GRL
+  group: na
+  numeric_code: '304'
+  capital: GL-NUUK
+- name:
+    en-US:
+    - Grenada
+    fr-FR:
+    - Grenade
+    es-ES:
+    - Granada
+    de-DE:
+    - Grenada
+    pt-PT:
+    - Granada
+  id: GD
+  alpha_2: GD
+  alpha_3: GRD
+  group: na
+  numeric_code: '308'
+  capital: GD-ST-GEORGE-S
+- name:
+    en-US:
+    - Guadeloupe
+    fr-FR:
+    - Guadeloupe
+    es-ES:
+    - Guadalupe
+    de-DE:
+    - Guadeloupe
+    pt-PT:
+    - Guadalupe
+  id: GP
+  alpha_2: GP
+  alpha_3: GLP
+  group: na
+  numeric_code: '312'
+  capital: GP-BASSE-TERRE
+- name:
+    en-US:
+    - Guam
+    fr-FR:
+    - Guam
+    es-ES:
+    - Guam
+    de-DE:
+    - Guam
+    pt-PT:
+    - Guam
+    - Guão
+    - Guame
+  id: GU
+  alpha_2: GU
+  alpha_3: GUM
+  group: oc
+  numeric_code: '316'
+  capital: GU-HAGATNA
+- name:
+    en-US:
+    - Guatemala
+    fr-FR:
+    - Guatemala
+    es-ES:
+    - Guatemala
+    de-DE:
+    - Guatemala
+    pt-PT:
+    - Guatemala
+    - República da Guatemala
+  id: GT
+  alpha_2: GT
+  alpha_3: GTM
+  group: na
+  numeric_code: '320'
+  capital: GT-GUATEMALA-CITY
+- name:
+    en-US:
+    - Guernsey
+    fr-FR:
+    - Guernesey
+    es-ES:
+    - Guernsey
+    de-DE:
+    - Guernsey
+    - Kanalinsel
+    pt-PT:
+    - Guernsey
+    - Guernesey
+    - Bailiado de Guernsey
+    - Bailiado de Guernesey
+    - Guernesei
+  id: GG
+  alpha_2: GG
+  alpha_3: GGY
+  group: eu
+  numeric_code: '831'
+  capital: GG-ST-PETER-PORT
+- name:
+    en-US:
+    - Guinea
+    fr-FR:
+    - Guinée
+    es-ES:
+    - Guinea
+    de-DE:
+    - Guinea
+    pt-PT:
+    - Guiné-Conacri
+    - República da Guiné
+  id: GN
+  alpha_2: GN
+  alpha_3: GIN
+  group: af
+  numeric_code: '324'
+  capital: GN-CONAKRY
+- name:
+    en-US:
+    - Guinea-Bissau
+    fr-FR:
+    - Guinée-Bissau
+    es-ES:
+    - Guinea-Bisáu
+    de-DE:
+    - Guinea-Bissau
+    pt-PT:
+    - Guiné-Bissau
+    - República da Guiné-Bissau
+  id: GW
+  alpha_2: GW
+  alpha_3: GNB
+  group: af
+  numeric_code: '624'
+  capital: GW-BISSAU
+- name:
+    en-US:
+    - Guyana
+    fr-FR:
+    - Guyane
+    es-ES:
+    - Guyana
+    de-DE:
+    - Guyana
+    pt-PT:
+    - Guyana
+    - República Cooperativa da Guiana
+    - Guiana
+  id: GY
+  alpha_2: GY
+  alpha_3: GUY
+  group: sa
+  numeric_code: '328'
+  capital: GY-GEORGETOWN
+- name:
+    en-US:
+    - Haiti
+    fr-FR:
+    - Haïti
+    es-ES:
+    - Haití
+    de-DE:
+    - Haiti
+    pt-PT:
+    - Haiti
+    - República do Haiti
+  id: HT
+  alpha_2: HT
+  alpha_3: HTI
+  group: na
+  numeric_code: '332'
+  capital: HT-PORT-AU-PRINCE
+- name:
+    en-US:
+    - Heard Island and McDonald Islands
+    fr-FR:
+    - Ïles Heard-et-MacDonald
+    es-ES:
+    - Islas Heard y McDonald
+    de-DE:
+    - Heard und McDonaldinseln
+    pt-PT:
+    - Ilha Heard e Ilhas McDonald
+    - Território das Ilhas Heard e McDonald
+  id: HM
+  alpha_2: HM
+  alpha_3: HMD
+  group: an
+  numeric_code: '334'
+  capital: HM-HEARD
+- name:
+    en-US:
+    - Vatican
+    - Holy See
+    fr-FR:
+    - Vatican
+    es-ES:
+    - Ciudad del Vaticano
+    de-DE:
+    - Vatikanstadt
+    pt-PT:
+    - Vaticano
+    - Estado da Cidade do Vaticano
+    - Cidade do Vaticano
+  id: VA
+  alpha_2: VA
+  alpha_3: VAT
+  group: eu
+  numeric_code: '336'
+  capital: VA-VATICAN-CITY
+- name:
+    en-US:
+    - Honduras
+    fr-FR:
+    - Honduras
+    es-ES:
+    - Honduras
+    de-DE:
+    - Honduras
+    pt-PT:
+    - Honduras
+    - República das Honduras
+    - República de Honduras
+  id: HN
+  alpha_2: HN
+  alpha_3: HND
+  group: na
+  numeric_code: '340'
+  capital: HN-TEGUCIGALPA
+- name:
+    en-US:
+    - Hong Kong
+    fr-FR:
+    - Hong Kong
+    es-ES:
+    - Hong Kong
+    de-DE:
+    - Hongkong
+    pt-PT:
+    - Hong Kong
+  id: HK
+  alpha_2: HK
+  alpha_3: HKG
+  group: as
+  numeric_code: '344'
+  capital: HK-HONG-KONG
+- name:
+    en-US:
+    - Hungary
+    fr-FR:
+    - Hongrie
+    es-ES:
+    - Hungría
+    de-DE:
+    - Ungarn
+    pt-PT:
+    - Hungria
+  id: HU
+  alpha_2: HU
+  alpha_3: HUN
+  group: eu
+  numeric_code: '348'
+  capital: HU-BUDAPEST
+- name:
+    en-US:
+    - Iceland
+    fr-FR:
+    - Islande
+    es-ES:
+    - Islandia
+    de-DE:
+    - Island
+    pt-PT:
+    - Islândia
+  id: IS
+  alpha_2: IS
+  alpha_3: ISL
+  group: eu
+  numeric_code: '352'
+  capital: IS-REYKJAVIK
+- name:
+    en-US:
+    - India
+    fr-FR:
+    - Inde
+    es-ES:
+    - India
+    de-DE:
+    - Indien
+    pt-PT:
+    - República da Índia
+    - Índia
+  id: IN
+  alpha_2: IN
+  alpha_3: IND
+  group: as
+  numeric_code: '356'
+  capital: IN-NEW-DELHI
+- name:
+    en-US:
+    - Indonesia
+    fr-FR:
+    - Indonésie
+    es-ES:
+    - Indonesia
+    de-DE:
+    - Indonesien
+    pt-PT:
+    - República da Indonésia
+    - Indonésia
+  id: ID
+  alpha_2: ID
+  alpha_3: IDN
+  group: as
+  numeric_code: '360'
+  capital: ID-JAKARTA
+- name:
+    en-US:
+    - Iran
+    - Islamic Republic of Iran
+    fr-FR:
+    - Iran
+    - République islamique d'Iran
+    es-ES:
+    - Irán
+    - República Islámica de Irán
+    de-DE:
+    - Iran
+    - Islamische Republik Iran
+    pt-PT:
+    - Irã
+    - República Islâmica do Irã
+    - República Islâmica do Irão
+    - Irão
+  id: IR
+  alpha_2: IR
+  alpha_3: IRN
+  group: as
+  numeric_code: '364'
+  capital: IR-TEHRAN
+- name:
+    en-US:
+    - Iraq
+    fr-FR:
+    - Irak
+    - République d'Irak
+    es-ES:
+    - Irak
+    de-DE:
+    - Irak
+    - Republik Irak
+    pt-PT:
+    - Iraque
+    - República do Iraque
+  id: IQ
+  alpha_2: IQ
+  alpha_3: IRQ
+  group: as
+  numeric_code: '368'
+  capital: IQ-BAGHDAD
+- name:
+    en-US:
+    - Ireland
+    fr-FR:
+    - Irlande
+    es-ES:
+    - Irlanda
+    de-DE:
+    - Irland
+    pt-PT:
+    - Irlanda
+    - República da Irlanda
+  id: IE
+  alpha_2: IE
+  alpha_3: IRL
+  group: eu
+  numeric_code: '372'
+  capital: IE-DUBLIN
+- name:
+    en-US:
+    - Isle of Man
+    fr-FR:
+    - Île de Man
+    es-ES:
+    - Isla de Man
+    de-DE:
+    - Isle of Man
+    pt-PT:
+    - Ilha de Man
+  id: IM
+  alpha_2: IM
+  alpha_3: IMN
+  group: eu
+  numeric_code: '833'
+  capital: IM-DOUGLAS
+- name:
+    en-US:
+    - Israel
+    fr-FR:
+    - Israël
+    es-ES:
+    - Israel
+    de-DE:
+    - Israel
+    pt-PT:
+    - Israel
+    - Estado de Israel
+  id: IL
+  alpha_2: IL
+  alpha_3: ISR
+  group: as
+  numeric_code: '376'
+  capital: IL-JERUSALEM
+- name:
+    en-US:
+    - Italy
+    fr-FR:
+    - Italie
+    es-ES:
+    - Italia
+    de-DE:
+    - Italien
+    pt-PT:
+    - República Italiana
+    - Itália
+  id: IT
+  alpha_2: IT
+  alpha_3: ITA
+  group: eu
+  numeric_code: '380'
+  capital: IT-ROME
+- name:
+    en-US:
+    - Jamaica
+    fr-FR:
+    - Jamaïque
+    es-ES:
+    - Jamaica
+    de-DE:
+    - Jamaika
+    pt-PT:
+    - Jamaica
+  id: JM
+  alpha_2: JM
+  alpha_3: JAM
+  group: na
+  numeric_code: '388'
+  capital: JM-KINGSTON
+- name:
+    en-US:
+    - Japan
+    fr-FR:
+    - Japon
+    es-ES:
+    - Japón
+    de-DE:
+    - Japan
+    pt-PT:
+    - Japão
+  id: JP
+  alpha_2: JP
+  alpha_3: JPN
+  group: as
+  numeric_code: '392'
+  capital: JP-TOKYO
+- name:
+    en-US:
+    - Jersey
+    fr-FR:
+    - Jersey
+    es-ES:
+    - Jersey
+    de-DE:
+    - Jersey
+    pt-PT:
+    - Bailiado de Jersey
+    - Jersey
+  id: JE
+  alpha_2: JE
+  alpha_3: JEY
+  group: eu
+  numeric_code: '832'
+  capital: JE-SAINT-HELIER
+- name:
+    en-US:
+    - Jordan
+    fr-FR:
+    - Jordanie
+    es-ES:
+    - Jordania
+    de-DE:
+    - Jordanien
+    pt-PT:
+    - Reino Haxemita da Jordânia
+    - Jordânia
+  id: JO
+  alpha_2: JO
+  alpha_3: JOR
+  group: as
+  numeric_code: '400'
+  capital: JO-AMMAN
+- name:
+    en-US:
+    - Kazakhstan
+    fr-FR:
+    - Kazakhstan
+    es-ES:
+    - Kazajistán
+    de-DE:
+    - Kasachstan
+    pt-PT:
+    - República do Cazaquistão
+    - Cazaquistão
+  id: KZ
+  alpha_2: KZ
+  alpha_3: KAZ
+  group: as
+  numeric_code: '398'
+  capital: KZ-NUR-SULTAN
+- name:
+    en-US:
+    - Kenya
+    fr-FR:
+    - Kenya
+    es-ES:
+    - Kenia
+    de-DE:
+    - Kenia
+    pt-PT:
+    - República do Quênia
+    - Quênia
+  id: KE
+  alpha_2: KE
+  alpha_3: KEN
+  group: af
+  numeric_code: '404'
+  capital: KE-NAIROBI
+- name:
+    en-US:
+    - Kiribati
+    fr-FR:
+    - Kiribati
+    es-ES:
+    - Kiribati
+    de-DE:
+    - Kiribati
+    pt-PT:
+    - República de Kiribati
+    - Quiribáti
+    - Kiribati
+  id: KI
+  alpha_2: KI
+  alpha_3: KIR
+  group: oc
+  numeric_code: '296'
+  capital: KI-SOUTH-TARAWA
+- name:
+    en-US:
+    - North Korea
+    - Democratic People's Republic of Korea
+    fr-FR:
+    - Corée du Nord
+    es-ES:
+    - Corea del Norte
+    - República Popular Democrática de Corea
+    de-DE:
+    - Nordkorea
+    - Demokratische Volksrepublik Korea
+    pt-PT:
+    - República Popular Democrática da Coreia
+    - Coreia do Norte
+  id: KP
+  alpha_2: KP
+  alpha_3: PRK
+  group: as
+  numeric_code: '408'
+  capital: KP-PYONGYANG
+- name:
+    en-US:
+    - South Korea
+    fr-FR:
+    - Corée du sud
+    es-ES:
+    - Corea del Sur
+    de-DE:
+    - Südkorea
+    pt-PT:
+    - República da Coreia
+    - Coreia do Sul
+  id: KR
+  alpha_2: KR
+  alpha_3: KOR
+  group: as
+  numeric_code: '410'
+  capital: KR-SEOUL
+- name:
+    en-US:
+    - Kosovo
+    fr-FR:
+    - Kosovo
+    es-ES:
+    - Kósovo
+    - República de Kosovo
+    de-DE:
+    - Kosovo
+    pt-PT:
+    - República do Kosovo
+    - Kosovo
+    - Kossovo
+    - Cossovo
+    - Cosovo
+  id: XK
+  alpha_2: XK
+  alpha_3: XXK
+  group: eu
+  numeric_code: '926'
+  capital: XK-PRISTINA
+- name:
+    en-US:
+    - Kuwait
+    fr-FR:
+    - Koweït
+    es-ES:
+    - Kuwait
+    de-DE:
+    - Kuwait
+    pt-PT:
+    - Kuwait
+    - Estado do Kuwait
+  id: KW
+  alpha_2: KW
+  alpha_3: KWT
+  group: as
+  numeric_code: '414'
+  capital: KW-KUWAIT
+- name:
+    en-US:
+    - Kyrgyzstan
+    fr-FR:
+    - Kirghizistan
+    es-ES:
+    - Kirguistán
+    de-DE:
+    - Kirgisistan
+    pt-PT:
+    - Quirguízia
+    - República Quirguiz
+    - Quirguistão
+    - Quirguizistão
+  id: KG
+  alpha_2: KG
+  alpha_3: KGZ
+  group: as
+  numeric_code: '417'
+  capital: KG-BISHKEK
+- name:
+    en-US:
+    - Laos
+    - Lao People's Democratic Republic
+    fr-FR:
+    - Laos
+    es-ES:
+    - Laos
+    - República Democrática Popular Lao
+    de-DE:
+    - Laos
+    - Demokratische Volksrepublik Laos
+    pt-PT:
+    - Laos
+    - República Democrática Popular do Laos
+  id: LA
+  alpha_2: LA
+  alpha_3: LAO
+  group: as
+  numeric_code: '418'
+  capital: LA-VIENTIANE
+- name:
+    en-US:
+    - Latvia
+    fr-FR:
+    - Lettonie
+    es-ES:
+    - Letonia
+    de-DE:
+    - Lettland
+    pt-PT:
+    - República da Letônia
+    - Letônia
+  id: LV
+  alpha_2: LV
+  alpha_3: LVA
+  group: eu
+  numeric_code: '428'
+  capital: LV-RIGA
+- name:
+    en-US:
+    - Lebanon
+    fr-FR:
+    - Liban
+    es-ES:
+    - Líbano
+    de-DE:
+    - Libanon
+    pt-PT:
+    - República do Líbano
+    - Líbano
+  id: LB
+  alpha_2: LB
+  alpha_3: LBN
+  group: as
+  numeric_code: '422'
+  capital: LB-BEIRUT
+- name:
+    en-US:
+    - Lesotho
+    fr-FR:
+    - Lesotho
+    es-ES:
+    - Lesoto
+    de-DE:
+    - Lesotho
+    pt-PT:
+    - Reino do Lesoto
+    - Lesoto
+    - Lessoto
+  id: LS
+  alpha_2: LS
+  alpha_3: LSO
+  group: af
+  numeric_code: '426'
+  capital: LS-MASERU
+- name:
+    en-US:
+    - Liberia
+    fr-FR:
+    - Libéria
+    es-ES:
+    - Liberia
+    de-DE:
+    - Liberia
+    pt-PT:
+    - Libéria
+    - República da Libéria
+  id: LR
+  alpha_2: LR
+  alpha_3: LBR
+  group: af
+  numeric_code: '430'
+  capital: LR-MONROVIA
+- name:
+    en-US:
+    - Libya
+    fr-FR:
+    - Libye
+    es-ES:
+    - Libia
+    de-DE:
+    - Libyen
+    pt-PT:
+    - Estado da Líbia
+    - Líbia
+  id: LY
+  alpha_2: LY
+  alpha_3: LBY
+  group: af
+  numeric_code: '434'
+  capital: LY-TRIPOLIS
+- name:
+    en-US:
+    - Liechtenstein
+    fr-FR:
+    - Liechtenstein
+    es-ES:
+    - Liechtenstein
+    de-DE:
+    - Liechtenstein
+    pt-PT:
+    - Principado de Liechtenstein
+    - Listenstaine
+    - Liechtenstein
+  id: LI
+  alpha_2: LI
+  alpha_3: LIE
+  group: eu
+  numeric_code: '438'
+  capital: LI-VADUZ
+- name:
+    en-US:
+    - Lithuania
+    fr-FR:
+    - Lituanie
+    es-ES:
+    - Lituania
+    de-DE:
+    - Litauen
+    pt-PT:
+    - República da Lituânia
+    - Lituânia
+  id: LT
+  alpha_2: LT
+  alpha_3: LTU
+  group: eu
+  numeric_code: '440'
+  capital: LT-VILNIUS
+- name:
+    en-US:
+    - Luxembourg
+    fr-FR:
+    - Luxembourg
+    es-ES:
+    - Luxemburgo
+    de-DE:
+    - Luxemburg
+    pt-PT:
+    - Luxemburgo
+    - Grão-Ducado do Luxemburgo
+  id: LU
+  alpha_2: LU
+  alpha_3: LUX
+  group: eu
+  numeric_code: '442'
+  capital: LU-LUXEMBOURG
+- name:
+    en-US:
+    - Macao
+    fr-FR:
+    - Macao
+    es-ES:
+    - Macao
+    de-DE:
+    - Macau
+    pt-PT:
+    - Macau
+  id: MO
+  alpha_2: MO
+  alpha_3: MAC
+  group: as
+  numeric_code: '446'
+  capital: MO-MACAO
+- name:
+    en-US:
+    - Madagascar
+    fr-FR:
+    - Madagascar
+    es-ES:
+    - Madagascar
+    de-DE:
+    - Madagaskar
+    pt-PT:
+    - Madagáscar
+    - República de Madagáscar
+  id: MG
+  alpha_2: MG
+  alpha_3: MDG
+  group: af
+  numeric_code: '450'
+  capital: MG-ANTANANARIVO
+- name:
+    en-US:
+    - Malawi
+    fr-FR:
+    - Malawi
+    es-ES:
+    - Malaui
+    de-DE:
+    - Malawi
+    pt-PT:
+    - República do Malawi
+    - Maláui
+    - Malawi
+  id: MW
+  alpha_2: MW
+  alpha_3: MWI
+  group: af
+  numeric_code: '454'
+  capital: MW-LILONGWE
+- name:
+    en-US:
+    - Malaysia
+    fr-FR:
+    - Malaisie
+    es-ES:
+    - Malasia
+    de-DE:
+    - Malaysia
+    pt-PT:
+    - Malásia
+  id: MY
+  alpha_2: MY
+  alpha_3: MYS
+  group: as
+  numeric_code: '458'
+  capital: MY-KUALA-LUMPUR
+- name:
+    en-US:
+    - Maldives
+    fr-FR:
+    - Maldives
+    es-ES:
+    - Maldivas
+    de-DE:
+    - Malediven
+    pt-PT:
+    - República das Maldivas
+    - Maldivas
+  id: MV
+  alpha_2: MV
+  alpha_3: MDV
+  group: as
+  numeric_code: '462'
+  capital: MV-MALE
+- name:
+    en-US:
+    - Mali
+    fr-FR:
+    - Mali
+    es-ES:
+    - Malí
+    de-DE:
+    - Mali
+    pt-PT:
+    - República do Mali
+    - Mali
+  id: ML
+  alpha_2: ML
+  alpha_3: MLI
+  group: af
+  numeric_code: '466'
+  capital: ML-BAMAKO
+- name:
+    en-US:
+    - Malta
+    fr-FR:
+    - Malte
+    es-ES:
+    - Malta
+    de-DE:
+    - Malta
+    pt-PT:
+    - República de Malta
+    - Malta
+  id: MT
+  alpha_2: MT
+  alpha_3: MLT
+  group: eu
+  numeric_code: '470'
+  capital: MT-VALLETTA
+- name:
+    en-US:
+    - Marshall Islands
+    fr-FR:
+    - Îles  Marshall
+    es-ES:
+    - Islas Marshall
+    de-DE:
+    - Marshallinseln
+    pt-PT:
+    - República das Ilhas Marshall
+    - Ilhas Marshall
+  id: MH
+  alpha_2: MH
+  alpha_3: MHL
+  group: oc
+  numeric_code: '584'
+  capital: MH-MAJURO
+- name:
+    en-US:
+    - Martinique
+    fr-FR:
+    - Martinique
+    es-ES:
+    - Martinica
+    de-DE:
+    - Martinique
+    pt-PT:
+    - Martinica
+  id: MQ
+  alpha_2: MQ
+  alpha_3: MTQ
+  group: na
+  numeric_code: '474'
+  capital: MQ-FORT-DE-FRANCE
+- name:
+    en-US:
+    - Mauritania
+    fr-FR:
+    - Mauritanie
+    es-ES:
+    - Mauritania
+    de-DE:
+    - Mauretanien
+    pt-PT:
+    - República Islâmica da Mauritânia
+    - Mauritânia
+  id: MR
+  alpha_2: MR
+  alpha_3: MRT
+  group: af
+  numeric_code: '478'
+  capital: MR-NOUAKCHOTT
+- name:
+    en-US:
+    - Mauritius
+    fr-FR:
+    - Maurice
+    es-ES:
+    - Mauricio
+    de-DE:
+    - Mauritius
+    pt-PT:
+    - Maurícia
+    - República da Maurícia
+    - República de Maurício
+    - Maurício
+  id: MU
+  alpha_2: MU
+  alpha_3: MUS
+  group: af
+  numeric_code: '480'
+  capital: MU-PORT-LOUIS
+- name:
+    en-US:
+    - Mayotte
+    fr-FR:
+    - Mayotte
+    es-ES:
+    - Mayotte
+    de-DE:
+    - Mayotte
+    pt-PT:
+    - Departamento de Maiote
+    - Maiote
+  id: YT
+  alpha_2: YT
+  alpha_3: MYT
+  group: af
+  numeric_code: '175'
+  capital: YT-MAMOUDZOU
+- name:
+    en-US:
+    - Mexico
+    fr-FR:
+    - Mexique
+    es-ES:
+    - México
+    de-DE:
+    - Mexiko
+    pt-PT:
+    - Estados Unidos Mexicanos
+    - México
+  id: MX
+  alpha_2: MX
+  alpha_3: MEX
+  group: na
+  numeric_code: '484'
+  capital: MX-MEXICO
+- name:
+    en-US:
+    - Micronesia
+    - Federated States of Micronesia
+    fr-FR:
+    - Micronésie
+    es-ES:
+    - Micronesia
+    de-DE:
+    - Mikronesien
+    pt-PT:
+    - Micronésia
+    - Estados Federados da Micronésia
+  id: FM
+  alpha_2: FM
+  alpha_3: FSM
+  group: oc
+  numeric_code: '583'
+  capital: FM-PALIKIR
+- name:
+    en-US:
+    - Moldova
+    - Republic of Moldova
+    fr-FR:
+    - Moldavie
+    es-ES:
+    - Moldavia
+    - República de Moldavia
+    de-DE:
+    - Moldau
+    - Moldawien
+    pt-PT:
+    - República da Moldávia
+    - Moldávia
+    - Moldova
+  id: MD
+  alpha_2: MD
+  alpha_3: MDA
+  group: as
+  numeric_code: '498'
+  capital: MD-CHISINAU
+- name:
+    en-US:
+    - Monaco
+    fr-FR:
+    - Monaco
+    es-ES:
+    - Mónaco
+    de-DE:
+    - Monaco
+    pt-PT:
+    - Principado do Mónaco
+    - Mônaco
+  id: MC
+  alpha_2: MC
+  alpha_3: MCO
+  group: eu
+  numeric_code: '492'
+  capital: MC-MONACO
+- name:
+    en-US:
+    - Mongolia
+    fr-FR:
+    - Mongolie
+    es-ES:
+    - Mongolia
+    de-DE:
+    - Mongolei
+    pt-PT:
+    - Mongólia
+  id: MN
+  alpha_2: MN
+  alpha_3: MNG
+  group: as
+  numeric_code: '496'
+  capital: MN-ULAN-BATOR
+- name:
+    en-US:
+    - Montenegro
+    fr-FR:
+    - Monténégro
+    es-ES:
+    - Montenegro
+    de-DE:
+    - Montenegro
+    pt-PT:
+    - Montenegro
+  id: ME
+  alpha_2: ME
+  alpha_3: MNE
+  group: eu
+  numeric_code: '499'
+  capital: ME-PODGORICA
+- name:
+    en-US:
+    - Montserrat
+    fr-FR:
+    - Montserrat
+    es-ES:
+    - Montserrat
+    de-DE:
+    - Montserrat
+    pt-PT:
+    - Monserrate
+  id: MS
+  alpha_2: MS
+  alpha_3: MSR
+  group: na
+  numeric_code: '500'
+  capital: MS-PLYMOUTH
+- name:
+    en-US:
+    - Morocco
+    fr-FR:
+    - Maroc
+    es-ES:
+    - Marruecos
+    de-DE:
+    - Marokko
+    pt-PT:
+    - Reino de Marrocos
+    - Marrocos
+  id: MA
+  alpha_2: MA
+  alpha_3: MAR
+  group: af
+  numeric_code: '504'
+  capital: MA-RABAT
+- name:
+    en-US:
+    - Mozambique
+    fr-FR:
+    - Mozambique
+    es-ES:
+    - Mozambique
+    de-DE:
+    - Mosambik
+    pt-PT:
+    - República de Moçambique
+    - Moçambique
+  id: MZ
+  alpha_2: MZ
+  alpha_3: MOZ
+  group: af
+  numeric_code: '508'
+  capital: MZ-MAPUTO
+- name:
+    en-US:
+    - Myanmar
+    fr-FR:
+    - Myanmar
+    - Birmanie
+    es-ES:
+    - Birmania
+    - Myanmar
+    - República de la Unión de Myanmar
+    de-DE:
+    - Myanmar
+    - Burma
+    pt-PT:
+    - Mianmar
+    - Birmânia
+    - República da União de Myanmar
+  id: MM
+  alpha_2: MM
+  alpha_3: MMR
+  group: as
+  numeric_code: '104'
+  capital: MM-NAY-PYI-TAW
+- name:
+    en-US:
+    - Namibia
+    fr-FR:
+    - Namibie
+    es-ES:
+    - Namibia
+    de-DE:
+    - Namibia
+    pt-PT:
+    - República da Namíbia
+    - Namíbia
+  id: NA
+  alpha_2: NA
+  alpha_3: NAM
+  group: af
+  numeric_code: '516'
+  capital: NA-WINDHOEK
+- name:
+    en-US:
+    - Nauru
+    fr-FR:
+    - Nauru
+    es-ES:
+    - Nauru
+    de-DE:
+    - Nauru
+    pt-PT:
+    - República de Nauru
+    - Nauru
+  id: NR
+  alpha_2: NR
+  alpha_3: NRU
+  group: oc
+  numeric_code: '520'
+  capital: NR-YAREN
+- name:
+    en-US:
+    - Nepal
+    fr-FR:
+    - Népal
+    es-ES:
+    - Nepal
+    de-DE:
+    - Nepal
+    pt-PT:
+    - República Democrática Federal do Nepal
+    - Nepal
+  id: NP
+  alpha_2: NP
+  alpha_3: NPL
+  group: as
+  numeric_code: '524'
+  capital: NP-KATHMANDU
+- name:
+    en-US:
+    - Netherlands
+    fr-FR:
+    - Pays-Bas
+    es-ES:
+    - Países Bajos
+    de-DE:
+    - Niederlande
+    pt-PT:
+    - Países Baixos
+  id: NL
+  alpha_2: NL
+  alpha_3: NLD
+  group: eu
+  numeric_code: '528'
+  capital: NL-AMSTERDAM
+- name:
+    en-US:
+    - New Caledonia
+    fr-FR:
+    - Nouvelle-Calédonie
+    es-ES:
+    - Nueva Caledonia
+    de-DE:
+    - Neukaledonien
+    pt-PT:
+    - Nova Caledônia
+  id: NC
+  alpha_2: NC
+  alpha_3: NCL
+  group: oc
+  numeric_code: '540'
+  capital: NC-NOUMEA
+- name:
+    en-US:
+    - New Zealand
+    fr-FR:
+    - Nouvelle-Zélande
+    es-ES:
+    - Nueva Zelanda
+    de-DE:
+    - Neuseeland
+    pt-PT:
+    - Nova Zelândia
+  id: NZ
+  alpha_2: NZ
+  alpha_3: NZL
+  group: oc
+  numeric_code: '554'
+  capital: NZ-WELLINGTON
+- name:
+    en-US:
+    - Nicaragua
+    fr-FR:
+    - Nicaragua
+    es-ES:
+    - Nicaragua
+    de-DE:
+    - Nicaragua
+    pt-PT:
+    - República da Nicarágua
+    - Nicarágua
+  id: NI
+  alpha_2: NI
+  alpha_3: NIC
+  group: na
+  numeric_code: '558'
+  capital: NI-MANAGUA
+- name:
+    en-US:
+    - Niger
+    fr-FR:
+    - Niger
+    es-ES:
+    - Níger
+    de-DE:
+    - Niger
+    pt-PT:
+    - República do Níger
+    - Níger
+  id: NE
+  alpha_2: NE
+  alpha_3: NER
+  group: af
+  numeric_code: '562'
+  capital: NE-NIAMEY
+- name:
+    en-US:
+    - Nigeria
+    fr-FR:
+    - Nigéria
+    es-ES:
+    - Nigeria
+    de-DE:
+    - Nigeria
+    pt-PT:
+    - República Federal da Nigéria
+    - Nigéria
+  id: NG
+  alpha_2: NG
+  alpha_3: NGA
+  group: af
+  numeric_code: '566'
+  capital: NG-ABUJA
+- name:
+    en-US:
+    - Niue
+    fr-FR:
+    - Niue
+    es-ES:
+    - Niue
+    de-DE:
+    - Niue
+    pt-PT:
+    - Niue
+  id: NU
+  alpha_2: NU
+  alpha_3: NIU
+  group: oc
+  numeric_code: '570'
+  capital: NU-ALOFI
+- name:
+    en-US:
+    - Norfolk Island
+    fr-FR:
+    - Île Norfolk
+    es-ES:
+    - Isla Norfolk
+    de-DE:
+    - Norfolkinsel
+    pt-PT:
+    - Território da Ilha Norfolk
+    - Ilha Norfolque
+    - Ilha Norfolk
+  id: NF
+  alpha_2: NF
+  alpha_3: NFK
+  group: oc
+  numeric_code: '574'
+  capital: NF-KINGSTON
+- name:
+    en-US:
+    - North Macedonia
+    fr-FR:
+    - Macédoine du Nord
+    es-ES:
+    - Macedonia del Norte
+    de-DE:
+    - Nordmazedonien
+    pt-PT:
+    - Macedônia do Norte
+  id: MK
+  alpha_2: MK
+  alpha_3: MKD
+  group: eu
+  numeric_code: '807'
+  capital: MK-SKOPJE
+- name:
+    en-US:
+    - Northern Mariana Islands
+    fr-FR:
+    - Îles Mariannes du Nord
+    es-ES:
+    - Islas Marianas del Norte
+    de-DE:
+    - Nördliche Marianen
+    pt-PT:
+    - Ilhas Marianas do Norte
+    - Comunidade das Ilhas Marianas do Norte
+    - Ilhas Marianas Setentrionais
+  id: MP
+  alpha_2: MP
+  alpha_3: MNP
+  group: oc
+  numeric_code: '580'
+  capital: MP-SAIPAN
+- name:
+    en-US:
+    - Norway
+    fr-FR:
+    - Norvège
+    es-ES:
+    - Noruega
+    de-DE:
+    - Norwegen
+    pt-PT:
+    - Reino da Noruega
+    - Noruega
+  id: 'NO'
+  alpha_2: 'NO'
+  alpha_3: NOR
+  group: eu
+  numeric_code: '578'
+  capital: NO-OSLO
+- name:
+    en-US:
+    - Oman
+    fr-FR:
+    - Oman
+    es-ES:
+    - Omán
+    de-DE:
+    - Oman
+    pt-PT:
+    - Omã
+    - Sultanato de Omã
+  id: OM
+  alpha_2: OM
+  alpha_3: OMN
+  group: as
+  numeric_code: '512'
+  capital: OM-MUSCAT
+- name:
+    en-US:
+    - Pakistan
+    fr-FR:
+    - Pakistan
+    es-ES:
+    - Pakistán
+    de-DE:
+    - Pakistan
+    pt-PT:
+    - República Islâmica do Paquistão
+    - Paquistão
+  id: PK
+  alpha_2: PK
+  alpha_3: PAK
+  group: as
+  numeric_code: '586'
+  capital: PK-ISLAMABAD
+- name:
+    en-US:
+    - Palau
+    fr-FR:
+    - Palau
+    es-ES:
+    - Palaos
+    de-DE:
+    - Palau
+    pt-PT:
+    - República de Palau
+    - Palau
+  id: PW
+  alpha_2: PW
+  alpha_3: PLW
+  group: oc
+  numeric_code: '585'
+  capital: PW-MELEKEOK
+- name:
+    en-US:
+    - Palestine
+    - State of Palestine
+    fr-FR:
+    - Palestine
+    es-ES:
+    - Palestina
+    de-DE:
+    - Palästina
+    pt-PT:
+    - Palestina
+  id: PS
+  alpha_2: PS
+  alpha_3: PSE
+  group: as
+  numeric_code: '275'
+  capital: PS-EAST-JERUSALEM
+- name:
+    en-US:
+    - Panama
+    fr-FR:
+    - Panama
+    es-ES:
+    - Panamá
+    de-DE:
+    - Panama
+    pt-PT:
+    - República do Panamá
+    - Panamá
+  id: PA
+  alpha_2: PA
+  alpha_3: PAN
+  group: na
+  numeric_code: '591'
+  capital: PA-PANAMA-CITY
+- name:
+    en-US:
+    - Papua New Guinea
+    fr-FR:
+    - Papouasie-Nouvelle-Guinée
+    es-ES:
+    - Papúa Nueva Guinea
+    de-DE:
+    - Papua-Neuguinea
+    pt-PT:
+    - Papuásia-Nova Guiné
+    - Estado Independente da Papua-Nova Guiné
+    - Papua-Nova Guiné
+  id: PG
+  alpha_2: PG
+  alpha_3: PNG
+  group: oc
+  numeric_code: '598'
+  capital: PG-PORT-MORESBY
+- name:
+    en-US:
+    - Paraguay
+    fr-FR:
+    - Paraguay
+    es-ES:
+    - Paraguay
+    de-DE:
+    - Paraguay
+    pt-PT:
+    - República do Paraguai
+    - Paraguai
+  id: PY
+  alpha_2: PY
+  alpha_3: PRY
+  group: sa
+  numeric_code: '600'
+  capital: PY-ASUNCION
+- name:
+    en-US:
+    - Peru
+    fr-FR:
+    - Pérou
+    es-ES:
+    - Perú
+    de-DE:
+    - Peru
+    pt-PT:
+    - República do Peru
+    - Peru
+  id: PE
+  alpha_2: PE
+  alpha_3: PER
+  group: sa
+  numeric_code: '604'
+  capital: PE-LIMA
+- name:
+    en-US:
+    - Philippines
+    fr-FR:
+    - Philippines
+    es-ES:
+    - Filipinas
+    de-DE:
+    - Philippinen
+    pt-PT:
+    - República das Filipinas
+    - Filipinas
+  id: PH
+  alpha_2: PH
+  alpha_3: PHL
+  group: as
+  numeric_code: '608'
+  capital: PH-MANILA
+- name:
+    en-US:
+    - Pitcairn
+    fr-FR:
+    - Pitcairn
+    es-ES:
+    - Islas Pitcairn
+    de-DE:
+    - Pitcairninseln
+    pt-PT:
+    - Ilhas Picárnia
+    - Ilhas Pitcairn, Henderson, Ducie e Oeno
+    - Grupo de Ilhas Pitcairn
+    - Ilhas Pitcairn
+  id: PN
+  alpha_2: PN
+  alpha_3: PCN
+  group: oc
+  numeric_code: '612'
+  capital: PN-ADAMSTOWN
+- name:
+    en-US:
+    - Poland
+    fr-FR:
+    - Pologne
+    es-ES:
+    - Polonia
+    de-DE:
+    - Polen
+    pt-PT:
+    - República da Polónia
+    - Polônia
+  id: PL
+  alpha_2: PL
+  alpha_3: POL
+  group: eu
+  numeric_code: '616'
+  capital: PL-WARSAW
+- name:
+    en-US:
+    - Portugal
+    fr-FR:
+    - Portugal
+    es-ES:
+    - Portugal
+    de-DE:
+    - Portugal
+    pt-PT:
+    - República Portuguesa
+    - Portugal
+  id: PT
+  alpha_2: PT
+  alpha_3: PRT
+  group: eu
+  numeric_code: '620'
+  capital: PT-LISBON
+- name:
+    en-US:
+    - Puerto Rico
+    fr-FR:
+    - Porto Rico
+    - Puerto Rico
+    es-ES:
+    - Puerto Rico
+    de-DE:
+    - Puerto Rico
+    pt-PT:
+    - Estado Livre Associado de Porto Rico
+    - Porto Rico
+  id: PR
+  alpha_2: PR
+  alpha_3: PRI
+  group: na
+  numeric_code: '630'
+  capital: PR-SAN-JUAN
+- name:
+    en-US:
+    - Qatar
+    fr-FR:
+    - Qatar
+    es-ES:
+    - Catar
+    de-DE:
+    - Katar
+    pt-PT:
+    - Estado do Catar
+    - Catar
+    - Qatar
+  id: QA
+  alpha_2: QA
+  alpha_3: QAT
+  group: as
+  numeric_code: '634'
+  capital: QA-DOHA
+- name:
+    en-US:
+    - Réunion
+    fr-FR:
+    - Réunion
+    es-ES:
+    - Reunión
+    de-DE:
+    - Réunion
+    pt-PT:
+    - Reunião
+  id: RE
+  alpha_2: RE
+  alpha_3: REU
+  group: af
+  numeric_code: '638'
+  capital: RE-SAINT-DENIS
+- name:
+    en-US:
+    - Romania
+    fr-FR:
+    - Roumanie
+    es-ES:
+    - Rumania
+    de-DE:
+    - Rumänien
+    pt-PT:
+    - Romênia
+  id: RO
+  alpha_2: RO
+  alpha_3: ROU
+  group: eu
+  numeric_code: '642'
+  capital: RO-BUCHAREST
+- name:
+    en-US:
+    - Russia
+    - Russian Federation
+    fr-FR:
+    - Russie
+    es-ES:
+    - Rusia
+    de-DE:
+    - Russland
+    pt-PT:
+    - Federação da Rússia
+    - Rússia
+  id: RU
+  alpha_2: RU
+  alpha_3: RUS
+  group: as
+  numeric_code: '643'
+  capital: RU-MOSCOW
+- name:
+    en-US:
+    - Rwanda
+    fr-FR:
+    - Rwanda
+    es-ES:
+    - Ruanda
+    de-DE:
+    - Ruanda
+    pt-PT:
+    - Ruanda
+    - República de Ruanda
+    - República do Ruanda
+  id: RW
+  alpha_2: RW
+  alpha_3: RWA
+  group: af
+  numeric_code: '646'
+  capital: RW-KIGALI
+- name:
+    en-US:
+    - Saint Barthélemy
+    fr-FR:
+    - Saint-Barthélémy
+    es-ES:
+    - San Bartolomé
+    de-DE:
+    - Saint-Barthélemy
+    pt-PT:
+    - Coletividade de São Bartolomeu
+    - São Bartolomeu
+  id: BL
+  alpha_2: BL
+  alpha_3: BLM
+  group: na
+  numeric_code: '652'
+  capital: BL-GUSTAVIA
+- name:
+    en-US:
+    - Saint Helena, Ascension and Tristan da Cunha
+    - Saint Helena
+    - Ascension
+    - Tristan da Cunha
+    fr-FR:
+    - Sainte-Hélène, Ascension et Tristan da Cunha
+    - Sainte-Hélène
+    - Ascension
+    - Tristan da Cunha
+    es-ES:
+    - Santa Elena, Ascensión y Tristán de Acuña
+    - Santa Elena
+    - Ascensión
+    - Tristán de Acuña
+    de-DE:
+    - Sankt Helena, Ascension und Tristan da Cunha
+    - St. Helena, Ascension und Tristan da Cunha
+    - Sankt Helena
+    - St. Helena
+    - Ascension
+    - Tristan da Cunha
+    pt-PT:
+    - Santa Helena, Ascensão e Tristão da Cunha
+    - Santa Helena
+    - Ascensão
+    - Tristão da Cunha
+  id: SH
+  alpha_2: SH
+  alpha_3: SHN
+  group: af
+  numeric_code: '654'
+  capital: SH-JAMESTOWN
+- name:
+    en-US:
+    - Saint Kitts and Nevis
+    fr-FR:
+    - Saint-Kitts-et-Nevis
+    - Saint-Christophe-et-Nevis
+    - Saint-Kitts-et-Nevis
+    - Fédération de Saint-Christophe-et-Niévès
+    es-ES:
+    - San Cristóbal y Nieves
+    de-DE:
+    - Saint Kitts und Nevis
+    - Sankt Christopher und Nevis
+    pt-PT:
+    - São Cristóvão e Névis
+    - Federação de São Cristóvão e Neves
+    - São Cristóvão e Neves
+  id: KN
+  alpha_2: KN
+  alpha_3: KNA
+  group: na
+  numeric_code: '659'
+  capital: KN-BASSETERRE
+- name:
+    en-US:
+    - Saint Lucia
+    fr-FR:
+    - Sainte-Lucie
+    es-ES:
+    - Santa Lucía
+    de-DE:
+    - Saint Lucia
+    pt-PT:
+    - Santa Lúcia
+  id: LC
+  alpha_2: LC
+  alpha_3: LCA
+  group: na
+  numeric_code: '662'
+  capital: LC-CASTRIES
+- name:
+    en-US:
+    - Saint Martin
+    fr-FR:
+    - Saint Martin - Partie française
+    - Saint Martin - France
+    es-ES:
+    - San Martín
+    de-DE:
+    - Saint-Martin
+    pt-PT:
+    - Coletividade de São Martinho
+    - São Martinho
+  id: MF
+  alpha_2: MF
+  alpha_3: MAF
+  group: na
+  numeric_code: '663'
+  capital: MF-MARIGOT
+- name:
+    en-US:
+    - Saint Pierre and Miquelon
+    fr-FR:
+    - Saint-Pierre-et-Miquelon
+    es-ES:
+    - San Pedro y Miquelón
+    de-DE:
+    - Saint-Pierre und Miquelon
+    pt-PT:
+    - Saint-Pierre e Miquelon
+    - São Pedro e Miquelão
+    - Coletividade de Ultramar de São Pedro e Miquelão
+  id: PM
+  alpha_2: PM
+  alpha_3: SPM
+  group: na
+  numeric_code: '666'
+  capital: PM-SAINT-PIERRE
+- name:
+    en-US:
+    - Saint Vincent and the Grenadines
+    fr-FR:
+    - Saint-Vincent-et-les Grenadines
+    es-ES:
+    - San Vicente y las Granadinas
+    de-DE:
+    - San Vincent und die Grenadinen
+    pt-PT:
+    - São Vicente e Granadinas
+  id: VC
+  alpha_2: VC
+  alpha_3: VCT
+  group: na
+  numeric_code: '670'
+  capital: VC-KINGSTOWN
+- name:
+    en-US:
+    - Samoa
+    fr-FR:
+    - Samoa
+    es-ES:
+    - Samoa
+    de-DE:
+    - Samoa
+    pt-PT:
+    - Samoa
+    - Estado Independente de Samoa
+  id: WS
+  alpha_2: WS
+  alpha_3: WSM
+  group: oc
+  numeric_code: '882'
+  capital: WS-APIA
+- name:
+    en-US:
+    - San Marino
+    fr-FR:
+    - Saint-Marin
+    es-ES:
+    - San Marino
+    de-DE:
+    - San Marino
+    pt-PT:
+    - São Marino
+    - República de San Marino
+    - São Marinho
+    - Sereníssima República de San Marino
+    - São Marino
+    - República de San Marino
+    - São Marinho
+    - Sereníssima República de San Marino
+  id: SM
+  alpha_2: SM
+  alpha_3: SMR
+  group: eu
+  numeric_code: '674'
+  capital: SM-SAN-MARINO
+- name:
+    en-US:
+    - Sao Tome and Principe
+    fr-FR:
+    - Sao Tomé-et-Principe
+    es-ES:
+    - Santo Tomé y Príncipe
+    de-DE:
+    - São Tomé und Príncipe
+    pt-PT:
+    - São Tomé e Príncipe
+    - República Democrática de São Tomé e Príncipe
+  id: ST
+  alpha_2: ST
+  alpha_3: STP
+  group: af
+  numeric_code: '678'
+  capital: ST-SAO-TOME
+- name:
+    en-US:
+    - Saudi Arabia
+    fr-FR:
+    - Arabie Saoudite
+    es-ES:
+    - Arabia Saudita
+    de-DE:
+    - Saudi-Arabien
+    pt-PT:
+    - Reino da Arábia Saudita
+    - Arábia Saudita
+  id: SA
+  alpha_2: SA
+  alpha_3: SAU
+  group: as
+  numeric_code: '682'
+  capital: SA-RIYADH
+- name:
+    en-US:
+    - Senegal
+    fr-FR:
+    - Sénégal
+    es-ES:
+    - Senegal
+    de-DE:
+    - Senegal
+    pt-PT:
+    - República do Senegal
+    - Senegal
+  id: SN
+  alpha_2: SN
+  alpha_3: SEN
+  group: af
+  numeric_code: '686'
+  capital: SN-DAKAR
+- name:
+    en-US:
+    - Serbia
+    fr-FR:
+    - Serbie
+    es-ES:
+    - Serbia
+    de-DE:
+    - Serbien
+    pt-PT:
+    - República da Sérvia
+    - Sérvia
+  id: RS
+  alpha_2: RS
+  alpha_3: SRB
+  group: eu
+  numeric_code: '688'
+  capital: RS-BELGRADE
+- name:
+    en-US:
+    - Seychelles
+    fr-FR:
+    - Seychelles
+    es-ES:
+    - Seychelles
+    de-DE:
+    - Seychellen
+    pt-PT:
+    - Seychelles
+    - República das Seicheles
+    - República das Seychelles
+    - Seicheles
+  id: SC
+  alpha_2: SC
+  alpha_3: SYC
+  group: af
+  numeric_code: '690'
+  capital: SC-VICTORIA
+- name:
+    en-US:
+    - Sierra Leone
+    fr-FR:
+    - Sierra Leone
+    es-ES:
+    - Sierra Leona
+    de-DE:
+    - Sierra Leone
+    pt-PT:
+    - República da Serra Leoa
+    - Serra Leoa
+  id: SL
+  alpha_2: SL
+  alpha_3: SLE
+  group: af
+  numeric_code: '694'
+  capital: SL-FREETOWN
+- name:
+    en-US:
+    - Singapore
+    fr-FR:
+    - Singapour
+    es-ES:
+    - Singapur
+    de-DE:
+    - Singapur
+    pt-PT:
+    - Singapura
+    - República de Singapura
+  id: SG
+  alpha_2: SG
+  alpha_3: SGP
+  group: as
+  numeric_code: '702'
+  capital: SG-SINGAPUR
+- name:
+    en-US:
+    - Sint Maarten
+    fr-FR:
+    - Saint Martin - Pays-Bas
+    es-ES:
+    - San Martín
+    de-DE:
+    - Sint Maarten
+    pt-PT:
+    - São Martinho
+  id: SX
+  alpha_2: SX
+  alpha_3: SXM
+  group: na
+  numeric_code: '534'
+  capital: SX-PHILIPSBURG
+- name:
+    en-US:
+    - Slovakia
+    fr-FR:
+    - Slovaquie
+    es-ES:
+    - Eslovaquia
+    de-DE:
+    - Slowakei
+    pt-PT:
+    - República Eslovaca
+    - Eslováquia
+  id: SK
+  alpha_2: SK
+  alpha_3: SVK
+  group: eu
+  numeric_code: '703'
+  capital: SK-BRATISLAVA
+- name:
+    en-US:
+    - Slovenia
+    fr-FR:
+    - Slovénie
+    es-ES:
+    - Eslovenia
+    de-DE:
+    - Slowenien
+    pt-PT:
+    - República da Eslovénia
+    - Eslovênia
+  id: SI
+  alpha_2: SI
+  alpha_3: SVN
+  group: eu
+  numeric_code: '705'
+  capital: SI-LJUBLJANA
+- name:
+    en-US:
+    - Solomon Islands
+    fr-FR:
+    - Îles Salomon
+    es-ES:
+    - Islas Salomón
+    de-DE:
+    - Salomonen
+    pt-PT:
+    - Ilhas Salomão
+  id: SB
+  alpha_2: SB
+  alpha_3: SLB
+  group: oc
+  numeric_code: '090'
+  capital: SB-HONIARA
+- name:
+    en-US:
+    - Somalia
+    fr-FR:
+    - Somalie
+    es-ES:
+    - Somalia
+    de-DE:
+    - Somalia
+    pt-PT:
+    - República Federal da Somália
+    - Somália
+  id: SO
+  alpha_2: SO
+  alpha_3: SOM
+  group: af
+  numeric_code: '706'
+  capital: SO-MOGADISHU
+- name:
+    en-US:
+    - South Africa
+    fr-FR:
+    - Afrique du Sud
+    es-ES:
+    - Sudáfrica
+    de-DE:
+    - Südafrika
+    pt-PT:
+    - República da África do Sul
+    - África do Sul
+  id: ZA
+  alpha_2: ZA
+  alpha_3: ZAF
+  group: af
+  numeric_code: '710'
+  capital: ZA-PRETORIA
+- name:
+    en-US:
+    - South Georgia and the South Sandwich Islands
+    fr-FR:
+    - Géorgie du Sud et les îles Sandwich du Sud
+    - Géorgie du Sud
+    - Îles Sandwich du Sud
+    es-ES:
+    - Islas Georgias del Sur y Sandwich del Sur
+    de-DE:
+    - Südgeorgien und die Südlichen Sandwichinseln
+    pt-PT:
+    - Ilhas Geórgia do Sul e Sandwich do Sul
+    - Ilhas Geórgias do Sul e Sandwich do Sul
+    - Ilhas Geórgia do Sul e Sanduíche do Sul
+  id: GS
+  alpha_2: GS
+  alpha_3: SGS
+  group: an
+  numeric_code: '239'
+  capital: GS-KING-EDWARD-POINT
+- name:
+    en-US:
+    - South Sudan
+    fr-FR:
+    - Soudan du sud
+    es-ES:
+    - Sudán del Sur
+    de-DE:
+    - Südsudan
+    pt-PT:
+    - República do Sudão do Sul
+    - Sudão do Sul
+    - Sudão Meridional
+  id: SS
+  alpha_2: SS
+  alpha_3: SSD
+  group: af
+  numeric_code: '728'
+  capital: SS-JUBA
+- name:
+    en-US:
+    - Spain
+    fr-FR:
+    - Espagne
+    es-ES:
+    - España
+    de-DE:
+    - Spanien
+    pt-PT:
+    - Reino de Espanha
+    - Espanha
+  id: ES
+  alpha_2: ES
+  alpha_3: ESP
+  group: eu
+  numeric_code: '724'
+  capital: ES-MADRID
+- name:
+    en-US:
+    - Sri Lanka
+    fr-FR:
+    - Sri Lanka
+    es-ES:
+    - Sri Lanka
+    de-DE:
+    - Sri Lanka
+    pt-PT:
+    - Sri Lanka
+    - República Democrática Socialista do Sri Lanka
+    - Sri Lanca
+    - Seri Lanca
+  id: LK
+  alpha_2: LK
+  alpha_3: LKA
+  group: as
+  numeric_code: '144'
+  capital: LK-SRI-JAYAWARDENAPURA-KOTTE
+- name:
+    en-US:
+    - Sudan
+    fr-FR:
+    - Soudan
+    es-ES:
+    - Sudán
+    de-DE:
+    - Sudan
+    pt-PT:
+    - República do Sudão
+    - Sudão
+  id: SD
+  alpha_2: SD
+  alpha_3: SDN
+  group: af
+  numeric_code: '729'
+  capital: SD-KHARTOUM
+- name:
+    en-US:
+    - Suriname
+    fr-FR:
+    - Suriname
+    es-ES:
+    - Surinam
+    de-DE:
+    - Suriname
+    pt-PT:
+    - República do Suriname
+    - Suriname
+  id: SR
+  alpha_2: SR
+  alpha_3: SUR
+  group: sa
+  numeric_code: '740'
+  capital: SR-PARAMARIBO
+- name:
+    en-US:
+    - Svalbard and Jan Mayen
+    fr-FR:
+    - Svalbard and Jan Mayen
+    es-ES:
+    - Svalbard y Jan Mayen
+    de-DE:
+    - Spitzbergen und Jan Mayen
+    pt-PT:
+    - Esvalbarde e Jan Mayen
+  id: SJ
+  alpha_2: SJ
+  alpha_3: SJM
+  group: eu
+  numeric_code: '744'
+  capital: SJ-LONGYEARBYEN
+- name:
+    en-US:
+    - Sweden
+    fr-FR:
+    - Suède
+    es-ES:
+    - Suecia
+    de-DE:
+    - Schweden
+    pt-PT:
+    - Reino da Suécia
+    - Suécia
+  id: SE
+  alpha_2: SE
+  alpha_3: SWE
+  group: eu
+  numeric_code: '752'
+  capital: SE-STOCKHOLM
+- name:
+    en-US:
+    - Switzerland
+    fr-FR:
+    - Suisse
+    es-ES:
+    - Suiza
+    de-DE:
+    - Schweiz
+    pt-PT:
+    - Confederação Suíça
+    - Suíça
+  id: CH
+  alpha_2: CH
+  alpha_3: CHE
+  group: eu
+  numeric_code: '756'
+  capital: CH-BERNE
+- name:
+    en-US:
+    - Syria
+    - Syrian Arab Republic
+    fr-FR:
+    - Syrie
+    es-ES:
+    - Siria
+    - República Árabe Siria
+    de-DE:
+    - Syrien
+    - Syrische Arabische Republik
+    pt-PT:
+    - Síria
+    - República Árabe Síria
+  id: SY
+  alpha_2: SY
+  alpha_3: SYR
+  group: as
+  numeric_code: '760'
+  capital: SY-DAMASCUS
+- name:
+    en-US:
+    - Taiwan
+    - Taiwan Province of China
+    fr-FR:
+    - Taiwan
+    es-ES:
+    - Taiwán
+    de-DE:
+    - Taiwan
+    pt-PT:
+    - República da China
+    - Taiwan
+  id: TW
+  alpha_2: TW
+  alpha_3: TWN
+  group: as
+  numeric_code: '158'
+  capital: TW-TAIPEI
+- name:
+    en-US:
+    - Tajikistan
+    fr-FR:
+    - Tadjikistan
+    es-ES:
+    - Tayikistán
+    de-DE:
+    - Tadschikistan
+    pt-PT:
+    - República do Tajiquistão
+    - Tajiquistão
+    - Tadjiquistão
+  id: TJ
+  alpha_2: TJ
+  alpha_3: TJK
+  group: as
+  numeric_code: '762'
+  capital: TJ-DUSHANBE
+- name:
+    en-US:
+    - Tanzania
+    - United Republic of Tanzania
+    fr-FR:
+    - Tanzanie
+    es-ES:
+    - Tanzania
+    de-DE:
+    - Tansania
+    - Vereinigte Republik Tansania
+    pt-PT:
+    - República Unida da Tanzânia
+    - Tanzânia
+  id: TZ
+  alpha_2: TZ
+  alpha_3: TZA
+  group: af
+  numeric_code: '834'
+  capital: TZ-DODOMA
+- name:
+    en-US:
+    - Thailand
+    fr-FR:
+    - Thaïland
+    es-ES:
+    - Tailandia
+    de-DE:
+    - Thailand
+    pt-PT:
+    - Reino da Tailândia
+    - Tailândia
+  id: TH
+  alpha_2: TH
+  alpha_3: THA
+  group: as
+  numeric_code: '764'
+  capital: TH-BANGKOK
+- name:
+    en-US:
+    - Timor-Leste
+    fr-FR:
+    - Timor-Leste
+    es-ES:
+    - Timor Oriental
+    de-DE:
+    - Osttimor
+    - Demokratische Republik Timor-Leste
+    pt-PT:
+    - República Democrática de Timor-Leste
+    - Timor-Leste
+  id: TL
+  alpha_2: TL
+  alpha_3: TLS
+  group: as
+  numeric_code: '626'
+  capital: TL-DILI
+- name:
+    en-US:
+    - Togo
+    fr-FR:
+    - Togo
+    es-ES:
+    - Togo
+    de-DE:
+    - Togo
+    pt-PT:
+    - Togo
+    - República Togolesa
+  id: TG
+  alpha_2: TG
+  alpha_3: TGO
+  group: af
+  numeric_code: '768'
+  capital: TG-LOME
+- name:
+    en-US:
+    - Tokelau
+    fr-FR:
+    - Tokelau
+    es-ES:
+    - Tokelau
+    de-DE:
+    - Tokelau
+    pt-PT:
+    - Toquelau
+  id: TK
+  alpha_2: TK
+  alpha_3: TKL
+  group: oc
+  numeric_code: '772'
+  capital: TK-ATAFU
+- name:
+    en-US:
+    - Tonga
+    fr-FR:
+    - Tonga
+    es-ES:
+    - Tonga
+    de-DE:
+    - Tonga
+    pt-PT:
+    - Reino de Tonga
+    - Tonga
+  id: TO
+  alpha_2: TO
+  alpha_3: TON
+  group: oc
+  numeric_code: '776'
+  capital: TO-NUKU-ALOFA
+- name:
+    en-US:
+    - Trinidad and Tobago
+    fr-FR:
+    - Trinité-et-Tobago
+    es-ES:
+    - Trinidad y Tobago
+    de-DE:
+    - Trinidad und Tobago
+    pt-PT:
+    - República de Trindade e Tobago
+    - Trindade e Tobago
+  id: TT
+  alpha_2: TT
+  alpha_3: TTO
+  group: na
+  numeric_code: '780'
+  capital: TT-PORT-OF-SPAIN
+- name:
+    en-US:
+    - Tunisia
+    fr-FR:
+    - Tunisie
+    es-ES:
+    - Túnez
+    de-DE:
+    - Tunesien
+    pt-PT:
+    - República Tunisina
+    - Tunísia
+  id: TN
+  alpha_2: TN
+  alpha_3: TUN
+  group: af
+  numeric_code: '788'
+  capital: TN-TUNIS
+- name:
+    en-US:
+    - Turkey
+    fr-FR:
+    - Turquie
+    es-ES:
+    - Turquía
+    de-DE:
+    - Türkei
+    pt-PT:
+    - República da Turquia
+    - Turquia
+  id: TR
+  alpha_2: TR
+  alpha_3: TUR
+  group: as
+  numeric_code: '792'
+  capital: TR-ANKARA
+- name:
+    en-US:
+    - Turkmenistan
+    fr-FR:
+    - Turkménistan
+    es-ES:
+    - Turkmenistán
+    de-DE:
+    - Turkmenistan
+    pt-PT:
+    - Turcomenistão
+    - República do Turquemenistão
+    - República do Turcomenistão
+    - Turquemenistão
+  id: TM
+  alpha_2: TM
+  alpha_3: TKM
+  group: as
+  numeric_code: '795'
+  capital: TM-ASHGABAT
+- name:
+    en-US:
+    - Turks and Caicos Islands
+    fr-FR:
+    - Îles Turques-et-Caïques
+    es-ES:
+    - Islas Turcas y Caicos
+    de-DE:
+    - Turks- und Caicosinseln
+    pt-PT:
+    - Turcas e Caicos
+  id: TC
+  alpha_2: TC
+  alpha_3: TCA
+  group: na
+  numeric_code: '796'
+  capital: TC-COCKBURN-TOWN
+- name:
+    en-US:
+    - Tuvalu
+    fr-FR:
+    - Tuvalu
+    es-ES:
+    - Tuvalu
+    de-DE:
+    - Tuvalu
+    pt-PT:
+    - Tuvalu
+  id: TV
+  alpha_2: TV
+  alpha_3: TUV
+  group: oc
+  numeric_code: '798'
+  capital: TV-FUNAFUTI
+- name:
+    en-US:
+    - Uganda
+    fr-FR:
+    - Ouganda
+    es-ES:
+    - Uganda
+    de-DE:
+    - Uganda
+    pt-PT:
+    - República de Uganda
+    - Uganda
+  id: UG
+  alpha_2: UG
+  alpha_3: UGA
+  group: af
+  numeric_code: '800'
+  capital: UG-KAMPALA
+- name:
+    en-US:
+    - Ukraine
+    fr-FR:
+    - Ukraine
+    es-ES:
+    - Ucrania
+    de-DE:
+    - Ukraine
+    pt-PT:
+    - Ucrânia
+  id: UA
+  alpha_2: UA
+  alpha_3: UKR
+  group: eu
+  numeric_code: '804'
+  capital: UA-KYIV
+- name:
+    en-US:
+    - United Arab Emirates
+    fr-FR:
+    - Émirats Arabes Unis
+    es-ES:
+    - Emiratos Árabes Unidos
+    de-DE:
+    - Vereinigte Arabische Emirate
+    pt-PT:
+    - Emirados Árabes Unidos
+  id: AE
+  alpha_2: AE
+  alpha_3: ARE
+  group: as
+  numeric_code: '784'
+  capital: AE-ABU-DHABI
+- name:
+    en-US:
+    - United Kingdom
+    - United Kingdom of Great Britain and Northern Ireland
+    fr-FR:
+    - Royaume-Unis
+    - Royaume-Unis de Grande Bretagne et d'Irlande du Nord
+    es-ES:
+    - Reino Unido
+    - Reino Unido de Gran Bretaña e Irlanda del Norte
+    de-DE:
+    - Vereinigtes Königreich
+    - Vereinigtes Königreich von Großbritannien und Irland
+    pt-PT:
+    - Reino Unido da Grã-Bretanha e Irlanda do Norte
+    - Reino Unido
+  id: GB
+  alpha_2: GB
+  alpha_3: GBR
+  group: eu
+  numeric_code: '826'
+  capital: GB-LONDON
+- name:
+    en-US:
+    - United States of America
+    - USA
+    - United-States
+    fr-FR:
+    - États-Unis d'Amérique
+    - USA
+    - États-Unis
+    es-ES:
+    - Estados Unidos de América
+    - Estados Unidos
+    de-DE:
+    - Vereinigte Staaten von Amerika
+    - Vereinigte Staaten
+    pt-PT:
+    - Estados Unidos da América
+    - Estados Unidos
+  id: US
+  alpha_2: US
+  alpha_3: USA
+  group: na
+  numeric_code: '840'
+  capital: US-WASHINGTON-DC
+- name:
+    en-US:
+    - United States Minor Outlying Islands
+    fr-FR:
+    - Îles mineures éloignées des États-Unis
+    es-ES:
+    - Islas Ultramarinas Menores de los Estados Unidos
+    de-DE:
+    - United States Minor Outlying Islands
+    pt-PT:
+    - Ilhas Menores Distantes dos Estados Unidos
+    - Ilhas Menores Afastadas dos Estados Unidos
+  id: UM
+  alpha_2: UM
+  alpha_3: UMI
+  group: oc
+  numeric_code: '581'
+  capital: UM-JOHNSTON-ATOLL
+- name:
+    en-US:
+    - Uruguay
+    fr-FR:
+    - Uruguay
+    es-ES:
+    - Uruguay
+    de-DE:
+    - Uruguay
+    pt-PT:
+    - República Oriental do Uruguai
+    - Uruguai
+  id: UY
+  alpha_2: UY
+  alpha_3: URY
+  group: sa
+  numeric_code: '858'
+  capital: UY-MONTEVIDEO
+- name:
+    en-US:
+    - Uzbekistan
+    fr-FR:
+    - Ouzbékistan
+    es-ES:
+    - Uzbekistán
+    de-DE:
+    - Usbekistan
+    pt-PT:
+    - República do Uzbequistão
+    - Uzbequistão
+    - Usbequistão
+  id: UZ
+  alpha_2: UZ
+  alpha_3: UZB
+  group: as
+  numeric_code: '860'
+  capital: UZ-TASHKENT
+- name:
+    en-US:
+    - Vanuatu
+    fr-FR:
+    - Vanuatu
+    es-ES:
+    - Vanuatu
+    de-DE:
+    - Vanuatu
+    pt-PT:
+    - Vanuatu
+    - República de Vanuatu
+  id: VU
+  alpha_2: VU
+  alpha_3: VUT
+  group: oc
+  numeric_code: '548'
+  capital: VU-PORT-VILA
+- name:
+    en-US:
+    - Venezuela
+    - Bolivarian Republic of Venezuela
+    fr-FR:
+    - Vénézuéla
+    - Venezuela
+    es-ES:
+    - Venezuela
+    - República Bolivariana de Venezuela
+    de-DE:
+    - Venezuela
+    - Bolivarische Republik Venezuela
+    pt-PT:
+    - República Bolivariana da Venezuela
+    - Venezuela
+  id: VE
+  alpha_2: VE
+  alpha_3: VEN
+  group: sa
+  numeric_code: '862'
+  capital: VE-CARACAS
+- name:
+    en-US:
+    - Vietnam
+    - Viet Nam
+    fr-FR:
+    - Viêt Nam
+    - Vietnam
+    es-ES:
+    - Vietnam
+    - República Socialista de Vietnam
+    de-DE:
+    - Vietnam
+    - Sozialistische Republik Vietnam
+    pt-PT:
+    - Vietname
+    - República Socialista do Vietname
+    - República Socialista do Vietnã
+    - Vietnã
+  id: VN
+  alpha_2: VN
+  alpha_3: VNM
+  group: as
+  numeric_code: '704'
+  capital: VN-HANOI
+- name:
+    en-US:
+    - British Virgin Islands
+    - Virgin Islands
+    fr-FR:
+    - Îles Vierges Britanniques
+    es-ES:
+    - Islas Vírgenes Británicas
+    de-DE:
+    - Britische Jungferninseln
+    pt-PT:
+    - Ilhas Virgens Britânicas
+  id: VG
+  alpha_2: VG
+  alpha_3: VGB
+  group: na
+  numeric_code: '092'
+  capital: VG-ROAD-TOWN
+- name:
+    en-US:
+    - U.S. Virgin Islands
+    - Virgin Islands U.S.
+    fr-FR:
+    - Îles Vierges des États-Unis
+    es-ES:
+    - Islas Vírgenes de los Estados Unidos
+    de-DE:
+    - Amerikanische Jungferninseln
+    pt-PT:
+    - Ilhas Virgens dos Estados Unidos
+    - Ilhas Virgens Americanas
+  id: VI
+  alpha_2: VI
+  alpha_3: VIR
+  group: na
+  numeric_code: '850'
+  capital: VI-CHARLOTTE-AMALIE
+- name:
+    en-US:
+    - Wallis and Futuna
+    fr-FR:
+    - Wallis-et-Futuna
+    es-ES:
+    - Wallis y Futuna
+    de-DE:
+    - Wallis und Futuna
+    pt-PT:
+    - Território das Ilhas Wallis e Futuna
+    - Wallis e Futuna
+  id: WF
+  alpha_2: WF
+  alpha_3: WLF
+  group: oc
+  numeric_code: '876'
+  capital: WF-MATA-UTU
+- name:
+    en-US:
+    - Western Sahara
+    fr-FR:
+    - Sahara Occidental
+    es-ES:
+    - República Árabe Saharaui Democrática
+    de-DE:
+    - Westsahara
+    pt-PT:
+    - Saara Ocidental
+    - Sara Ocidental
+  id: EH
+  alpha_2: EH
+  alpha_3: ESH
+  group: af
+  numeric_code: '732'
+  capital: EH-EL-AAIUN
+- name:
+    en-US:
+    - Yemen
+    fr-FR:
+    - Yémen
+    es-ES:
+    - Yemen
+    de-DE:
+    - Jemen
+    pt-PT:
+    - Iémen
+    - República do Iémen
+  id: YE
+  alpha_2: YE
+  alpha_3: YEM
+  group: as
+  numeric_code: '887'
+  capital: YE-SANA-A
+- name:
+    en-US:
+    - Zambia
+    fr-FR:
+    - Zambie
+    es-ES:
+    - Zambia
+    de-DE:
+    - Sambia
+    pt-PT:
+    - República da Zâmbia
+    - Zâmbia
+  id: ZM
+  alpha_2: ZM
+  alpha_3: ZMB
+  group: af
+  numeric_code: '894'
+  capital: ZM-LUSAKA
+- name:
+    en-US:
+    - Zimbabwe
+    fr-FR:
+    - Zimbabwe
+    es-ES:
+    - Zimbabue
+    de-DE:
+    - Simbabwe
+    pt-PT:
+    - República do Zimbabwe
+    - Zimbábue
+    - Zimbaué
+    - Zimbabwe
+  id: ZW
+  alpha_2: ZW
+  alpha_3: ZWE
+  group: af
+  numeric_code: '716'
+  capital: ZW-HARARE
