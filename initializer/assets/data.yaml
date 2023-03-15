@@ -3507,14 +3507,19 @@
 - name: 
     en-US:
     - Tokyo
+    - Tokyo Metropolis
     fr-FR:
     - Tokyo
-    de-DE:
-    - Tokio
+    - Métropole de Tokyo
     es-ES:
     - Tokio
+    - Metrópolis de Tokio
+    de-DE:
+    - Tokyo
+    - Tokyo Metropolis
     pt-PT:
     - Tóquio
+    - Metrópole de Tóquio
   id: JP-13
   group: JP-KNT
   numeric_code: '013'
@@ -5996,26 +6001,6 @@
     - Kingston
   id: JM-KINGSTON
   group: JM
-  numeric_code: ''
-  capital:
-- name:
-    en-US:
-    - Tokyo
-    - Tokyo Metropolis
-    fr-FR:
-    - Tokyo
-    - Métropole de Tokyo
-    es-ES:
-    - Tokio
-    - Metrópolis de Tokio
-    de-DE:
-    - Tokyo
-    - Tokyo Metropolis
-    pt-PT:
-    - Tóquio
-    - Metrópole de Tóquio
-  id: JP-TOKYO
-  group: JP
   numeric_code: ''
   capital:
 - name:
