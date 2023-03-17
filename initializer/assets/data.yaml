@@ -6,7 +6,7 @@
     - Bourg-en-Bresse
   id: FR-BOURG-EN-BRESSE
   group: FR-01
-  numeric_code: "01000"
+  numeric_code: 01000
   capital:
 - name:
     en-US:
@@ -15,7 +15,7 @@
     - Laon
   id: FR-LAON
   group: FR-02
-  numeric_code: "02000"
+  numeric_code: 02000
   capital:
 - name:
     en-US:
@@ -24,7 +24,7 @@
     - Moulins
   id: FR-MOULINS
   group: FR-03
-  numeric_code: "03000"
+  numeric_code: 03000
   capital:
 - name:
     en-US:
@@ -33,7 +33,7 @@
     - Digne-les-Bains
   id: FR-DIGNE-LES-BAINS
   group: FR-04
-  numeric_code: "04000"
+  numeric_code: 04000
   capital:
 - name:
     en-US:
@@ -42,7 +42,7 @@
     - Nice
   id: FR-NICE
   group: FR-06
-  numeric_code: "06000"
+  numeric_code: 06000
   capital:
 - name:
     en-US:
@@ -51,7 +51,7 @@
     - Privas
   id: FR-PRIVAS
   group: FR-07
-  numeric_code: "07000"
+  numeric_code: 07000
   capital:
 - name:
     en-US:
@@ -60,7 +60,7 @@
     - Charleville-Mézières
   id: FR-CHARLEVILLE-MEZIERES
   group: FR-08
-  numeric_code: "08000"
+  numeric_code: 08000
   capital:
 - name:
     en-US:
@@ -69,7 +69,7 @@
     - Foix
   id: FR-FOIX
   group: FR-09
-  numeric_code: "09000"
+  numeric_code: 09000
   capital:
 - name:
     en-US:
@@ -78,7 +78,7 @@
     - Troyes
   id: FR-TROYES
   group: FR-10
-  numeric_code: "10000"
+  numeric_code: 10000
   capital:
 - name:
     en-US:
@@ -87,7 +87,7 @@
     - Carcassonne
   id: FR-CARCASSONNE
   group: FR-11
-  numeric_code: "11000"
+  numeric_code: 11000
   capital:
 - name:
     en-US:
@@ -96,7 +96,7 @@
     - Rodez
   id: FR-RODEZ
   group: FR-12
-  numeric_code: "12000"
+  numeric_code: 12000
   capital:
 - name:
     en-US:
@@ -105,7 +105,7 @@
     - Marseille
   id: FR-MARSEILLE
   group: FR-13
-  numeric_code: "13000"
+  numeric_code: 13000
   capital:
 - name:
     en-US:
@@ -114,7 +114,7 @@
     - Caen
   id: FR-CAEN
   group: FR-14
-  numeric_code: "14000"
+  numeric_code: 14000
   capital:
 - name:
     en-US:
@@ -123,7 +123,7 @@
     - Aurillac
   id: FR-AURILLAC
   group: FR-15
-  numeric_code: "15000"
+  numeric_code: 15000
   capital:
 - name:
     en-US:
@@ -132,7 +132,7 @@
     - Angoulême
   id: FR-ANGOULEME
   group: FR-16
-  numeric_code: "16000"
+  numeric_code: 16000
   capital:
 - name:
     en-US:
@@ -141,7 +141,7 @@
     - La Rochelle
   id: FR-LA-ROCHELLE
   group: FR-17
-  numeric_code: "17000"
+  numeric_code: 17000
   capital:
 - name:
     en-US:
@@ -150,7 +150,7 @@
     - Bourges
   id: FR-BOURGES
   group: FR-18
-  numeric_code: "18000"
+  numeric_code: 18000
   capital:
 - name:
     en-US:
@@ -159,7 +159,7 @@
     - Tulle
   id: FR-TULLE
   group: FR-19
-  numeric_code: "19000"
+  numeric_code: 19000
   capital:
 - name:
     en-US:
@@ -177,7 +177,7 @@
     - Dijon
   id: FR-DIJON
   group: FR-21
-  numeric_code: "21000"
+  numeric_code: 21000
   capital:
 - name:
     en-US:
@@ -186,7 +186,7 @@
     - St-Brieuc
   id: FR-ST-BRIEUC
   group: FR-22
-  numeric_code: "22000"
+  numeric_code: 22000
   capital:
 - name:
     en-US:
@@ -195,7 +195,7 @@
     - Guéret
   id: FR-GUERET
   group: FR-23
-  numeric_code: "23000"
+  numeric_code: 23000
   capital:
 - name:
     en-US:
@@ -204,7 +204,7 @@
     - Niort
   id: FR-NIORT
   group: FR-79
-  numeric_code: "79000"
+  numeric_code: 79000
   capital:
 - name:
     en-US:
@@ -213,7 +213,7 @@
     - Périgueux
   id: FR-PERIGUEUX
   group: FR-24
-  numeric_code: "24000"
+  numeric_code: 24000
   capital:
 - name:
     en-US:
@@ -222,7 +222,7 @@
     - Besançon
   id: FR-BESANÇON
   group: FR-25
-  numeric_code: "25000"
+  numeric_code: 25000
   capital:
 - name:
     en-US:
@@ -231,7 +231,7 @@
     - Valence
   id: FR-VALENCE
   group: FR-26
-  numeric_code: "26000"
+  numeric_code: 26000
   capital:
 - name:
     en-US:
@@ -240,7 +240,7 @@
     - Évry
   id: FR-EVRY
   group: FR-91
-  numeric_code: "91000"
+  numeric_code: 91000
   capital:
 - name:
     en-US:
@@ -249,7 +249,7 @@
     - Évreux
   id: FR-EVREUX
   group: FR-27
-  numeric_code: "27000"
+  numeric_code: 27000
   capital:
 - name:
     en-US:
@@ -258,7 +258,7 @@
     - Chartres
   id: FR-CHARTRES
   group: FR-28
-  numeric_code: "28000"
+  numeric_code: 28000
   capital:
 - name:
     en-US:
@@ -267,7 +267,7 @@
     - Quimper
   id: FR-QUIMPER
   group: FR-29
-  numeric_code: "29000"
+  numeric_code: 29000
   capital:
 - name:
     en-US:
@@ -276,7 +276,7 @@
     - Cayenne
   id: FR-CAYENNE
   group: FR-973
-  numeric_code: "973000"
+  numeric_code: 973000
   capital:
 - name:
     en-US:
@@ -285,7 +285,7 @@
     - Nîmes
   id: FR-NIMES
   group: FR-30
-  numeric_code: "30000"
+  numeric_code: 30000
   capital:
 - name:
     en-US:
@@ -294,7 +294,7 @@
     - Auch
   id: FR-AUCH
   group: FR-32
-  numeric_code: "32000"
+  numeric_code: 32000
   capital:
 - name:
     en-US:
@@ -303,7 +303,7 @@
     - Bordeaux
   id: FR-BORDEAUX
   group: FR-33
-  numeric_code: "33000"
+  numeric_code: 33000
   capital:
 - name:
     en-US:
@@ -312,7 +312,7 @@
     - Basse-Terre
   id: FR-BASSE-TERRE
   group: FR-971
-  numeric_code: "971000"
+  numeric_code: 971000
   capital:
 - name:
     en-US:
@@ -330,7 +330,7 @@
     - Toulouse
   id: FR-TOULOUSE
   group: FR-31
-  numeric_code: "31000"
+  numeric_code: 31000
   capital:
 - name:
     en-US:
@@ -339,7 +339,7 @@
     - Le Puy-en-Velay
   id: FR-LE-PUY-EN-VELAY
   group: FR-43
-  numeric_code: "43000"
+  numeric_code: 43000
   capital:
 - name:
     en-US:
@@ -348,7 +348,7 @@
     - Chaumont
   id: FR-CHAUMONT
   group: FR-52
-  numeric_code: "52000"
+  numeric_code: 52000
   capital:
 - name:
     en-US:
@@ -357,7 +357,7 @@
     - Gap
   id: FR-GAP
   group: FR-05
-  numeric_code: "05000"
+  numeric_code: 05000
   capital:
 - name:
     en-US:
@@ -366,7 +366,7 @@
     - Vesoul
   id: FR-VESOUL
   group: FR-70
-  numeric_code: "70000"
+  numeric_code: 70000
   capital:
 - name:
     en-US:
@@ -375,7 +375,7 @@
     - Annecy
   id: FR-ANNECY
   group: FR-74
-  numeric_code: "74000"
+  numeric_code: 74000
   capital:
 - name:
     en-US:
@@ -384,7 +384,7 @@
     - Tarbes
   id: FR-TARBES
   group: FR-65
-  numeric_code: "65000"
+  numeric_code: 65000
   capital:
 - name:
     en-US:
@@ -393,7 +393,7 @@
     - Limoges
   id: FR-LIMOGES
   group: FR-87
-  numeric_code: "87000"
+  numeric_code: 87000
   capital:
 - name:
     en-US:
@@ -402,7 +402,7 @@
     - Nanterre
   id: FR-NANTERRE
   group: FR-92
-  numeric_code: "92000"
+  numeric_code: 92000
   capital:
 - name:
     en-US:
@@ -411,7 +411,7 @@
     - Montpellier
   id: FR-MONTPELLIER
   group: FR-34
-  numeric_code: "34000"
+  numeric_code: 34000
   capital:
 - name:
     en-US:
@@ -420,7 +420,7 @@
     - Rennes
   id: FR-RENNES
   group: FR-35
-  numeric_code: "35000"
+  numeric_code: 35000
   capital:
 - name:
     en-US:
@@ -429,7 +429,7 @@
     - Châteauroux
   id: FR-CHATEAUROUX
   group: FR-36
-  numeric_code: "36000"
+  numeric_code: 36000
   capital:
 - name:
     en-US:
@@ -438,7 +438,7 @@
     - Tours
   id: FR-TOURS
   group: FR-37
-  numeric_code: "37000"
+  numeric_code: 37000
   capital:
 - name:
     en-US:
@@ -447,7 +447,7 @@
     - Grenoble
   id: FR-GRENOBLE
   group: FR-38
-  numeric_code: "38000"
+  numeric_code: 38000
   capital:
 - name:
     en-US:
@@ -456,7 +456,7 @@
     - Lons-le-Saunier
   id: FR-LONS-LE-SAUNIER
   group: FR-39
-  numeric_code: "39000"
+  numeric_code: 39000
   capital:
 - name:
     en-US:
@@ -465,7 +465,7 @@
     - Mont-de-Marsan
   id: FR-MONT-DE-MARSAN
   group: FR-40
-  numeric_code: "40000"
+  numeric_code: 40000
   capital:
 - name:
     en-US:
@@ -474,7 +474,7 @@
     - Saint-Étienne
   id: FR-SAINT-ETIENNE
   group: FR-42
-  numeric_code: "42000"
+  numeric_code: 42000
   capital:
 - name:
     en-US:
@@ -483,7 +483,7 @@
     - Nantes
   id: FR-NANTES
   group: FR-44
-  numeric_code: "44000"
+  numeric_code: 44000
   capital:
 - name:
     en-US:
@@ -492,7 +492,7 @@
     - Orléans
   id: FR-ORLEANS
   group: FR-45
-  numeric_code: "45000"
+  numeric_code: 45000
   capital:
 - name:
     en-US:
@@ -501,7 +501,7 @@
     - Blois
   id: FR-BLOIS
   group: FR-41
-  numeric_code: "41000"
+  numeric_code: 41000
   capital:
 - name:
     en-US:
@@ -510,7 +510,7 @@
     - Cahors
   id: FR-CAHORS
   group: FR-46
-  numeric_code: "46000"
+  numeric_code: 46000
   capital:
 - name:
     en-US:
@@ -519,7 +519,7 @@
     - Agen
   id: FR-AGEN
   group: FR-47
-  numeric_code: "47000"
+  numeric_code: 47000
   capital:
 - name:
     en-US:
@@ -528,7 +528,7 @@
     - Mende
   id: FR-MENDE
   group: FR-48
-  numeric_code: "48000"
+  numeric_code: 48000
   capital:
 - name:
     en-US:
@@ -537,7 +537,7 @@
     - Angers
   id: FR-ANGERS
   group: FR-49
-  numeric_code: "49000"
+  numeric_code: 49000
   capital:
 - name:
     en-US:
@@ -546,7 +546,7 @@
     - Saint-Lô
   id: FR-SAINT-LO
   group: FR-50
-  numeric_code: "50000"
+  numeric_code: 50000
   capital:
 - name:
     en-US:
@@ -555,7 +555,7 @@
     - Châlons-en-Champagne
   id: FR-CHALONS-EN-CHAMPAGNE
   group: FR-51
-  numeric_code: "51000"
+  numeric_code: 51000
   capital:
 - name:
     en-US:
@@ -564,7 +564,7 @@
     - Fort-de-France
   id: FR-FORT-DE-FRANCE
   group: FR-972
-  numeric_code: "972000"
+  numeric_code: 972000
   capital:
 - name:
     en-US:
@@ -573,7 +573,7 @@
     - Paris
   id: FR-PARIS
   group: FR-75
-  numeric_code: "75000"
+  numeric_code: 75000
   capital:
 - name:
     en-US:
@@ -582,7 +582,7 @@
     - Laval
   id: FR-LAVAL
   group: FR-53
-  numeric_code: "53000"
+  numeric_code: 53000
   capital:
 - name:
     en-US:
@@ -591,7 +591,7 @@
     - Dzaoudzi
   id: FR-DZAOUDZI
   group: FR-976
-  numeric_code: "976000"
+  numeric_code: 976000
   capital:
 - name:
     en-US:
@@ -600,7 +600,7 @@
     - Nancy
   id: FR-NANCY
   group: FR-54
-  numeric_code: "54000"
+  numeric_code: 54000
   capital:
 - name:
     en-US:
@@ -609,7 +609,7 @@
     - Bar-le-Duc
   id: FR-BAR-LE-DUC
   group: FR-55
-  numeric_code: "55000"
+  numeric_code: 55000
   capital:
 - name:
     en-US:
@@ -618,7 +618,7 @@
     - Vannes
   id: FR-VANNES
   group: FR-56
-  numeric_code: "56000"
+  numeric_code: 56000
   capital:
 - name:
     en-US:
@@ -627,7 +627,7 @@
     - Metz
   id: FR-METZ
   group: FR-57
-  numeric_code: "57000"
+  numeric_code: 57000
   capital:
 - name:
     en-US:
@@ -636,7 +636,7 @@
     - Nevers
   id: FR-NEVERS
   group: FR-58
-  numeric_code: "58000"
+  numeric_code: 58000
   capital:
 - name:
     en-US:
@@ -645,7 +645,7 @@
     - Lille
   id: FR-LILLE
   group: FR-59
-  numeric_code: "59000"
+  numeric_code: 59000
   capital:
 - name:
     en-US:
@@ -654,7 +654,7 @@
     - Beauvais
   id: FR-BEAUVAIS
   group: FR-60
-  numeric_code: "60000"
+  numeric_code: 60000
   capital:
 - name:
     en-US:
@@ -663,7 +663,7 @@
     - Alençon
   id: FR-ALENCON
   group: FR-61
-  numeric_code: "61000"
+  numeric_code: 61000
   capital:
 - name:
     en-US:
@@ -672,7 +672,7 @@
     - Arras
   id: FR-ARRAS
   group: FR-62
-  numeric_code: "62000"
+  numeric_code: 62000
   capital:
 - name:
     en-US:
@@ -681,7 +681,7 @@
     - Clermont-Ferrand
   id: FR-CLERMONT-FERRAND
   group: FR-63
-  numeric_code: "63000"
+  numeric_code: 63000
   capital:
 - name:
     en-US:
@@ -690,7 +690,7 @@
     - Pau
   id: FR-PAU
   group: FR-64
-  numeric_code: "64000"
+  numeric_code: 64000
   capital:
 - name:
     en-US:
@@ -699,7 +699,7 @@
     - Perpignan
   id: FR-PERPIGNAN
   group: FR-66
-  numeric_code: "66000"
+  numeric_code: 66000
   capital:
 - name:
     en-US:
@@ -708,7 +708,7 @@
     - Strasbourg
   id: FR-STRASBOURG
   group: FR-67
-  numeric_code: "67000"
+  numeric_code: 67000
   capital:
 - name:
     en-US:
@@ -717,7 +717,7 @@
     - Colmar
   id: FR-COLMAR
   group: FR-68
-  numeric_code: "68000"
+  numeric_code: 68000
   capital:
 - name:
     en-US:
@@ -726,7 +726,7 @@
     - Saint-Denis
   id: FR-SAINT-DENIS
   group: FR-974
-  numeric_code: "974000"
+  numeric_code: 974000
   capital:
 - name:
     en-US:
@@ -735,7 +735,7 @@
     - Lyon
   id: FR-LYON
   group: FR-69
-  numeric_code: "69000"
+  numeric_code: 69000
   capital:
 - name:
     en-US:
@@ -744,7 +744,7 @@
     - Mâcon
   id: FR-MACON
   group: FR-71
-  numeric_code: "71000"
+  numeric_code: 71000
   capital:
 - name:
     en-US:
@@ -753,7 +753,7 @@
     - Le Mans
   id: FR-LE-MANS
   group: FR-72
-  numeric_code: "72000"
+  numeric_code: 72000
   capital:
 - name:
     en-US:
@@ -762,7 +762,7 @@
     - Chambéry
   id: FR-CHAMBERY
   group: FR-73
-  numeric_code: "73000"
+  numeric_code: 73000
   capital:
 - name:
     en-US:
@@ -771,7 +771,7 @@
     - Melun
   id: FR-MELUN
   group: FR-77
-  numeric_code: "77000"
+  numeric_code: 77000
   capital:
 - name:
     en-US:
@@ -780,7 +780,7 @@
     - Rouen
   id: FR-ROUEN
   group: FR-76
-  numeric_code: "76000"
+  numeric_code: 76000
   capital:
 - name:
     en-US:
@@ -789,7 +789,7 @@
     - Bobigny
   id: FR-BOBIGNY
   group: FR-93
-  numeric_code: "93000"
+  numeric_code: 93000
   capital:
 - name:
     en-US:
@@ -798,7 +798,7 @@
     - Amiens
   id: FR-AMIENS
   group: FR-80
-  numeric_code: "80000"
+  numeric_code: 80000
   capital:
 - name:
     en-US:
@@ -807,7 +807,7 @@
     - Albi
   id: FR-ALBI
   group: FR-81
-  numeric_code: "81000"
+  numeric_code: 81000
   capital:
 - name:
     en-US:
@@ -816,7 +816,7 @@
     - Montauban
   id: FR-MONTAUBAN
   group: FR-82
-  numeric_code: "82000"
+  numeric_code: 82000
   capital:
 - name:
     en-US:
@@ -825,7 +825,7 @@
     - Belfort
   id: FR-BELFORT
   group: FR-90
-  numeric_code: "90000"
+  numeric_code: 90000
   capital:
 - name:
     en-US:
@@ -834,7 +834,7 @@
     - Créteil
   id: FR-CRETEIL
   group: FR-94
-  numeric_code: "94000"
+  numeric_code: 94000
   capital:
 - name:
     en-US:
@@ -843,7 +843,7 @@
     - Pontoise
   id: FR-PONTOISE
   group: FR-95
-  numeric_code: "95000"
+  numeric_code: 95000
   capital:
 - name:
     en-US:
@@ -852,7 +852,7 @@
     - Toulon
   id: FR-TOULON
   group: FR-83
-  numeric_code: "83000"
+  numeric_code: 83000
   capital:
 - name:
     en-US:
@@ -861,7 +861,7 @@
     - Avignon
   id: FR-AVIGNON
   group: FR-84
-  numeric_code: "84000"
+  numeric_code: 84000
   capital:
 - name:
     en-US:
@@ -870,7 +870,7 @@
     - La Roche-sur-Yon
   id: FR-LA-ROCHE-SUR-YON
   group: FR-85
-  numeric_code: "85000"
+  numeric_code: 85000
   capital:
 - name:
     en-US:
@@ -879,7 +879,7 @@
     - Poitiers
   id: FR-POITIERS
   group: FR-86
-  numeric_code: "86000"
+  numeric_code: 86000
   capital:
 - name:
     en-US:
@@ -888,7 +888,7 @@
     - Épinal
   id: FR-EPINAL
   group: FR-88
-  numeric_code: "88000"
+  numeric_code: 88000
   capital:
 - name:
     en-US:
@@ -897,7 +897,7 @@
     - Auxerre
   id: FR-AUXERRE
   group: FR-89
-  numeric_code: "89000"
+  numeric_code: 89000
   capital:
 - name:
     en-US:
@@ -906,7 +906,7 @@
     - Versailles
   id: FR-VERSAILLES
   group: FR-78
-  numeric_code: "78000"
+  numeric_code: 78000
   capital:
 # FRANCE-DEPARTMENTS
 - name:
@@ -2432,180 +2432,180 @@
 
 - name:
     en-US:
-    - "Auvergne-Rhône-Alpes"
+    - Auvergne-Rhône-Alpes
     fr-FR:
-    - "Auvergne-Rhône-Alpes"
+    - Auvergne-Rhône-Alpes
     de-DE:
-    - "Auvergne-Rhône-Alpes"
+    - Auvergne-Rhône-Alpes
     es-ES:
-    - "Auvernia-Ródano-Alpes"
+    - Auvernia-Ródano-Alpes
     pt-PT:
-    - "Auvergne-Ródano-Alpes"
+    - Auvergne-Ródano-Alpes
   id: FR-ARA
   group: FR
   numeric_code:
   capital : FR-LYON
 - name:
     en-US:
-    - "Burgundy-Franche-Comté"
+    - Burgundy-Franche-Comté
     fr-FR:
-    - "Bourgogne-Franche-Comté"
+    - Bourgogne-Franche-Comté
     de-DE:
-    - "Burgund-Franche-Comté"
+    - Burgund-Franche-Comté
     es-ES:
-    - "Borgoña-Franco Condado"
+    - Borgoña-Franco Condado
     pt-PT:
-    - "Borgonha-Franco-Condado"
+    - Borgonha-Franco-Condado
   id: FR-BFC
   group: FR
   numeric_code:
   capital : FR-DIJON
 - name:
     en-US:
-    - "Brittany"
+    - Brittany
     fr-FR:
-    - "Bretagne"
+    - Bretagne
     de-DE:
-    - "Bretagne"
+    - Bretagne
     es-ES:
-    - "Bretaña"
+    - Bretaña
     pt-PT:
-    - "Bretanha"
+    - Bretanha
   id: FR-BRE
   group: FR
   numeric_code:
   capital : FR-RENNES
 - name:
     en-US:
-    - "Centre-Val de Loire"
+    - Centre-Val de Loire
     fr-FR:
-    - "Centre-Val de Loire"
+    - Centre-Val de Loire
     de-DE:
-    - "Centre-Val de Loire"
+    - Centre-Val de Loire
     es-ES:
-    - "Centro-Valle de Loira"
+    - Centro-Valle de Loira
     pt-PT:
-    - "Centro-Vale do Loire"
+    - Centro-Vale do Loire
   id: FR-CVL
   group: FR
   numeric_code:
   capital : FR-ORLEANS
 - name:
     en-US:
-    - "Corsica"
+    - Corsica
     fr-FR:
-    - "Corse"
+    - Corse
     de-DE:
-    - "Korsika"
+    - Korsika
     es-ES:
-    - "Córcega"
+    - Córcega
     pt-PT:
-    - "Córsega"
+    - Córsega
   id: FR-COR
   group: FR
   numeric_code:
   capital : FR-AJACCIO
 - name:
     en-US:
-    - "Grand Est"
+    - Grand Est
     fr-FR:
-    - "Grand Est"
+    - Grand Est
     de-DE:
-    - "Grand Est"
+    - Grand Est
     es-ES:
-    - "Gran Este"
+    - Gran Este
     pt-PT:
-    - "Grande Leste"
+    - Grande Leste
   id: FR-GES
   group: FR
   numeric_code:
   capital : FR-
 - name:
     en-US:
-    - "Hauts-de-France"
+    - Hauts-de-France
     fr-FR:
-    - "Hauts-de-France"
+    - Hauts-de-France
     de-DE:
-    - "Hauts-de-France"
+    - Hauts-de-France
     es-ES:
-    - "Altos de Francia"
+    - Altos de Francia
     pt-PT:
-    - "Alto da França"
+    - Alto da França
   id: FR-HDF
   group: FR
   numeric_code:
   capital : FR-LILLE
 - name:
     en-US:
-    - "Île-de-France"
+    - Île-de-France
     fr-FR:
-    - "Île-de-France"
+    - Île-de-France
     de-DE:
-    - "Île-de-France"
+    - Île-de-France
     es-ES:
-    - "Isla de Francia"
+    - Isla de Francia
     pt-PT:
-    - "Ilha de França"
+    - Ilha de França
   id: FR-IDF
   group: FR
   numeric_code:
   capital : FR-PARIS
 - name:
     en-US:
-    - "Normandy"
+    - Normandy
     fr-FR:
-    - "Normandie"
+    - Normandie
     de-DE:
-    - "Normandie"
+    - Normandie
     es-ES:
-    - "Normandía"
+    - Normandía
     pt-PT:
-    - "Normandia"
+    - Normandia
   id: FR-NOR
   group: FR
   numeric_code:
   capital : FR-ROUEN
 - name:
     en-US:
-    - "Nouvelle-Aquitaine"
+    - Nouvelle-Aquitaine
     fr-FR:
-    - "Nouvelle-Aquitaine"
+    - Nouvelle-Aquitaine
     de-DE:
-    - "Nouvelle-Aquitaine"
+    - Nouvelle-Aquitaine
     es-ES:
-    - "Nueva Aquitania"
+    - Nueva Aquitania
     pt-PT:
-    - "Nova Aquitânia"
+    - Nova Aquitânia
   id: FR-NAQ
   group: FR
   numeric_code:
   capital : FR-BORDEAUX
 - name:
     en-US:
-    - "Occitanie"
+    - Occitanie
     fr-FR:
-    - "Occitanie"
+    - Occitanie
     de-DE:
-    - "Okzitanien"
+    - Okzitanien
     es-ES:
-    - "Occitania"
+    - Occitania
     pt-PT:
-    - "Occitânia"
+    - Occitânia
   id: FR-OCC
   group: FR
   numeric_code:
   capital : FR-TOULOUSE
 - name:
     en-US:
-    - "Pays de la Loire"
+    - Pays de la Loire
     fr-FR:
-    - "Pays de la Loire"
+    - Pays de la Loire
     de-DE:
-    - "Pays de la Loire"
+    - Pays de la Loire
     es-ES:
-    - "País del Loira"
+    - País del Loira
     pt-PT:
-    - "País do Loire"
+    - País do Loire
   id: FR-PDL
   group: FR
   numeric_code:
@@ -4185,7 +4185,6 @@
 # WORLD ISO3166 - CITIES
 # For this part, it will be capital first, then country
 
----
 - name:
     en-US:
     - Kabul
@@ -4666,7 +4665,7 @@
     - Sucre (constitucional e judicial) e La Paz (executivo e legislativo)
     - Sucre
     - La Paz
-  id: BO-SUCRE"
+  id: BO-SUCRE
   group: BO
   numeric_code: ''
   capital:
@@ -4696,7 +4695,7 @@
     - Kralendijk
     - Oranjestad
     - Bottom
-  id: BQ-KRALENDIJK"
+  id: BQ-KRALENDIJK
   group: BQ
   numeric_code: ''
   capital:
@@ -4776,7 +4775,7 @@
     pt-PT:
     - Camp Thunder Cove (Campo militar dos E.U.A., sem outros habitantes)
     - Camp Thunder Cove
-  id: IO-CAMP-THUNDER-COVE"
+  id: IO-CAMP-THUNDER-COVE
   group: IO
   numeric_code: ''
   capital:
@@ -5391,7 +5390,7 @@
     - Mbabane (administrativo e judicial) e Lobamba (real e legislativo)
     - Mbabane
     - Lobamba
-  id: SZ-MBABANE"
+  id: SZ-MBABANE
   group: SZ
   numeric_code: ''
   capital:
@@ -6920,7 +6919,7 @@
     - Jerusalém Oriental
     - Ramallah
   id: PS-EAST-JERUSALEM
-    FACTO)"
+    FACTO)
   group: PS
   numeric_code: ''
   capital:
@@ -7535,7 +7534,7 @@
     - Sri Jayawardenapura Kotte (político e administrativo) e Colombo (económico)
     - Sri Jayawardenapura Kotte
     - Colombo
-  id: LK-SRI-JAYAWARDENAPURA-KOTTE"
+  id: LK-SRI-JAYAWARDENAPURA-KOTTE
   group: LK
   numeric_code: ''
   capital:
@@ -7750,7 +7749,7 @@
     - Atafu
     - Nukunonu
     - Fakaofo
-  id: TK-ATAFU"
+  id: TK-ATAFU
   group: TK
   numeric_code: ''
   capital:
@@ -8133,7 +8132,7 @@
     - Sana'a (governo de Houthi) e Aden (governo internacionalmente reconhecido)
     - Sana'a
     - Aden
-  id: YE-SANA-A"
+  id: YE-SANA-A
   group: YE
   numeric_code: ''
   capital:
@@ -8170,7 +8169,6 @@
 
 # ISO3166 - COUNTRY
 
----
 - name:
     en-US:
     - Afghanistan

@@ -1,1 +1,12 @@
-- id : AGAINST-CLOCK
+- name:
+    en-US:
+    - Against the clock
+    fr-FR:
+    - Contre la montre
+    es-ES:
+    - Contrarreloj
+    de-DE:
+    - Gegen die Uhr
+    pt-PT:
+    - Contra o relógio
+    id : AGAINST-CLOCK
