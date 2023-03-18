@@ -1,0 +1,312 @@
+# @TODO wiki url
+- name:
+    en-US:
+    - Departments of France
+    fr-FR:
+    - Départements de France
+    de-DE:
+    - Französische Abteilungen
+    es-ES:
+    - Departamentos franceses
+    pt-PT:
+    - Departamentos franceses
+  id: FRANCE_DEPARTMENTS
+  description_translations: 
+    en-US:
+    - Departments of Metropolitan France, excluding Overseas Departments and Territories
+    fr-FR:
+    - Départements de France métropolitaine et DOM, TOM exclus.
+    de-DE:
+    - Departements des französischen Mutterlands, ohne Überseegebiete
+    es-ES:
+    - Departamentos de Francia metropolitana, excluyendo los departamentos y territorios franceses de ultramar
+    pt-PT:
+    - Departamentos da França metropolitana, excluindo Departamentos e Territórios Ultramarinos Franceses
+  id_description: FRANCE_DEPARTMENTS_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - Chief towns of the French departments
+    fr-FR:
+    - Chefs lieux des départements français
+    de-DE:
+    - Hauptstädte der französischen Departements
+    es-ES:
+    - Sedes de los departamentos franceses
+    pt-PT:
+    - Sedes dos departamentos franceses
+  id: FRANCE_DEPARTMENTS_CAPITAL
+  description_translations: 
+ en-US:
+    - Chief towns of the 101 departments of metropolitan France and overseas departments
+    fr-FR:
+    - Chefs-lieux des 101 départements de France métropolitaine et des départements d'outre-mer
+    de-DE:
+    - Hauptstädte der 101 Departements von Metropolitan-Frankreich und den Übersee-Departements
+    es-ES:
+    - Sedes de los 101 departamentos de Francia metropolitana y departamentos de ultramar
+    pt-PT:
+    - Sedes dos 101 departamentos da França metropolitana e departamentos ultramarinos
+  id_description: FRANCE_DEPARTMENTS_CAPITAL_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - French regions
+    fr-FR:
+    - Régions françaises
+    de-DE:
+    - Französische Regionen
+    es-ES:
+    - Regiones Francesas
+    pt-PT:
+    - Regiões Francesas
+  id: FRANCE_REGIONS
+  description_translations: 
+    en-US:
+    - Chief towns of the 13 regions of metropolitan France
+    fr-FR:
+    - Chefs-lieux des 13 régions de France métropolitaine
+    de-DE:
+    - Hauptstadt der 13 Regionen von Metropolitan-Frankreich
+    es-ES:
+    - Sedes de las 13 regiones de Francia metropolitana
+    pt-PT:
+    - Sedes das 13 regiões da França metropolitana
+  id_description: FRANCE_REGIONS_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - France regions' capital
+    fr-FR:
+    - Capitale des régions de France
+    de-DE:
+    - Hauptstadt der Regionen Frankreichs
+    es-ES:
+    - Capital de las regiones de Francia
+    pt-PT:
+    - Capital das regiões da França
+  id: FRANCE_REGIONS_CAPITAL
+  description_translations: 
+    en-US:
+    - Capitals of the 13 regions of metropolitan France
+    fr-FR:
+    - Chefs-lieux des 13 régions de France métropolitaine
+    de-DE:
+    - Hauptstadt der 13 Regionen von Metropolitan-Frankreich
+    es-ES:
+    - Capital de las 13 regiones de Francia metropolitana
+    pt-PT:
+    - Capital das 13 regiões da França metropolitana
+  id_description: FRANCE_REGIONS_CAPITAL_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - Japan regions
+    fr-FR:
+    - Régions du Japon
+    de-DE:
+    - Japanische Regionen
+    es-ES:
+    - Regiones de Japón
+    pt-PT:
+    - Regiões do Japão
+  id: JAPAN_REGIONS
+  description_translations: 
+    en-US:
+    - Regions of Japan (unofficial, they have no legal reality)
+    fr-FR:
+    - Régions du Japon (non officiel, elles n'ont aucune réalité juridique)
+    de-DE:
+    - Regionen Japans (inoffiziell, sie haben keine rechtliche Realität)
+    es-ES:
+    - Regiones de Japón (no oficiales, no tienen realidad jurídica)
+    pt-PT:
+    - Regiões do Japão (não oficiais, não têm realidade jurídica)
+  id_description: JAPAN_REGIONS_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - Japan regions' capital
+    fr-FR:
+    - Capitales des régions du Japon
+    de-DE:
+    - Hauptstädte der japanischen Regionen
+    es-ES:
+    - Capital de las regiones de Japón
+    pt-PT:
+    - Capital das regiões do Japão
+  id: JAPAN_REGIONS_CAPITAL
+  description_translations: 
+    en-US:
+    - Capitals of Japan's regions (non-official, they have no legal status as such)
+    fr-FR:
+    - Capitales des régions du Japon (non officiel, elles n'ont aucune réalité juridique en tant que tel)
+    de-DE:
+    - Hauptstädte der Regionen Japans (nicht offiziell, sie haben keine rechtliche Stellung als solche)
+    es-ES:
+    - Capitales de las regiones de Japón (no oficial, no tienen estatus legal como tal)
+    pt-PT:
+    - Capitais das regiões do Japão (não oficial, não têm status legal como tal)
+  id_description: JAPAN_REGIONS_CAPITAL_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - Japan prefectures
+    fr-FR:
+    - Préfectures du Japon
+    de-DE:
+    - Japanische Präfekturen
+    es-ES:
+    - Prefecturas de Japón
+    pt-PT:
+    - Prefeituras do Japão
+  id: JAPAN_PREFECTURES
+  description_translations: 
+    en-US:
+    - Prefectures of Japan
+    fr-FR:
+    - Préfectures du Japon
+    de-DE:
+    - Präfekturen Japans
+    es-ES:
+    - Prefecturas de Japón
+    pt-PT:
+    - Prefeituras do Japão
+  id_description: JAPAN_PREFECTURES_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - Japan prefectures' capital
+    fr-FR:
+    - Capitales des préfectures du Japon
+    de-DE:
+    - Hauptstädte der japanischen Präfekturen
+    es-ES:
+    - Capital de las prefecturas de Japón
+    pt-PT:
+    - Capital das prefeituras do Japão
+  id: JAPAN_PREFECTURES_CAPITAL
+  description_translations: 
+    en-US:
+    - Capitals of the prefectures of Japan
+    fr-FR:
+    - Capitales des préfectures du Japon
+    de-DE:
+    - Hauptstädte der Präfekturen Japans
+    es-ES:
+    - Capitales de las prefecturas de Japón
+    pt-PT:
+    - Capitais das prefeituras do Japão
+  id_description: JAPAN_PREFECTURES_CAPITAL_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - World countries - UN
+    fr-FR:
+    - Pays du monde - ONU
+    de-DE:
+    - Länder der Welt - UN
+    es-ES:
+    - Países del mundo - ONU
+    pt-PT:
+    - Países do mundo - ONU
+  id: WORLD_COUNTRIES_UN
+  description_translations: 
+    fr-FR:
+    - Carte des pays du monde selon l'ONU
+    en-US:
+    - Map of the countries of the world according to the UN
+    es-ES:
+    - Mapa de los países del mundo según la ONU
+    de-DE:
+    - Karte der Länder der Welt gemäß den Vereinten Nationen
+    pt-BR:
+    - Mapa dos países do mundo de acordo com a ONU
+  id_description: WORLD_COUNTRIES_UN_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - World countries' capital - UN
+    fr-FR:
+    - Capitales des pays du monde - ONU
+    de-DE:
+    - Hauptstädte der Länder der Welt - UN
+    es-ES:
+    - Capital de los países del mundo - ONU
+    pt-PT:
+    - Capital dos países do mundo - ONU
+  id: WORLD_COUNTRIES_UN_CAPITAL
+  description_translations: 
+    en-US:
+    - A map showing the capital cities of all the countries in the world, as recognized by the United Nations. The United Nations recognizes 193 member states, but there are also 2 observer states (the Holy See and Palestine) and 6 partially recognized states (Abkhazia, Kosovo, Nagorno-Karabakh, Northern Cyprus, South Ossetia, and Transnistria) that are not considered full member states of the UN. These states have some level of international recognition, but their status is disputed and not universally recognized. Therefore, the total number of countries/territories recognized by the UN, including both member states and observer/partially recognized states, is 201.
+    fr-FR:
+    - Carte des capitales des pays du monde selon l'ONU. Les Nations unies reconnaissent 193 États membres, mais il existe également 2 États observateurs (le Saint-Siège et la Palestine) et 6 États partiellement reconnus (Abkhazie, Kosovo, Nagorny-Karabakh, Chypre du Nord, Ossétie du Sud et Transnistrie) qui ne sont pas considérés comme des États membres à part entière de l'ONU. Ces États ont un certain niveau de reconnaissance internationale, mais leur statut est contesté et n'est pas universellement reconnu. Par conséquent, le nombre total de pays/territoires reconnus par l'ONU, y compris les États membres, les États observateurs et les États partiellement reconnus, est de 201.
+    de-DE:
+    - Eine Karte, die die Hauptstädte aller Länder der Welt zeigt, wie sie von den Vereinten Nationen anerkannt werden.Die Vereinten Nationen erkennen 193 Mitgliedsstaaten an, aber es gibt auch 2 Beobachterstaaten (der Heilige Stuhl und Palästina) und 6 teilweise anerkannte Staaten (Abchasien, Kosovo, Bergkarabach, Nordzypern, Südossetien und Transnistrien), die nicht als Vollmitgliedsstaaten der UN betrachtet werden. Diese Staaten genießen eine gewisse internationale Anerkennung, ihr Status ist jedoch umstritten und nicht universell anerkannt. Daher beläuft sich die Gesamtzahl der von den UN anerkannten Länder/Territorien, einschließlich sowohl Mitgliedsstaaten als auch Beobachter-/teilweise anerkannten Staaten, auf 201.
+    es-ES:
+    - Un mapa que muestra las capitales de todos los países del mundo, reconocidos por las Naciones Unidas.Las Naciones Unidas reconocen a 193 estados miembros, pero también hay 2 estados observadores (la Santa Sede y Palestina) y 6 estados parcialmente reconocidos (Abjasia, Kosovo, Nagorno-Karabaj, Chipre del Norte, Osetia del Sur y Transnistria) que no se consideran estados miembros plenos de la ONU. Estos estados tienen cierto nivel de reconocimiento internacional, pero su estatus es disputado y no reconocido de manera universal. Por lo tanto, el número total de países/territorios reconocidos por la ONU, incluyendo tanto los estados miembros como los estados observadores/parcialmente reconocidos, es de 201.
+    pt-PT:
+    - Um mapa que mostra as capitais de todos os países do mundo, reconhecidos pelas Nações Unidas.As Nações Unidas reconhecem 193 Estados-membros, mas também existem 2 Estados observadores (a Santa Sé e a Palestina) e 6 Estados parcialmente reconhecidos (Abkhazia, Kosovo, Nagorno-Karabakh, Chipre do Norte, Ossétia do Sul e Transnístria) que não são considerados Estados-membros plenos das Nações Unidas. Esses Estados têm algum nível de reconhecimento internacional, mas seu status é contestado e não universalmente reconhecido. Portanto, o número total de países/territórios reconhecidos pela ONU, incluindo tanto Estados-membros quanto Estados observadores/parcialmente reconhecidos, é de 201.
+  id_description: WORLD_COUNTRIES_UN_CAPITAL_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - World countries - ISO-3166
+    fr-FR:
+    - Pays du monde - ISO-3166
+    de-DE:
+    - Länder der Welt - ISO-3166
+    es-ES:
+    - Países del mundo - ISO-3166
+    pt-PT:
+    - Países do mundo - ISO-3166
+  id: WORLD_COUNTRIES_ISO3166
+  description_translations: 
+    en-US:
+    - ISO-3166 is a standard that allows for the definition of codes for the names of countries and their subdivisions. The list of geographical entities is larger than that of UN member countries, but this is due to the inclusion of certain entities that are not considered sovereign states, but have some degree of autonomy or partial international recognition, such as overseas territories, dependencies, and areas under special sovereignty. However, the fact that a territory is included in ISO-3166 does not necessarily mean that it is recognized as a sovereign state or that it is part of the world's geographical and political entities.
+    fr-FR:
+    - L'ISO-3166 est une norme qui permet de définir des codes pour les noms de pays et de leurs subdivisions. La liste des entitées géographique est plus grande que celle des pays de l'ONU, mais cela est dû à la prise en compte de certaines entités qui ne sont pas considérées comme des États souverains, mais qui ont une certaine autonomie ou une reconnaissance internationale partielle, comme les territoires d'outre-mer, les dépendances et les zones sous souveraineté spéciale. Cependant, le fait qu'un territoire soit inclus dans l'ISO-3166 ne signifie pas nécessairement qu'il soit reconnu comme un État souverain ou qu'il fasse partie des entités géographiques et politiques du monde.
+    de-DE:
+    - Die ISO-3166 ist ein Standard, der Codes für Ländernamen und deren Unterteilungen definiert. Die Liste der geographischen Entitäten ist größer als die Liste der von den Vereinten Nationen anerkannten Länder, da auch bestimmte Entitäten berücksichtigt werden, die nicht als souveräne Staaten betrachtet werden, sondern eine gewisse Autonomie oder teilweise internationale Anerkennung haben, wie Überseegebiete, Abhängigkeiten und Gebiete mit besonderer Souveränität. Die Aufnahme eines Gebiets in die ISO-3166 bedeutet jedoch nicht notwendigerweise, dass es als souveräner Staat anerkannt ist oder zu den geographischen und politischen Entitäten der Welt gehört.
+    es-ES:
+    - La norma ISO-3166 permite definir códigos para los nombres de países y sus subdivisiones. La lista de entidades geográficas es más amplia que la de países de la ONU, pero esto se debe a la inclusión de ciertas entidades que no se consideran estados soberanos, sino que tienen cierta autonomía o reconocimiento internacional parcial, como los territorios de ultramar, las dependencias y las zonas de soberanía especial. Sin embargo, el hecho de que un territorio esté incluido en el ISO-3166 no significa necesariamente que sea reconocido como un estado soberano o que forme parte de las entidades geográficas y políticas del mundo.
+    pt-PT:
+    - SO-3166 é uma norma que permite definir códigos para os nomes de países e suas subdivisões. A lista de entidades geográficas é maior do que a da ONU, mas isso se deve à inclusão de entidades que não são consideradas estados soberanos, mas que possuem certa autonomia ou reconhecimento internacional parcial, como territórios ultramarinos, dependências e áreas com soberania especial. No entanto, o fato de um território estar incluído no ISO-3166 não significa necessariamente que ele seja reconhecido como um estado soberano ou que faça parte das entidades geográficas e políticas do mundo.
+  id_description: WORLD_COUNTRIES_ISO3166_DESC
+  url_wiki: 
+
+- name:
+    en-US:
+    - World countries' capital - ISO-3166
+    fr-FR:
+    - Capitales des pays du monde - ISO-3166
+    de-DE:
+    - Hauptstädte der Länder der Welt - ISO-3166
+    es-ES:
+    - Capital de los países del mundo - ISO-3166
+    pt-PT:
+    - Capital dos países do mundo - ISO-3166
+  id: WORLD_COUNTRIES_ISO3166_CAPITAL
+  description_translations: 
+    en-US:
+    - Important city/cities for each territory listed in ISO 3166. Some of these territories have no inhabitants or cities, so we have sometimes arbitrarily chosen geographic features to designate them as capitals.
+    fr-FR:
+    - Ville(s) importante(s) pour chaque territoire listé dans l'ISO 3166. Certains de ces territoires ne possèdent aucun habitant ni ville, donc nous avons parfois choisi des éléments géographiques arbitrairement pour les désigner comme capitales.
+    de-DE:
+    - Wichtige Stadt/Städte für jeden Gebietseintrag in ISO 3166. Einige dieser Gebiete haben keine Bewohner oder Städte, daher haben wir manchmal geographische Elemente willkürlich als Hauptstadt ausgewählt.
+    es-ES:
+    - Ciudad(es) importante(s) para cada territorio listado en el ISO 3166. Algunos de estos territorios no tienen habitantes ni ciudades, por lo que a veces hemos elegido elementos geográficos arbitrariamente para designarlos como capitales.
+    pt-PT:
+    - Cidade(s) importante(s) para cada território listado no ISO 3166. Alguns desses territórios não possuem nenhum habitante ou cidade, então às vezes escolhemos elementos geográficos arbitrariamente para designá-los como capitais.
+  id_description: WORLD_COUNTRIES_ISO3166_CAPITAL_DESC
+  url_wiki: 

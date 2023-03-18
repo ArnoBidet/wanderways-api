@@ -914,9 +914,9 @@
     - Ain
     fr-FR:
     - Ain
-    es-ES:
-    - Ain
     de-DE:
+    - Ain
+    es-ES:
     - Ain
     pt-PT:
     - Ain
@@ -2519,7 +2519,7 @@
   id: FR-GES
   group: FR
   numeric_code:
-  capital : FR-
+  capital : FR-STRASBOURG
 - name:
     en-US:
     - Hauts-de-France
@@ -3319,11 +3319,7 @@
   capital:
 
 
-
-
-
-
-  # JAPAN PREFECTURES
+# JAPAN PREFECTURES
 - name: 
     en-US:
     - Hokkaido

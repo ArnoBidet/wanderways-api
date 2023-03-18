@@ -1,0 +1,129 @@
+- name:
+    en-US:
+    - France
+    fr-FR:
+    - France
+    de-DE:
+    - Frankreich
+    es-ES:
+    - Francia
+    pt-PT:
+    - França
+  id : TAG_FRANCE
+  id_group : TAG_GROUP_COUNTRIES
+- name:
+    en-US:
+    - Japan
+    fr-FR:
+    - Japon
+    de-DE:
+    - Japan
+    es-ES:
+    - Japón
+    pt-PT:
+    - Japão
+  id : TAG_JAPAN
+  id_group : TAG_GROUP_COUNTRIES
+- name:
+    en-US:
+    - Cities
+    fr-FR:
+    - Villes
+    de-DE:
+    - Städte
+    es-ES:
+    - Ciudades
+    pt-PT:
+    - Cidades
+  id : TAG_CITIES
+  id_group : TAG_GROUP_LEVEL
+- name:
+    en-US:
+    - Subdivisions
+    fr-FR:
+    - Subdivisions
+    de-DE:
+    - Unterabteilungen
+    es-ES:
+    - Subdivisiones
+    pt-PT:
+    - Subdivisões
+  id : TAG_SUBDIVISIONS
+  id_group : TAG_GROUP_LEVEL
+- name:
+    en-US:
+    - Subdivisions
+    fr-FR:
+    - Subdivisions
+    de-DE:
+    - Unterabteilungen
+    es-ES:
+    - Subdivisiones
+    pt-PT:
+    - Subdivisões
+  id : TAG_WORLD
+  id_group : TAG_GROUP_LEVEL
+- name:
+    en-US:
+    - Europe
+    fr-FR:
+    - Europe
+    de-DE:
+    - Europa
+    es-ES:
+    - Europa
+    pt-PT:
+    - Europa
+  id : TAG_EUROPE
+  id_group : TAG_GROUP_CONTINENTS
+    en-US:
+    - Asia
+    fr-FR:
+    - Asie
+    de-DE:
+    - Asien
+    es-ES:
+    - Asia
+    pt-PT:
+    - Ásia
+  id : TAG_ASIA
+  id_group : TAG_GROUP_CONTINENTS
+- name:
+    en-US:
+    - Africa
+    fr-FR:
+    - Afrique
+    de-DE:
+    - Afrika
+    es-ES:
+    - África
+    pt-PT:
+    - África
+  id : TAG_AFRICA
+  id_group : TAG_GROUP_CONTINENTS
+- name:
+    en-US:
+    - North America
+    fr-FR:
+    - Amérique du Nord
+    de-DE:
+    - Nordamerika
+    es-ES:
+    - América del Norte
+    pt-PT:
+    - América do Norte
+  id : TAG_SOUTH_AMERICA
+  id_group : TAG_GROUP_CONTINENTS
+- name:
+    en-US:
+    - South America
+    fr-FR:
+    - Amérique du Sud
+    de-DE:
+    - Südamerika
+    es-ES:
+    - América del Sur
+    pt-PT:
+    - América do Sul
+  id : TAG_NORTH_AMERICA
+  id_group : TAG_GROUP_CONTINENTS
