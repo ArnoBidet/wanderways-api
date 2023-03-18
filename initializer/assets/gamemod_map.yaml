@@ -1,24 +1,24 @@
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: FRANCE_DEPARTMENTS
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: FRANCE_DEPARTMENTS_CAPITAL
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: FRANCE_REGIONS
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: FRANCE_REGIONS_CAPITAL
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: JAPAN_REGIONS
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: JAPAN_REGIONS_CAPITAL
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: JAPAN_PREFECTURES
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: JAPAN_PREFECTURES_CAPITAL
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: WORLD_COUNTRIES_UN
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: WORLD_COUNTRIES_UN_CAPITAL
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: WORLD_COUNTRIES_ISO3166
-- id_gamemode : AGAINST_CLOCK
+- id_gamemod : AGAINST_CLOCK
   id_map: WORLD_COUNTRIES_ISO3166_CAPITAL

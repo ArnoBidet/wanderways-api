@@ -76,6 +76,7 @@
     - Europa
   id : TAG_EUROPE
   id_group : TAG_GROUP_CONTINENTS
+- name:
     en-US:
     - Asia
     fr-FR:

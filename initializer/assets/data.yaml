@@ -1372,7 +1372,7 @@
     pt-PT:
     - Guiana
   id: FR-973
-  group: ''
+  group: 
   numeric_code: '973'
   capital: FR-CAYENNE
 - name:
@@ -1432,7 +1432,7 @@
     pt-PT:
     - Guadalupe
   id: FR-971
-  group: ''
+  group: 
   numeric_code: '971'
   capital: FR-BASSE-TERRE
 - name:
@@ -1852,7 +1852,7 @@
     pt-PT:
     - Martinica
   id: FR-972
-  group: ''
+  group: 
   numeric_code: '972'
   capital: FR-FORT-DE-FRANCE
 - name:
@@ -1897,7 +1897,7 @@
     pt-PT:
     - Maiote
   id: FR-976
-  group: ''
+  group: 
   numeric_code: '976'
   capital: FR-DZAOUDZI
 - name:
@@ -2122,7 +2122,7 @@
     pt-PT:
     - Reunião
   id: FR-974
-  group: ''
+  group: 
   numeric_code: '974'
   capital: FR-SAINT-DENIS
 - name:
@@ -4199,7 +4199,7 @@
     - Kabul
   id: AF-KABUL
   group: AF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4218,7 +4218,7 @@
     - 'Maarianhamina '
   id: AX-MARIEHAMN
   group: AX
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4238,7 +4238,7 @@
     - Tirona
   id: AL-TIRANA
   group: AL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4260,7 +4260,7 @@
     - Dzayer
   id: DZ-ALGIERS
   group: DZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4275,7 +4275,7 @@
     - Pago Pago
   id: AS-PAGO-PAGO
   group: AS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4290,7 +4290,7 @@
     - Andorra-a-Velha
   id: AD-ANDORRA-LA-VELLA
   group: AD
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4309,7 +4309,7 @@
     - Luanda
   id: AO-LUANDA
   group: AO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4324,7 +4324,7 @@
     - The Valley
   id: AI-THE-VALLEY
   group: AI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4344,7 +4344,7 @@
     - McMurdo
   id: AQ-MCMURDO
   group: AQ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4361,7 +4361,7 @@
     - São João
   id: AG-SAINT-JOHN-S
   group: AG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4376,7 +4376,7 @@
     - Buenos Aires
   id: AR-BUENOS-AIRES
   group: AR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4398,7 +4398,7 @@
     - Ierevã
   id: AM-YEREVAN
   group: AM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4416,7 +4416,7 @@
     - Oranjestad
   id: AW-ORANJESTAD
   group: AW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4432,7 +4432,7 @@
     - Canberra
   id: AU-CANBERRA
   group: AU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4451,7 +4451,7 @@
     - Wien
   id: AT-VIENNA
   group: AT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4472,7 +4472,7 @@
     - Bakı
   id: AZ-BAKU
   group: AZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4492,7 +4492,7 @@
     - Charles Town
   id: BS-NASSAU
   group: BS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4507,7 +4507,7 @@
     - Manama
   id: BH-MANAMA
   group: BH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4525,7 +4525,7 @@
     - Dhaka
   id: BD-DHAKA
   group: BD
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4540,7 +4540,7 @@
     - Bridgetown
   id: BB-BRIDGETOWN
   group: BB
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4555,7 +4555,7 @@
     - Minsk
   id: BY-MINSK
   group: BY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4574,7 +4574,7 @@
     - Cidade de Bruxelas
   id: BE-BRUSSELS
   group: BE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4590,7 +4590,7 @@
     - Belmopan
   id: BZ-BELMOPAN
   group: BZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4605,7 +4605,7 @@
     - Porto-Novo (político) e Cotonou (económico)
   id: BJ-PORTO-NOVO
   group: BJ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4620,7 +4620,7 @@
     - Hamilton
   id: BM-HAMILTON
   group: BM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4638,7 +4638,7 @@
     - Timpu
   id: BT-THIMPHU
   group: BT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4663,7 +4663,7 @@
     - La Paz
   id: BO-SUCRE
   group: BO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4693,7 +4693,7 @@
     - Bottom
   id: BQ-KRALENDIJK
   group: BQ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4708,7 +4708,7 @@
     - Sarajevo
   id: BA-SARAJEVO
   group: BA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4723,7 +4723,7 @@
     - Gaborone
   id: BW-GABORONE
   group: BW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4738,7 +4738,7 @@
     - Bouvet (nenhuma cidade)
   id: BV-BOUVET
   group: BV
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4753,7 +4753,7 @@
     - Brasília
   id: BR-BRASILIA
   group: BR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4773,7 +4773,7 @@
     - Camp Thunder Cove
   id: IO-CAMP-THUNDER-COVE
   group: IO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4788,7 +4788,7 @@
     - Bandar Seri Begawan
   id: BN-BANDAR-SERI-BEGAWAN
   group: BN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4803,7 +4803,7 @@
     - Sofía
   id: BG-SOFIA
   group: BG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4818,7 +4818,7 @@
     - Uagadugu
   id: BF-OUAGADOUGOU
   group: BF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4843,7 +4843,7 @@
     - Bujumbura
   id: BI-GITEGA
   group: BI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4858,7 +4858,7 @@
     - Praia
   id: CV-PRAIA
   group: CV
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4873,7 +4873,7 @@
     - Phnom Penh
   id: KH-PHNOM-PENH
   group: KH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4888,7 +4888,7 @@
     - Iaundé
   id: CM-YAOUNDE
   group: CM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4903,7 +4903,7 @@
     - Ottawa
   id: CA-OTTAWA
   group: CA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4918,7 +4918,7 @@
     - Grande Caimão
   id: KY-GEORGE-TOWN
   group: KY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4933,7 +4933,7 @@
     - Bangui
   id: CF-BANGUI
   group: CF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4948,7 +4948,7 @@
     - Jamena
   id: TD-N-DJAMENA
   group: TD
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4968,7 +4968,7 @@
     - Santiago do Chile
   id: CL-SANTIAGO
   group: CL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -4988,7 +4988,7 @@
     - Beijing
   id: CN-BEIJING
   group: CN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5003,7 +5003,7 @@
     - Flying Fish Cove
   id: CX-FLYING-FISH-COVE
   group: CX
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5018,7 +5018,7 @@
     - Ilha Ocidental
   id: CC-WEST-ISLAND
   group: CC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5033,7 +5033,7 @@
     - Bogotá
   id: CO-BOGOTA
   group: CO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5048,7 +5048,7 @@
     - Moroni
   id: KM-MORONI
   group: KM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5063,7 +5063,7 @@
     - Brazzaville (político) e Pointe-Noire (económico)
   id: CG-BRAZZAVILLE
   group: CG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5081,7 +5081,7 @@
     - Kinshasa
   id: CD-KINSHASA
   group: CD
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5096,7 +5096,7 @@
     - Avarua
   id: CK-AVARUA
   group: CK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5112,7 +5112,7 @@
     - São José
   id: CR-SAN-JOSE
   group: CR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5137,7 +5137,7 @@
     - Abidjan
   id: CI-YAMOUSSOUKRO
   group: CI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5152,7 +5152,7 @@
     - Zagreb
   id: HR-ZAGREB
   group: HR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5167,7 +5167,7 @@
     - Havana
   id: CU-HAVANA
   group: CU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5182,7 +5182,7 @@
     - Willemstad
   id: CW-WILLEMSTAD
   group: CW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5197,7 +5197,7 @@
     - Nicósia
   id: CY-NICOSIA
   group: CY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5212,7 +5212,7 @@
     - Praga
   id: CZ-PRAGUE
   group: CZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5227,7 +5227,7 @@
     - Copenhaga
   id: DK-COPENHAGEN
   group: DK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5242,7 +5242,7 @@
     - Djibouti
   id: DJ-DJIBOUTI
   group: DJ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5257,7 +5257,7 @@
     - Roseau
   id: DM-ROSEAU
   group: DM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5272,7 +5272,7 @@
     - São Domingos
   id: DO-SANTO-DOMINGO
   group: DO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5287,7 +5287,7 @@
     - Quito
   id: EC-QUITO
   group: EC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5302,7 +5302,7 @@
     - Cairo
   id: EG-CAIRO
   group: EG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5317,7 +5317,7 @@
     - San Salvador
   id: SV-SAN-SALVADOR
   group: SV
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5332,7 +5332,7 @@
     - Malabo
   id: GQ-MALABO
   group: GQ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5347,7 +5347,7 @@
     - Asmara
   id: ER-ASMARA
   group: ER
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5362,7 +5362,7 @@
     - Tallinn
   id: EE-TALLINN
   group: EE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5388,7 +5388,7 @@
     - Lobamba
   id: SZ-MBABANE
   group: SZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5403,7 +5403,7 @@
     - Adis Abeba
   id: ET-ADDIS-ABABA
   group: ET
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5419,7 +5419,7 @@
     - Porto Stanley
   id: FK-STANLEY
   group: FK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5434,7 +5434,7 @@
     - Tórshavn
   id: FO-TORSHAVN
   group: FO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5449,7 +5449,7 @@
     - Suva
   id: FJ-SUVA
   group: FJ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5464,7 +5464,7 @@
     - Helsínquia
   id: FI-HELSINKI
   group: FI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5479,7 +5479,7 @@
     - Caiena
   id: GF-CAYENNE
   group: GF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5494,7 +5494,7 @@
     - Papeete
   id: PF-PAPEETE
   group: PF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5509,7 +5509,7 @@
     - Port-aux-Français
   id: TF-PORT-AUX-FRANCAIS
   group: TF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5524,7 +5524,7 @@
     - Libreville
   id: GA-LIBREVILLE
   group: GA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5539,7 +5539,7 @@
     - Banjul
   id: GM-BANJUL
   group: GM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5554,7 +5554,7 @@
     - Tbilissi
   id: GE-TBILISI
   group: GE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5569,7 +5569,7 @@
     - Berlim
   id: DE-BERLIN
   group: DE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5584,7 +5584,7 @@
     - Acra
   id: GH-ACCRA
   group: GH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5599,7 +5599,7 @@
     - Gibraltar
   id: GI-GIBRALTAR
   group: GI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5614,7 +5614,7 @@
     - Atenas
   id: GR-ATHENS
   group: GR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5629,7 +5629,7 @@
     - Nuuk
   id: GL-NUUK
   group: GL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5646,7 +5646,7 @@
     - São Jorge
   id: GD-ST-GEORGE-S
   group: GD
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5661,7 +5661,7 @@
     - Basse-Terre
   id: GP-BASSE-TERRE
   group: GP
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5678,7 +5678,7 @@
     - Aganha
   id: GU-HAGATNA
   group: GU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5693,7 +5693,7 @@
     - Cidade da Guatemala
   id: GT-GUATEMALA-CITY
   group: GT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5708,7 +5708,7 @@
     - Porto de São Pedro
   id: GG-ST-PETER-PORT
   group: GG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5723,7 +5723,7 @@
     - Conacri
   id: GN-CONAKRY
   group: GN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5738,7 +5738,7 @@
     - Bissau
   id: GW-BISSAU
   group: GW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5753,7 +5753,7 @@
     - 'Georgetown '
   id: GY-GEORGETOWN
   group: GY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5768,7 +5768,7 @@
     - Porto Príncipe
   id: HT-PORT-AU-PRINCE
   group: HT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5785,7 +5785,7 @@
     - Heard (nome arbitrário, sem cidades, desabitado)
   id: HM-HEARD
   group: HM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5801,7 +5801,7 @@
     - Cidade do Vaticano
   id: VA-VATICAN-CITY
   group: VA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5816,7 +5816,7 @@
     - Tegucigalpa
   id: HN-TEGUCIGALPA
   group: HN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5831,7 +5831,7 @@
     - Hong Kong
   id: HK-HONG-KONG
   group: HK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5846,7 +5846,7 @@
     - Budapeste
   id: HU-BUDAPEST
   group: HU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5861,7 +5861,7 @@
     - Reiquiavique
   id: IS-REYKJAVIK
   group: IS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5876,7 +5876,7 @@
     - Nova Deli
   id: IN-NEW-DELHI
   group: IN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5891,7 +5891,7 @@
     - Jacarta
   id: ID-JAKARTA
   group: ID
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5906,7 +5906,7 @@
     - Teerã
   id: IR-TEHRAN
   group: IR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5921,7 +5921,7 @@
     - Bagdá
   id: IQ-BAGHDAD
   group: IQ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5936,7 +5936,7 @@
     - Dublin
   id: IE-DUBLIN
   group: IE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5951,7 +5951,7 @@
     - Douglas
   id: IM-DOUGLAS
   group: IM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5966,7 +5966,7 @@
     - Jerusalém
   id: IL-JERUSALEM
   group: IL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5981,7 +5981,7 @@
     - Roma
   id: IT-ROME
   group: IT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -5996,7 +5996,7 @@
     - Kingston
   id: JM-KINGSTON
   group: JM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6011,7 +6011,7 @@
     - Santo Helério
   id: JE-SAINT-HELIER
   group: JE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6026,7 +6026,7 @@
     - Amã
   id: JO-AMMAN
   group: JO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6042,7 +6042,7 @@
     - Nur-Sultã
   id: KZ-NUR-SULTAN
   group: KZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6057,7 +6057,7 @@
     - Nairóbi
   id: KE-NAIROBI
   group: KE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6072,7 +6072,7 @@
     - Taraua do Sul
   id: KI-SOUTH-TARAWA
   group: KI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6087,7 +6087,7 @@
     - Pyongyang
   id: KP-PYONGYANG
   group: KP
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6102,7 +6102,7 @@
     - Seul
   id: KR-SEOUL
   group: KR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6117,7 +6117,7 @@
     - Pristina
   id: XK-PRISTINA
   group: XK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6132,7 +6132,7 @@
     - Kuwait
   id: KW-KUWAIT
   group: KW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6147,7 +6147,7 @@
     - Bisqueque
   id: KG-BISHKEK
   group: KG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6162,7 +6162,7 @@
     - Vientiane
   id: LA-VIENTIANE
   group: LA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6177,7 +6177,7 @@
     - Riga
   id: LV-RIGA
   group: LV
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6192,7 +6192,7 @@
     - Beirute
   id: LB-BEIRUT
   group: LB
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6207,7 +6207,7 @@
     - Maseru
   id: LS-MASERU
   group: LS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6222,7 +6222,7 @@
     - Monróvia
   id: LR-MONROVIA
   group: LR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6237,7 +6237,7 @@
     - Trípoli
   id: LY-TRIPOLIS
   group: LY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6252,7 +6252,7 @@
     - Vaduz
   id: LI-VADUZ
   group: LI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6267,7 +6267,7 @@
     - Vilnius
   id: LT-VILNIUS
   group: LT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6282,7 +6282,7 @@
     - Luxembourg
   id: LU-LUXEMBOURG
   group: LU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6297,7 +6297,7 @@
     - Macau
   id: MO-MACAO
   group: MO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6312,7 +6312,7 @@
     - Antananarivo
   id: MG-ANTANANARIVO
   group: MG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6327,7 +6327,7 @@
     - Lilongué
   id: MW-LILONGWE
   group: MW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6342,7 +6342,7 @@
     - Kuala Lumpur e Putrajaya (capitais administrativas)
   id: MY-KUALA-LUMPUR
   group: MY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6357,7 +6357,7 @@
     - Malé
   id: MV-MALE
   group: MV
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6372,7 +6372,7 @@
     - Bamaco
   id: ML-BAMAKO
   group: ML
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6387,7 +6387,7 @@
     - Valeta
   id: MT-VALLETTA
   group: MT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6402,7 +6402,7 @@
     - Majuro
   id: MH-MAJURO
   group: MH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6417,7 +6417,7 @@
     - Forte da França
   id: MQ-FORT-DE-FRANCE
   group: MQ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6432,7 +6432,7 @@
     - Nuaquexote
   id: MR-NOUAKCHOTT
   group: MR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6447,7 +6447,7 @@
     - Porto Luís
   id: MU-PORT-LOUIS
   group: MU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6464,7 +6464,7 @@
     - Mamoudzou
   id: YT-MAMOUDZOU
   group: YT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6481,7 +6481,7 @@
     - Cidade do México
   id: MX-MEXICO
   group: MX
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6496,7 +6496,7 @@
     - Paliquir
   id: FM-PALIKIR
   group: FM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6511,7 +6511,7 @@
     - Quixinau
   id: MD-CHISINAU
   group: MD
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6526,7 +6526,7 @@
     - Mónaco
   id: MC-MONACO
   group: MC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6541,7 +6541,7 @@
     - Ulã Bator
   id: MN-ULAN-BATOR
   group: MN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6556,7 +6556,7 @@
     - Podgoritza
   id: ME-PODGORICA
   group: ME
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6581,7 +6581,7 @@
     - Brades
   id: MS-PLYMOUTH
   group: MS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6596,7 +6596,7 @@
     - Rabat
   id: MA-RABAT
   group: MA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6611,7 +6611,7 @@
     - Maputo
   id: MZ-MAPUTO
   group: MZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6626,7 +6626,7 @@
     - Nepiedó
   id: MM-NAY-PYI-TAW
   group: MM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6641,7 +6641,7 @@
     - Vinduque
   id: NA-WINDHOEK
   group: NA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6656,7 +6656,7 @@
     - Yaren
   id: NR-YAREN
   group: NR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6671,7 +6671,7 @@
     - Catmandu
   id: NP-KATHMANDU
   group: NP
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6696,7 +6696,7 @@
     - Haia
   id: NL-AMSTERDAM
   group: NL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6711,7 +6711,7 @@
     - Numeá
   id: NC-NOUMEA
   group: NC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6726,7 +6726,7 @@
     - Wellington
   id: NZ-WELLINGTON
   group: NZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6741,7 +6741,7 @@
     - Manágua
   id: NI-MANAGUA
   group: NI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6756,7 +6756,7 @@
     - Niamei
   id: NE-NIAMEY
   group: NE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6771,7 +6771,7 @@
     - Abuja
   id: NG-ABUJA
   group: NG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6786,7 +6786,7 @@
     - Alofi
   id: NU-ALOFI
   group: NU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6801,7 +6801,7 @@
     - 'Kingston '
   id: NF-KINGSTON
   group: NF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6816,7 +6816,7 @@
     - Escópia
   id: MK-SKOPJE
   group: MK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6831,7 +6831,7 @@
     - Saipã
   id: MP-SAIPAN
   group: MP
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6846,7 +6846,7 @@
     - Oslo
   id: NO-OSLO
   group: 'NO'
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6861,7 +6861,7 @@
     - Mascate
   id: OM-MUSCAT
   group: OM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6876,7 +6876,7 @@
     - Mascate
   id: PK-ISLAMABAD
   group: PK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6891,7 +6891,7 @@
     - Melequeoque
   id: PW-MELEKEOK
   group: PW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6917,7 +6917,7 @@
   id: PS-EAST-JERUSALEM
     FACTO)
   group: PS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6932,7 +6932,7 @@
     - Cidade do Panamá
   id: PA-PANAMA-CITY
   group: PA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6947,7 +6947,7 @@
     - Porto Moresby
   id: PG-PORT-MORESBY
   group: PG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6962,7 +6962,7 @@
     - Assunção
   id: PY-ASUNCION
   group: PY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6977,7 +6977,7 @@
     - Lima
   id: PE-LIMA
   group: PE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -6992,7 +6992,7 @@
     - Manila
   id: PH-MANILA
   group: PH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7007,7 +7007,7 @@
     - Adamstown
   id: PN-ADAMSTOWN
   group: PN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7022,7 +7022,7 @@
     - Varsóvia
   id: PL-WARSAW
   group: PL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7037,7 +7037,7 @@
     - Lisboa
   id: PT-LISBON
   group: PT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7052,7 +7052,7 @@
     - San Juan
   id: PR-SAN-JUAN
   group: PR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7067,7 +7067,7 @@
     - Doha
   id: QA-DOHA
   group: QA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7082,7 +7082,7 @@
     - São Dinis
   id: RE-SAINT-DENIS
   group: RE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7097,7 +7097,7 @@
     - Bucareste
   id: RO-BUCHAREST
   group: RO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7112,7 +7112,7 @@
     - Moscovo
   id: RU-MOSCOW
   group: RU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7127,7 +7127,7 @@
     - Quigali
   id: RW-KIGALI
   group: RW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7142,7 +7142,7 @@
     - Gustávia
   id: BL-GUSTAVIA
   group: BL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7157,7 +7157,7 @@
     - Jamestown
   id: SH-JAMESTOWN
   group: SH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7172,7 +7172,7 @@
     - Basseterre
   id: KN-BASSETERRE
   group: KN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7187,7 +7187,7 @@
     - Castries
   id: LC-CASTRIES
   group: LC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7202,7 +7202,7 @@
     - Marigot
   id: MF-MARIGOT
   group: MF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7217,7 +7217,7 @@
     - São Pedro
   id: PM-SAINT-PIERRE
   group: PM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7232,7 +7232,7 @@
     - Kingstown
   id: VC-KINGSTOWN
   group: VC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7247,7 +7247,7 @@
     - Apia
   id: WS-APIA
   group: WS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7267,7 +7267,7 @@
     - Sereníssima República de San Marino
   id: SM-SAN-MARINO
   group: SM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7282,7 +7282,7 @@
     - São Tomé
   id: ST-SAO-TOME
   group: ST
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7297,7 +7297,7 @@
     - Riade
   id: SA-RIYADH
   group: SA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7312,7 +7312,7 @@
     - Dacar
   id: SN-DAKAR
   group: SN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7327,7 +7327,7 @@
     - Belgrado
   id: RS-BELGRADE
   group: RS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7342,7 +7342,7 @@
     - Vitória
   id: SC-VICTORIA
   group: SC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7357,7 +7357,7 @@
     - Freetown
   id: SL-FREETOWN
   group: SL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7372,7 +7372,7 @@
     - Singapura
   id: SG-SINGAPUR
   group: SG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7387,7 +7387,7 @@
     - Philipsburg
   id: SX-PHILIPSBURG
   group: SX
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7402,7 +7402,7 @@
     - Bratislava
   id: SK-BRATISLAVA
   group: SK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7417,7 +7417,7 @@
     - Liubliana
   id: SI-LJUBLJANA
   group: SI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7432,7 +7432,7 @@
     - Honiara
   id: SB-HONIARA
   group: SB
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7447,7 +7447,7 @@
     - Mogadíscio
   id: SO-MOGADISHU
   group: SO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7462,7 +7462,7 @@
     - Mogadíscio
   id: ZA-PRETORIA
   group: ZA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7477,7 +7477,7 @@
     - Cabo Rei Eduardo
   id: GS-KING-EDWARD-POINT
   group: GS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7492,7 +7492,7 @@
     - Juba
   id: SS-JUBA
   group: SS
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7507,7 +7507,7 @@
     - Madrid
   id: ES-MADRID
   group: ES
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7532,7 +7532,7 @@
     - Colombo
   id: LK-SRI-JAYAWARDENAPURA-KOTTE
   group: LK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7547,7 +7547,7 @@
     - Cartum
   id: SD-KHARTOUM
   group: SD
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7562,7 +7562,7 @@
     - Paramaribo
   id: SR-PARAMARIBO
   group: SR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7577,7 +7577,7 @@
     - Longyearbyen
   id: SJ-LONGYEARBYEN
   group: SJ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7592,7 +7592,7 @@
     - Estocolmo
   id: SE-STOCKHOLM
   group: SE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7607,7 +7607,7 @@
     - Estocolmo
   id: CH-BERNE
   group: CH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7622,7 +7622,7 @@
     - Damasco
   id: SY-DAMASCUS
   group: SY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7637,7 +7637,7 @@
     - Taipé
   id: TW-TAIPEI
   group: TW
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7652,7 +7652,7 @@
     - Duxambé
   id: TJ-DUSHANBE
   group: TJ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7667,7 +7667,7 @@
     - Dodoma
   id: TZ-DODOMA
   group: TZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7682,7 +7682,7 @@
     - Banguecoque
   id: TH-BANGKOK
   group: TH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7697,7 +7697,7 @@
     - Díli
   id: TL-DILI
   group: TL
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7712,7 +7712,7 @@
     - Lomé
   id: TG-LOME
   group: TG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7747,7 +7747,7 @@
     - Fakaofo
   id: TK-ATAFU
   group: TK
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7762,7 +7762,7 @@
     - Nucualofa
   id: TO-NUKU-ALOFA
   group: TO
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7778,7 +7778,7 @@
     - Port of Spain
   id: TT-PORT-OF-SPAIN
   group: TT
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7793,7 +7793,7 @@
     - Tunes
   id: TN-TUNIS
   group: TN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7808,7 +7808,7 @@
     - Ancara
   id: TR-ANKARA
   group: TR
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7823,7 +7823,7 @@
     - Asgabade
   id: TM-ASHGABAT
   group: TM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7838,7 +7838,7 @@
     - Cockburn Town
   id: TC-COCKBURN-TOWN
   group: TC
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7853,7 +7853,7 @@
     - Funafuti
   id: TV-FUNAFUTI
   group: TV
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7868,7 +7868,7 @@
     - Campala
   id: UG-KAMPALA
   group: UG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7891,7 +7891,7 @@
     - Quieve
   id: UA-KYIV
   group: UA
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7909,7 +7909,7 @@
     - Abu Dhabi
   id: AE-ABU-DHABI
   group: AE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7924,7 +7924,7 @@
     - Londres
   id: GB-LONDON
   group: GB
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7944,7 +7944,7 @@
     - Washington
   id: US-WASHINGTON-DC
   group: US
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7964,7 +7964,7 @@
     - Atol Johnston
   id: UM-JOHNSTON-ATOLL
   group: UM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7979,7 +7979,7 @@
     - Montevidéu
   id: UY-MONTEVIDEO
   group: UY
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -7994,7 +7994,7 @@
     - Uzbequistão
   id: UZ-TASHKENT
   group: UZ
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8009,7 +8009,7 @@
     - Porto Vila
   id: VU-PORT-VILA
   group: VU
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8024,7 +8024,7 @@
     - Caracas
   id: VE-CARACAS
   group: VE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8039,7 +8039,7 @@
     - Hanói
   id: VN-HANOI
   group: VN
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8054,7 +8054,7 @@
     - Road Town
   id: VG-ROAD-TOWN
   group: VG
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8071,7 +8071,7 @@
     - Carlota Amália)
   id: VI-CHARLOTTE-AMALIE
   group: VI
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8086,7 +8086,7 @@
     - Mata Utu
   id: WF-MATA-UTU
   group: WF
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8105,7 +8105,7 @@
     - Laâyoune
   id: EH-EL-AAIUN
   group: EH
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8130,7 +8130,7 @@
     - Aden
   id: YE-SANA-A
   group: YE
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8145,7 +8145,7 @@
     - Lusaca
   id: ZM-LUSAKA
   group: ZM
-  numeric_code: ''
+  numeric_code: 
   capital:
 - name:
     en-US:
@@ -8160,7 +8160,7 @@
     - Harare
   id: ZW-HARARE
   group: ZW
-  numeric_code: ''
+  numeric_code: 
   capital:
 
 # ISO3166 - COUNTRY
@@ -8260,7 +8260,7 @@
     pt-PT:
     - Samoa Americana
   id: AS
-  group: oc
+  group: OCEANIA
   numeric_code: '016'
   capital: AS-PAGO-PAGO
 - name:
@@ -8308,7 +8308,7 @@
     pt-PT:
     - Anguila
   id: AI
-  group: na
+  group: NORTH_AMERICA
   numeric_code: '660'
   capital: AI-THE-VALLEY
 - name:
@@ -8402,7 +8402,7 @@
     - Comunidade da Austrália
     - Austrália
   id: AU
-  group: oc
+  group: OCEANIA
   numeric_code: '036'
   capital: AU-CANBERRA
 - name:
@@ -9072,7 +9072,7 @@
     pt-PT:
     - Ilhas Cook
   id: CK
-  group: oc
+  group: OCEANIA
   numeric_code: '184'
   capital: CK-AVARUA
 - name:
@@ -9447,7 +9447,7 @@
     - República das Fíji
     - Fiji
   id: FJ
-  group: oc
+  group: OCEANIA
   numeric_code: '242'
   capital: FJ-SUVA
 - name:
@@ -9510,7 +9510,7 @@
     pt-PT:
     - Polinésia Francesa
   id: PF
-  group: oc
+  group: OCEANIA
   numeric_code: '258'
   capital: PF-PAPEETE
 - name:
@@ -9701,7 +9701,7 @@
     - Guão
     - Guame
   id: GU
-  group: oc
+  group: OCEANIA
   numeric_code: '316'
   capital: GU-HAGATNA
 - name:
@@ -10144,7 +10144,7 @@
     - Quiribáti
     - Kiribati
   id: KI
-  group: oc
+  group: OCEANIA
   numeric_code: '296'
   capital: KI-SOUTH-TARAWA
 - name:
@@ -10509,7 +10509,7 @@
     - República das Ilhas Marshall
     - Ilhas Marshall
   id: MH
-  group: oc
+  group: OCEANIA
   numeric_code: '584'
   capital: MH-MAJURO
 - name:
@@ -10607,7 +10607,7 @@
     - Micronésia
     - Estados Federados da Micronésia
   id: FM
-  group: oc
+  group: OCEANIA
   numeric_code: '583'
   capital: FM-PALIKIR
 - name:
@@ -10773,7 +10773,7 @@
     - República de Nauru
     - Nauru
   id: NR
-  group: oc
+  group: OCEANIA
   numeric_code: '520'
   capital: NR-YAREN
 - name:
@@ -10819,7 +10819,7 @@
     pt-PT:
     - Nova Caledônia
   id: NC
-  group: oc
+  group: OCEANIA
   numeric_code: '540'
   capital: NC-NOUMEA
 - name:
@@ -10834,7 +10834,7 @@
     pt-PT:
     - Nova Zelândia
   id: NZ
-  group: oc
+  group: OCEANIA
   numeric_code: '554'
   capital: NZ-WELLINGTON
 - name:
@@ -10897,7 +10897,7 @@
     pt-PT:
     - Niue
   id: NU
-  group: oc
+  group: OCEANIA
   numeric_code: '570'
   capital: NU-ALOFI
 - name:
@@ -10914,7 +10914,7 @@
     - Ilha Norfolque
     - Ilha Norfolk
   id: NF
-  group: oc
+  group: OCEANIA
   numeric_code: '574'
   capital: NF-KINGSTON
 - name:
@@ -10946,7 +10946,7 @@
     - Comunidade das Ilhas Marianas do Norte
     - Ilhas Marianas Setentrionais
   id: MP
-  group: oc
+  group: OCEANIA
   numeric_code: '580'
   capital: MP-SAIPAN
 - name:
@@ -11010,7 +11010,7 @@
     - República de Palau
     - Palau
   id: PW
-  group: oc
+  group: OCEANIA
   numeric_code: '585'
   capital: PW-MELEKEOK
 - name:
@@ -11059,7 +11059,7 @@
     - Estado Independente da Papua-Nova Guiné
     - Papua-Nova Guiné
   id: PG
-  group: oc
+  group: OCEANIA
   numeric_code: '598'
   capital: PG-PORT-MORESBY
 - name:
@@ -11125,7 +11125,7 @@
     - Grupo de Ilhas Pitcairn
     - Ilhas Pitcairn
   id: PN
-  group: oc
+  group: OCEANIA
   numeric_code: '612'
   capital: PN-ADAMSTOWN
 - name:
@@ -11404,7 +11404,7 @@
     - Samoa
     - Estado Independente de Samoa
   id: WS
-  group: oc
+  group: OCEANIA
   numeric_code: '882'
   capital: WS-APIA
 - name:
@@ -11602,7 +11602,7 @@
     pt-PT:
     - Ilhas Salomão
   id: SB
-  group: oc
+  group: OCEANIA
   numeric_code: '090'
   capital: SB-HONIARA
 - name:
@@ -11918,7 +11918,7 @@
     pt-PT:
     - Toquelau
   id: TK
-  group: oc
+  group: OCEANIA
   numeric_code: '772'
   capital: TK-ATAFU
 - name:
@@ -11934,7 +11934,7 @@
     - Reino de Tonga
     - Tonga
   id: TO
-  group: oc
+  group: OCEANIA
   numeric_code: '776'
   capital: TO-NUKU-ALOFA
 - name:
@@ -12030,7 +12030,7 @@
     pt-PT:
     - Tuvalu
   id: TV
-  group: oc
+  group: OCEANIA
   numeric_code: '798'
   capital: TV-FUNAFUTI
 - name:
@@ -12134,7 +12134,7 @@
     - Ilhas Menores Distantes dos Estados Unidos
     - Ilhas Menores Afastadas dos Estados Unidos
   id: UM
-  group: oc
+  group: OCEANIA
   numeric_code: '581'
   capital: UM-JOHNSTON-ATOLL
 - name:
@@ -12183,7 +12183,7 @@
     - Vanuatu
     - República de Vanuatu
   id: VU
-  group: oc
+  group: OCEANIA
   numeric_code: '548'
   capital: VU-PORT-VILA
 - name:
@@ -12274,7 +12274,7 @@
     - Território das Ilhas Wallis e Futuna
     - Wallis e Futuna
   id: WF
-  group: oc
+  group: OCEANIA
   numeric_code: '876'
   capital: WF-MATA-UTU
 - name:
@@ -12417,6 +12417,21 @@
     pt-PT:
     - Ásia
   id: AFRICA
+  group:
+  numeric_code:
+  capital:
+- name:
+    en-US:
+    - Oceania
+    fr-FR:
+    - Océanie
+    es-ES:
+    - Oceanía
+    de-DE:
+    - Ozeanien
+    pt-PT:
+    - Oceânia
+  id: OCEANIA
   group:
   numeric_code:
   capital:

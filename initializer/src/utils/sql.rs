@@ -1,7 +1,7 @@
 /// # Arguments
 ///
 /// * `value_list` - A vector of strings string containing pre-formated data values. E.g : `("a") ("b")`
-pub fn gen_insert(table_name: &str, schema: &str, value_line_list: Vec<String>) -> String {
+pub fn gen_insert(table_name: &str, schema: &str, value_line_list: &Vec<String>) -> String {
     if value_line_list.len() < 1 {
         return String::from("");
     }
@@ -13,8 +13,8 @@ pub fn gen_insert(table_name: &str, schema: &str, value_line_list: Vec<String>) 
     )
 }
 
-pub fn gen_value_line(values_list: Vec<&str>) -> String {
-    format!(
+pub fn gen_value_line(values_list: Vec<&str>, result_list: &mut Vec<String>) {
+    result_list.push(format!(
         "({})",
         values_list
             .iter()
@@ -27,7 +27,7 @@ pub fn gen_value_line(values_list: Vec<&str>) -> String {
             })
             .collect::<Vec<String>>()
             .join(", ")
-    )
+    ));
 }
 
 pub fn string_or_null(value: &Option<String>) -> String {
@@ -52,38 +52,43 @@ mod tests {
 
     #[test]
     fn gen_insert_test_empty() {
-        assert_eq!(gen_insert("", "", vec![]), "");
+        assert_eq!(gen_insert("", "", &vec![]), "");
     }
 
     #[test]
     fn gen_insert_test_one_value() {
         assert_eq!(
-            gen_insert("test", "(test)", vec![String::from("test")]),
+            gen_insert("test", "(test)", &vec![String::from("test")]),
             "INSERT INTO test (test) VALUES\ntest;\n"
         );
     }
 
     #[test]
     fn gen_value_line_one() {
-        assert_eq!(gen_value_line(vec!["test"]), "(\"test\")");
+        let mut list = vec![];
+        gen_value_line(vec!["test"], &mut list);
+        assert_eq!(list.get(0).unwrap(), "(\"test\")");
     }
 
     #[test]
     fn gen_value_multiple() {
-        assert_eq!(
-            gen_value_line(vec!["test", "test2"]),
-            "(\"test\", \"test2\")"
-        );
+        let mut list = vec![];
+        gen_value_line(vec!["test", "test2"], &mut list);
+        assert_eq!(list.get(0).unwrap(), "(\"test\", \"test2\")");
     }
 
     #[test]
     fn gen_value_none() {
-        assert_eq!(gen_value_line(vec![]), "()");
+        let mut list = vec![];
+        gen_value_line(vec![], &mut list);
+        assert_eq!(list.get(0).unwrap(), "()");
     }
 
     #[test]
     fn gen_value_null_not_surrounded() {
-        assert_eq!(gen_value_line(vec!["test", "null"]), "(\"test\", null)");
+        let mut list = vec![];
+        gen_value_line(vec!["test", "null"], &mut list);
+        assert_eq!(list.get(0).unwrap(), "(\"test\", null)");
     }
 
     #[test]
