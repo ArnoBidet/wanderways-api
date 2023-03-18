@@ -1,13 +1,13 @@
 use std::ops::Add;
-use crate::{yaml_reader, utils};
+use crate::utils::*;
 use super::translation::*;
 
 pub fn gen_map() -> String {
-    let data = yaml_reader::<Vec<utils::schemas::Map>>("map");
+    let data = yaml_reader::yaml_reader::<Vec<schemas::Map>>("map");
     let mut map_value_lines: Vec<String> = Vec::new();
     let mut translations_value_lines: Vec<String> = Vec::new();
     data.iter().for_each(|ele| {
-        utils::sql::gen_value_line(
+        sql::gen_value_line(
             vec![&ele.id, &ele.id_description, &ele.url_wiki],
             &mut map_value_lines,
         );
@@ -18,7 +18,7 @@ pub fn gen_map() -> String {
         ));
     });
     let map_translations = gen_translation_insert(&translations_value_lines);
-    let map_inserts = utils::sql::gen_insert(
+    let map_inserts = sql::gen_insert(
         "map",
         "(id, id_description, url_wiki)",
         &map_value_lines
