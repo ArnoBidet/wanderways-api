@@ -1,10 +1,9 @@
-use crate::extract_content_deserialized;
 use std::ops::Add;
 use crate::utils::*;
 use crate::inserters::translation::*;
 
 pub fn gen_data() -> String {
-    let data = extract_content_deserialized::<Vec<schemas::Data>>("data");
+    let data = yaml_reader::yaml_reader::<Vec<schemas::Data>>("data");
     let mut data_value_lines: Vec<String> = Vec::new();
     let mut translations_value_lines: Vec<String> = Vec::new();
     data.iter().for_each(|ele| {

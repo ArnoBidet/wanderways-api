@@ -1,7 +1,7 @@
-use crate::{extract_content_deserialized, utils};
+use crate::{yaml_reader, utils};
 
 pub fn gen_tag_map() -> String {
-    let tag_map = extract_content_deserialized::<Vec<utils::schemas::TagMap>>("tag_map");
+    let tag_map = yaml_reader::<Vec<utils::schemas::TagMap>>("tag_map");
     let mut tag_map_value_lines: Vec<String> = Vec::new();
     tag_map.iter().for_each(|ele| {
         utils::sql::gen_value_line(vec![&ele.id_map, &ele.id_tag], &mut tag_map_value_lines);

@@ -1,9 +1,9 @@
 use std::ops::Add;
-use crate::{extract_content_deserialized, utils};
+use crate::{yaml_reader, utils};
 use super::translation::*;
 
 pub fn gen_tag_group() -> String {
-    let data = extract_content_deserialized::<Vec<utils::schemas::TagGroup>>("tag_group");
+    let data = yaml_reader::<Vec<utils::schemas::TagGroup>>("tag_group");
     let mut tag_group_value_lines: Vec<String> = Vec::new();
     let mut translations_value_lines: Vec<String> = Vec::new();
     data.iter().for_each(|ele| {

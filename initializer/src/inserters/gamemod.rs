@@ -1,9 +1,9 @@
 use std::ops::Add;
-use crate::{extract_content_deserialized, utils};
+use crate::utils::*;
 use super::translation::*;
 
 pub fn gen_gamemod() -> String {
-    let data = extract_content_deserialized::<Vec<utils::schemas::Gamemod>>("gamemod");
+    let data = yaml_reader::yaml_reader::<Vec<utils::schemas::Gamemod>>("gamemod");
     let mut gamemod_value_lines: Vec<String> = Vec::new();
     let mut translations_value_lines: Vec<String> = Vec::new();
     data.iter().for_each(|ele| {
