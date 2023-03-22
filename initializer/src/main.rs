@@ -7,11 +7,11 @@ mod utils {
 }
 #[path = "inserters"]
 mod inserters {
-    pub mod data;
+    pub mod geo_data;
     pub mod gamemod_map;
     pub mod gamemod;
     pub mod languages;
-    pub mod map_data;
+    pub mod map_geo_data;
     pub mod map;
     pub mod tag_group;
     pub mod tag_map;
@@ -25,10 +25,10 @@ use inserters::*;
 
 fn main() {
     let to_add = &mut vec![];
-    to_add.push(data::gen_data());
+    to_add.push(geo_data::gen_geo_data());
     to_add.push(languages::gen_languages());
     to_add.push(gamemod_map::gen_gamemod_map());
-    to_add.push(map_data::gen_map_data());
+    to_add.push(map_geo_data::gen_map_geo_data());
     to_add.push(map::gen_map());
     to_add.push(gamemod::gen_gamemod());
     to_add.push(tag_group::gen_tag_group());

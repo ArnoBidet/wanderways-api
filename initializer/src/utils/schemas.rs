@@ -32,7 +32,7 @@ pub struct Translations {
 #[derive(Serialize, Deserialize, Debug)]
 pub struct MapData {
     pub id_map: String,
-    pub id_data: String,
+    pub id_geo_data: String,
 }
 
 #[derive(Serialize, Deserialize, Debug)]

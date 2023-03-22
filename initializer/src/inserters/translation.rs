@@ -2,7 +2,7 @@ use std::collections::HashMap;
 
 use crate::utils;
 
-pub fn gen_translation_insert(translations_value_lines : &Vec<String>)-> String {
+pub fn gen_translation_insert(translations_value_lines: &Vec<String>) -> String {
     utils::sql::gen_insert(
         "translations",
         "(id_lang, map_group, map_capital, numeric_code)",
@@ -33,4 +33,30 @@ pub fn gen_translations_values(
     });
 
     value_lines
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn gen_translations_values_test() {
+        let trans = utils::schemas::Translations {
+            fr_fr: Option::Some(vec![String::from("tèt'e")]),
+            en_us: Option::Some(vec![String::from("tèt'e")]),
+            de_de: Option::Some(vec![String::from("tèt'e")]),
+            es_es: Option::Some(vec![String::from("tèt'e")]),
+            pt_pt: Option::Some(vec![String::from("tèt'e")]),
+        };
+        assert_eq!(
+            gen_translations_values(&trans, &String::from("FR-01")),
+            vec![
+                "('fr-FR','tèt''e','FR-01')",
+                "('en-US','tèt''e','FR-01')",
+                "('de-DE','tèt''e','FR-01')",
+                "('es-ES','tèt''e','FR-01')",
+                "('pt-PT','tèt''e','FR-01')"
+                ]
+        );
+    }
 }

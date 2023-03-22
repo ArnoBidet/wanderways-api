@@ -42,16 +42,16 @@ CREATE TABLE gamemod_map (
     PRIMARY KEY(id_gamemod, id_map)
 );
 
-CREATE TABLE data (
+CREATE TABLE geo_data (
     id VARCHAR(50) PRIMARY KEY,
-    data_group VARCHAR(50) REFERENCES data(id),
-    data_capital VARCHAR(50) REFERENCES data(id),
+    geo_data_group VARCHAR(50) REFERENCES geo_data(id),
+    geo_data_capital VARCHAR(50) REFERENCES geo_data(id),
     numeric_code VARCHAR(50)
 );
 
-CREATE TABLE map_data (
+CREATE TABLE map_geo_data (
     id SERIAL PRIMARY KEY,
-    id_data VARCHAR(50) REFERENCES data(id),
+    id_geo_data VARCHAR(50) REFERENCES geo_data(id),
     id_map VARCHAR(50) REFERENCES map(id)
 );
 
@@ -82,9 +82,9 @@ CREATE TABLE success_or_give_up_statistics (
 
 CREATE TABLE game_statistics (
     id_gamemod VARCHAR(50) REFERENCES gamemod(id),
-    id_map_data INT REFERENCES map_data(id),
+    id_map_geo_data INT REFERENCES map_geo_data(id),
     id_lang VARCHAR(50) REFERENCES languages(id),
     id_map VARCHAR(50) REFERENCES map(id),
     found_count INT DEFAULT 0,
-    PRIMARY KEY(id_gamemod, id_map_data, id_lang, id_map)
+    PRIMARY KEY(id_gamemod, id_map_geo_data, id_lang, id_map)
 );

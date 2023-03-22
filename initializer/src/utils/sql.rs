@@ -9,7 +9,7 @@ pub fn gen_insert(table_name: &str, schema: &str, value_line_list: &Vec<String>)
         "INSERT INTO {} {} VALUES\n{};\n",
         table_name,
         schema,
-        value_line_list.join(",\n").sql_escape()
+        value_line_list.join(",\n")
     )
 }
 
@@ -20,7 +20,7 @@ pub fn gen_value_line(values_list: Vec<&str>, result_list: &mut Vec<String>) {
             .iter()
             .map(|val| {
                 return if !val.eq(&"null") {
-                    format!("\"{}\"", val)
+                    format!("'{}'", String::from(val.clone()).sql_escape())
                 } else {
                     String::from(val.clone())
                 };
@@ -67,14 +67,14 @@ mod tests {
     fn gen_value_line_one() {
         let mut list = vec![];
         gen_value_line(vec!["test"], &mut list);
-        assert_eq!(list.get(0).unwrap(), "(\"test\")");
+        assert_eq!(list.get(0).unwrap(), "('test')");
     }
 
     #[test]
     fn gen_value_multiple() {
         let mut list = vec![];
         gen_value_line(vec!["test", "test2"], &mut list);
-        assert_eq!(list.get(0).unwrap(), "(\"test\", \"test2\")");
+        assert_eq!(list.get(0).unwrap(), "('test', 'test2')");
     }
 
     #[test]
@@ -88,7 +88,7 @@ mod tests {
     fn gen_value_null_not_surrounded() {
         let mut list = vec![];
         gen_value_line(vec!["test", "null"], &mut list);
-        assert_eq!(list.get(0).unwrap(), "(\"test\", null)");
+        assert_eq!(list.get(0).unwrap(), "('test', null)");
     }
 
     #[test]
