@@ -11,7 +11,7 @@
     pt-PT:
     - Departamentos franceses
   id: FRANCE_DEPARTMENTS
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Departments of Metropolitan France, excluding Overseas Departments and Territories
     fr-FR:
@@ -37,7 +37,7 @@
     pt-PT:
     - Sedes dos departamentos franceses
   id: FRANCE_DEPARTMENTS_CAPITAL
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Chief towns of the 101 departments of metropolitan France and overseas departments
     fr-FR:
@@ -63,7 +63,7 @@
     pt-PT:
     - Regiões Francesas
   id: FRANCE_REGIONS
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Chief towns of the 13 regions of metropolitan France
     fr-FR:
@@ -89,7 +89,7 @@
     pt-PT:
     - Capital das regiões da França
   id: FRANCE_REGIONS_CAPITAL
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Capitals of the 13 regions of metropolitan France
     fr-FR:
@@ -115,7 +115,7 @@
     pt-PT:
     - Regiões do Japão
   id: JAPAN_REGIONS
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Regions of Japan (unofficial, they have no legal reality)
     fr-FR:
@@ -141,7 +141,7 @@
     pt-PT:
     - Capital das regiões do Japão
   id: JAPAN_REGIONS_CAPITAL
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Capitals of Japan's regions (non-official, they have no legal status as such)
     fr-FR:
@@ -167,7 +167,7 @@
     pt-PT:
     - Prefeituras do Japão
   id: JAPAN_PREFECTURES
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Prefectures of Japan
     fr-FR:
@@ -193,7 +193,7 @@
     pt-PT:
     - Capital das prefeituras do Japão
   id: JAPAN_PREFECTURES_CAPITAL
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Capitals of the prefectures of Japan
     fr-FR:
@@ -219,7 +219,7 @@
     pt-PT:
     - Países do mundo - ONU
   id: WORLD_COUNTRIES_UN
-  description_translations: 
+  description_translated_values: 
     fr-FR:
     - Carte des pays du monde selon l'ONU
     en-US:
@@ -245,7 +245,7 @@
     pt-PT:
     - Capital dos países do mundo - ONU
   id: WORLD_COUNTRIES_UN_CAPITAL
-  description_translations: 
+  description_translated_values: 
     en-US:
     - A map showing the capital cities of all the countries in the world, as recognized by the United Nations. The United Nations recognizes 193 member states, but there are also 2 observer states (the Holy See and Palestine) and 6 partially recognized states (Abkhazia, Kosovo, Nagorno-Karabakh, Northern Cyprus, South Ossetia, and Transnistria) that are not considered full member states of the UN. These states have some level of international recognition, but their status is disputed and not universally recognized. Therefore, the total number of countries/territories recognized by the UN, including both member states and observer/partially recognized states, is 201.
     fr-FR:
@@ -271,7 +271,7 @@
     pt-PT:
     - Países do mundo - ISO-3166
   id: WORLD_COUNTRIES_ISO3166
-  description_translations: 
+  description_translated_values: 
     en-US:
     - ISO-3166 is a standard that allows for the definition of codes for the names of countries and their subdivisions. The list of geographical entities is larger than that of UN member countries, but this is due to the inclusion of certain entities that are not considered sovereign states, but have some degree of autonomy or partial international recognition, such as overseas territories, dependencies, and areas under special sovereignty. However, the fact that a territory is included in ISO-3166 does not necessarily mean that it is recognized as a sovereign state or that it is part of the world's geographical and political entities.
     fr-FR:
@@ -297,7 +297,7 @@
     pt-PT:
     - Capital dos países do mundo - ISO-3166
   id: WORLD_COUNTRIES_ISO3166_CAPITAL
-  description_translations: 
+  description_translated_values: 
     en-US:
     - Important city/cities for each territory listed in ISO 3166. Some of these territories have no inhabitants or cities, so we have sometimes arbitrarily chosen geographic features to designate them as capitals.
     fr-FR:

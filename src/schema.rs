@@ -106,7 +106,7 @@ diesel::table! {
     translation (id) {
         id -> Int4,
         id_lang -> Nullable<Varchar>,
-        translation -> Nullable<Text>,
+        translated_value -> Nullable<Text>,
         id_item -> Nullable<Varchar>,
     }
 }
