@@ -2169,7 +2169,7 @@
   id: FR-72
   group: FR-PDL
   numeric_code: '72'
-  capital: FR-LE MANS
+  capital: FR-LE-MANS
 - name:
     en-US:
     - Savoie
@@ -2501,7 +2501,7 @@
     - Córcega
     pt-PT:
     - Córsega
-  id: FR-COR
+  id: FR-20R
   group: FR
   numeric_code:
   capital : FR-AJACCIO
@@ -2610,6 +2610,21 @@
   group: FR
   numeric_code:
   capital : FR-NANTES
+- name:
+    en-US:
+    - Provence-Alpes-Côte d'Azur
+    fr-FR:
+    - Provence-Alpes-Côte d'Azur
+    de-DE:
+    - Provence-Alpes-Côte d'Azur
+    es-ES:
+    - Provenza-Alpes-Costa Azul
+    pt-PT:
+    - Provença-Alpes-Costa Azul
+  id: FR-PAC
+  group: FR
+  numeric_code:
+  capital : FR-MARSEILLE
 
 # JAPAN CITIES
 - name: 
@@ -4076,7 +4091,7 @@
     - Kanto
     pt-PT:
     - Kanto
-  id: JP-KAN
+  id: JP-KNT
   group: JP
   numeric_code:
   capital: JP-TOKYO
@@ -4342,7 +4357,7 @@
     pt-PT:
     - Estação McMurdo (maior estação, não capital formal)
     - McMurdo
-  id: AQ-MCMURDO
+  id: AQ-MCMURDO-STATION
   group: AQ
   numeric_code: 
   capital:
@@ -6915,7 +6930,6 @@
     - Jerusalém Oriental
     - Ramallah
   id: PS-EAST-JERUSALEM
-    FACTO)
   group: PS
   numeric_code: 
   capital:
@@ -8909,7 +8923,7 @@
   id: TD
   group: AFRICA
   numeric_code: '148'
-  capital: TD-N'DJAMENA
+  capital: TD-N-DJAMENA
 - name:
     en-US:
     - Chile
@@ -12416,7 +12430,7 @@
     - Asien
     pt-PT:
     - Ásia
-  id: AFRICA
+  id: ASIA
   group:
   numeric_code:
   capital:
@@ -12446,7 +12460,7 @@
     - Antarktis
     pt-PT:
     - Antártida
-  id: AFRICA
+  id: ANTARTICA
   group:
   numeric_code:
   capital:

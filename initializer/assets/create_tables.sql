@@ -1,5 +1,5 @@
 CREATE TABLE lang (
-    id VARCHAR(50),
+    id CHAR(5),
     PRIMARY KEY(id)
 );
 

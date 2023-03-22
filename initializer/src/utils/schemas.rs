@@ -45,7 +45,7 @@ pub struct Map {
 }
 
 #[derive(Serialize, Deserialize, Debug)]
-pub struct Language {
+pub struct Lang {
     pub id: String,
 }
 
