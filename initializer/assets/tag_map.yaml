@@ -1,0 +1,71 @@
+- id_tag : TAG_FRANCE
+  id_map : FRANCE_DEPARTMENTS
+- id_tag : TAG_SUBDIVISIONS
+  id_map : FRANCE_DEPARTMENTS
+- id_tag : TAG_EUROPE
+  id_map : FRANCE_DEPARTMENTS
+
+- id_tag : TAG_FRANCE
+  id_map : FRANCE_DEPARTMENTS_CAPITAL
+- id_tag : TAG_CITIES
+  id_map : FRANCE_DEPARTMENTS_CAPITAL
+- id_tag : TAG_EUROPE
+  id_map : FRANCE_DEPARTMENTS_CAPITAL
+
+- id_tag : TAG_FRANCE
+  id_map : FRANCE_REGIONS
+- id_tag : TAG_SUBDIVISIONS
+  id_map : FRANCE_REGIONS
+- id_tag : TAG_EUROPE
+  id_map : FRANCE_REGIONS
+
+- id_tag : TAG_FRANCE
+  id_map : FRANCE_REGIONS_CAPITAL
+- id_tag : TAG_CITIES
+  id_map : FRANCE_REGIONS_CAPITAL
+- id_tag : TAG_EUROPE
+  id_map : FRANCE_REGIONS_CAPITAL
+
+- id_tag : TAG_JAPAN
+  id_map : JAPAN_PREFECTURES
+- id_tag : TAG_SUBDIVISIONS
+  id_map : JAPAN_PREFECTURES
+- id_tag : TAG_ASIA
+  id_map : JAPAN_PREFECTURES
+
+- id_tag : TAG_JAPAN
+  id_map : JAPAN_PREFECTURES_CAPITAL
+- id_tag : TAG_CITIES
+  id_map : JAPAN_PREFECTURES_CAPITAL
+- id_tag : TAG_ASIA
+  id_map : JAPAN_PREFECTURES_CAPITAL
+
+- id_tag : TAG_JAPAN
+  id_map : JAPAN_REGIONS
+- id_tag : TAG_SUBDIVISIONS
+  id_map : JAPAN_REGIONS
+- id_tag : TAG_ASIA
+  id_map : JAPAN_REGIONS
+
+- id_tag : TAG_JAPAN
+  id_map : JAPAN_REGIONS_CAPITAL
+- id_tag : TAG_CITIES
+  id_map : JAPAN_REGIONS_CAPITAL
+- id_tag : TAG_ASIA
+  id_map : JAPAN_REGIONS_CAPITAL
+
+- id_tag : TAG_WORLD
+  id_map : WORLD_COUNTRIES_UN
+
+- id_tag : TAG_WORLD
+  id_map : WORLD_COUNTRIES_UN_CAPITAL
+- id_tag : TAG_CITIES
+  id_map : WORLD_COUNTRIES_UN_CAPITAL
+
+- id_tag : TAG_WORLD
+  id_map : WORLD_COUNTRIES_ISO3166
+
+- id_tag : TAG_WORLD
+  id_map : WORLD_COUNTRIES_ISO3166_CAPITAL
+- id_tag : TAG_CITIES
+  id_map : WORLD_COUNTRIES_ISO3166_CAPITAL

@@ -1,11 +1,11 @@
-CREATE TABLE languages (
-    id VARCHAR(50),
+CREATE TABLE lang (
+    id CHAR(5),
     PRIMARY KEY(id)
 );
 
-CREATE TABLE translations (
+CREATE TABLE translation (
     id SERIAL PRIMARY KEY,
-    id_lang VARCHAR(50) REFERENCES languages(id),
+    id_lang VARCHAR(50) REFERENCES lang(id),
     translation text,
     id_item VARCHAR(50)
 );
@@ -32,60 +32,59 @@ CREATE TABLE tag_map (
     PRIMARY KEY(id_map, id_tag)
 );
 
-CREATE TABLE gamemode (
+CREATE TABLE gamemod (
     id VARCHAR(50) PRIMARY KEY
 );
 
-CREATE TABLE gamemode_map (
-    id_gamemode VARCHAR(50) REFERENCES gamemode(id),
+CREATE TABLE gamemod_map (
+    id_gamemod VARCHAR(50) REFERENCES gamemod(id),
     id_map VARCHAR(50) REFERENCES map(id),
-    PRIMARY KEY(id_gamemode, id_map)
+    PRIMARY KEY(id_gamemod, id_map)
 );
 
-CREATE TABLE data (
+CREATE TABLE geo_data (
     id VARCHAR(50) PRIMARY KEY,
-    flag_url VARCHAR(2048),
-    data_group VARCHAR(50) REFERENCES data(id),
-    data_capital VARCHAR(50) REFERENCES data(id),
+    geo_data_group VARCHAR(50) REFERENCES geo_data(id),
+    geo_data_capital VARCHAR(50) REFERENCES geo_data(id),
     numeric_code VARCHAR(50)
 );
 
-CREATE TABLE map_data (
+CREATE TABLE map_geo_data (
     id SERIAL PRIMARY KEY,
-    id_data VARCHAR(50) REFERENCES data(id),
+    id_geo_data VARCHAR(50) REFERENCES geo_data(id),
     id_map VARCHAR(50) REFERENCES map(id)
 );
 
-CREATE TABLE map_statistics (
+CREATE TABLE map_statistic (
     id_map VARCHAR(50) REFERENCES map(id),
-    id_lang VARCHAR(50) REFERENCES languages(id),
+    id_lang VARCHAR(50) REFERENCES lang(id),
     play_count INT DEFAULT 0,
     PRIMARY KEY(id_map, id_lang)
 );
 
-CREATE TABLE gamemode_statistics (
-    id_gamemode VARCHAR(50) REFERENCES gamemode(id),
-    id_lang VARCHAR(50) REFERENCES languages(id),
+CREATE TABLE gamemod_statistic (
+    id_gamemod VARCHAR(50) REFERENCES gamemod(id),
+    id_lang VARCHAR(50) REFERENCES lang(id),
     play_count INT DEFAULT 0,
-    PRIMARY KEY(id_gamemode, id_lang)
+    PRIMARY KEY(id_gamemod, id_lang)
 );
 
-CREATE TABLE success_or_give_up_statistics (
+CREATE TABLE success_or_give_up_statistic (
     id_map VARCHAR(50) REFERENCES map(id),
-    id_gamemode VARCHAR(50) REFERENCES gamemode(id),
-    id_lang VARCHAR(50) REFERENCES languages(id),
+    id_gamemod VARCHAR(50) REFERENCES gamemod(id),
+    id_lang VARCHAR(50) REFERENCES lang(id),
     play_count INT DEFAULT 0,
     success_count INT DEFAULT 0,
     give_up_count INT DEFAULT 0,
     unfinished_count INT GENERATED ALWAYS AS (play_count - (success_count+give_up_count)) STORED,
-    PRIMARY KEY(id_map, id_gamemode, id_lang)
+    PRIMARY KEY(id_map, id_gamemod, id_lang)
 );
 
-CREATE TABLE game_statistics (
-    id_gamemode VARCHAR(50) REFERENCES gamemode(id),
-    id_map_data INT REFERENCES map_data(id),
-    id_lang VARCHAR(50) REFERENCES languages(id),
+CREATE TABLE game_statistic (
+    id_gamemod VARCHAR(50) REFERENCES gamemod(id),
+    id_map_geo_data INT REFERENCES map_geo_data(id),
+    id_lang VARCHAR(50) REFERENCES lang(id),
     id_map VARCHAR(50) REFERENCES map(id),
     found_count INT DEFAULT 0,
-    PRIMARY KEY(id_gamemode, id_map_data, id_lang, id_map)
+    PRIMARY KEY(id_gamemod, id_map_geo_data, id_lang, id_map)
 );
