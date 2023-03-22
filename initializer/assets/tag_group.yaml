@@ -1,0 +1,36 @@
+- name :
+    en-US:
+    - Continents
+    fr-FR:
+    - Continents
+    de-DE:
+    - Kontinente
+    es-ES:
+    - Continentes
+    pt-PT:
+    - Continentes
+  id : TAG_GROUP_CONTINENTS
+- name :
+    en-US:
+    - Countries
+    fr-FR:
+    - Pays
+    de-DE:
+    - Länder
+    es-ES:
+    - Países
+    pt-PT:
+    - Países
+  id : TAG_GROUP_COUNTRIES
+- name :
+    en-US:
+    - Level
+    fr-FR:
+    - Niveau
+    de-DE:
+    - Ebene
+    es-ES:
+    - Nivel
+    pt-PT:
+    - Nível
+  id : TAG_GROUP_LEVEL

@@ -1,0 +1,14 @@
+DROP TABLE game_statistics;
+DROP TABLE success_or_give_up_statistics;
+DROP TABLE gamemod_statistics;
+DROP TABLE map_statistics;
+DROP TABLE map_data;
+DROP TABLE data;
+DROP TABLE gamemod_map;
+DROP TABLE gamemod;
+DROP TABLE tag_map;
+DROP TABLE tag;
+DROP TABLE tag_group;
+DROP TABLE map;
+DROP TABLE translations;
+DROP TABLE languages;
