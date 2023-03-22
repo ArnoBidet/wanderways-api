@@ -1,7 +1,6 @@
 #[macro_use]
 extern crate rocket;
 use std::env;
-
 use dotenvy::dotenv;
 use rocket::launch;
 use routes::average_awareness::get_average_awareness;
