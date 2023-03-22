@@ -4,14 +4,14 @@ use crate::utils;
 
 pub fn gen_translation_insert(translations_value_lines: &Vec<String>) -> String {
     utils::sql::gen_insert(
-        "translations",
-        "(id_lang, map_group, map_capital, numeric_code)",
+        "translation",
+        "(id_lang, translation, id_item)",
         &translations_value_lines,
     )
 }
 
 pub fn gen_translations_values(
-    translations: &utils::schemas::Translations,
+    translations: &utils::schemas::Translation,
     id_item: &String,
 ) -> Vec<String> {
     let mut value_lines = Vec::new();

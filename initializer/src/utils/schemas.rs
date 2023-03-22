@@ -2,7 +2,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Data {
-    pub name: Translations,
+    pub name: Translation,
     pub id: String,
     pub group: Option<String>,
     pub numeric_code: Option<String>,
@@ -11,12 +11,12 @@ pub struct Data {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Utils {
-    pub name: Translations,
+    pub name: Translation,
     pub id: String,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
-pub struct Translations {
+pub struct Translation {
     #[serde(alias = "fr-FR")]
     pub fr_fr: Option<Vec<String>>,
     #[serde(alias = "en-US")]
@@ -37,9 +37,9 @@ pub struct MapData {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Map {
-    pub name: Translations,
+    pub name: Translation,
     pub id: String,
-    pub description_translations: Translations,
+    pub description_translations: Translation,
     pub id_description: String,
     pub url_wiki: String,
 }
@@ -62,19 +62,19 @@ pub struct TagMap {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Gamemod {
-    pub name: Translations,
+    pub name: Translation,
     pub id: String,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Tag {
-    pub name: Translations,
+    pub name: Translation,
     pub id: String,
     pub id_group: String,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct TagGroup {
-    pub name: Translations,
+    pub name: Translation,
     pub id: String,
 }

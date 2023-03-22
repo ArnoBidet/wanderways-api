@@ -18,11 +18,7 @@ pub fn gen_geo_data() -> String {
         );
         translations_value_lines.append(&mut gen_translations_values(&ele.name, &ele.id));
     });
-    let data_translations = sql::gen_insert(
-        "translations",
-        "(id_lang, data_group, data_capital, numeric_code)",
-        &translations_value_lines,
-    );
+    let data_translations = gen_translation_insert(&translations_value_lines);
     let data_inserts = gen_translation_insert(&data_value_lines);
     return data_translations.add(&data_inserts);
 }
