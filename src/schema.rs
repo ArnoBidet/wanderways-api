@@ -1,18 +1,9 @@
 // @generated automatically by Diesel CLI.
 
 diesel::table! {
-    data (id) {
-        id -> Varchar,
-        data_group -> Nullable<Varchar>,
-        data_capital -> Nullable<Varchar>,
-        numeric_code -> Nullable<Varchar>,
-    }
-}
-
-diesel::table! {
-    game_statistic (id_gamemod, id_map_data, id_lang, id_map) {
+    game_statistic (id_gamemod, id_map_geo_data, id_lang, id_map) {
         id_gamemod -> Varchar,
-        id_map_data -> Int4,
+        id_map_geo_data -> Int4,
         id_lang -> Varchar,
         id_map -> Varchar,
         found_count -> Nullable<Int4>,
@@ -41,29 +32,17 @@ diesel::table! {
 }
 
 diesel::table! {
-    gamemode (id) {
+    geo_data (id) {
         id -> Varchar,
-    }
-}
-
-diesel::table! {
-    gamemode_map (id_gamemode, id_map) {
-        id_gamemode -> Varchar,
-        id_map -> Varchar,
-    }
-}
-
-diesel::table! {
-    gamemode_statistics (id_gamemode, id_lang) {
-        id_gamemode -> Varchar,
-        id_lang -> Varchar,
-        play_count -> Nullable<Int4>,
+        geo_data_group -> Nullable<Varchar>,
+        geo_data_capital -> Nullable<Varchar>,
+        numeric_code -> Nullable<Varchar>,
     }
 }
 
 diesel::table! {
     lang (id) {
-        id -> Varchar,
+        id -> Bpchar,
     }
 }
 
@@ -76,9 +55,9 @@ diesel::table! {
 }
 
 diesel::table! {
-    map_data (id) {
+    map_geo_data (id) {
         id -> Int4,
-        id_data -> Nullable<Varchar>,
+        id_geo_data -> Nullable<Varchar>,
         id_map -> Nullable<Varchar>,
     }
 }
@@ -135,15 +114,13 @@ diesel::table! {
 diesel::joinable!(game_statistic -> gamemod (id_gamemod));
 diesel::joinable!(game_statistic -> lang (id_lang));
 diesel::joinable!(game_statistic -> map (id_map));
-diesel::joinable!(game_statistic -> map_data (id_map_data));
+diesel::joinable!(game_statistic -> map_geo_data (id_map_geo_data));
 diesel::joinable!(gamemod_map -> gamemod (id_gamemod));
 diesel::joinable!(gamemod_map -> map (id_map));
 diesel::joinable!(gamemod_statistic -> gamemod (id_gamemod));
 diesel::joinable!(gamemod_statistic -> lang (id_lang));
-diesel::joinable!(gamemode_map -> gamemode (id_gamemode));
-diesel::joinable!(gamemode_statistics -> gamemode (id_gamemode));
-diesel::joinable!(map_data -> data (id_data));
-diesel::joinable!(map_data -> map (id_map));
+diesel::joinable!(map_geo_data -> geo_data (id_geo_data));
+diesel::joinable!(map_geo_data -> map (id_map));
 diesel::joinable!(map_statistic -> lang (id_lang));
 diesel::joinable!(map_statistic -> map (id_map));
 diesel::joinable!(success_or_give_up_statistic -> gamemod (id_gamemod));
@@ -155,17 +132,14 @@ diesel::joinable!(tag_map -> tag (id_tag));
 diesel::joinable!(translation -> lang (id_lang));
 
 diesel::allow_tables_to_appear_in_same_query!(
-    data,
     game_statistic,
     gamemod,
     gamemod_map,
     gamemod_statistic,
-    gamemode,
-    gamemode_map,
-    gamemode_statistics,
+    geo_data,
     lang,
     map,
-    map_data,
+    map_geo_data,
     map_statistic,
     success_or_give_up_statistic,
     tag,
