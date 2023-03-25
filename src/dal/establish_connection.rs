@@ -9,7 +9,10 @@ pub async fn establish_connection() -> Result<(Client, JoinHandle<()>), Error> {
             "DATABASE_URL environment variable was not found. Please, add it to .env file.",
         ));
     // Connect to the database.
-    let (client, connection) = tokio_postgres::connect(&database_url, NoTls).await.unwrap();
+    let (client, connection) = match tokio_postgres::connect(&database_url, NoTls).await {
+        Ok(res) => res,
+        Err(err) => return Err(err)
+    };
 
     // The connection object performs the actual communication with the database,
     // so spawn it off to run on its own.

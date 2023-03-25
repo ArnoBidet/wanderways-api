@@ -5,7 +5,11 @@ use crate::bo::game::Game;
 use super::establish_connection::establish_connection;
 
 pub async fn game_list() -> Result<Vec<Game>, Error> {
-    let (client, handle) = establish_connection().await.unwrap();
+    let (client, handle) = match establish_connection().await {
+        Ok(res) => res,
+        Err(err) => return Err(err)
+    };
+    
     let rows = match client.query("SELECT * FROM game_list;", &[]).await {
         Ok(rows) => rows,
         Err(err) => return Err(err),
