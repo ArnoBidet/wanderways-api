@@ -1,1 +1,1 @@
-DROP VIEW gamemod_list;
+DROP VIEW game_list;
