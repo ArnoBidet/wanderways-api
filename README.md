@@ -1,7 +1,16 @@
 # wanderways-api
 Wanderways' API in rust
 
-## Diesel - Postgresql
+# Legacy
+
+## Rejected ORM solution - Diesel
+
+Rejection reason :
+
+- Doesn't fit current needs with loose depencencies between entities
+- Specifics SQL operators (group_concat et coalesce) not supported by defaults
+
+In the end, way too much added work for specific needs on tables that are quite atomical.
 
 ### Linux
 

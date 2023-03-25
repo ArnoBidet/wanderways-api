@@ -6,7 +6,7 @@ CREATE TABLE lang (
 CREATE TABLE translation (
     id SERIAL PRIMARY KEY,
     id_lang VARCHAR(50) REFERENCES lang(id),
-    translation text,
+    translated_value text,
     id_item VARCHAR(50)
 );
 

@@ -5,7 +5,7 @@ use crate::utils;
 pub fn gen_translation_insert(translations_value_lines: &Vec<String>) -> String {
     utils::sql::gen_insert(
         "translation",
-        "(id_lang, translation, id_item)",
+        "(id_lang, translated_value, id_item)",
         &translations_value_lines,
     )
 }
@@ -23,10 +23,10 @@ pub fn gen_translations_values(
     translations_map.insert("pt-PT", &translations.pt_pt);
 
     translations_map.keys().for_each(|key| {
-        if let Some(translations) = &translations_map.get(key).unwrap() {
+        if let Some(translated_values) = &translations_map.get(key).unwrap() {
             let mut value_line = Vec::new();
-            for translation in translations {
-                utils::sql::gen_value_line(vec![key, translation, id_item], &mut value_line);
+            for translated_value in translated_values {
+                utils::sql::gen_value_line(vec![key, translated_value, id_item], &mut value_line);
             }
             value_lines.append(&mut value_line);
         }
@@ -41,7 +41,7 @@ mod tests {
 
     #[test]
     fn gen_translations_values_test() {
-        let trans = utils::schemas::Translations {
+        let trans = utils::schemas::Translation {
             fr_fr: Option::Some(vec![String::from("tèt'e")]),
             en_us: Option::Some(vec![String::from("tèt'e")]),
             de_de: Option::Some(vec![String::from("tèt'e")]),

@@ -39,7 +39,7 @@ pub struct MapData {
 pub struct Map {
     pub name: Translation,
     pub id: String,
-    pub description_translations: Translation,
+    pub description_translated_values: Translation,
     pub id_description: String,
     pub url_wiki: String,
 }

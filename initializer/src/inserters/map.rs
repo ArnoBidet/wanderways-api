@@ -13,7 +13,7 @@ pub fn gen_map() -> String {
         );
         translations_value_lines.append(&mut gen_translations_values(&ele.name, &ele.id));
         translations_value_lines.append(&mut gen_translations_values(
-            &ele.description_translations,
+            &ele.description_translated_values,
             &ele.id_description,
         ));
     });
