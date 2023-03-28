@@ -1,0 +1,1 @@
+DROP FUNCTION map_list;
