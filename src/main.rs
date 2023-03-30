@@ -23,6 +23,7 @@ mod dal {
 mod routes {
     pub mod game_list;
     pub mod map_list;
+    pub mod guards;
 }
 
 #[launch]
