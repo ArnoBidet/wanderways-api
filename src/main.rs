@@ -22,8 +22,8 @@ mod dal {
 }
 mod routes {
     pub mod game_list;
-    pub mod map_list;
     pub mod guards;
+    pub mod map_list;
 }
 
 #[launch]
@@ -37,7 +37,12 @@ fn rocket() -> _ {
 #[cfg(test)]
 mod main_tests {
     use super::rocket;
+    use rocket::http::{Header, Status};
     use rocket::local::blocking::Client;
+
+    fn get_client() -> Client {
+        Client::tracked(rocket()).expect("valid rocket instance")
+    }
 
     #[test]
     fn rocket_launches() {
@@ -46,5 +51,30 @@ mod main_tests {
             Ok(_) => true,
             Err(_) => false,
         });
+    }
+
+    #[test]
+    fn get_game_list() {
+        let client = get_client();
+        let response = client.get("/game/list").dispatch();
+        assert_eq!(response.status(), Status::Ok);
+    }
+
+    #[test]
+    fn get_map_list() {
+        let client = Client::tracked(rocket()).expect("valid rocket instance");
+        let response = client.get("/map/list").dispatch();
+        assert_eq!(response.status(), Status::Ok);
+        assert_eq!(response.headers().get_one("Content-Language").unwrap(), "en-US");
+    }
+    #[test]
+    fn get_map_list_fr() {
+        let client = Client::tracked(rocket()).expect("valid rocket instance");
+        let response = client
+            .get("/map/list")
+            .header(Header::new("Accept-Language", "fr-FR"))
+            .dispatch();
+        assert_eq!(response.status(), Status::Ok);
+        assert_eq!(response.headers().get_one("Content-Language").unwrap(), "fr-FR");
     }
 }
