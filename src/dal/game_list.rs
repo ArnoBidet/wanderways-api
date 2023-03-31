@@ -6,7 +6,7 @@ use super::establish_connection::establish_connection;
 
 pub async fn game_list() -> Result<Vec<Game>, Error> {
     let (client, handle) = establish_connection().await.unwrap();
-    let rows = match client.query("SELECT * FROM game_list;", &[]).await {
+    let rows = match client.query("SELECT id, play_count FROM game_list;", &[]).await {
         Ok(rows) => rows,
         Err(err) => return Err(err),
     };
@@ -19,7 +19,7 @@ fn rows_to_game(rows: Vec<Row>) -> Vec<Game> {
 
     for row in rows {
         result.push(Game {
-            id: row.get("id"),
+            id_gamemod: row.get("id"),
             play_count: row.get("play_count"),
         });
     }
