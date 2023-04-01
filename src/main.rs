@@ -25,6 +25,7 @@ mod routes {
     pub mod game_list;
     pub mod guards;
     pub mod map_list;
+    pub mod responders;
 }
 
 #[launch]
@@ -32,7 +33,7 @@ fn rocket() -> _ {
     dotenv().expect(".env file not found");
     // @TODO extract to another file ?
     // Add support for 404 error
-    rocket::build().mount("/", routes![get_game_list, get_map_list])
+    rocket::build().mount("/", routes![get_game_list, get_map_list, get_map_geo_data])
 }
 
 #[cfg(test)]
