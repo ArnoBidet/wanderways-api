@@ -1,5 +1,5 @@
 EXPLAIN (ANALYZE ,BUFFERS )
-SELECT * FROM mv_map_geo_data;
+SELECT * FROM mv_geo_data;
 
 EXPLAIN (ANALYZE ,BUFFERS )
 SELECT gd.id,

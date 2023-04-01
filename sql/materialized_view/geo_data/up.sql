@@ -1,5 +1,6 @@
-CREATE MATERIALIZED VIEW mv_map_geo_data AS
+CREATE MATERIALIZED VIEW mv_geo_data AS
 SELECT gd.id,
+    l.id as id_lang,
     gd.geo_data_capital,
     gd.geo_data_group,
     gd.numeric_code,
