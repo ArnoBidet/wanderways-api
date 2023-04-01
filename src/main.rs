@@ -17,6 +17,7 @@ mod bo {
 }
 mod dal {
     pub mod establish_connection;
+    pub mod query;
     pub mod game_list;
     pub mod map_list;
 }
