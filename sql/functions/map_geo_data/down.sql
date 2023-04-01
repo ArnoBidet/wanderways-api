@@ -1,0 +1,1 @@
+DROP FUNCTION f_map_geo_data;
