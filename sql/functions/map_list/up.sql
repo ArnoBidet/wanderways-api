@@ -1,5 +1,5 @@
 CREATE OR REPLACE FUNCTION map_list (
-	id_lang char(5)
+	param_id_lang char(5)
 ) 
 RETURNS TABLE (
 	id_map VARCHAR(50),
@@ -23,7 +23,7 @@ begin
             COALESCE(ms.play_count,0) as play_count
             FROM map m
             LEFT JOIN lang l
-            ON l.id = id_lang
+            ON l.id = param_id_lang
             LEFT JOIN map_statistic ms
             ON ms.id_map = m.id
         ) loop
