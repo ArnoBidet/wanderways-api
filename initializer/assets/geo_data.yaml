@@ -4,6 +4,12 @@
     - Bourg-en-Bresse
     fr-FR:
     - Bourg-en-Bresse
+    de-DE:
+    - Bourg-en-Bresse
+    es-ES:
+    - Bourg-en-Bresse
+    pt-PT:
+    - Bourg-en-Bresse
   id: FR-BOURG-EN-BRESSE
   group: FR-01
   numeric_code: 01000
@@ -12,6 +18,12 @@
     en-US:
     - Laon
     fr-FR:
+    - Laon
+    de-DE:
+    - Laon
+    es-ES:
+    - Laon
+    pt-PT:
     - Laon
   id: FR-LAON
   group: FR-02
@@ -22,6 +34,12 @@
     - Moulins
     fr-FR:
     - Moulins
+    de-DE:
+    - Moulins
+    es-ES:
+    - Moulins
+    pt-PT:
+    - Moulins
   id: FR-MOULINS
   group: FR-03
   numeric_code: 03000
@@ -30,6 +48,12 @@
     en-US:
     - Digne-les-Bains
     fr-FR:
+    - Digne-les-Bains
+    de-DE:
+    - Digne-les-Bains
+    es-ES:
+    - Digne-les-Bains
+    pt-PT:
     - Digne-les-Bains
   id: FR-DIGNE-LES-BAINS
   group: FR-04
@@ -40,6 +64,12 @@
     - Nice
     fr-FR:
     - Nice
+    de-DE:
+    - Nizza
+    es-ES:
+    - Niza
+    pt-PT:
+    - Nice
   id: FR-NICE
   group: FR-06
   numeric_code: 06000
@@ -48,6 +78,12 @@
     en-US:
     - Privas
     fr-FR:
+    - Privas
+    de-DE:
+    - Privas
+    es-ES:
+    - Privas
+    pt-PT:
     - Privas
   id: FR-PRIVAS
   group: FR-07
@@ -58,6 +94,12 @@
     - Charleville-Mézières
     fr-FR:
     - Charleville-Mézières
+    de-DE:
+    - Charleville-Mézières
+    es-ES:
+    - Charleville-Mézières
+    pt-PT:
+    - Charleville-Mézières
   id: FR-CHARLEVILLE-MEZIERES
   group: FR-08
   numeric_code: 08000
@@ -66,6 +108,12 @@
     en-US:
     - Foix
     fr-FR:
+    - Foix
+    de-DE:
+    - Foix
+    es-ES:
+    - Foix
+    pt-PT:
     - Foix
   id: FR-FOIX
   group: FR-09
@@ -76,6 +124,12 @@
     - Troyes
     fr-FR:
     - Troyes
+    de-DE:
+    - Troyes
+    es-ES:
+    - Troyes
+    pt-PT:
+    - Troyes
   id: FR-TROYES
   group: FR-10
   numeric_code: 10000
@@ -84,6 +138,12 @@
     en-US:
     - Carcassonne
     fr-FR:
+    - Carcassonne
+    de-DE:
+    - Carcassonne
+    es-ES:
+    - Carcasona
+    pt-PT:
     - Carcassonne
   id: FR-CARCASSONNE
   group: FR-11
@@ -94,6 +154,12 @@
     - Rodez
     fr-FR:
     - Rodez
+    de-DE:
+    - Rodez
+    es-ES:
+    - Rodez
+    pt-PT:
+    - Rodez
   id: FR-RODEZ
   group: FR-12
   numeric_code: 12000
@@ -103,6 +169,12 @@
     - Marseille
     fr-FR:
     - Marseille
+    de-DE:
+    - Marseille
+    es-ES:
+    - Marsella
+    pt-PT:
+    - Marselha
   id: FR-MARSEILLE
   group: FR-13
   numeric_code: 13000
@@ -111,6 +183,12 @@
     en-US:
     - Caen
     fr-FR:
+    - Caen
+    de-DE:
+    - Caen
+    es-ES:
+    - Caen
+    pt-PT:
     - Caen
   id: FR-CAEN
   group: FR-14
@@ -121,6 +199,12 @@
     - Aurillac
     fr-FR:
     - Aurillac
+    de-DE:
+    - Aurillac
+    es-ES:
+    - Aurillac
+    pt-PT:
+    - Aurillac
   id: FR-AURILLAC
   group: FR-15
   numeric_code: 15000
@@ -129,6 +213,12 @@
     en-US:
     - Angoulême
     fr-FR:
+    - Angoulême
+    de-DE:
+    - Angoulême
+    es-ES:
+    - Angulema
+    pt-PT:
     - Angoulême
   id: FR-ANGOULEME
   group: FR-16
@@ -139,6 +229,12 @@
     - La Rochelle
     fr-FR:
     - La Rochelle
+    de-DE:
+    - La Rochelle
+    es-ES:
+    - La Rochelle
+    pt-PT:
+    - La Rochelle
   id: FR-LA-ROCHELLE
   group: FR-17
   numeric_code: 17000
@@ -147,6 +243,12 @@
     en-US:
     - Bourges
     fr-FR:
+    - Bourges
+    de-DE:
+    - Bourges
+    es-ES:
+    - Burdeos
+    pt-PT:
     - Bourges
   id: FR-BOURGES
   group: FR-18
@@ -157,6 +259,12 @@
     - Tulle
     fr-FR:
     - Tulle
+    de-DE:
+    - Tulle
+    es-ES:
+    - Tulle
+    pt-PT:
+    - Tulle
   id: FR-TULLE
   group: FR-19
   numeric_code: 19000
@@ -165,6 +273,12 @@
     en-US:
     - Ajaccio
     fr-FR:
+    - Ajaccio
+    de-DE:
+    - Ajaccio
+    es-ES:
+    - Ajaccio
+    pt-PT:
     - Ajaccio
   id: FR-AJACCIO
   group: FR-2A
@@ -175,14 +289,33 @@
     - Dijon
     fr-FR:
     - Dijon
+    de-DE:
+    - Dijon
+    es-ES:
+    - Dijón
+    pt-PT:
+    - Dijon
   id: FR-DIJON
   group: FR-21
   numeric_code: 21000
   capital:
 - name:
     en-US:
+    - Saint-Brieuc
     - St-Brieuc
     fr-FR:
+    - Saint-Brieuc
+    - St-Brieuc
+    de-DE:
+    - Saint-Brieuc
+    - Sankt-Brieuc
+    - St-Brieuc
+    es-ES:
+    - Saint-Brieuc
+    - San-Brieuc
+    - St-Brieuc
+    pt-PT:
+    - Saint-Brieuc
     - St-Brieuc
   id: FR-ST-BRIEUC
   group: FR-22
@@ -193,6 +326,12 @@
     - Guéret
     fr-FR:
     - Guéret
+    de-DE:
+    - Guéret
+    es-ES:
+    - Guéret
+    pt-PT:
+    - Guéret
   id: FR-GUERET
   group: FR-23
   numeric_code: 23000
@@ -201,6 +340,12 @@
     en-US:
     - Niort
     fr-FR:
+    - Niort
+    de-DE:
+    - Niort
+    es-ES:
+    - Niort
+    pt-PT:
     - Niort
   id: FR-NIORT
   group: FR-79
@@ -211,6 +356,12 @@
     - Périgueux
     fr-FR:
     - Périgueux
+    de-DE:
+    - Périgueux
+    es-ES:
+    - Périgueux
+    pt-PT:
+    - Périgueux
   id: FR-PERIGUEUX
   group: FR-24
   numeric_code: 24000
@@ -219,6 +370,12 @@
     en-US:
     - Besançon
     fr-FR:
+    - Besançon
+    de-DE:
+    - Besançon
+    es-ES:
+    - Besanzón
+    pt-PT:
     - Besançon
   id: FR-BESANÇON
   group: FR-25
@@ -229,6 +386,12 @@
     - Valence
     fr-FR:
     - Valence
+    de-DE:
+    - Valence
+    es-ES:
+    - Valencia
+    pt-PT:
+    - Valência
   id: FR-VALENCE
   group: FR-26
   numeric_code: 26000
@@ -237,6 +400,12 @@
     en-US:
     - Évry
     fr-FR:
+    - Évry
+    de-DE:
+    - Évry
+    es-ES:
+    - Évry
+    pt-PT:
     - Évry
   id: FR-EVRY
   group: FR-91
@@ -247,6 +416,12 @@
     - Évreux
     fr-FR:
     - Évreux
+    de-DE:
+    - Évreux
+    es-ES:
+    - Évreux
+    pt-PT:
+    - Évreux
   id: FR-EVREUX
   group: FR-27
   numeric_code: 27000
@@ -255,6 +430,12 @@
     en-US:
     - Chartres
     fr-FR:
+    - Chartres
+    de-DE:
+    - Chartres
+    es-ES:
+    - Chartres
+    pt-PT:
     - Chartres
   id: FR-CHARTRES
   group: FR-28
@@ -265,6 +446,12 @@
     - Quimper
     fr-FR:
     - Quimper
+    de-DE:
+    - Quimper
+    es-ES:
+    - Quimper
+    pt-PT:
+    - Quimper
   id: FR-QUIMPER
   group: FR-29
   numeric_code: 29000
@@ -274,6 +461,12 @@
     - Cayenne
     fr-FR:
     - Cayenne
+    de-DE:
+    - Cayenne
+    es-ES:
+    - Cayena
+    pt-PT:
+    - Caiena
   id: FR-CAYENNE
   group: FR-973
   numeric_code: 973000
@@ -282,6 +475,12 @@
     en-US:
     - Nîmes
     fr-FR:
+    - Nîmes
+    de-DE:
+    - Nîmes
+    es-ES:
+    - Nimes
+    pt-PT:
     - Nîmes
   id: FR-NIMES
   group: FR-30
@@ -292,6 +491,12 @@
     - Auch
     fr-FR:
     - Auch
+    de-DE:
+    - Auch
+    es-ES:
+    - Auch
+    pt-PT:
+    - Auch
   id: FR-AUCH
   group: FR-32
   numeric_code: 32000
@@ -301,6 +506,12 @@
     - Bordeaux
     fr-FR:
     - Bordeaux
+    de-DE:
+    - Bordeaux
+    es-ES:
+    - Burdeos
+    pt-PT:
+    - Bordéus
   id: FR-BORDEAUX
   group: FR-33
   numeric_code: 33000
@@ -309,6 +520,12 @@
     en-US:
     - Basse-Terre
     fr-FR:
+    - Basse-Terre
+    de-DE:
+    - Basse-Terre
+    es-ES:
+    - Basse-Terre
+    pt-PT:
     - Basse-Terre
   id: FR-BASSE-TERRE
   group: FR-971
@@ -319,6 +536,12 @@
     - Bastia
     fr-FR:
     - Bastia
+    de-DE:
+    - Bastia
+    es-ES:
+    - Bastia
+    pt-PT:
+    - Bastia
   id: FR-BASTIA
   group: FR-2B
   numeric_code: 2B000
@@ -327,6 +550,12 @@
     en-US:
     - Toulouse
     fr-FR:
+    - Toulouse
+    de-DE:
+    - Toulouse
+    es-ES:
+    - Toulouse
+    pt-PT:
     - Toulouse
   id: FR-TOULOUSE
   group: FR-31
@@ -337,6 +566,12 @@
     - Le Puy-en-Velay
     fr-FR:
     - Le Puy-en-Velay
+    de-DE:
+    - Le Puy-en-Velay
+    es-ES:
+    - Le Puy-en-Velay
+    pt-PT:
+    - Le Puy-en-Velay
   id: FR-LE-PUY-EN-VELAY
   group: FR-43
   numeric_code: 43000
@@ -345,6 +580,12 @@
     en-US:
     - Chaumont
     fr-FR:
+    - Chaumont
+    de-DE:
+    - Chaumont
+    es-ES:
+    - Chaumont
+    pt-PT:
     - Chaumont
   id: FR-CHAUMONT
   group: FR-52
@@ -355,6 +596,12 @@
     - Gap
     fr-FR:
     - Gap
+    de-DE:
+    - Gap
+    es-ES:
+    - Gap
+    pt-PT:
+    - Gap
   id: FR-GAP
   group: FR-05
   numeric_code: 05000
@@ -363,6 +610,12 @@
     en-US:
     - Vesoul
     fr-FR:
+    - Vesoul
+    de-DE:
+    - Vesoul
+    es-ES:
+    - Vesoul
+    pt-PT:
     - Vesoul
   id: FR-VESOUL
   group: FR-70
@@ -373,6 +626,12 @@
     - Annecy
     fr-FR:
     - Annecy
+    de-DE:
+    - Annecy
+    es-ES:
+    - Annecy
+    pt-PT:
+    - Annecy
   id: FR-ANNECY
   group: FR-74
   numeric_code: 74000
@@ -381,6 +640,12 @@
     en-US:
     - Tarbes
     fr-FR:
+    - Tarbes
+    de-DE:
+    - Tarbes
+    es-ES:
+    - Tarbes
+    pt-PT:
     - Tarbes
   id: FR-TARBES
   group: FR-65
@@ -391,6 +656,12 @@
     - Limoges
     fr-FR:
     - Limoges
+    de-DE:
+    - Limoges
+    es-ES:
+    - Limoges
+    pt-PT:
+    - Limoges
   id: FR-LIMOGES
   group: FR-87
   numeric_code: 87000
@@ -399,6 +670,12 @@
     en-US:
     - Nanterre
     fr-FR:
+    - Nanterre
+    de-DE:
+    - Nanterre
+    es-ES:
+    - Nanterre
+    pt-PT:
     - Nanterre
   id: FR-NANTERRE
   group: FR-92
@@ -409,6 +686,12 @@
     - Montpellier
     fr-FR:
     - Montpellier
+    de-DE:
+    - Montpellier
+    es-ES:
+    - Montpellier
+    pt-PT:
+    - Montpellier
   id: FR-MONTPELLIER
   group: FR-34
   numeric_code: 34000
@@ -417,6 +700,12 @@
     en-US:
     - Rennes
     fr-FR:
+    - Rennes
+    de-DE:
+    - Rennes
+    es-ES:
+    - Rennes
+    pt-PT:
     - Rennes
   id: FR-RENNES
   group: FR-35
@@ -427,6 +716,12 @@
     - Châteauroux
     fr-FR:
     - Châteauroux
+    de-DE:
+    - Châteauroux
+    es-ES:
+    - Châteauroux
+    pt-PT:
+    - Châteauroux
   id: FR-CHATEAUROUX
   group: FR-36
   numeric_code: 36000
@@ -435,6 +730,12 @@
     en-US:
     - Tours
     fr-FR:
+    - Tours
+    de-DE:
+    - Tours
+    es-ES:
+    - Tours
+    pt-PT:
     - Tours
   id: FR-TOURS
   group: FR-37
@@ -445,6 +746,12 @@
     - Grenoble
     fr-FR:
     - Grenoble
+    de-DE:
+    - Grenoble
+    es-ES:
+    - Grenoble
+    pt-PT:
+    - Grenoble
   id: FR-GRENOBLE
   group: FR-38
   numeric_code: 38000
@@ -453,6 +760,12 @@
     en-US:
     - Lons-le-Saunier
     fr-FR:
+    - Lons-le-Saunier
+    de-DE:
+    - Lons-le-Saunier
+    es-ES:
+    - Lons-le-Saunier
+    pt-PT:
     - Lons-le-Saunier
   id: FR-LONS-LE-SAUNIER
   group: FR-39
@@ -463,6 +776,12 @@
     - Mont-de-Marsan
     fr-FR:
     - Mont-de-Marsan
+    de-DE:
+    - Mont-de-Marsan
+    es-ES:
+    - Mont-de-Marsan
+    pt-PT:
+    - Mont-de-Marsan
   id: FR-MONT-DE-MARSAN
   group: FR-40
   numeric_code: 40000
@@ -471,6 +790,12 @@
     en-US:
     - Saint-Étienne
     fr-FR:
+    - Saint-Étienne
+    de-DE:
+    - Saint-Étienne
+    es-ES:
+    - Saint-Étienne
+    pt-PT:
     - Saint-Étienne
   id: FR-SAINT-ETIENNE
   group: FR-42
@@ -481,6 +806,12 @@
     - Nantes
     fr-FR:
     - Nantes
+    de-DE:
+    - Nantes
+    es-ES:
+    - Nantes
+    pt-PT:
+    - Nantes
   id: FR-NANTES
   group: FR-44
   numeric_code: 44000
@@ -489,6 +820,12 @@
     en-US:
     - Orléans
     fr-FR:
+    - Orléans
+    de-DE:
+    - Orléans
+    es-ES:
+    - Orléans
+    pt-PT:
     - Orléans
   id: FR-ORLEANS
   group: FR-45
@@ -499,6 +836,12 @@
     - Blois
     fr-FR:
     - Blois
+    de-DE:
+    - Blois
+    es-ES:
+    - Blois
+    pt-PT:
+    - Blois
   id: FR-BLOIS
   group: FR-41
   numeric_code: 41000
@@ -507,6 +850,12 @@
     en-US:
     - Cahors
     fr-FR:
+    - Cahors
+    de-DE:
+    - Cahors
+    es-ES:
+    - Cahors
+    pt-PT:
     - Cahors
   id: FR-CAHORS
   group: FR-46
@@ -517,6 +866,12 @@
     - Agen
     fr-FR:
     - Agen
+    de-DE:
+    - Agen
+    es-ES:
+    - Agen
+    pt-PT:
+    - Agen
   id: FR-AGEN
   group: FR-47
   numeric_code: 47000
@@ -525,6 +880,12 @@
     en-US:
     - Mende
     fr-FR:
+    - Mende
+    de-DE:
+    - Mende
+    es-ES:
+    - Mende
+    pt-PT:
     - Mende
   id: FR-MENDE
   group: FR-48
@@ -535,6 +896,12 @@
     - Angers
     fr-FR:
     - Angers
+    de-DE:
+    - Angers
+    es-ES:
+    - Angers
+    pt-PT:
+    - Angers
   id: FR-ANGERS
   group: FR-49
   numeric_code: 49000
@@ -543,6 +910,12 @@
     en-US:
     - Saint-Lô
     fr-FR:
+    - Saint-Lô
+    de-DE:
+    - Saint-Lô
+    es-ES:
+    - Saint-Lô
+    pt-PT:
     - Saint-Lô
   id: FR-SAINT-LO
   group: FR-50
@@ -553,6 +926,12 @@
     - Châlons-en-Champagne
     fr-FR:
     - Châlons-en-Champagne
+    de-DE:
+    - Châlons-en-Champagne
+    es-ES:
+    - Châlons-en-Champagne
+    pt-PT:
+    - Châlons-en-Champagne
   id: FR-CHALONS-EN-CHAMPAGNE
   group: FR-51
   numeric_code: 51000
@@ -561,6 +940,12 @@
     en-US:
     - Fort-de-France
     fr-FR:
+    - Fort-de-France
+    de-DE:
+    - Fort-de-France
+    es-ES:
+    - Fort-de-France
+    pt-PT:
     - Fort-de-France
   id: FR-FORT-DE-FRANCE
   group: FR-972
@@ -571,6 +956,12 @@
     - Paris
     fr-FR:
     - Paris
+    de-DE:
+    - Paris
+    es-ES:
+    - París
+    pt-PT:
+    - Paris
   id: FR-PARIS
   group: FR-75
   numeric_code: 75000
@@ -579,6 +970,12 @@
     en-US:
     - Laval
     fr-FR:
+    - Laval
+    de-DE:
+    - Laval
+    es-ES:
+    - Laval
+    pt-PT:
     - Laval
   id: FR-LAVAL
   group: FR-53
@@ -589,6 +986,12 @@
     - Dzaoudzi
     fr-FR:
     - Dzaoudzi
+    de-DE:
+    - Dzaoudzi
+    es-ES:
+    - Dzaoudzi
+    pt-PT:
+    - Dzaoudzi
   id: FR-DZAOUDZI
   group: FR-976
   numeric_code: 976000
@@ -597,6 +1000,12 @@
     en-US:
     - Nancy
     fr-FR:
+    - Nancy
+    de-DE:
+    - Nancy
+    es-ES:
+    - Nancy
+    pt-PT:
     - Nancy
   id: FR-NANCY
   group: FR-54
@@ -607,6 +1016,12 @@
     - Bar-le-Duc
     fr-FR:
     - Bar-le-Duc
+    de-DE:
+    - Bar-le-Duc
+    es-ES:
+    - Bar-le-Duc
+    pt-PT:
+    - Bar-le-Duc
   id: FR-BAR-LE-DUC
   group: FR-55
   numeric_code: 55000
@@ -615,6 +1030,12 @@
     en-US:
     - Vannes
     fr-FR:
+    - Vannes
+    de-DE:
+    - Vannes
+    es-ES:
+    - Vannes
+    pt-PT:
     - Vannes
   id: FR-VANNES
   group: FR-56
@@ -625,6 +1046,12 @@
     - Metz
     fr-FR:
     - Metz
+    de-DE:
+    - Metz
+    es-ES:
+    - Metz
+    pt-PT:
+    - Metz
   id: FR-METZ
   group: FR-57
   numeric_code: 57000
@@ -633,6 +1060,12 @@
     en-US:
     - Nevers
     fr-FR:
+    - Nevers
+    de-DE:
+    - Nevers
+    es-ES:
+    - Nevers
+    pt-PT:
     - Nevers
   id: FR-NEVERS
   group: FR-58
@@ -643,6 +1076,12 @@
     - Lille
     fr-FR:
     - Lille
+    de-DE:
+    - Lille
+    es-ES:
+    - Lille
+    pt-PT:
+    - Lille
   id: FR-LILLE
   group: FR-59
   numeric_code: 59000
@@ -651,6 +1090,12 @@
     en-US:
     - Beauvais
     fr-FR:
+    - Beauvais
+    de-DE:
+    - Beauvais
+    es-ES:
+    - Beauvais
+    pt-PT:
     - Beauvais
   id: FR-BEAUVAIS
   group: FR-60
@@ -661,6 +1106,12 @@
     - Alençon
     fr-FR:
     - Alençon
+    de-DE:
+    - Alençon
+    es-ES:
+    - Alençon
+    pt-PT:
+    - Alençon
   id: FR-ALENCON
   group: FR-61
   numeric_code: 61000
@@ -670,6 +1121,12 @@
     - Arras
     fr-FR:
     - Arras
+    de-DE:
+    - Arras
+    es-ES:
+    - Arras
+    pt-PT:
+    - Arrás
   id: FR-ARRAS
   group: FR-62
   numeric_code: 62000
@@ -678,6 +1135,12 @@
     en-US:
     - Clermont-Ferrand
     fr-FR:
+    - Clermont-Ferrand
+    de-DE:
+    - Clermont-Ferrand
+    es-ES:
+    - Clermont-Ferrand
+    pt-PT:
     - Clermont-Ferrand
   id: FR-CLERMONT-FERRAND
   group: FR-63
@@ -688,6 +1151,12 @@
     - Pau
     fr-FR:
     - Pau
+    de-DE:
+    - Pau
+    es-ES:
+    - Pau
+    pt-PT:
+    - Pau
   id: FR-PAU
   group: FR-64
   numeric_code: 64000
@@ -697,6 +1166,12 @@
     - Perpignan
     fr-FR:
     - Perpignan
+    de-DE:
+    - Perpignan
+    es-ES:
+    - Perpiñán
+    pt-PT:
+    - Perpinhã
   id: FR-PERPIGNAN
   group: FR-66
   numeric_code: 66000
@@ -706,6 +1181,13 @@
     - Strasbourg
     fr-FR:
     - Strasbourg
+    de-DE:
+    - Straßburg
+    - Strasbourg
+    es-ES:
+    - Estrasburgo
+    pt-PT:
+    - Estrasburgo
   id: FR-STRASBOURG
   group: FR-67
   numeric_code: 67000
@@ -714,6 +1196,12 @@
     en-US:
     - Colmar
     fr-FR:
+    - Colmar
+    de-DE:
+    - Colmar
+    es-ES:
+    - Colmar
+    pt-PT:
     - Colmar
   id: FR-COLMAR
   group: FR-68
@@ -724,6 +1212,12 @@
     - Saint-Denis
     fr-FR:
     - Saint-Denis
+    de-DE:
+    - Saint-Denis
+    es-ES:
+    - Saint-Denis
+    pt-PT:
+    - Saint-Denis
   id: FR-SAINT-DENIS
   group: FR-974
   numeric_code: 974000
@@ -732,6 +1226,12 @@
     en-US:
     - Lyon
     fr-FR:
+    - Lyon
+    de-DE:
+    - Lyon
+    es-ES:
+    - Lyon
+    pt-PT:
     - Lyon
   id: FR-LYON
   group: FR-69
@@ -742,6 +1242,12 @@
     - Mâcon
     fr-FR:
     - Mâcon
+    de-DE:
+    - Mâcon
+    es-ES:
+    - Mâcon
+    pt-PT:
+    - Mâcon
   id: FR-MACON
   group: FR-71
   numeric_code: 71000
@@ -750,6 +1256,12 @@
     en-US:
     - Le Mans
     fr-FR:
+    - Le Mans
+    de-DE:
+    - Le Mans
+    es-ES:
+    - Le Mans
+    pt-PT:
     - Le Mans
   id: FR-LE-MANS
   group: FR-72
@@ -760,6 +1272,12 @@
     - Chambéry
     fr-FR:
     - Chambéry
+    de-DE:
+    - Chambéry
+    es-ES:
+    - Chambéry
+    pt-PT:
+    - Chambéry
   id: FR-CHAMBERY
   group: FR-73
   numeric_code: 73000
@@ -769,6 +1287,12 @@
     - Melun
     fr-FR:
     - Melun
+    de-DE:
+    - Chambéry
+    es-ES:
+    - Chambéry
+    pt-PT:
+    - Chambéry
   id: FR-MELUN
   group: FR-77
   numeric_code: 77000
@@ -778,6 +1302,12 @@
     - Rouen
     fr-FR:
     - Rouen
+    de-DE:
+    - Chambéry
+    es-ES:
+    - Chambéry
+    pt-PT:
+    - Chambéry
   id: FR-ROUEN
   group: FR-76
   numeric_code: 76000
@@ -787,6 +1317,12 @@
     - Bobigny
     fr-FR:
     - Bobigny
+    de-DE:
+    - Chambéry
+    es-ES:
+    - Chambéry
+    pt-PT:
+    - Chambéry
   id: FR-BOBIGNY
   group: FR-93
   numeric_code: 93000
@@ -795,6 +1331,12 @@
     en-US:
     - Amiens
     fr-FR:
+    - Amiens
+    de-DE:
+    - Amiens
+    es-ES:
+    - Amiens
+    pt-PT:
     - Amiens
   id: FR-AMIENS
   group: FR-80
@@ -805,6 +1347,12 @@
     - Albi
     fr-FR:
     - Albi
+    de-DE:
+    - Albi
+    es-ES:
+    - Albi
+    pt-PT:
+    - Albi
   id: FR-ALBI
   group: FR-81
   numeric_code: 81000
@@ -813,6 +1361,12 @@
     en-US:
     - Montauban
     fr-FR:
+    - Montauban
+    de-DE:
+    - Montauban
+    es-ES:
+    - Montauban
+    pt-PT:
     - Montauban
   id: FR-MONTAUBAN
   group: FR-82
@@ -823,6 +1377,12 @@
     - Belfort
     fr-FR:
     - Belfort
+    de-DE:
+    - Belfort
+    es-ES:
+    - Belfort
+    pt-PT:
+    - Belfort
   id: FR-BELFORT
   group: FR-90
   numeric_code: 90000
@@ -831,6 +1391,12 @@
     en-US:
     - Créteil
     fr-FR:
+    - Créteil
+    de-DE:
+    - Créteil
+    es-ES:
+    - Créteil
+    pt-PT:
     - Créteil
   id: FR-CRETEIL
   group: FR-94
@@ -841,6 +1407,12 @@
     - Pontoise
     fr-FR:
     - Pontoise
+    de-DE:
+    - Pontoise
+    es-ES:
+    - Pontoise
+    pt-PT:
+    - Pontoise
   id: FR-PONTOISE
   group: FR-95
   numeric_code: 95000
@@ -849,6 +1421,13 @@
     en-US:
     - Toulon
     fr-FR:
+    - Toulon
+    de-DE:
+    - Toulon
+    es-ES:
+    - Tolón
+    - Toulon
+    pt-PT:
     - Toulon
   id: FR-TOULON
   group: FR-83
@@ -859,6 +1438,12 @@
     - Avignon
     fr-FR:
     - Avignon
+    de-DE:
+    - Avignon
+    es-ES:
+    - Avignon
+    pt-PT:
+    - Avignon
   id: FR-AVIGNON
   group: FR-84
   numeric_code: 84000
@@ -867,6 +1452,12 @@
     en-US:
     - La Roche-sur-Yon
     fr-FR:
+    - La Roche-sur-Yon
+    de-DE:
+    - La Roche-sur-Yon
+    es-ES:
+    - La Roche-sur-Yon
+    pt-PT:
     - La Roche-sur-Yon
   id: FR-LA-ROCHE-SUR-YON
   group: FR-85
@@ -877,6 +1468,12 @@
     - Poitiers
     fr-FR:
     - Poitiers
+    de-DE:
+    - Poitiers
+    es-ES:
+    - Poitiers
+    pt-PT:
+    - Poitiers
   id: FR-POITIERS
   group: FR-86
   numeric_code: 86000
@@ -885,6 +1482,12 @@
     en-US:
     - Épinal
     fr-FR:
+    - Épinal
+    de-DE:
+    - Épinal
+    es-ES:
+    - Épinal
+    pt-PT:
     - Épinal
   id: FR-EPINAL
   group: FR-88
@@ -895,6 +1498,12 @@
     - Auxerre
     fr-FR:
     - Auxerre
+    de-DE:
+    - Auxerre
+    es-ES:
+    - Auxerre
+    pt-PT:
+    - Auxerre
   id: FR-AUXERRE
   group: FR-89
   numeric_code: 89000
@@ -904,6 +1513,12 @@
     - Versailles
     fr-FR:
     - Versailles
+    de-DE:
+    - Chambéry
+    es-ES:
+    - Versalhes
+    pt-PT:
+    - Versalhes
   id: FR-VERSAILLES
   group: FR-78
   numeric_code: 78000
@@ -1865,7 +2480,7 @@
     de-DE:
     - Paris
     pt-PT:
-    - Paris (coletividade com estatuto especial)
+    - Paris
   id: FR-75
   group: FR-IDF
   numeric_code: '75'
@@ -4610,14 +5225,24 @@
 - name:
     en-US:
     - Porto-Novo (political) and Cotonou (economic)
+    - Porto-Novo
+    - Cotonou
     fr-FR:
     - Porto-Novo (politique) et Cotonou (économique)
+    - Porto-Novo
+    - Cotonou
     es-ES:
     - Porto-Novo (político) y Cotonú (económico)
+    - Porto-Novo
+    - Cotonú
     de-DE:
     - Porto-Novo (politisch) und Cotonou (wirtschaftlich)
+    - Porto-Novo
+    - Cotonou
     pt-PT:
     - Porto-Novo (político) e Cotonou (económico)
+    - Porto-Novo
+    - Cotonou
   id: BJ-PORTO-NOVO
   group: BJ
   numeric_code: 
@@ -5068,14 +5693,24 @@
 - name:
     en-US:
     - Brazzaville (political) and Pointe-Noire (economic)
+    - Brazzaville
+    - Pointe-Noire
     fr-FR:
     - Brazzaville (politique) et Pointe-Noire (économique)
+    - Brazzaville
+    - Pointe-Noire
     es-ES:
     - Brazzaville (político) y Pointe-Noire (económico)
+    - Brazzaville
+    - Pointe-Noire
     de-DE:
     - Brazzaville (politisch) und Pointe-Noire (wirtschaftlich)
+    - Brazzaville
+    - Pointe-Noire
     pt-PT:
     - Brazzaville (político) e Pointe-Noire (económico)
+    - Brazzaville
+    - Pointe-Noire
   id: CG-BRAZZAVILLE
   group: CG
   numeric_code: 
@@ -5788,16 +6423,19 @@
 - name:
     en-US:
     - Heard (arbitrary name, no cities, uninhabited)
+    - Heard
     fr-FR:
     - Heard (nom arbitraire, pas de villes, inhabité)
     - Heard
     es-ES:
     - Heard (nombre arbitrario, sin pueblos, deshabitado)
+    - Heard
     de-DE:
     - Heard (willkürlicher Name, keine Städte, unbewohnt)
     - Heard
     pt-PT:
     - Heard (nome arbitrário, sem cidades, desabitado)
+    - Heard
   id: HM-HEARD
   group: HM
   numeric_code: 
@@ -6347,14 +6985,24 @@
 - name:
     en-US:
     - Kuala Lumpur and Putrajaya (administrative capitals)
+    - Kuala Lumpur
+    - Putrajaya
     fr-FR:
     - Kuala Lumpur et Putrajaya (capitales administratives)
+    - Kuala Lumpur
+    - Putrajaya
     es-ES:
     - Kuala Lumpur y Putrajaya (capitales administrativas)
+    - Kuala Lumpur
+    - Putrajaya
     de-DE:
     - Kuala Lumpur und Putrajaya (Verwaltungshauptstädte)
+    - Kuala Lumpur
+    - Putrajaya
     pt-PT:
     - Kuala Lumpur e Putrajaya (capitais administrativas)
+    - Kuala Lumpur
+    - Putrajaya
   id: MY-KUALA-LUMPUR
   group: MY
   numeric_code: 
@@ -7268,6 +7916,7 @@
     - San Marino
     fr-FR:
     - Ville de Saint-Marin
+    - Saint-Marin
     es-ES:
     - Ciudad de San Marino
     - San Marino
@@ -8639,19 +9288,31 @@
     - Bonaire, Sint Eustatius and Saba
     - Caribbean Netherlands
     - Bonaire
+    - Sint Eustatius
+    - Saba
     fr-FR:
     - Bonaire, Saint-Eustache et Saba
     - Bonaire
+    - Saint-Eustache
+    - Saba
     - Pays-Bas caribéens
     es-ES:
     - Bonaire, San Eustaquio y Saba
+    - Bonaire
+    - San Eustaquio
+    - Saba
     - Caribe Neerlandés
     de-DE:
     - Bonaire, Saba, Sint Eustatius
     - Bonaire
+    - Sint Eustatius
+    - Saba
     - Karibische Niederlande
     pt-PT:
     - Bonaire, Santo Eustáquio e Saba
+    - Bonaire
+    - Santo Eustáquio
+    - Saba
     - Países Baixos Caribenhos
   id: BQ
   group: NORTH_AMERICA

@@ -2,20 +2,15 @@ use tokio_postgres::{Error, Row};
 
 use crate::bo::game::Game;
 
-use super::establish_connection::establish_connection;
+use crate::dal::query::query;
 
 pub async fn game_list() -> Result<Vec<Game>, Error> {
-    let (client, handle) = match establish_connection().await {
-        Ok(res) => res,
-        Err(err) => return Err(err)
-    };
-    
-    let rows = match client.query("SELECT * FROM game_list;", &[]).await {
-        Ok(rows) => rows,
-        Err(err) => return Err(err),
-    };
-    handle.abort();
-    Ok(rows_to_game(rows))
+    let sql_query = "SELECT id, play_count FROM game_list;";
+    let params  = &[];
+    match query(sql_query,params).await {
+        Ok(rows)=> Ok(rows_to_game(rows)),
+        Err(err)=> Err(err)
+    }
 }
 
 fn rows_to_game(rows: Vec<Row>) -> Vec<Game> {
@@ -23,7 +18,7 @@ fn rows_to_game(rows: Vec<Row>) -> Vec<Game> {
 
     for row in rows {
         result.push(Game {
-            id: row.get("id"),
+            id_gamemod: row.get("id"),
             play_count: row.get("play_count"),
         });
     }

@@ -1,8 +1,8 @@
 use rocket::serde::Serialize;
 
-#[serde(crate = "rocket::serde")]
 #[derive(Serialize, Debug, PartialEq)]
+#[serde(crate = "rocket::serde")]
 pub struct Game {
-    pub id: String,
+    pub id_gamemod: String,
     pub play_count: i32,
 }
