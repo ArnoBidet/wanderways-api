@@ -1,0 +1,1 @@
+REFRESH MATERIALIZED VIEW mv_map_geo_data;
