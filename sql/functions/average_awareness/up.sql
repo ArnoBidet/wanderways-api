@@ -14,11 +14,14 @@ begin
         SELECT mgd.id_geo_data as id,
             SUM(COALESCE(gds.found_count::int, 0))::int as found_count
         FROM map_geo_data mgd 
+        LEFT JOIN lang l
+        ON l.id like '%'||COALESCE(param_id_lang, '')||'%'
+        LEFT JOIN map m
+        ON m.id = param_id_map
+        LEFT JOIN gamemod g
+        ON g.id = param_id_gamemod
         LEFT JOIN geo_data_statistic gds
-        ON mgd.id = gds.id_geo_data
-        WHERE mgd.id_map = param_id_map
-        AND gds.id_lang like '%'||COALESCE(param_id_lang,'')||'%'
-        AND gds.id_gamemod = param_id_gamemod
-        GROUP BY mgd.id_geo_data
-        ORDER BY mgd.id_geo_data;
+        ON mgd.id = gds.id_geo_data AND m.id = gds.id_map AND g.id = gds.id_gamemod AND l.id = gds.id_lang
+        WHERE mgd.id_map = m.id
+        GROUP BY mgd.id_geo_data;
 end; $$
