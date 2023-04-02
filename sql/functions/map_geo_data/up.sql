@@ -13,29 +13,17 @@ RETURNS TABLE (
 ) 
 language plpgsql
 as $$
-declare 
-    var_r record;
 begin
-	for var_r in(
-            SELECT mv_gd.id,
-                mv_gd.geo_data_label,
-                mv_gd.geo_data_group,
-                mv_gd.geo_data_group_label,
-                mv_gd.geo_data_capital,
-                mv_gd.geo_data_capital_label,
-                mv_gd.numeric_code
-            FROM map_geo_data mgd, mv_geo_data mv_gd
-            WHERE mv_gd.id_lang = param_id_lang
-            AND mgd.id_map = param_id_map
-            AND mv_gd.id = mgd.id_geo_data
-        ) loop
-        id := var_r.id;
-        data_label := var_r.geo_data_label;
-        id_group := var_r.geo_data_group;
-        group_label := var_r.geo_data_group_label;
-        id_capital := var_r.geo_data_capital;
-        capital_label := var_r.geo_data_capital_label;
-        numeric_code := var_r.numeric_code;
-        return next;
-	end loop;
+	RETURN QUERY
+        SELECT mv_gd.id,
+            mv_gd.geo_data_label AS data_label,
+            mv_gd.geo_data_group as id_group,
+            mv_gd.geo_data_group_label as group_label,
+            mv_gd.geo_data_capital as id_capital,
+            mv_gd.geo_data_capital_label as capital_label,
+            mv_gd.numeric_code
+        FROM map_geo_data mgd, mv_geo_data mv_gd
+        WHERE mv_gd.id_lang = param_id_lang
+        AND mgd.id_map = param_id_map
+        AND mv_gd.id = mgd.id_geo_data;
 end; $$ 
