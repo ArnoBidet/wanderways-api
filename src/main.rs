@@ -5,6 +5,7 @@ use rocket::launch;
 use routes::game_list::get_game_list;
 use routes::get_map_geo_data::get_map_geo_data;
 use routes::map_list::get_map_list;
+use routes::tag_list::get_tag_list;
 
 mod translation_parser;
 
@@ -12,17 +13,20 @@ mod bll {
     pub mod game_list;
     pub mod map_list;
     pub mod map_geo_data;
+    pub mod tag_list;
 }
 mod bo {
     pub mod game;
     pub mod map;
     pub mod geo_data;
+    pub mod tag;
 }
 mod dal {
     pub mod establish_connection;
     pub mod game_list;
     pub mod map_list;
     pub mod map_geo_data;
+    pub mod tag_list;
     pub mod query;
 }
 mod routes {
@@ -31,6 +35,7 @@ mod routes {
     pub mod guards;
     pub mod map_list;
     pub mod responders;
+    pub mod tag_list;
 }
 
 #[launch]
@@ -38,7 +43,7 @@ fn rocket() -> _ {
     dotenv().expect(".env file not found");
     // @TODO extract to another file ?
     // Add support for 404 error
-    rocket::build().mount("/", routes![get_game_list, get_map_list, get_map_geo_data])
+    rocket::build().mount("/", routes![get_game_list, get_map_list, get_map_geo_data, get_tag_list])
 }
 
 #[cfg(test)]
@@ -96,6 +101,25 @@ mod main_tests {
         let client = get_client();
         let response = client
             .get(format!("/map-geo-data/{}", "FRANCE_DEPARTMENTS"))
+            .header(Header::new("Accept-Language", "fr-FR"))
+            .dispatch();
+        assert_eq!(response.status(), Status::Ok);
+
+        assert_eq!(
+            response.headers().get_one("content-type").unwrap(),
+            "application/json"
+        );
+        assert_eq!(
+            response.headers().get_one("Content-Language").unwrap(),
+            "fr-FR"
+        );
+    }
+
+    #[test]
+    fn get_tag_list() {
+        let client = get_client();
+        let response = client
+            .get("/tag/list")
             .header(Header::new("Accept-Language", "fr-FR"))
             .dispatch();
         assert_eq!(response.status(), Status::Ok);
