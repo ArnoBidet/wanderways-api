@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION map_list (
+CREATE OR REPLACE FUNCTION f_map_list (
 	param_id_lang char(5)
 ) 
 RETURNS TABLE (

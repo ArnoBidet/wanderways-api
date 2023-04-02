@@ -6,7 +6,7 @@ use tokio_postgres::{Error, Row};
 use crate::dal::query::query;
 
 pub async fn map_list(lang: String) -> Result<Vec<Map>, Error> {
-    let sql_query = "SELECT id_map, map_label, tags, map_description, url_wiki, play_count FROM map_list($1);";
+    let sql_query = "SELECT id_map, map_label, tags, map_description, url_wiki, play_count FROM f_map_list($1);";
     let params : &[&(dyn ToSql + Sync)] = &[&lang];
     match query(sql_query,params).await {
         Ok(rows)=> Ok(rows_to_map(rows)),
