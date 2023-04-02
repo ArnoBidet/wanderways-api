@@ -6,7 +6,7 @@ use tokio_postgres::{Error, Row};
 use crate::dal::query::query;
 
 pub async fn map_list(lang: String) -> Result<Vec<Map>, Error> {
-    let sql_query = "SELECT id_map, map_label, tags, map_description, url_wiki, play_count FROM f_map_list($1);";
+    let sql_query = "SELECT id, label, tags, description, url_wiki, play_count FROM f_map_list($1);";
     let params : &[&(dyn ToSql + Sync)] = &[&lang];
     match query(sql_query,params).await {
         Ok(rows)=> Ok(rows_to_map(rows)),
@@ -19,12 +19,10 @@ fn rows_to_map(rows: Vec<Row>) -> Vec<Map> {
 
     for row in rows {
         result.push(Map {
-            id_map: row.get("id_map"),
-            map_label: row.get::<&str, String>("map_label").translation_parser(),
+            id: row.get("id"),
+            label: row.get("label"),
             tags: row.get::<&str, String>("tags").translation_parser(),
-            map_description: row
-                .get::<&str, String>("map_description")
-                .translation_parser(),
+            description: row.get("description"),
             url_wiki: row.get("url_wiki"),
             play_count: row.get("play_count"),
         });
