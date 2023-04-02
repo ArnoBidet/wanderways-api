@@ -80,11 +80,11 @@ CREATE TABLE success_or_give_up_statistic (
     PRIMARY KEY(id_map, id_gamemod, id_lang)
 );
 
-CREATE TABLE game_statistic (
+CREATE TABLE geo_data_statistic (
     id_gamemod VARCHAR(50) REFERENCES gamemod(id),
-    id_map_geo_data INT REFERENCES map_geo_data(id),
+    id_geo_data INT REFERENCES map_geo_data(id),
     id_lang VARCHAR(50) REFERENCES lang(id),
     id_map VARCHAR(50) REFERENCES map(id),
     found_count INT DEFAULT 0,
-    PRIMARY KEY(id_gamemod, id_map_geo_data, id_lang, id_map)
+    PRIMARY KEY(id_gamemod, id_geo_data, id_lang, id_map)
 );
