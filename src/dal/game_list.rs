@@ -18,7 +18,7 @@ fn rows_to_game(rows: Vec<Row>) -> Vec<Game> {
 
     for row in rows {
         result.push(Game {
-            id_gamemod: row.get("id"),
+            id: row.get("id"),
             play_count: row.get("play_count"),
         });
     }

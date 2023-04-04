@@ -1,2 +1,2 @@
-SELECT * FROM map_list('fr-FR')
+SELECT * FROM f_map_list('fr-FR')
         
