@@ -1,0 +1,1 @@
+REFRESH MATERIALIZED VIEW mv_tag_list;
