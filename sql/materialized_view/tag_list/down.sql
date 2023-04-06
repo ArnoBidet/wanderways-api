@@ -1,0 +1,1 @@
+DROP MATERIALIZED VIEW mv_tag_list;
