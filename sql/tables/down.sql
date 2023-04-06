@@ -1,4 +1,4 @@
-DROP TABLE game_statistic CASCADE;
+DROP TABLE geo_data_statistic CASCADE;
 DROP TABLE success_or_give_up_statistic CASCADE;
 DROP TABLE gamemod_statistic CASCADE;
 DROP TABLE map_statistic CASCADE;
