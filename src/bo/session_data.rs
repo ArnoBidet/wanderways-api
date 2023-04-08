@@ -1,18 +1,18 @@
 use chrono::{DateTime, Utc};
 
 #[derive(Default, Clone)]
-pub struct SessionData {
+pub struct SessionData<'a> {
     pub id_map: String,
     pub id_gamemode: String,
     pub lang: String,
     pub expiration_time: DateTime<Utc>,
-    pub found: Vec<&GeoData>,
-    pub remaining: Vec<&GeoData>,
+    pub found: Vec<&'a GeoData>,
+    pub remaining: Vec<&'a GeoData>,
     pub answers: Vec<GeoData>
 }
 
-#[derive(Default)]
+#[derive(Default, Clone)]
 struct GeoData{
-    id :string,
-    translations : Vec<string>
+    id : String,
+    translations : Vec<String>
 }

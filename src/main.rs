@@ -21,7 +21,7 @@ mod bll {
     pub mod map_geo_data;
     pub mod map_list;
     pub mod tag_list;
-    pub mod game_answer_list;
+    pub mod start_game;
 }
 mod bo {
     pub mod average_awareness;
@@ -40,7 +40,7 @@ mod dal {
     pub mod map_list;
     pub mod tag_list;
     pub mod query;
-    pub mod game_party_answer;
+    pub mod start_game;
 }
 mod routes {
     pub mod utils {

@@ -2,9 +2,9 @@ use tokio_postgres::{Error, Row};
 
 use crate::dal::query::query;
 
-pub async fn game_party_answer() -> Result<Vec<String>, Error> {
+pub async fn start_game(id_lang : String, id_map : String) -> Result<Vec<String>, Error> {
 
-    let sql_query = "SELECT translated_value as answer FROM translation;";
+    let sql_query = "SELECT id, data_label FROM f_map_geo_data('fr-FR', 'FRANCE_DEPARTMENTS');";
     let params  = &[];
 
     match query(sql_query,params).await {

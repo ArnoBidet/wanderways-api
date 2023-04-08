@@ -6,15 +6,15 @@ use chrono::{ DateTime, Duration as ChronoDuration, Utc };
 use crate::bo::session_data::SessionData;
 use crate::bo::game_party::GameParty;
 
-use crate::bll::game_answer_list::game_answer_list;
+use crate::bll::start_game::start_game as bll_start_game;
 
-type Session<'a> = rocket_session::Session<'a, SessionData>;
+type Session<'a> = rocket_session::Session<'a, SessionData<'a>>;
 
 #[post("/start", data = "<game_party>")]
 pub async fn start_game(session: Session<'_>, game_party: Json<GameParty>) -> Result<String, Status> {
 
     // let game_answers: Vec<String> = vec![];
-    let game_answers: Vec<String> = game_answer_list();
+    let game_answers = bll_start_game();
 
     if game_answers.is_empty()
     {
