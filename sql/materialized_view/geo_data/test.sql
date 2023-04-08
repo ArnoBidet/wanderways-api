@@ -1,0 +1,1 @@
+SELECT * FROM mv_geo_data;

@@ -1,0 +1,1 @@
+SELECT * FROM mv_tag_list;

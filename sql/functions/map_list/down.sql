@@ -1,1 +1,1 @@
-DROP FUNCTION map_list;
+DROP FUNCTION f_map_list;

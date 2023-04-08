@@ -5,7 +5,7 @@ use crate::bo::game::Game;
 use crate::dal::query::query;
 
 pub async fn game_list() -> Result<Vec<Game>, Error> {
-    let sql_query = "SELECT id, play_count FROM game_list;";
+    let sql_query = "SELECT id, play_count FROM v_game_list;";
     let params  = &[];
     match query(sql_query,params).await {
         Ok(rows)=> Ok(rows_to_game(rows)),
@@ -18,7 +18,7 @@ fn rows_to_game(rows: Vec<Row>) -> Vec<Game> {
 
     for row in rows {
         result.push(Game {
-            id_gamemod: row.get("id"),
+            id: row.get("id"),
             play_count: row.get("play_count"),
         });
     }

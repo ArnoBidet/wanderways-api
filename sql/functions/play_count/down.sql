@@ -1,0 +1,1 @@
+DROP FUNCTION f_play_count;

@@ -1,0 +1,1 @@
+SELECT * FROM f_map_geo_data('fr-FR', 'FRANCE_DEPARTMENTS');
