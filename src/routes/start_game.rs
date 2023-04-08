@@ -14,7 +14,7 @@ type Session<'a> = rocket_session::Session<'a, SessionData>;
 pub async fn start_game(session: Session<'_>, game_party: Json<GameParty>) -> Result<String, Status> {
 
     // let game_answers: Vec<String> = vec![];
-    let game_answers: Vec<String> = game_answer_list;
+    let game_answers: Vec<String> = game_answer_list();
 
     if game_answers.is_empty()
     {
