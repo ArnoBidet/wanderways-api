@@ -1,7 +1,7 @@
 use chrono::{DateTime, Utc};
 
 #[derive(Default, Clone)]
-pub struct SessionData {
+pub struct SessionData<'a> {
     pub id_map: String,
     pub id_gamemode: String,
     pub lang: String,
