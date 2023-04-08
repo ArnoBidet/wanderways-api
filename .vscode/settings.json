@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "WanderWaysDB",
+            "connectString": "postgres://postgres:postgres@localhost/wanderways_db"
+        }
+    ]
+}
