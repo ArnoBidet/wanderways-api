@@ -1,0 +1,1 @@
+DROP DATABASE [IF EXISTS] wanderways_db;
