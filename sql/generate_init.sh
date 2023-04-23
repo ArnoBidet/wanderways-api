@@ -1,9 +1,9 @@
 #!/bin/bash
 
-cat "" > sql/init_script.sql
+echo "" > sql/init_script.sql
 
 # Define the order in which files should be merged
-order=(database tables functions/** materialized_view/** views/** inserts)
+order=(database tables inserts functions/** materialized_view/** views/** privileges)
 
 # Merge files in the given order
 for item in "${order[@]}"

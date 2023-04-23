@@ -1,10 +1,10 @@
-INSERT INTO lang (id) VALUES
+INSERT INTO private.lang (id) VALUES
 ('fr-FR'),
 ('en-US'),
 ('de-DE'),
 ('es-ES'),
 ('pt-PT');
-INSERT INTO translation (id_lang, translated_value, id_item) VALUES
+INSERT INTO private.translation (id_lang, translated_value, id_item) VALUES
 ('pt-PT', 'Departamentos franceses', 'FRANCE_DEPARTMENTS'),
 ('es-ES', 'Departamentos franceses', 'FRANCE_DEPARTMENTS'),
 ('en-US', 'Departments of France', 'FRANCE_DEPARTMENTS'),
@@ -124,7 +124,7 @@ INSERT INTO translation (id_lang, translated_value, id_item) VALUES
 ('fr-FR', 'Ville(s) importante(s) pour chaque territoire listé dans l''ISO 3166. Certains de ces territoires ne possèdent aucun habitant ni ville, donc nous avons parfois choisi des éléments géographiques arbitrairement pour les désigner comme capitales.', 'WORLD_COUNTRIES_ISO3166_CAPITAL_DESC'),
 ('pt-PT', 'Cidade(s) importante(s) para cada território listado no ISO 3166. Alguns desses territórios não possuem nenhum habitante ou cidade, então às vezes escolhemos elementos geográficos arbitrariamente para designá-los como capitais.', 'WORLD_COUNTRIES_ISO3166_CAPITAL_DESC'),
 ('de-DE', 'Wichtige Stadt/Städte für jeden Gebietseintrag in ISO 3166. Einige dieser Gebiete haben keine Bewohner oder Städte, daher haben wir manchmal geographische Elemente willkürlich als Hauptstadt ausgewählt.', 'WORLD_COUNTRIES_ISO3166_CAPITAL_DESC');
-INSERT INTO map (id, id_description, url_wiki) VALUES
+INSERT INTO private.map (id, id_description, url_wiki) VALUES
 ('FRANCE_DEPARTMENTS', 'FRANCE_DEPARTMENTS_DESC', ''),
 ('FRANCE_DEPARTMENTS_CAPITAL', 'FRANCE_DEPARTMENTS_CAPITAL_DESC', ''),
 ('FRANCE_REGIONS', 'FRANCE_REGIONS_DESC', ''),
@@ -137,7 +137,7 @@ INSERT INTO map (id, id_description, url_wiki) VALUES
 ('WORLD_COUNTRIES_UN_CAPITAL', 'WORLD_COUNTRIES_UN_CAPITAL_DESC', ''),
 ('WORLD_COUNTRIES_ISO3166', 'WORLD_COUNTRIES_ISO3166_DESC', ''),
 ('WORLD_COUNTRIES_ISO3166_CAPITAL', 'WORLD_COUNTRIES_ISO3166_CAPITAL_DESC', '');
-INSERT INTO translation (id_lang, translated_value, id_item) VALUES
+INSERT INTO private.translation (id_lang, translated_value, id_item) VALUES
 ('en-US', 'Continents', 'TAG_GROUP_CONTINENTS'),
 ('de-DE', 'Kontinente', 'TAG_GROUP_CONTINENTS'),
 ('pt-PT', 'Continentes', 'TAG_GROUP_CONTINENTS'),
@@ -153,11 +153,11 @@ INSERT INTO translation (id_lang, translated_value, id_item) VALUES
 ('fr-FR', 'Niveau', 'TAG_GROUP_LEVEL'),
 ('en-US', 'Level', 'TAG_GROUP_LEVEL'),
 ('de-DE', 'Ebene', 'TAG_GROUP_LEVEL');
-INSERT INTO tag_group (id) VALUES
+INSERT INTO private.tag_group (id) VALUES
 ('TAG_GROUP_CONTINENTS'),
 ('TAG_GROUP_COUNTRIES'),
 ('TAG_GROUP_LEVEL');
-INSERT INTO translation (id_lang, translated_value, id_item) VALUES
+INSERT INTO private.translation (id_lang, translated_value, id_item) VALUES
 ('pt-PT', 'França', 'TAG_FRANCE'),
 ('en-US', 'France', 'TAG_FRANCE'),
 ('fr-FR', 'France', 'TAG_FRANCE'),
@@ -208,7 +208,7 @@ INSERT INTO translation (id_lang, translated_value, id_item) VALUES
 ('es-ES', 'América del Sur', 'TAG_NORTH_AMERICA'),
 ('fr-FR', 'Amérique du Sud', 'TAG_NORTH_AMERICA'),
 ('pt-PT', 'América do Sul', 'TAG_NORTH_AMERICA');
-INSERT INTO tag (id, id_group) VALUES
+INSERT INTO private.tag (id, id_group) VALUES
 ('TAG_FRANCE', 'TAG_GROUP_COUNTRIES'),
 ('TAG_JAPAN', 'TAG_GROUP_COUNTRIES'),
 ('TAG_CITIES', 'TAG_GROUP_LEVEL'),
@@ -219,7 +219,7 @@ INSERT INTO tag (id, id_group) VALUES
 ('TAG_AFRICA', 'TAG_GROUP_CONTINENTS'),
 ('TAG_SOUTH_AMERICA', 'TAG_GROUP_CONTINENTS'),
 ('TAG_NORTH_AMERICA', 'TAG_GROUP_CONTINENTS');
-INSERT INTO tag_map (id_map, id_tag) VALUES
+INSERT INTO private.tag_map (id_map, id_tag) VALUES
 ('FRANCE_DEPARTMENTS', 'TAG_FRANCE'),
 ('FRANCE_DEPARTMENTS', 'TAG_SUBDIVISIONS'),
 ('FRANCE_DEPARTMENTS', 'TAG_EUROPE'),
@@ -250,15 +250,15 @@ INSERT INTO tag_map (id_map, id_tag) VALUES
 ('WORLD_COUNTRIES_ISO3166', 'TAG_WORLD'),
 ('WORLD_COUNTRIES_ISO3166_CAPITAL', 'TAG_WORLD'),
 ('WORLD_COUNTRIES_ISO3166_CAPITAL', 'TAG_CITIES');
-INSERT INTO translation (id_lang, translated_value, id_item) VALUES
+INSERT INTO private.translation (id_lang, translated_value, id_item) VALUES
 ('es-ES', 'Contrarreloj', 'AGAINST_CLOCK'),
 ('pt-PT', 'Contra o relógio', 'AGAINST_CLOCK'),
 ('en-US', 'Against the clock', 'AGAINST_CLOCK'),
 ('fr-FR', 'Contre la montre', 'AGAINST_CLOCK'),
 ('de-DE', 'Gegen die Uhr', 'AGAINST_CLOCK');
-INSERT INTO gamemod (id) VALUES
+INSERT INTO private.gamemod (id) VALUES
 ('AGAINST_CLOCK');
-INSERT INTO gamemod_map (id_map, id_gamemod) VALUES
+INSERT INTO private.gamemod_map (id_map, id_gamemod) VALUES
 ('FRANCE_DEPARTMENTS', 'AGAINST_CLOCK'),
 ('FRANCE_DEPARTMENTS_CAPITAL', 'AGAINST_CLOCK'),
 ('FRANCE_REGIONS', 'AGAINST_CLOCK'),
@@ -271,7 +271,7 @@ INSERT INTO gamemod_map (id_map, id_gamemod) VALUES
 ('WORLD_COUNTRIES_UN_CAPITAL', 'AGAINST_CLOCK'),
 ('WORLD_COUNTRIES_ISO3166', 'AGAINST_CLOCK'),
 ('WORLD_COUNTRIES_ISO3166_CAPITAL', 'AGAINST_CLOCK');
-INSERT INTO translation (id_lang, translated_value, id_item) VALUES
+INSERT INTO private.translation (id_lang, translated_value, id_item) VALUES
 ('fr-FR', 'Bourg-en-Bresse', 'FR-BOURG-EN-BRESSE'),
 ('en-US', 'Bourg-en-Bresse', 'FR-BOURG-EN-BRESSE'),
 ('de-DE', 'Bourg-en-Bresse', 'FR-BOURG-EN-BRESSE'),
@@ -5135,7 +5135,7 @@ INSERT INTO translation (id_lang, translated_value, id_item) VALUES
 ('fr-FR', 'Antarctique', 'ANTARTICA'),
 ('de-DE', 'Antarktis', 'ANTARTICA'),
 ('pt-PT', 'Antártida', 'ANTARTICA');
-INSERT INTO geo_data (id, geo_data_group, geo_data_capital, numeric_code) VALUES
+INSERT INTO private.geo_data (id, geo_data_group, geo_data_capital, numeric_code) VALUES
 ('FR-BOURG-EN-BRESSE', 'FR-01', null, '01000'),
 ('FR-LAON', 'FR-02', null, '02000'),
 ('FR-MOULINS', 'FR-03', null, '03000'),
@@ -5959,7 +5959,7 @@ INSERT INTO geo_data (id, geo_data_group, geo_data_capital, numeric_code) VALUES
 ('ASIA', null, null, null),
 ('OCEANIA', null, null, null),
 ('ANTARTICA', null, null, null);
-INSERT INTO map_geo_data (id_map, id_geo_data) VALUES
+INSERT INTO private.map_geo_data (id_map, id_geo_data) VALUES
 ('FRANCE_DEPARTMENTS', 'FR-01'),
 ('FRANCE_DEPARTMENTS', 'FR-02'),
 ('FRANCE_DEPARTMENTS', 'FR-03'),

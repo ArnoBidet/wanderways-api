@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION f_average_awareness (
+CREATE OR REPLACE FUNCTION public.f_average_awareness (
     param_id_map VARCHAR(50),
     param_id_gamemod VARCHAR(50),
 	param_id_lang CHAR(5) DEFAULT NULL
@@ -13,15 +13,15 @@ begin
 	RETURN QUERY
         SELECT mgd.id_geo_data as id,
             SUM(COALESCE(gds.found_count::int, 0))::int as found_count
-        FROM map_geo_data mgd 
-        LEFT JOIN lang l
+        FROM private.map_geo_data mgd 
+        LEFT JOIN private.lang l
         ON l.id like '%'||COALESCE(param_id_lang, '')||'%'
-        LEFT JOIN map m
+        LEFT JOIN private.map m
         ON m.id = param_id_map
-        LEFT JOIN gamemod g
+        LEFT JOIN private.gamemod g
         ON g.id = param_id_gamemod
-        LEFT JOIN geo_data_statistic gds
+        LEFT JOIN private.geo_data_statistic gds
         ON mgd.id = gds.id_geo_data AND m.id = gds.id_map AND g.id = gds.id_gamemod AND l.id = gds.id_lang
         WHERE mgd.id_map = m.id
         GROUP BY mgd.id_geo_data;
-end; $$
+end; $$;
