@@ -1,1 +1,1 @@
-DROP FUNCTION get_translations;
+DROP FUNCTION f_get_translations;

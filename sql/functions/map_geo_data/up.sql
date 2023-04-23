@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION f_map_geo_data (
+CREATE OR REPLACE FUNCTION public.f_map_geo_data (
 	param_id_lang CHAR(5),
     param_id_map VARCHAR(50)
 ) 
@@ -22,8 +22,8 @@ begin
             mv_gd.geo_data_capital as id_capital,
             mv_gd.geo_data_capital_label as capital_label,
             mv_gd.numeric_code
-        FROM map_geo_data mgd, mv_geo_data mv_gd
+        FROM private.map_geo_data mgd, public.mv_geo_data mv_gd
         WHERE mv_gd.id_lang = param_id_lang
         AND mgd.id_map = param_id_map
         AND mv_gd.id = mgd.id_geo_data;
-end; $$ 
+end; $$;

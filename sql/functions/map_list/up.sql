@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION f_map_list (
+CREATE OR REPLACE FUNCTION public.f_map_list (
 	param_id_lang char(5)
 ) 
 RETURNS TABLE (
@@ -14,14 +14,14 @@ AS $$
 BEGIN
     RETURN QUERY 
     SELECT m.id AS id_map,
-        get_translations(l.id, m.id) AS map_label,
-        get_translations(l.id, m.id_description) AS map_description,
-        (SELECT string_agg(tm.id_tag, '||') FROM tag_map tm WHERE  tm.id_map = m.id)  AS tags,
+        f_get_translations(l.id, m.id) AS map_label,
+        f_get_translations(l.id, m.id_description) AS map_description,
+        (SELECT string_agg(tm.id_tag, '||') FROM private.tag_map tm WHERE  tm.id_map = m.id)  AS tags,
         m.url_wiki,
         COALESCE(ms.play_count,0) AS play_count
-        FROM map m
-        LEFT JOIN lang l
+        FROM private.map m
+        LEFT JOIN private.lang l
         ON l.id = param_id_lang
-        LEFT JOIN map_statistic ms
+        LEFT JOIN private.map_statistic ms
         ON ms.id_map = m.id;
-END; $$ 
+END; $$;
