@@ -51,12 +51,15 @@ fn rocket() -> _ {
     dotenv().expect(".env file not found");
     // @TODO extract to another file ?
     // Add support for 404 error
-    rocket::build().mount("/", routes![
+    rocket::build().mount(
+        "/",
+        routes![
     get_game_list,
     get_map_list,
-    get_tag_list
+    get_tag_list,
     get_map_geo_data,
-    get_average_awareness])
+    get_average_awareness],
+    )
 }
 
 #[cfg(test)]
@@ -143,28 +146,29 @@ mod main_tests {
             response.headers().get_one("content-type").unwrap(),
             "application/json"
         );
-        
+
         assert_eq!(
             response.headers().get_one("Content-Language").unwrap(),
             "fr-FR"
         );
 
-    fn get_tag_list() {
-        let client = get_client();
-        let response = client
-            .get("/tag/list")
-            .header(Header::new("Accept-Language", "fr-FR"))
-            .dispatch();
-        assert_eq!(response.status(), Status::Ok);
+        fn get_tag_list() {
+            let client = get_client();
+            let response = client
+                .get("/tag/list")
+                .header(Header::new("Accept-Language", "fr-FR"))
+                .dispatch();
+            assert_eq!(response.status(), Status::Ok);
 
-        assert_eq!(
-            response.headers().get_one("content-type").unwrap(),
-            "application/json"
-        );
-        
-        assert_eq!(
-            response.headers().get_one("Content-Language").unwrap(),
-            "fr-FR"
-        );
+            assert_eq!(
+                response.headers().get_one("content-type").unwrap(),
+                "application/json"
+            );
+
+            assert_eq!(
+                response.headers().get_one("Content-Language").unwrap(),
+                "fr-FR"
+            );
+        }
     }
 }
