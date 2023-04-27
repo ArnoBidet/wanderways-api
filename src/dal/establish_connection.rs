@@ -1,13 +1,9 @@
 use std::env;
 use tokio::task::JoinHandle;
-use tokio_postgres::NoTls;
 use tokio_postgres::{Client, Error};
+use tokio_postgres::{Config, NoTls};
 
 pub async fn establish_connection() -> Result<(Client, JoinHandle<()>), Error> {
-    let database_url =
-        String::from(env::var("DATABASE_URL").expect(
-            "DATABASE_URL environment variable was not found. Please, add it to .env file.",
-        ));
     // Connect to the database.
     let (client, connection) = match tokio_postgres::connect(&database_url, NoTls).await {
         Ok(res) => res,
