@@ -1,5 +1,7 @@
 #[macro_use]
 extern crate rocket;
+use std::env;
+
 use dotenvy::dotenv;
 use rocket::launch;
 use routes::average_awareness::get_average_awareness;
@@ -48,7 +50,10 @@ mod routes {
 
 #[launch]
 fn rocket() -> _ {
-    dotenv().expect(".env file not found");
+    let app_env : String = env::var("APP_ENV").unwrap_or_else(|_| "production".to_string());
+    if app_env == "development"{ // if in dev mod, load .env file, else env var are based on execution context
+        dotenv().expect(".env file not found");
+    }
     // @TODO extract to another file ?
     // Add support for 404 error
     rocket::build().mount(
