@@ -50,8 +50,8 @@ mod routes {
 
 #[launch]
 fn rocket() -> _ {
-    let app_env : String = env::var("APP_ENV").unwrap_or_else(|_| "production".to_string());
-    if app_env == "development"{ // if in dev mod, load .env file, else env var are based on execution context
+    let rocket_env : String = env::var("ROCKET_ENV").unwrap_or_else(|_| "production".to_string());
+    if rocket_env == "development"{ // if in dev mod, load .env file, else env var are based on execution context
         dotenv().expect(".env file not found");
     }
     // @TODO extract to another file ?
