@@ -6,6 +6,7 @@ RUN cargo build --release
 FROM debian:bullseye-slim
 WORKDIR /app
 COPY --from=builder /usr/src/wanderways-api/target/release .
+COPY --from=builder /usr/src/wanderways-api/Rocket.toml .
 RUN set wanderways-api=/usr/src/wanderways-api/target/release/wanderways-api
 EXPOSE 8000
 CMD ["/app/wanderways-api"]
