@@ -10,11 +10,11 @@ use routes::map_list::get_map_list;
 use routes::tag_list::get_tag_list;
 use routes::start_game::start_game;
 
+use routes::start_game::Session as custom_session;
+
 mod translation_parser;
 
-type Session<'a> = rocket_session::Session<'a, u64>;
-
-use std::time::Duration;
+// type Session<'a> = rocket_session::Session<'a, u64>;
 
 mod bll {
     pub mod average_awareness;
@@ -32,6 +32,7 @@ mod bo {
     pub mod tag;
     pub mod game_party;
     pub mod session_data;
+    pub mod start_game;
 }
 mod dal {
     pub mod average_awareness;
@@ -73,7 +74,7 @@ fn rocket() -> _ {
         get_map_geo_data,
         get_average_awareness
     ])
-    .attach(Session::fairing().with_lifetime(Duration::from_secs(1000)))
+    .attach(custom_session::fairing())
     .mount("/api/gamemode", routes![start_game])
 }
 

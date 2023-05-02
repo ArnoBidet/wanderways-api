@@ -1,18 +1,19 @@
 use chrono::{DateTime, Utc};
 
-#[derive(Default, Clone)]
-pub struct SessionData<'a> {
+use std::collections::HashMap;
+
+#[derive(Default, Clone, Debug)]
+pub struct SessionData {
     pub id_map: String,
     pub id_gamemode: String,
     pub lang: String,
     pub expiration_time: DateTime<Utc>,
-    pub found: Vec<&'a GeoData>,
-    pub remaining: Vec<&'a GeoData>,
-    pub answers: Vec<GeoData>
+    pub remaining: HashMap<std::string::String, SessionGeoData>, //@TODO: Use reference instead a copy
+    pub answers: HashMap<std::string::String, SessionGeoData>
 }
 
-#[derive(Default, Clone)]
-struct GeoData{
-    id : String,
-    translations : Vec<String>
+#[derive(Default, Clone, Debug)]
+pub struct SessionGeoData{
+    pub id : String,
+    pub translations : Vec<String>
 }

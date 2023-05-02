@@ -17,7 +17,7 @@ pub async fn get_average_awareness(
         .await
         .unwrap();
     TranslatedResponse{
-        body:json_response,
+        body: json_response,
         language: lang.unwrap_or(String::from("")) // empty content language means language agnostic statistics
     }
 }
