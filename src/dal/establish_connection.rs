@@ -4,7 +4,7 @@ use tokio_postgres::{Client, Error};
 use tokio_postgres::{Config, NoTls};
 
 pub async fn establish_connection() -> Result<(Client, JoinHandle<()>), Error> {
-
+    // Connect to the database.
     let (client, connection) = Config::new()
         .host(&env::var("DB_HOST").unwrap())
         .user(&env::var("DB_USER").unwrap())
