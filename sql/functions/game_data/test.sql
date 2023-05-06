@@ -1,0 +1,1 @@
+SELECT * FROM f_tag_list('fr-FR');

@@ -5,6 +5,7 @@ use crate::bo::game::Game;
 use crate::dal::query::query;
 
 pub async fn game_list() -> Result<Vec<Game>, Error> {
+
     let sql_query = "SELECT id, play_count FROM v_game_list;";
     let params  = &[];
     match query(sql_query,params).await {

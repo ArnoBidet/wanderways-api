@@ -1,7 +1,6 @@
 #[macro_use]
 extern crate rocket;
 use std::env;
-
 use dotenvy::dotenv;
 use rocket::launch;
 use routes::average_awareness::get_average_awareness;
@@ -9,8 +8,13 @@ use routes::game_list::get_game_list;
 use routes::get_map_geo_data::get_map_geo_data;
 use routes::map_list::get_map_list;
 use routes::tag_list::get_tag_list;
+use routes::start_game::start_game;
+
+use routes::start_game::Session as custom_session;
 
 mod translation_parser;
+
+// type Session<'a> = rocket_session::Session<'a, u64>;
 
 mod bll {
     pub mod average_awareness;
@@ -18,6 +22,7 @@ mod bll {
     pub mod map_geo_data;
     pub mod map_list;
     pub mod tag_list;
+    pub mod start_game;
 }
 mod bo {
     pub mod average_awareness;
@@ -25,6 +30,9 @@ mod bo {
     pub mod geo_data;
     pub mod map;
     pub mod tag;
+    pub mod game_party;
+    pub mod session_data;
+    pub mod start_game;
 }
 mod dal {
     pub mod average_awareness;
@@ -34,6 +42,7 @@ mod dal {
     pub mod map_list;
     pub mod tag_list;
     pub mod query;
+    pub mod start_game;
 }
 mod routes {
     pub mod utils {
@@ -46,6 +55,7 @@ mod routes {
     pub mod map_list;
     pub mod responders;
     pub mod tag_list;
+    pub mod start_game;
 }
 
 #[launch]
@@ -56,15 +66,16 @@ fn rocket() -> _ {
     }
     // @TODO extract to another file ?
     // Add support for 404 error
-    rocket::build().mount(
-        "/",
-        routes![
-    get_game_list,
-    get_map_list,
-    get_tag_list,
-    get_map_geo_data,
-    get_average_awareness],
-    )
+    rocket::build()
+    .mount("/", routes![
+        get_game_list,
+        get_map_list,
+        get_tag_list,
+        get_map_geo_data,
+        get_average_awareness
+    ])
+    .attach(custom_session::fairing())
+    .mount("/api/gamemode", routes![start_game])
 }
 
 #[cfg(test)]
@@ -156,6 +167,7 @@ mod main_tests {
             response.headers().get_one("Content-Language").unwrap(),
             "fr-FR"
         );
+    }
 
         fn get_tag_list() {
             let client = get_client();
@@ -164,16 +176,14 @@ mod main_tests {
                 .header(Header::new("Accept-Language", "fr-FR"))
                 .dispatch();
             assert_eq!(response.status(), Status::Ok);
+        assert_eq!(
+            response.headers().get_one("content-type").unwrap(),
+            "application/json"
+        );
 
-            assert_eq!(
-                response.headers().get_one("content-type").unwrap(),
-                "application/json"
-            );
-
-            assert_eq!(
-                response.headers().get_one("Content-Language").unwrap(),
-                "fr-FR"
-            );
-        }
+        assert_eq!(
+            response.headers().get_one("Content-Language").unwrap(),
+            "fr-FR"
+        );
     }
 }

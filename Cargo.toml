@@ -4,12 +4,15 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+serde = "1.0.130"
+dotenvy = "0.15"
 futures = "0.3.27"
 tokio =  { version = "1.26.0", features = ["macros", "rt-multi-thread"] }
 tokio-postgres = "0.7.7"
-dotenvy = "0.15"
+rocket_session = "0.3.0"
+chrono = { version = "0.4.19", features = ["serde"] }
 regex = "1.7.3"
 
 [dependencies.rocket]
-version="0.5.0-rc.2"
-features=["json"]
+version = "0.5.0-rc.2"
+features = ["json"]
