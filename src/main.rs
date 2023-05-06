@@ -169,14 +169,13 @@ mod main_tests {
         );
     }
 
-    fn get_tag_list() {
-        let client = get_client();
-        let response = client
-            .get("/tag/list")
-            .header(Header::new("Accept-Language", "fr-FR"))
-            .dispatch();
-        assert_eq!(response.status(), Status::Ok);
-
+        fn get_tag_list() {
+            let client = get_client();
+            let response = client
+                .get("/tag/list")
+                .header(Header::new("Accept-Language", "fr-FR"))
+                .dispatch();
+            assert_eq!(response.status(), Status::Ok);
         assert_eq!(
             response.headers().get_one("content-type").unwrap(),
             "application/json"
