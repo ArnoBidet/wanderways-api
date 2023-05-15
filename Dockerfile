@@ -8,5 +8,4 @@ WORKDIR /app
 COPY --from=builder /usr/src/wanderways-api/target/release .
 COPY --from=builder /usr/src/wanderways-api/Rocket.toml .
 
-EXPOSE 8000
 CMD ["/app/wanderways-api"]
