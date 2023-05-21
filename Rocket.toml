@@ -6,7 +6,7 @@ keep_alive = 5
 limits = { forms = 32768, json = "1 MiB"  }
 
 [debug]
-address = "localhost"
+address = "127.0.0.1"
 limits = { json = "10MiB" }
 
 [release]
