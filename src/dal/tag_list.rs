@@ -1,38 +1,42 @@
-use crate::bo::tag::{TagGroup, Tag};
+use crate::bo::tag::{Tag, TagGroup};
+use crate::dal::query::query;
+use rocket_sync_db_pools::postgres::Client;
 use tokio_postgres::types::ToSql;
 use tokio_postgres::{Error, Row};
 
-use crate::dal::query::query;
-
-pub async fn tag_list(lang: String) -> Result<Vec<TagGroup>, Error> {
+pub fn tag_list(lang: String, client: &mut Client) -> Result<Vec<TagGroup>, Error> {
     let sql_query = "SELECT id_tag,label,id_group,group_label FROM f_tag_list($1);";
-    let params : &[&(dyn ToSql + Sync)] = &[&lang];
-    match query(sql_query,params).await {
-        Ok(rows)=> Ok(rows_to_tag_group(rows)),
-        Err(err)=> Err(err)
+    let params: &[&(dyn ToSql + Sync)] = &[&lang];
+    match query(sql_query, params, client) {
+        Ok(rows) => Ok(rows_to_tag_group(rows)),
+        Err(err) => Err(err),
     }
 }
-
 
 fn rows_to_tag_group(rows: Vec<Row>) -> Vec<TagGroup> {
     let mut result: Vec<TagGroup> = vec![];
     for row in rows {
-        let id_group : String= row.get("id_group");
-        let tag = Tag{
-            id:row.get("id_tag"),
-            label:row.get("label"),
+        let id_group: String = row.get("id_group");
+        let tag = Tag {
+            id: row.get("id_tag"),
+            label: row.get("label"),
         };
-        if !result.iter().any(|el|el.id.eq(&id_group)){
+        if !result.iter().any(|el| el.id.eq(&id_group)) {
             // generates group if not exist
-            let group_label : String= row.get("group_label");
-            result.push(TagGroup{
-                id :id_group.clone(),
-                label :group_label,
-                tags : vec![tag],
+            let group_label: String = row.get("group_label");
+            result.push(TagGroup {
+                id: id_group.clone(),
+                label: group_label,
+                tags: vec![tag],
             });
-        }else{
+        } else {
             // push tag in corresponding group
-            result.iter_mut().find(|el|el.id.eq(&id_group)).unwrap().tags.push(tag);
+            result
+                .iter_mut()
+                .find(|el| el.id.eq(&id_group))
+                .unwrap()
+                .tags
+                .push(tag);
         }
     }
     result

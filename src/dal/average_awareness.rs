@@ -1,25 +1,26 @@
+use crate::bo::average_awareness::{AverageAwareness, AverageAwarenessItem};
+use rocket_sync_db_pools::postgres::Client;
 use tokio_postgres::types::ToSql;
 use tokio_postgres::{Error, Row};
 
-use crate::bo::average_awareness::{AverageAwareness, AverageAwarenessItem};
-
 use crate::dal::query::query;
 
-pub async fn average_awareness(
+pub fn average_awareness(
     id_map: &str,
     id_gamemod: &str,
     id_lang: &Option<String>,
+    client: &mut Client,
 ) -> Result<AverageAwareness, Error> {
     let sql_query_average_awareness = "SELECT id, found_count FROM f_average_awareness($1,$2,$3);";
 
     let sql_query_play_count = "SELECT play_count FROM f_play_count($1,$2,$3);";
     let params: &[&(dyn ToSql + Sync)] = &[&id_map, &id_gamemod, &id_lang];
     println!("{}", sql_query_average_awareness);
-    let average_awareness_items = match query(sql_query_average_awareness, &params).await {
+    let average_awareness_items = match query(sql_query_average_awareness, &params, client) {
         Ok(rows) => rows_to_average_awareness_item(rows),
         Err(err) => return Err(err),
     };
-    match query(sql_query_play_count, &params).await {
+    match query(sql_query_play_count, &params, client) {
         Ok(rows) => Ok(rows_to_average_awareness(rows, average_awareness_items)),
         Err(err) => Err(err),
     }
@@ -42,9 +43,9 @@ fn rows_to_average_awareness(
     average_awareness_items: Vec<AverageAwarenessItem>,
 ) -> AverageAwareness {
     let result = AverageAwareness {
-        play_count: match rows.first(){
-            Some(row)=>row.get("play_count"),
-            None => 0
+        play_count: match rows.first() {
+            Some(row) => row.get("play_count"),
+            None => 0,
         },
         data: average_awareness_items,
     };

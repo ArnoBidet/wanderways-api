@@ -43,10 +43,10 @@ mod is_valid_language_code_tests {
     }
 }
 
-pub fn get_lang(lang: &str) -> String {
+pub fn get_lang(lang: String) -> String {
     // not doing : [a-z]{2}(-[A-Z]{2})? because the second part is useless and impacts performance
     let re = Regex::new(r"[a-z]{2}").unwrap();
-    match re.find(lang) {
+    match re.find(lang.as_str()) {
         Some(matched) => is_valid_language_code(matched.as_str()),
         None => String::from(DEFAULT_LANGUAGE),
     }
@@ -58,22 +58,22 @@ mod get_lang_tests {
 
     #[test]
     fn short() {
-        assert_eq!(get_lang("fr"), String::from("fr-FR"))
+        assert_eq!(get_lang(String::from("fr")), String::from("fr-FR"))
     }
     #[test]
     fn one() {
-        assert_eq!(get_lang("fr-FR"), String::from("fr-FR"))
+        assert_eq!(get_lang(String::from("fr-FR")), String::from("fr-FR"))
     }
     #[test]
     fn multiple() {
-        assert_eq!(get_lang("fr-FRde-DE"), String::from("fr-FR"))
+        assert_eq!(get_lang(String::from("fr-FRde-DE")), String::from("fr-FR"))
     }
     #[test]
     fn first_from_multiple() {
-        assert_ne!(get_lang("de-DEfr-FR"), String::from("fr-FR"))
+        assert_ne!(get_lang(String::from("de-DEfr-FR")), String::from("fr-FR"))
     }
     #[test]
     fn default() {
-        assert_eq!(get_lang(""), String::from("en-US"))
+        assert_eq!(get_lang(String::from("")), String::from("en-US"))
     }
 }

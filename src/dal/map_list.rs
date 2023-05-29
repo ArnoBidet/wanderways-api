@@ -1,16 +1,17 @@
 use crate::bo::map::Map;
+use crate::dal::query::query;
 use crate::translation_parser::TranslationParser;
+use rocket_sync_db_pools::postgres::Client;
 use tokio_postgres::types::ToSql;
 use tokio_postgres::{Error, Row};
 
-use crate::dal::query::query;
-
-pub async fn map_list(lang: String) -> Result<Vec<Map>, Error> {
-    let sql_query = "SELECT id, label, tags, description, url_wiki, play_count FROM f_map_list($1);";
-    let params : &[&(dyn ToSql + Sync)] = &[&lang];
-    match query(sql_query,params).await {
-        Ok(rows)=> Ok(rows_to_map(rows)),
-        Err(err)=> Err(err)
+pub fn map_list(lang: String, client: &mut Client) -> Result<Vec<Map>, Error> {
+    let sql_query =
+        "SELECT id, label, tags, description, url_wiki, play_count FROM f_map_list($1);";
+    let params: &[&(dyn ToSql + Sync)] = &[&lang];
+    match query(sql_query, params, client) {
+        Ok(rows) => Ok(rows_to_map(rows)),
+        Err(err) => Err(err),
     }
 }
 

@@ -1,11 +1,13 @@
-use tokio_postgres::{Error, Row};
-use super::establish_connection::establish_connection;
+use rocket_sync_db_pools::postgres::Client;
 use tokio_postgres::types::ToSql;
+use tokio_postgres::{Error, Row};
 
-pub async fn query(sql_query : &str, params : &[&(dyn ToSql + Sync)]) -> Result<Vec<Row>, Error>{
-    let (client, handle) = establish_connection().await.unwrap();
-    let statement = client.prepare(sql_query).await.unwrap(); // can't fail
-    let sql_result = client.query(&statement, params).await;
-    handle.abort(); // closes connection after query
+pub fn query(
+    sql_query: &str,
+    params: &[&(dyn ToSql + Sync)],
+    client: &mut Client,
+) -> Result<Vec<Row>, Error> {
+    let statement = client.prepare(sql_query).unwrap(); // can't fail
+    let sql_result = client.query(&statement, params);
     sql_result
 }
