@@ -15,4 +15,4 @@ BEGIN
 		AND t.id_item LIKE '%AW-ORA%'
 		OR t.id_item LIKE '%AT-VIENNA%'
 		;
-END; $$ 
+END; $$;
