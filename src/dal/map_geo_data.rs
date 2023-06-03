@@ -1,20 +1,21 @@
+use crate::PgDatabase;
 use crate::bo::geo_data::{GeoData, GeoDataItem};
 use crate::dal::query::query;
 use crate::translation_parser::TranslationParser;
-use rocket_sync_db_pools::postgres::Client;
+use rocket_db_pools::Connection;
 use tokio_postgres::types::ToSql;
 use tokio_postgres::{Error, Row};
 
-pub fn map_geo_data(
+pub async fn map_geo_data(
     lang: String,
     map_id: String,
-    client: &mut Client,
+    client: &Connection<PgDatabase>,
 ) -> Result<Vec<GeoData>, Error> {
     let sql_query =
         "SELECT id,data_label,id_group,group_label,id_capital,capital_label,numeric_code
         FROM f_map_geo_data($1, $2);";
     let params: &[&(dyn ToSql + Sync)] = &[&lang, &map_id];
-    match query(sql_query, params, client) {
+    match query(sql_query, params, client).await {
         Ok(rows) => Ok(rows_to_geo_data(rows)),
         Err(err) => Err(err),
     }

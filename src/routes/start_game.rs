@@ -1,7 +1,7 @@
+use chrono::{DateTime, Duration as ChronoDuration, Utc};
 use rocket::http::Status;
 use rocket::serde::json::Json;
-
-use chrono::{DateTime, Duration as ChronoDuration, Utc};
+use rocket_db_pools::Connection;
 
 use crate::bo::game_party::GameParty;
 use crate::bo::session_data::{SessionData, SessionGeoData};
@@ -19,21 +19,17 @@ const LATENCY_IN_SECONDS: i64 = 30;
 pub async fn start_game<'a>(
     session: Session<'a>,
     game_party: Json<GameParty>,
-    conn: PgDatabase,
+    client: Connection<PgDatabase>,
 ) -> Result<Json<Vec<StartGame>>, Status> {
     let game: GameParty = game_party.into_inner();
     let game_lang_clone = game.lang.clone();
     let game_map_clone = game.id_map.clone();
 
-    let game_answers: Vec<SessionGeoData> = match conn
-        .run(move |client| {
-            bll_start_game(&game_lang_clone.as_str(), &game_map_clone.as_str(), client)
-        })
-        .await
-    {
-        Ok(answers) => answers,
-        Err(_) => return Err(Status::BadRequest),
-    };
+    let game_answers: Vec<SessionGeoData> =
+        match bll_start_game(&game_lang_clone.as_str(), &game_map_clone.as_str(), &client).await {
+            Ok(answers) => answers,
+            Err(_) => return Err(Status::BadRequest),
+        };
 
     let game_answers_copy = game_answers.clone();
 

@@ -9,7 +9,7 @@ use rocket::{
     launch,
 };
 use crate::env_load::env_parser;
-use rocket_sync_db_pools::{database, postgres};
+use rocket_db_pools::{Database, deadpool_postgres};
 use routes::{
     average_awareness::get_average_awareness,
     game_list::get_game_list,
@@ -64,8 +64,9 @@ mod routes {
     pub mod tag_list;
 }
 
+#[derive(Database)]
 #[database("wanderways_db")]
-pub struct PgDatabase(postgres::Client);
+pub struct PgDatabase(deadpool_postgres::Pool);
 
 #[launch]
 fn rocket() -> _ {
@@ -98,7 +99,7 @@ fn rocket() -> _ {
                 get_average_awareness
             ],
         )
-        .attach(PgDatabase::fairing())
+        .attach(PgDatabase::init())
         .attach(custom_session::fairing())
         .mount("/api/gamemode", routes![start_game])
 }

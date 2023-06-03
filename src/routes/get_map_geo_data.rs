@@ -1,3 +1,5 @@
+use rocket_db_pools::Connection;
+
 use crate::{bll::map_geo_data::map_geo_data, bo::geo_data::GeoData, PgDatabase};
 
 use super::{
@@ -9,11 +11,10 @@ use super::{
 pub async fn get_map_geo_data(
     map_id: String,
     language: Language,
-    conn: PgDatabase,
+    client: Connection<PgDatabase>,
 ) -> TranslatedResponse<Vec<GeoData>> {
     let request_language = language.0.clone();
-    let json_response = conn
-        .run(move |client| map_geo_data(request_language, map_id, client))
+    let json_response = map_geo_data(request_language, map_id, &client)
         .await
         .unwrap();
     TranslatedResponse {
