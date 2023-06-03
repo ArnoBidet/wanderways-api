@@ -16,9 +16,8 @@ pub async fn get_average_awareness(
         Some(lang) => Some(get_lang(lang)), // if provided but not recognized then fallback to en-US
         None => None,
     };
-    let clone_lang = lang.clone(); // makes me want to cry
     let json_response =
-        average_awareness(id_map.as_str(), id_gamemod.as_str(), &clone_lang, &client)
+        average_awareness(id_map.as_str(), id_gamemod.as_str(), &lang, &client)
             .await
             .unwrap();
 
