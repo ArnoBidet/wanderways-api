@@ -34,7 +34,7 @@ mod bll {
 mod bo {
     pub mod average_awareness;
     pub mod game;
-    pub mod game_party;
+    pub mod game_metadata;
     pub mod geo_data;
     pub mod map;
     pub mod session_data;
@@ -96,12 +96,12 @@ fn rocket() -> _ {
                 get_map_list,
                 get_tag_list,
                 get_map_geo_data,
-                get_average_awareness
+                get_average_awareness,
+                start_game
             ],
         )
         .attach(PgDatabase::init())
         .attach(custom_session::fairing())
-        .mount("/api/gamemode", routes![start_game])
 }
 
 
