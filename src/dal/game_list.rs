@@ -1,16 +1,16 @@
-use tokio_postgres::{Error, Row};
+use crate::{bo::game::Game, PgDatabase};
 
-use crate::bo::game::Game;
+use rocket_db_pools::Connection;
+use tokio_postgres::{Error, Row};
 
 use crate::dal::query::query;
 
-pub async fn game_list() -> Result<Vec<Game>, Error> {
-
+pub async fn game_list(client: &Connection<PgDatabase>) -> Result<Vec<Game>, Error> {
     let sql_query = "SELECT id, play_count FROM v_game_list;";
-    let params  = &[];
-    match query(sql_query,params).await {
-        Ok(rows)=> Ok(rows_to_game(rows)),
-        Err(err)=> Err(err)
+    let params = &[];
+    match query(sql_query, params, client).await {
+        Ok(rows) => Ok(rows_to_game(rows)),
+        Err(err) => Err(err),
     }
 }
 

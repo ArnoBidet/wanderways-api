@@ -13,7 +13,7 @@ impl<'r> FromRequest<'r> for Language {
         // Returns the language if given. If no pattern recognized, returns en-US as default.
         match req.headers().get_one("Accept-Language") {
             None => Outcome::Success(Language(String::from(DEFAULT_LANGUAGE))),
-            Some(lang) => Outcome::Success(Language(get_lang(lang))),
+            Some(lang) => Outcome::Success(Language(get_lang(String::from(lang)))),
         }
     }
 }

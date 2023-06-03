@@ -1,48 +1,54 @@
 #[macro_use]
 extern crate rocket;
-use std::env;
 use dotenvy::dotenv;
-use rocket::launch;
-use routes::average_awareness::get_average_awareness;
-use routes::game_list::get_game_list;
-use routes::get_map_geo_data::get_map_geo_data;
-use routes::map_list::get_map_list;
-use routes::tag_list::get_tag_list;
-use routes::start_game::start_game;
-
-use routes::start_game::Session as custom_session;
+use rocket::{
+    figment::{
+        util::map,
+        value::{Map, Value},
+    },
+    launch,
+};
+use crate::env_load::env_parser;
+use rocket_db_pools::{Database, deadpool_postgres};
+use routes::{
+    average_awareness::get_average_awareness,
+    game_list::get_game_list,
+    get_map_geo_data::get_map_geo_data,
+    map_list::get_map_list,
+    start_game::{start_game, Session as custom_session},
+    tag_list::get_tag_list,
+};
+use std::env;
 
 mod translation_parser;
-
-// type Session<'a> = rocket_session::Session<'a, u64>;
+mod env_load;
 
 mod bll {
     pub mod average_awareness;
     pub mod game_list;
     pub mod map_geo_data;
     pub mod map_list;
-    pub mod tag_list;
     pub mod start_game;
+    pub mod tag_list;
 }
 mod bo {
     pub mod average_awareness;
     pub mod game;
+    pub mod game_metadata;
     pub mod geo_data;
     pub mod map;
-    pub mod tag;
-    pub mod game_party;
     pub mod session_data;
     pub mod start_game;
+    pub mod tag;
 }
 mod dal {
     pub mod average_awareness;
-    pub mod establish_connection;
     pub mod game_list;
     pub mod map_geo_data;
     pub mod map_list;
-    pub mod tag_list;
     pub mod query;
     pub mod start_game;
+    pub mod tag_list;
 }
 mod routes {
     pub mod utils {
@@ -54,29 +60,51 @@ mod routes {
     pub mod guards;
     pub mod map_list;
     pub mod responders;
-    pub mod tag_list;
     pub mod start_game;
+    pub mod tag_list;
 }
+
+#[derive(Database)]
+#[database("wanderways_db")]
+pub struct PgDatabase(deadpool_postgres::Pool);
 
 #[launch]
 fn rocket() -> _ {
-    let rocket_env : String = env::var("ROCKET_ENV").unwrap_or_else(|_| "production".to_string());
-    if rocket_env == "development"{ // if in dev mod, load .env file, else env var are based on execution context
+    let rocket_env: String = env::var("ROCKET_ENV").unwrap_or_else(|_| "production".to_string());
+    if rocket_env != "production" {
+        // if in dev mod, load .env file, else env var are based on execution context
         dotenv().expect(".env file not found");
     }
-    // @TODO extract to another file ?
-    // Add support for 404 error
-    rocket::build()
-    .mount("/", routes![
-        get_game_list,
-        get_map_list,
-        get_tag_list,
-        get_map_geo_data,
-        get_average_awareness
-    ])
-    .attach(custom_session::fairing())
-    .mount("/api/gamemode", routes![start_game])
+    let env_vars = env_parser();
+    println!("{}", env_vars.db_host);
+    let db: Map<_, Value> = map! {
+    "url" => format!("postgres://{}:{}@localhost/{}?host={}",
+        env_vars.db_user,
+        env_vars.db_pass,
+        env_vars.db_name,
+        env_vars.db_host,
+    ).into()};
+
+    let figment = rocket::Config::figment().merge(("databases", map!["wanderways_db" => db]));
+
+    // @TODO Add support for 404 error
+    rocket::custom(figment)
+        .mount(
+            "/",
+            routes![
+                get_game_list,
+                get_map_list,
+                get_tag_list,
+                get_map_geo_data,
+                get_average_awareness,
+                start_game
+            ],
+        )
+        .attach(PgDatabase::init())
+        .attach(custom_session::fairing())
 }
+
+
 
 #[cfg(test)]
 mod main_tests {
@@ -168,14 +196,14 @@ mod main_tests {
             "fr-FR"
         );
     }
-
-        fn get_tag_list() {
-            let client = get_client();
-            let response = client
-                .get("/tag/list")
-                .header(Header::new("Accept-Language", "fr-FR"))
-                .dispatch();
-            assert_eq!(response.status(), Status::Ok);
+    #[test]
+    fn get_tag_list() {
+        let client = get_client();
+        let response = client
+            .get("/tag/list")
+            .header(Header::new("Accept-Language", "fr-FR"))
+            .dispatch();
+        assert_eq!(response.status(), Status::Ok);
         assert_eq!(
             response.headers().get_one("content-type").unwrap(),
             "application/json"
