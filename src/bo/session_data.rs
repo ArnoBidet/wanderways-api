@@ -3,7 +3,7 @@ use chrono::{DateTime, Utc};
 #[derive(Default, Clone, Debug)]
 pub struct SessionData {
     pub id_map: String,
-    pub id_gamemode: String,
+    pub id_gamemod: String,
     pub lang: String,
     pub expiration_time: DateTime<Utc>,
     pub remaining: Vec<SessionGeoData>, //@TODO: Use reference instead a copy
