@@ -1,6 +1,7 @@
 #[macro_use]
 extern crate rocket;
 use dotenvy::dotenv;
+use cors::CORS;
 use rocket::{
     figment::{
         util::map,
@@ -22,7 +23,7 @@ use std::env;
 
 mod translation_parser;
 mod env_load;
-
+mod cors;
 mod bll {
     pub mod average_awareness;
     pub mod game_list;
@@ -102,6 +103,7 @@ fn rocket() -> _ {
         )
         .attach(PgDatabase::init())
         .attach(custom_session::fairing())
+        .attach(CORS)
 }
 
 
