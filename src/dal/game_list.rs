@@ -8,7 +8,7 @@ use crate::dal::query::query;
 pub async fn game_list(client: &Connection<PgDatabase>) -> Result<Vec<Game>, Error> {
     let sql_query = "SELECT id, play_count FROM v_game_list;";
     let params = &[];
-    match query(sql_query, params, client).await {
+    match query(client, sql_query, params).await {
         Ok(rows) => Ok(rows_to_game(rows)),
         Err(err) => Err(err),
     }

@@ -14,7 +14,7 @@ pub async fn get_map_geo_data(
     client: Connection<PgDatabase>,
 ) -> TranslatedResponse<Vec<GeoData>> {
     let request_language = language.0.clone();
-    let json_response = map_geo_data(request_language, map_id, &client)
+    let json_response = map_geo_data(&client, request_language, map_id)
         .await
         .unwrap();
     TranslatedResponse {

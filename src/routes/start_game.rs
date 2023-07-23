@@ -26,7 +26,7 @@ pub async fn start_game<'a>(
     let game_map_clone = game.id_map.clone();
 
     let game_answers: Vec<SessionGeoData> =
-        match bll_start_game(&game_lang_clone.as_str(), &game_map_clone.as_str(), &client).await {
+        match bll_start_game(&client, &game_lang_clone.as_str(), &game_map_clone.as_str()).await {
             Ok(answers) => answers,
             Err(_) => return Err(Status::BadRequest),
         };

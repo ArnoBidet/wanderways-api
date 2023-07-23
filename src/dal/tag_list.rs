@@ -1,14 +1,17 @@
-use crate::PgDatabase;
 use crate::bo::tag::{Tag, TagGroup};
 use crate::dal::query::query;
+use crate::PgDatabase;
 use rocket_db_pools::Connection;
 use tokio_postgres::types::ToSql;
 use tokio_postgres::{Error, Row};
 
-pub async fn tag_list(lang: String, client: &Connection<PgDatabase>) -> Result<Vec<TagGroup>, Error> {
+pub async fn tag_list(
+    client: &Connection<PgDatabase>,
+    lang: String,
+) -> Result<Vec<TagGroup>, Error> {
     let sql_query = "SELECT id_tag,label,id_group,group_label FROM f_tag_list($1);";
     let params: &[&(dyn ToSql + Sync)] = &[&lang];
-    match query(sql_query, params, client).await {
+    match query(client, sql_query, params).await {
         Ok(rows) => Ok(rows_to_tag_group(rows)),
         Err(err) => Err(err),
     }

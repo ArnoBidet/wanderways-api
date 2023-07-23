@@ -17,7 +17,7 @@ pub async fn get_average_awareness(
         None => None,
     };
     let json_response =
-        average_awareness(id_map.as_str(), id_gamemod.as_str(), &lang, &client)
+        average_awareness(&client, id_map.as_str(), id_gamemod.as_str(), &lang)
             .await
             .unwrap();
 
