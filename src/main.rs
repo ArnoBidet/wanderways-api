@@ -18,6 +18,7 @@ use routes::{
     map_list::get_map_list,
     start_game::{start_game, Session as custom_session},
     tag_list::get_tag_list,
+    all_options::all_options,
 };
 use std::env;
 
@@ -63,6 +64,7 @@ mod routes {
     pub mod responders;
     pub mod start_game;
     pub mod tag_list;
+    pub mod all_options;
 }
 
 #[derive(Database)]
@@ -79,17 +81,19 @@ fn rocket() -> _ {
     let env_vars = env_parser();
     println!("{}", env_vars.db_host);
     let db: Map<_, Value> = map! {
-    "url" => format!("postgres://{}:{}@localhost/{}?host={}",
-        env_vars.db_user,
-        env_vars.db_pass,
-        env_vars.db_name,
-        env_vars.db_host,
-    ).into()};
+        "url" => format!("postgres://{}:{}@localhost/{}?host={}",
+            env_vars.db_user,
+            env_vars.db_pass,
+            env_vars.db_name,
+            env_vars.db_host,
+        ).into()
+    };
 
     let figment = rocket::Config::figment().merge(("databases", map!["wanderways_db" => db]));
 
     // @TODO Add support for 404 error
     rocket::custom(figment)
+        .attach(CORS)
         .mount(
             "/",
             routes![
@@ -98,12 +102,12 @@ fn rocket() -> _ {
                 get_tag_list,
                 get_map_geo_data,
                 get_average_awareness,
-                start_game
+                start_game,
+                all_options
             ],
         )
         .attach(PgDatabase::init())
         .attach(custom_session::fairing())
-        .attach(CORS)
 }
 
 
